@@ -1,0 +1,106 @@
+pdb_id,release,modulator,title,doi,n_chains,n_pockets,identity_to_training,nearest_training_family,family_status,networks,rank_alloplex,rank_druggability,rank_fpocket,detected,top_score
+10AD,2026-02-04,A1E02,Cryo-EM structure of the human BK channel bound to the agonist NS1619,10.1073/pnas.2507707123,4.0,245,0.0,,new family,all,196.0,179.0,192.5,True,0.4585764529183507
+21DU,2026-02-11,OR9,Cryo-EM structure of the apomorphine bound ADGRG6-Gs complex,10.1038/s41421-025-00866-1,5.0,69,0.0,,new family,all,inf,inf,inf,False,0.5671886131167412
+26XC,2026-06-17,ES9,Identification of AMPD2 Allosteric Inhibitors with Novel Mechanism of Action by Fragment Merging Approach,10.1016/j.slasd.2026.100313,4.0,177,0.0,,new family,all,8.0,1.0,151.0,True,0.6170409545302391
+36BT,2026-09-02,6FN,HIV-1 reverse transcriptase in complex with DNAddG Aptamer and unincorporated ISL-triphosphate,10.1021/acsinfecdis.6c00431,2.0,75,0.986,s542,seen family (held-out networks),f4,8.0,8.0,45.0,True,0.6093854755163193
+8FV3,2024-01-17,YA6,EGFR(T790M/V948R) in complex with compound 1 (LN4503),10.1038/s42004-024-01108-3,2.0,43,0.996,s969,seen family (held-out networks),f2,1.0,1.0,32.0,True,0.601476863026619
+8IKG,2024-06-05,Q2B,Cryo-EM structure of human receptor with G proteins,10.1073/pnas.2321532121,5.0,92,0.34,s840,seen family (held-out networks),f4,11.0,9.0,60.0,True,0.6735907346010208
+8J6H,2024-03-06,NOS,Structure and allosteric regulation of the inosine 5'-monophosphate-specific phosphatase ISN1 from Saccharomyces cerevisiae,10.1111/febs.17093,4.0,120,0.0,,new family,all,1.0,1.0,1.0,True,0.561210798099637
+8K9L,2024-05-29,VV9,Full agonist- and positive allosteric modulator-bound mu-type opioid receptor-G protein complex,10.1038/s41467-024-47792-6,6.0,72,0.717,s840,seen family (held-out networks),f4,2.0,2.0,17.0,True,0.6397971659898758
+8P3E,2024-03-06,WSI,Crystal structure of glucocerebrosidase in complex with allosteric activator,10.1002/cmdc.202300548,4.0,116,0.997,s976,seen family (held-out networks),f4,49.0,78.0,71.5,True,0.5454476773738861
+8PIO,2025-01-15,HPV,Crystal structure of Ser33 in complex with PHP (3-phosphohydroxypyruvate),10.1038/s41467-026-74211-9,4.0,108,0.473,s195,seen family (held-out networks),f1,14.0,81.5,101.0,True,0.5460356622934341
+8QDR,2024-10-30,PQE,Vitis vinifera dimeric 13S-lipoxygenase LOXA in a detergent bound open conformation,10.1016/j.jmb.2024.168821,2.0,103,0.0,,new family,all,28.0,8.0,18.0,True,0.5467478279024363
+8QOD,2024-10-09,WIZ,CRYSTAL STRUCTURE OF FVIIA IN COMPLEX WITH A BENZAMIDINE-BASED INHIBITOR,,3.0,39,1.0,s398,seen family (held-out networks),f0,1.0,2.0,11.0,True,0.4688556119799614
+8QQI,2024-06-19,LRL,E.coli DNA gyrase in complex with 217 bp substrate DNA and LEI-800,10.1038/s41557-024-01516-x,4.0,154,0.565,s567,seen family (held-out networks),f4,11.0,3.0,29.0,True,0.5050220191478729
+8QQR,2024-08-14,G4P,"Mycobacterium smegmatis inosine monophosphate dehydrogenase (IMPDH) ATP+ppGpp-bound form, super-compressed",10.1038/s41467-024-50933-6,8.0,283,0.487,s80,seen family (held-out networks),f1,1.0,81.0,2.0,True,0.49995943903923035
+8QUC,2024-04-03,WY9,Cryo-EM Structure of Human Kv3.1 in Complex with Modulator AUT1,10.1038/s41467-024-46813-8,4.0,150,0.0,,new family,all,1.0,5.0,120.0,True,0.4682348929345608
+8R32,2024-09-18,2J9,Crystal structure of the GluK2 ligand-binding domain in complex with L-glutamate and BPAM344 at 1.60 A resolution,10.1002/1873-3468.14824,2.0,34,0.862,s614,seen family (held-out networks),f3,1.0,1.0,1.0,True,0.6007445603609085
+8S9Q,2024-02-07,WBV,HIV-1 Integrase Catalytic Core Domain (CCD) F185H Mutant Complexed with STP03-0404,10.1101/2024.01.26.577387,2.0,19,0.962,s306,seen family (held-out networks),f1,4.0,1.0,6.0,True,0.33612480759620667
+8SPN,2024-05-01,7TN,Crystal structure of macrophage migration inhibitory factor in complex with T614,10.1186/s10020-024-00803-0,3.0,18,1.0,s831,seen family (held-out networks),f0,1.0,1.0,2.0,True,0.7582015842199326
+8SZI,2024-02-07,TRP,Cryo-EM structure of PAM-free human calcium-sensing receptor CaSR-Gi complex in lipid nanodiscs,10.1038/s41586-024-07055-2,5.0,157,0.0,,new family,all,4.0,3.0,150.0,True,0.6261190306395292
+8TM7,2024-06-12,I7Q,Human NAMPT in complex with substrate NAM and small molecule activator NP-A3,10.1021/acsmedchemlett.3c00391,2.0,58,0.0,,new family,all,9.0,21.5,43.0,True,0.4277865933254361
+8TQB,2024-07-31,W92,mGluR3 in the presence of the agonist LY379268 and PAM VU6023326,10.1101/2023.08.13.552748,2.0,94,0.0,,new family,all,7.0,20.5,6.0,True,0.5486531727947295
+8TR6,2024-10-16,KE3,Cryo-EM structure of the rat P2X7 receptor in complex with the allosteric antagonist A438079,10.1126/sciadv.ado5084,3.0,137,0.772,s955,seen family (held-out networks),f0,1.0,15.0,122.0,True,0.7049707919359207
+8V4X,2024-05-01,A1AAB,Structure of MALT1 in complex with an allosteric inhibitor,10.1158/1535-7163.MCT-23-0518,4.0,41,0.919,s927,seen family (held-out networks),f1,1.0,1.0,1.0,True,0.6476982831954956
+8V89,2024-02-21,9Z9,Alpha7-nicotinic acetylcholine receptor time resolved resting state,10.1016/j.cell.2024.01.032,5.0,172,0.265,,new family,all,95.0,119.0,121.5,True,0.6025284808129072
+8V90,2024-12-11,YOE,TtgR variant 3A7 with naltrexone,10.1038/s41467-024-54260-8,2.0,22,0.0,,new family,all,1.0,1.0,3.0,True,0.45753668807446957
+8VJ6,2024-06-05,A1AB5,"GluA2 bound to GYKI-52466 and Glutamate, Inhibited State 1",10.1038/s41594-024-01328-0,4.0,249,0.0,,new family,all,7.0,2.0,208.0,True,0.6764581874012947
+8VKU,2024-06-19,A1AC1,"Structure of VCP in complex with an ATPase activator (D2 domains only, hexameric form)",10.1073/pnas.2316892121,6.0,153,0.942,s900,seen family (held-out networks),f3,16.0,31.5,107.5,True,0.5215553417801857
+8VQ3,2024-01-31,A1AC4,CDK2-CyclinE1 in complex with allosteric inhibitor I-198.,10.1038/s41589-024-01738-7,2.0,32,0.0,,new family,all,3.0,2.0,7.5,True,0.6650708802044392
+8W2H,2024-09-11,FBP,Human liver phosphofructokinase-1 in the T-state conformation,10.1038/s41467-024-51808-6,4.0,231,0.684,s808,seen family (held-out networks),f3,171.0,173.5,103.5,True,0.4299342930316925
+8W49,2024-09-04,ICT,mouse isocitrate dehydrogenase with isocitrate and magnesium,10.1016/j.jsb.2025.108183,2.0,62,0.956,s726,seen family (held-out networks),f2,1.0,1.0,3.0,True,0.6743881851434708
+8W4V,2024-04-17,Q9O,Crystal structure of human HSP90 in complex with compound 4,10.1021/jacsau.4c00123,2.0,34,0.0,,new family,all,1.0,5.0,32.0,True,0.6412849929183722
+8W6G,2024-04-17,VIJ,NaDC1 with inhibitor ACA,10.1126/sciadv.adl3685,2.0,54,0.0,,new family,all,inf,inf,inf,False,0.5224752426147461
+8W9A,2024-04-17,UEX,CryoEM structure of human PI3K-alpha (P85/P110-H1047R) with QR-7909 binding at an allosteric site,10.1016/j.str.2024.03.007,2.0,99,0.0,,new family,all,1.0,1.0,30.5,True,0.6564324647188187
+8X0E,2024-11-06,QUS,"Human FL Metabotropic glutamate receptor 5, mGlu5-5M with agonist and PAM, W785A mutant",10.1038/s41467-024-55439-9,2.0,113,0.0,,new family,all,7.0,32.5,22.0,True,0.643292136490345
+8XAM,2024-02-28,XRH,Co-crystal structure of compound 7 in complex with MAT2A,10.1016/j.bmc.2024.117633,2.0,52,0.963,s960,seen family (held-out networks),f3,1.0,1.0,2.0,True,0.6090490370988846
+8XLR,2024-12-18,JGX,Cryo-EM structure of Ca2+-bound TMEM16A in complex with Tamsulosin,10.1073/pnas.2407493121,2.0,130,0.0,,new family,all,1.0,5.0,114.0,True,0.44120863545686007
+8Y72,2025-08-06,VV9,positive allosteric modulator(BMS986122)-bound mu-opioid receptor-Gi complex,10.1126/sciadv.aea9832,6.0,81,0.721,s840,seen family (held-out networks),f4,1.0,1.0,1.0,True,0.6113128662109375
+8YHX,2024-11-06,APR,Cryo-EM structure of the trimeric HerA,10.1038/s41467-024-53614-6,18.0,655,0.0,,new family,all,15.0,65.0,425.0,True,0.6968957968056202
+8YKD,2025-08-13,AND,Cryo-EM structure of ADGRG2-Gs complex with NTF nanobody,10.1038/s41589-025-01896-2,6.0,71,0.0,,new family,all,1.0,1.0,68.0,True,0.6323059052228928
+9B2B,2025-08-27,A1AI0,Estrogen Receptor Alpha Ligand Binding Domain in Complex with a Complete Estrogen Receptor Antagonists that Favors Tetramer Formation,10.1021/acsmedchemlett.5c00667,2.0,25,0.949,s837,seen family (held-out networks),f1,1.0,1.0,15.0,True,0.4671557769179344
+9B96,2024-10-09,A1AJA,Crystal structure of the human PAD2 protein bound to inhibitor,10.1021/acschembio.4c00397,2.0,101,0.501,s930,seen family (held-out networks),f1,1.0,1.0,18.0,True,0.5376829504966736
+9BFC,2025-12-10,PHE,Cryo-EM structure of importin alpha-1/beta bound to FG repeats,10.1038/s41467-025-66255-0,3.0,83,0.0,,new family,all,40.0,36.5,76.0,True,0.6338636614382267
+9BJA,2024-07-03,IHP,C. difficile Tcdb cysteine protease domain in complex with IP6,10.1021/acs.jmedchem.4c01408,2.0,28,1.0,s520,seen family (held-out networks),f0,1.0,6.5,1.0,True,0.5368273705244064
+9BQI,2025-01-29,P6E,Cryo-EM structure of BAY-1797 bound to the full-length human P2X4 receptor in the closed state,10.1126/sciadv.adr3315,3.0,95,0.485,s955,seen family (held-out networks),f0,1.0,1.0,11.0,True,0.4068872109055519
+9CE8,2025-03-12,6V8,20S Proteasome core particle in complex with Ixazomib,10.1038/s41467-025-58430-0,28.0,543,0.251,,new family,all,198.0,97.0,405.0,True,0.4757420951500535
+9DH0,2025-03-05,A1BCU,The Cryo-EM structure of recombinantly expressed hUGDH in complex with UDP-4-keto-xylose,10.1021/acs.biochem.4c00555,6.0,148,1.0,s853,seen family (held-out networks),f4,1.0,1.0,1.0,True,0.7448074519634247
+9DKW,2025-04-23,BO2,Human mitochondrial ClpP in complex with Bortezomib,10.1073/pnas.2419881122,14.0,202,0.531,s331,seen family (held-out networks),f0,32.0,12.0,11.0,True,0.5908438563346863
+9DNM,2025-01-22,ODN,Structure of rat beta-arrestin 1 bound to allosteric inhibitor,10.1038/s41586-026-10683-5,3.0,47,0.0,,new family,all,25.0,15.0,3.0,True,0.5133272372186184
+9DQI,2025-04-16,DNA,D306N Mutant of M.tuberculosis MenD (SEPHCHC Synthase),10.1002/cbic.202400943,4.0,155,0.0,,new family,all,7.0,41.0,83.0,True,0.7079987730830908
+9DU7,2024-10-23,A1BCT,KEAP1 BTB domain in complex with the covalent activator VVD-065,10.1158/2159-8290.CD-25-1187,2.0,21,0.0,,new family,all,1.0,1.0,3.0,True,0.3863509325310588
+9EAP,2025-05-07,CHO,MNV Allosteric escape mutant V339I + GCDCA,10.1128/jvi.00219-25,3.0,104,0.0,,new family,all,93.0,82.0,74.0,True,0.4815652333199978
+9EBS,2025-01-29,A1BHF,Cryo-EM structure of USP1-UAF1-Ubiquitin in complex with TNG348,10.1158/1535-7163.MCT-24-0515,3.0,80,0.299,,new family,all,1.0,1.0,71.0,True,0.7396343797445297
+9EEH,2026-04-15,PAL,"Crystal structure of E. coli aspartate transcarbamoylase in the R-state complexed with PALA, ATP, GTP, and Mg2+",10.1038/s41467-026-70909-y,12.0,179,1.0,s24,seen family (held-out networks),f0,16.0,53.5,1.0,True,0.6234201341867447
+9EJZ,2025-08-13,A1BKS,"Human M5 muscarinic acetylcholine receptor complex with mini-Gq, agonist acetylcholine and positive allosteric modulator VU6007678",10.1038/s41467-025-62212-z,6.0,73,0.303,s840,seen family (held-out networks),f4,7.0,5.0,61.0,True,0.7704662978649139
+9EK0,2025-10-08,IXO,Human M5 muscarinic acetylcholine receptor complex with mini-Gq and iperoxo,10.1038/s41467-025-62212-z,4.0,72,0.303,s840,seen family (held-out networks),f4,1.0,2.0,1.0,True,0.7915468811988831
+9EMA,2024-05-15,A1H5V,RUVBL1/2 in complex with ATP and CB-6644 inhibitor,10.1016/j.xcrp.2024.101982,6.0,156,0.0,,new family,all,8.0,4.0,66.5,True,0.5555549412965775
+9FVE,2024-11-06,SLB,Crystal structure of VcSiaP W73A mutant in complex with sialic acid and a VHH antibody (VHH_VcP#2),10.1038/s42003-024-07263-6,24.0,320,0.0,,new family,all,22.0,27.0,31.0,True,0.41629805602133274
+9HFZ,2025-08-27,IMP,Crystal structure of M. smegmatis GMP reductase in complex with IMP.,10.1038/s41467-026-71657-9,8.0,245,0.369,s80,seen family (held-out networks),f1,74.0,160.0,162.0,True,0.34848859161138535
+9HGM,2025-08-27,A1IUL,Structure of human DNMT2 with bound allosteric inhibitor,10.1016/j.isci.2025.113300,2.0,53,0.0,,new family,all,1.0,1.0,39.0,True,0.716239009052515
+9IBY,2025-12-03,A1I16,Crystal structure of Zika Virus NS2B-NS3 protease in complex with compound 2,10.1038/s41467-026-68943-x,2.0,24,0.0,,new family,all,1.0,1.0,15.0,True,0.6903295442461967
+9IIR,2025-04-23,YLI,human alpha 7 nicotinic acetylcholine receptor in complex with GAT107 and calcium (desensitized state),10.1038/s41421-025-00788-y,5.0,78,0.265,,new family,all,1.0,1.0,33.0,True,0.6930570416152477
+9IK1,2024-09-04,A1L2M,Cryo-EM structure of the human P2X3 receptor-compound 26a complex,10.1021/acs.jmedchem.4c01214,3.0,87,1.0,s955,seen family (held-out networks),f0,2.0,2.0,78.0,True,0.4392074942588806
+9J2W,2025-06-04,A1EAH,Human cGAS catalytic domain bound with XL-3156,10.1038/s41467-025-60297-0,2.0,58,0.0,,new family,all,4.0,9.0,1.0,True,0.3616009308025241
+9KNA,2025-11-26,6Y3,NSD2-PWWP1 domain bound with compound 6,10.1021/acs.jmedchem.5c01902,2.0,17,0.0,,new family,all,3.0,2.0,9.0,True,0.7829917818307877
+9L60,2025-12-31,A1D6C,Gi-bound kappa opioid receptor in complex with dynorphin and positive allosteric modulator MPAM-15,10.1126/sciadv.aea9832,5.0,65,0.689,s840,seen family (held-out networks),f4,17.0,5.0,20.0,True,0.6165081858634949
+9L62,2026-01-07,XC9,A novel allosteric covalent inhibitory site of fucosyltransferase 8 revealed by crystal structures,10.1038/s41467-026-68971-7,2.0,65,0.0,,new family,all,2.0,1.0,49.0,True,0.6934324949979782
+9L80,2025-12-31,DR7,Structure of GPR119-Gs complex bound to an allosteric modulator,10.1016/j.cell.2025.12.023,6.0,111,0.287,,new family,all,78.0,52.0,59.0,True,0.8015016689896584
+9LHF,2025-11-26,A1ELW,Crystal structure of A13 with hGSTO1,10.1021/acs.jmedchem.5c01724,2.0,31,0.0,,new family,all,1.0,1.0,2.0,True,0.6366618610918522
+9LLG,2026-03-04,A1EKL,Cryo-EM structure of D1R in complex with de novo designed negative allosteric GEM targeting TM5/6/7,,2.0,26,0.486,s840,seen family (held-out networks),f4,1.0,3.0,21.0,True,0.788476973772049
+9LLH,2026-03-04,LDP,Cryo-EM structure of D1R-Gs in complex with de novo designed agonist-positive allosteric GEM targeting TM5/6/7,,6.0,75,0.318,s840,seen family (held-out networks),f4,2.0,5.0,7.0,True,0.6525122225284576
+9ME7,2025-11-26,MMA,Antibody fragments from mAb21 and mAb824 bound to the adhesin protein FimH containing alpha-methyl mannose,10.1038/s41467-025-65666-3,5.0,50,0.0,,new family,all,9.0,27.5,6.0,True,0.37268996983766556
+9MJP,2025-09-03,JT7,Crystal structure of Neisseria meningitidis ClpP protease complex with boronate compound BC8a,10.1016/j.str.2025.07.013,14.0,223,0.601,s331,seen family (held-out networks),f0,53.0,43.5,109.5,True,0.550420805811882
+9MUL,2025-03-05,A1BRA,"Crystal structure of GluN1/GluN2A ligand-binding domain in complex with Compound 1, Glycine and Glutamate",10.1021/acs.jmedchem.4c02751,2.0,31,0.996,s614,seen family (held-out networks),f3,1.0,1.0,14.0,True,0.593975156545639
+9MZX,2025-05-28,A1BU4,Crystal structure of human RIPK1 with Compound 1,10.1021/acsmedchemlett.5c00063,2.0,43,0.342,s969,seen family (held-out networks),f2,1.0,1.0,4.0,True,0.6662926375865936
+9N6G,2025-08-13,A1BWA,EGFR(T790M/V948R) in complex with LN2827,10.1002/ardp.70027,2.0,45,0.934,s969,seen family (held-out networks),f2,1.0,1.0,31.0,True,0.6243506968021393
+9O1S,2026-02-11,47B,Heparanase P6 in complex with fragment J11,10.1021/acsmedchemlett.5c00587,2.0,29,0.0,,new family,all,28.0,24.5,21.0,True,0.2645568372681737
+9OGB,2025-11-26,V6A,Cryo-EM structure of human exportin-1 conjugated with selinexor and bound to yeast RAN-GTP and human ASB8-ELOB/C,10.1038/s41589-025-02058-0,5.0,130,0.0,,new family,all,1.0,1.0,116.0,True,0.7247457280755043
+9OGC,2025-11-26,K85,Cryo-EM structure of human exportin-1 conjugated with KPT-185 and bound to human ASB8-ELOB/C,10.1038/s41589-025-02058-0,4.0,96,0.0,,new family,all,1.0,1.0,63.0,True,0.7794988676905632
+9OGN,2025-11-26,A1CBD,Crystal Structure of KPT396 in complex with CRM1-Ran-RanBP1,10.1038/s41589-025-02058-0,3.0,98,0.0,,new family,all,3.0,2.0,91.0,True,0.7168700089678168
+9OUK,2025-12-03,A1CEK,DDB1-CRBN with Ikaros(ZF2) and DEG-47: composite map and model submission,10.1038/s41586-025-09994-w,3.0,97,0.0,,new family,all,3.0,2.0,86.0,True,0.6832613311707973
+9OVU,2026-04-08,FWF,"Composite map of GluA1/A2 in the activated state, in complex with positive allosteric modulator (R,R)-2b and agonist glutamate (ATD-LBD-TMD)",10.1038/s41467-026-71063-1,4.0,300,0.0,,new family,all,1.0,7.0,274.0,True,0.7927828282117844
+9OX9,2025-08-13,JDP,Cryo-EM structure of S. Mansoni p97 bound to CB-5083,10.1073/pnas.2505710122,6.0,267,0.854,s900,seen family (held-out networks),f3,11.0,4.0,198.0,True,0.8310816287994385
+9P0Q,2026-02-04,A1CFK,"Structure of PYCR1 complexed with the allosteric inhibitor 1-benzyl-1H-1,3-benzodiazole-2-sulfonic acid",10.1042/BCJ20250278,10.0,170,0.0,,new family,all,75.0,17.0,97.5,True,0.25248776376247406
+9PKW,2026-01-07,SY9,Alpha1/Beta Heteromeric Glycine receptor in the presence of 0.200 mM strychnine and 200 nM ivermectin,10.1126/sciadv.aeb2036,5.0,125,0.905,s114,seen family (held-out networks),f1,1.0,1.0,108.0,True,0.7210190296173096
+9PVN,2026-08-05,A1AE5,Human malic enzyme 3 complex with inhibitor NPD-389 at 1.82 Angstrom.,10.1002/pro.70757,4.0,125,0.563,s182,seen family (held-out networks),f4,3.0,1.0,120.0,True,0.5262195467948914
+9PXR,2026-08-12,A1AE5,Human malic enzyme 1 complex with inhibitor NPD-389 at 2.3 Angstrom.,10.1002/pro.70757,4.0,152,0.559,s182,seen family (held-out networks),f4,2.0,4.0,143.0,True,0.5371321141719818
+9Q0F,2026-08-26,A1CNF,Structure of angiotensin II type 1 receptor bound to a b-arrestin biased allosteric modulator stabilized by a synthetic nanobody,,3.0,27,0.319,s840,seen family (held-out networks),f4,1.0,1.0,2.0,True,0.7284258008003235
+9RCC,2025-09-03,LBV,PrPfr hybrid state of the Pseudomonas aeruginosa bacteriophytochrome / PaBphP,10.1021/jacs.5c17531,2.0,79,0.0,,new family,all,1.0,1.0,61.0,True,0.6408935692161322
+9RHG,2025-12-24,A1JGQ,FZD7 in complex with negative allosteric modulator C407,10.1038/s41467-025-67147-z,2.0,59,0.321,s840,seen family (held-out networks),f4,1.0,1.0,1.0,True,0.586959570646286
+9SIQ,2026-02-11,A1JN7,Structure of the honeybee GABAA RDL receptor with Chrodrimanin B,10.1016/j.neuron.2025.12.013,5.0,163,0.466,s114,seen family (held-out networks),f1,78.0,35.0,1.0,True,0.34911129623651505
+9U4S,2025-11-12,A1EN5,Crystal Structure of PI5P4K-gamma in complex with n40,10.1016/j.jare.2025.09.024,2.0,42,0.0,,new family,all,1.0,1.0,19.0,True,0.7661309912800789
+9VUL,2026-05-27,A1EF9,Cryo-EM structure of the human measles virus RNA-dependent RNA polymerase bound to allosteric inhibitor ERDRP-0519,10.1073/pnas.2522978123,5.0,132,0.0,,new family,all,1.0,1.0,123.0,True,0.5245162826031446
+9VUM,2026-05-27,A1EF9,Cryo-EM structure of the Nipah virus RNA-dependent RNA polymerase complex bound to allosteric inhibitor ERDRP-0519,10.1073/pnas.2522978123,5.0,101,0.0,,new family,all,9.0,4.0,29.5,True,0.6072127670049667
+9W4Q,2026-08-05,A1EU3,Cryo-EM structure of human pyruvate kinase R (PKR) in complex with an allosteric activator SNH-119014,,4.0,157,0.899,s581,seen family (held-out networks),f3,1.0,1.0,40.0,True,0.6375496685504913
+9WDA,2026-04-01,TA1,Paclitaxel/GMPCPP-stabilized human alpha1A/beta3 microtubule,10.1038/s41589-026-02204-2,2.0,61,0.0,,new family,all,46.0,13.5,56.0,True,0.465670520439744
+9XDQ,2026-07-08,A1D6B,Cryo-EM structure of BMS986187 bound DOR-Gi complex,10.1038/s41392-026-02759-5,4.0,72,1.0,s840,seen family (held-out networks),f4,33.0,10.0,12.5,True,0.7419189214706421
+9XN2,2026-09-30,A1E0Y,Glucagon-like peptide 1 receptor-Gs complex activated by the small molecule agonist SIM1,10.1038/s41401-026-01923-5,5.0,66,0.0,,new family,all,1.0,1.0,13.0,True,0.7353705614805222
+9XN3,2026-09-30,A1E0Y,Glucose-dependent insulinotropic polypeptide receptor-Gs complex activated by the small molecule agonist SIM1,10.1038/s41401-026-01923-5,5.0,74,0.338,s840,seen family (held-out networks),f4,1.0,1.0,9.0,True,0.7392871975898743
+9XN4,2026-09-30,A1E0Y,Glucagon receptor-Gs complex activated by the small molecule agonist SIM1,10.1038/s41401-026-01923-5,5.0,75,0.382,s840,seen family (held-out networks),f4,1.0,1.0,66.0,True,0.7408642470836639
+9Y5S,2026-07-08,A1CSS,eIF2B lacking the latch helix bound to ISRACT-01 (Inactive state),10.1038/s41589-026-02256-4,10.0,303,0.0,,new family,all,6.0,11.0,244.0,True,0.5674136499874294
+9YDQ,2025-12-10,A1CVG,Human delta opioid receptor complex with mini-Gi and agonist DADLE and allosteric modulator MIPS3614,10.1038/s41467-026-76730-x,6.0,67,1.0,s840,seen family (held-out networks),f4,39.0,15.0,7.0,True,0.5954559445381165
+9YIC,2025-10-15,A1CXF,Crystal structure of human IL-17A in complex with Compound 1,10.1021/acsmedchemlett.5c00502,2.0,12,0.0,,new family,all,1.0,1.0,9.0,True,0.6369918864220381
+9Z2D,2026-01-28,A1CZQ,"Mitochondrial Creatine Kinase in complex with ADP, creatine, and uncompetitive inhibitor uci",10.64898/2026.01.08.696683,8.0,158,0.0,,new family,all,1.0,9.0,154.0,True,0.47102995589375496
+9ZPW,2026-01-14,PCG,CNGA1 channel intermediate state in nanodisc cGMP-bound,10.64898/2025.12.19.695557,4.0,148,0.0,,new family,all,1.0,13.0,89.5,True,0.4590355269610882
+9ZS0,2026-08-26,A1C34,Human malic enzyme 2 complex with FLA at 2 Angstrom.,10.1002/pro.70757,4.0,149,1.0,s182,seen family (held-out networks),f4,33.0,4.5,121.0,True,0.4735759198665619

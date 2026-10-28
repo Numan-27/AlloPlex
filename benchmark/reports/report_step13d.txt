@@ -1,0 +1,12 @@
+combined: 163 sites, 158 complexes, 158 families (original 59, extension 99)
+  all          Top-1: experimental 0.344, AlphaFold 0.190, difference -0.153 [-0.241, -0.073]  (n=163)
+  all          Top-3: experimental 0.546, AlphaFold 0.387, difference -0.160 [-0.241, -0.080]  (n=163)
+  original 60  Top-1: experimental 0.322, AlphaFold 0.220, difference -0.102 [-0.237, +0.034]  (n=59)
+  original 60  Top-3: experimental 0.508, AlphaFold 0.475, difference -0.034 [-0.153, +0.085]  (n=59)
+  extension    Top-1: experimental 0.356, AlphaFold 0.173, difference -0.183 [-0.284, -0.084]  (n=104)
+  extension    Top-3: experimental 0.567, AlphaFold 0.337, difference -0.231 [-0.340, -0.123]  (n=104)
+Stratified (combined; still post hoc, but larger):
+  site pLDDT >= 70   n= 151: Top-1 experimental 0.351, AlphaFold 0.199, difference -0.152 [-0.240, -0.067]
+  site pLDDT < 70    n=  12: Top-1 experimental 0.250, AlphaFold 0.083, difference -0.167 [-0.417, +0.000]
+  ipTM >= 0.6        n= 129: Top-1 experimental 0.310, AlphaFold 0.194, difference -0.116 [-0.206, -0.024]
+  ipTM < 0.6         n=  34: Top-1 experimental 0.471, AlphaFold 0.176, difference -0.294 [-0.471, -0.117]

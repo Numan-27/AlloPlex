@@ -1,0 +1,56 @@
+PRIMARY sites: 2349 (partner 1601, stripped 748); AlloPlex Top-1 0.422
+
+1. ERROR ANALYSIS (AlloPlex Top-1 by site property, PRIMARY sites, 95 % family-bootstrap CI)
+   all sites: n = 2349, Top-1 0.422
+   Modulator
+     peptide                      n=   36  Top-1 0.148 [0.045, 0.377]  Top-3 0.194  detected by fpocket 78%
+     fragment (< 15 atoms)        n=  480  Top-1 0.269 [0.177, 0.379]  Top-3 0.401  detected by fpocket 81%
+     small molecule (15-40)       n= 1700  Top-1 0.481 [0.371, 0.577]  Top-3 0.653  detected by fpocket 95%
+     large (> 40 atoms)           n=   84  Top-1 0.393 [0.212, 0.570]  Top-3 0.599  detected by fpocket 98%
+   Site position
+     monomer                      n=  415  Top-1 0.404 [0.202, 0.528]  Top-3 0.600  detected by fpocket 83%
+     away from interface          n=  715  Top-1 0.387 [0.292, 0.473]  Top-3 0.559  detected by fpocket 94%
+     partly at interface          n=  541  Top-1 0.503 [0.339, 0.624]  Top-3 0.612  detected by fpocket 98%
+     mostly at interface          n=  678  Top-1 0.405 [0.239, 0.597]  Top-3 0.575  detected by fpocket 91%
+   Pocket volume
+     small (< 420 Å³)             n=  730  Top-1 0.308 [0.180, 0.448]  Top-3 0.464  detected by fpocket 95%
+     medium                       n=  730  Top-1 0.456 [0.365, 0.552]  Top-3 0.621  detected by fpocket 96%
+     large (>= 837 Å³)            n=  731  Top-1 0.577 [0.435, 0.694]  Top-3 0.757  detected by fpocket 98%
+   Structure size
+     < 29 pockets                 n=  750  Top-1 0.386 [0.231, 0.498]  Top-3 0.578  detected by fpocket 87%
+     29-62 pockets                n=  809  Top-1 0.472 [0.320, 0.609]  Top-3 0.662  detected by fpocket 94%
+     >= 62 pockets                n=  790  Top-1 0.405 [0.297, 0.511]  Top-3 0.507  detected by fpocket 96%
+   fpocket match
+     poor (J < 0.25)              n=  526  Top-1 0.226 [0.132, 0.356]  Top-3 0.354  detected by fpocket 77%
+     fair (0.25-0.5)              n=  718  Top-1 0.489 [0.339, 0.612]  Top-3 0.649  detected by fpocket 97%
+     good (J >= 0.5)              n= 1105  Top-1 0.472 [0.382, 0.554]  Top-3 0.649  detected by fpocket 97%
+   Source
+     ASD                          n= 1393  Top-1 0.390 [0.305, 0.472]  Top-3 0.564  detected by fpocket 94%
+     AlloBench                    n=  956  Top-1 0.468 [0.280, 0.608]  Top-3 0.611  detected by fpocket 90%
+
+2. FPOCKET CEILING (AlloPlex can only rank pockets that fpocket detects)
+   sites detected as a pocket (best-pocket Jaccard >= 0.1): 2168/2349 = 92.3% [86.4%, 95.6%]
+   Top-1: all sites 0.422; detected sites only 0.457 [0.360, 0.548]  (highest possible with fpocket pockets: 0.923)
+   Top-3: all sites 0.583; detected sites only 0.632 [0.548, 0.703]  (highest possible with fpocket pockets: 0.923)
+
+4. CALIBRATION (cross-validation scores, repeat 0; labelled pockets of the PRIMARY structures)
+   pockets: 59091 (allosteric 1195, 2.0%); Brier score 0.0352 (always-'no' baseline 0.0202); expected calibration error 0.114
+     mean score 0.027  observed share allosteric 0.005  (n=5909)
+     mean score 0.044  observed share allosteric 0.008  (n=5909)
+     mean score 0.062  observed share allosteric 0.007  (n=5909)
+     mean score 0.082  observed share allosteric 0.010  (n=5909)
+     mean score 0.108  observed share allosteric 0.011  (n=5909)
+     mean score 0.128  observed share allosteric 0.008  (n=5910)
+     mean score 0.146  observed share allosteric 0.007  (n=5909)
+     mean score 0.169  observed share allosteric 0.012  (n=5908)
+     mean score 0.208  observed share allosteric 0.022  (n=5909)
+     mean score 0.368  observed share allosteric 0.111  (n=5910)
+   top pocket of a structure: how often it is an allosteric pocket, by its score
+     top score >= 0.0:  1079 structures (100%); top pocket allosteric 41.6% [32.2%, 51.3%]
+     top score >= 0.1:  1074 structures (100%); top pocket allosteric 41.7% [32.5%, 51.4%]
+     top score >= 0.2:  1027 structures (95%); top pocket allosteric 42.7% [33.4%, 52.4%]
+     top score >= 0.3:   939 structures (87%); top pocket allosteric 45.3% [36.1%, 55.6%]
+     top score >= 0.4:   735 structures (68%); top pocket allosteric 51.0% [39.8%, 61.4%]
+     top score >= 0.5:   515 structures (48%); top pocket allosteric 58.8% [47.2%, 68.5%]
+     top score >= 0.6:   277 structures (26%); top pocket allosteric 68.2% [53.9%, 76.2%]
+     top score >= 0.7:   139 structures (13%); top pocket allosteric 74.1% [51.9%, 84.0%]

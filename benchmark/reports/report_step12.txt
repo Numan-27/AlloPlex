@@ -1,0 +1,63 @@
+STEP 12: 455 multi-chain structures, 485 sites, 216 families
+  pockets per structure: assembly 63, pooled chains 62 (median)
+  site found by fpocket (J >= 0.1): assembly 91.5%, isolated chains 87.2%; median best Jaccard 0.43 vs 0.43
+
+  all multi-chain sites: n=485 sites, 216 families
+    AlloPlex     Top-1: assembly 0.429 [0.376, 0.487]; pooled chains 0.334 [0.279, 0.391]; assembly minus chains +0.095 [+0.049, +0.146]; own chain only 0.375
+    AlloPlex     Top-3: assembly 0.526 [0.472, 0.583]; pooled chains 0.419 [0.357, 0.479]; assembly minus chains +0.107 [+0.058, +0.159]; own chain only 0.542
+    Druggability Top-1: assembly 0.285 [0.233, 0.336]; pooled chains 0.208 [0.161, 0.257]; assembly minus chains +0.076 [+0.029, +0.124]; own chain only 0.252
+    Druggability Top-3: assembly 0.390 [0.331, 0.448]; pooled chains 0.295 [0.242, 0.350]; assembly minus chains +0.095 [+0.051, +0.144]; own chain only 0.394
+
+  sites on one chain: n=387 sites, 195 families
+    AlloPlex     Top-1: assembly 0.411 [0.352, 0.468]; pooled chains 0.349 [0.293, 0.413]; assembly minus chains +0.062 [+0.011, +0.112]; own chain only 0.401
+    AlloPlex     Top-3: assembly 0.512 [0.450, 0.568]; pooled chains 0.452 [0.390, 0.518]; assembly minus chains +0.059 [+0.010, +0.109]; own chain only 0.594
+    Druggability Top-1: assembly 0.266 [0.213, 0.319]; pooled chains 0.220 [0.168, 0.274]; assembly minus chains +0.047 [-0.005, +0.097]; own chain only 0.274
+    Druggability Top-3: assembly 0.362 [0.301, 0.424]; pooled chains 0.315 [0.254, 0.377]; assembly minus chains +0.047 [-0.007, +0.098]; own chain only 0.432
+
+  sites spanning >= 2 chains: n=98 sites, 59 families
+    AlloPlex     Top-1: assembly 0.500 [0.371, 0.622]; pooled chains 0.276 [0.160, 0.393]; assembly minus chains +0.224 [+0.131, +0.327]; own chain only 0.276
+    AlloPlex     Top-3: assembly 0.582 [0.450, 0.702]; pooled chains 0.286 [0.171, 0.402]; assembly minus chains +0.296 [+0.183, +0.416]; own chain only 0.337
+    Druggability Top-1: assembly 0.357 [0.240, 0.480]; pooled chains 0.163 [0.074, 0.266]; assembly minus chains +0.194 [+0.075, +0.317]; own chain only 0.163
+    Druggability Top-3: assembly 0.500 [0.367, 0.621]; pooled chains 0.214 [0.115, 0.323]; assembly minus chains +0.286 [+0.172, +0.404]; own chain only 0.245
+
+  site away from the interface: n=159 sites, 91 families
+    AlloPlex     Top-1: assembly 0.346 [0.256, 0.436]; pooled chains 0.390 [0.299, 0.476]; assembly minus chains -0.044 [-0.106, +0.013]; own chain only 0.434
+    AlloPlex     Top-3: assembly 0.453 [0.361, 0.541]; pooled chains 0.522 [0.430, 0.611]; assembly minus chains -0.069 [-0.123, -0.023]; own chain only 0.660
+    Druggability Top-1: assembly 0.214 [0.141, 0.292]; pooled chains 0.245 [0.161, 0.329]; assembly minus chains -0.031 [-0.086, +0.020]; own chain only 0.289
+    Druggability Top-3: assembly 0.314 [0.224, 0.403]; pooled chains 0.346 [0.253, 0.440]; assembly minus chains -0.031 [-0.090, +0.025]; own chain only 0.428
+
+  site partly/mostly at the interface: n=326 sites, 159 families
+    AlloPlex     Top-1: assembly 0.469 [0.401, 0.538]; pooled chains 0.307 [0.242, 0.377]; assembly minus chains +0.163 [+0.104, +0.226]; own chain only 0.347
+    AlloPlex     Top-3: assembly 0.561 [0.497, 0.631]; pooled chains 0.368 [0.300, 0.438]; assembly minus chains +0.193 [+0.127, +0.261]; own chain only 0.485
+    Druggability Top-1: assembly 0.319 [0.256, 0.381]; pooled chains 0.190 [0.136, 0.246]; assembly minus chains +0.129 [+0.065, +0.192]; own chain only 0.233
+    Druggability Top-3: assembly 0.426 [0.353, 0.494]; pooled chains 0.270 [0.209, 0.334]; assembly minus chains +0.156 [+0.096, +0.218]; own chain only 0.377
+
+  complex type: hetero-complex: n=55 sites, 29 families
+    AlloPlex     Top-1: assembly 0.400 [0.241, 0.574]; pooled chains 0.382 [0.235, 0.532]; assembly minus chains +0.018 [-0.097, +0.143]; own chain only 0.491
+    AlloPlex     Top-3: assembly 0.509 [0.362, 0.667]; pooled chains 0.491 [0.345, 0.655]; assembly minus chains +0.018 [-0.059, +0.098]; own chain only 0.709
+    Druggability Top-1: assembly 0.200 [0.085, 0.344]; pooled chains 0.164 [0.050, 0.307]; assembly minus chains +0.036 [-0.117, +0.167]; own chain only 0.309
+    Druggability Top-3: assembly 0.327 [0.160, 0.500]; pooled chains 0.327 [0.179, 0.491]; assembly minus chains +0.000 [-0.125, +0.132]; own chain only 0.491
+
+  complex type: homo (assembly only): n=95 sites, 54 families
+    AlloPlex     Top-1: assembly 0.600 [0.478, 0.719]; pooled chains 0.495 [0.354, 0.636]; assembly minus chains +0.105 [+0.010, +0.208]; own chain only 0.495
+    AlloPlex     Top-3: assembly 0.653 [0.540, 0.760]; pooled chains 0.568 [0.433, 0.699]; assembly minus chains +0.084 [-0.022, +0.190]; own chain only 0.674
+    Druggability Top-1: assembly 0.368 [0.247, 0.490]; pooled chains 0.379 [0.261, 0.500]; assembly minus chains -0.011 [-0.104, +0.079]; own chain only 0.389
+    Druggability Top-3: assembly 0.495 [0.366, 0.626]; pooled chains 0.432 [0.308, 0.558]; assembly minus chains +0.063 [-0.025, +0.169]; own chain only 0.484
+
+  complex type: homo-oligomer: n=278 sites, 138 families
+    AlloPlex     Top-1: assembly 0.406 [0.332, 0.485]; pooled chains 0.306 [0.241, 0.380]; assembly minus chains +0.101 [+0.032, +0.170]; own chain only 0.349
+    AlloPlex     Top-3: assembly 0.504 [0.432, 0.580]; pooled chains 0.385 [0.312, 0.462]; assembly minus chains +0.119 [+0.048, +0.191]; own chain only 0.511
+    Druggability Top-1: assembly 0.281 [0.213, 0.350]; pooled chains 0.180 [0.123, 0.241]; assembly minus chains +0.101 [+0.036, +0.165]; own chain only 0.219
+    Druggability Top-3: assembly 0.367 [0.294, 0.442]; pooled chains 0.263 [0.198, 0.334]; assembly minus chains +0.104 [+0.038, +0.168]; own chain only 0.378
+
+  complex type: protein-peptide: n=44 sites, 33 families
+    AlloPlex     Top-1: assembly 0.182 [0.054, 0.326]; pooled chains 0.114 [0.000, 0.245]; assembly minus chains +0.068 [+0.000, +0.159]; own chain only 0.136
+    AlloPlex     Top-3: assembly 0.341 [0.170, 0.512]; pooled chains 0.227 [0.073, 0.386]; assembly minus chains +0.114 [-0.021, +0.244]; own chain only 0.273
+    Druggability Top-1: assembly 0.159 [0.043, 0.295]; pooled chains 0.091 [0.000, 0.222]; assembly minus chains +0.068 [+0.000, +0.158]; own chain only 0.091
+    Druggability Top-3: assembly 0.250 [0.106, 0.404]; pooled chains 0.159 [0.024, 0.310]; assembly minus chains +0.091 [+0.020, +0.195]; own chain only 0.159
+
+  complex type: pseudo-hetero: n=13 sites, 8 families
+    AlloPlex     Top-1: assembly 0.615 [0.294, 1.000]; pooled chains 0.308 [0.000, 0.692]; assembly minus chains +0.308 [+0.077, +0.625]; own chain only 0.385
+    AlloPlex     Top-3: assembly 0.769 [0.400, 1.000]; pooled chains 0.385 [0.000, 0.778]; assembly minus chains +0.385 [+0.062, +0.750]; own chain only 0.462
+    Druggability Top-1: assembly 0.538 [0.214, 0.867]; pooled chains 0.154 [0.000, 0.400]; assembly minus chains +0.385 [+0.182, +0.667]; own chain only 0.231
+    Druggability Top-3: assembly 0.846 [0.600, 1.000]; pooled chains 0.308 [0.000, 0.692]; assembly minus chains +0.538 [+0.188, +0.875]; own chain only 0.462

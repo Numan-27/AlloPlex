@@ -1,0 +1,27 @@
+================================================================================================
+BASELINES vs MODEL (same sites, same site-level metrics)
+================================================================================================
+  ranking by                set         sites    Top-1    Top-3  site AUROC
+  fpocket score             primary      2349    0.185    0.293       0.606
+  fpocket score             partner      1601    0.174    0.272       0.584
+  fpocket score             stripped     2349    0.209    0.321       0.639
+  fpocket druggability      primary      2349    0.346    0.486       0.789
+  fpocket druggability      partner      1601    0.305    0.435       0.759
+  fpocket druggability      stripped     2349    0.414    0.569       0.844
+  pocket volume             primary      2349    0.243    0.396       0.729
+  pocket volume             partner      1601    0.226    0.356       0.699
+  pocket volume             stripped     2349    0.275    0.435       0.774
+  pocket size (residues)    primary      2349    0.269    0.455       0.823
+  pocket size (residues)    partner      1601    0.234    0.408       0.804
+  pocket size (residues)    stripped     2349    0.329    0.521       0.852
+  random                    primary      2349    0.031    0.163       0.520
+  random                    partner      1601    0.032    0.189       0.528
+  random                    stripped     2349    0.030    0.106       0.511
+  MLP (B, trained)          primary      2349    0.422    0.583       0.856
+  MLP (B, trained)          partner      1601    0.400    0.568       0.847
+  MLP (B, trained)          stripped     2349    0.474    0.620       0.891
+
+  MLP (B) minus best baseline (fpocket druggability), PRIMARY, 95 % family interval:
+     top1      +0.076  [+0.029, +0.126]
+     top3      +0.097  [+0.033, +0.173]
+     site_auc  +0.067  [+0.025, +0.125]

@@ -1,0 +1,164 @@
+pdb_id,site_id,family,kind,fold,rank_exp,rank_af,n_pockets_exp,n_pockets_af,site_plddt,iptm,model_file,top1_exp,top3_exp,top1_af,top3_af,batch
+2CSM,2CSM_1,s504,homo (assembly only),4,13.0,7.0,23,40,69.12333333333333,0.58,fold_2csm_model_0.cif,0.0,0.0,0.0,0.0,original
+4HNN,4HNN_1,s89,homo-oligomer,2,1.0,4.0,29,30,97.82166666666666,0.9,fold_4hnn_model_0.cif,1.0,1.0,0.0,0.0,original
+2NW8,2NW8_1,s228,homo-oligomer,4,5.0,4.0,56,61,92.18714285714285,0.81,fold_2nw8_model_0.cif,0.0,0.0,0.0,0.0,original
+2HA3,2HA3_1,s9,homo-oligomer,4,4.0,6.0,63,59,98.238,0.89,fold_2ha3_model_0.cif,0.0,0.0,0.0,0.0,original
+3O0N,3O0N_1,s220,homo-oligomer,0,1.0,1.0,63,75,72.64399999999999,0.7,fold_3o0n_model_0.cif,1.0,1.0,1.0,1.0,original
+3E2M,3E2M_1,s721,homo-oligomer,3,1.0,1.0,21,19,81.28684210526316,0.08,fold_3e2m_model_0.cif,1.0,1.0,1.0,1.0,original
+5J6F,5J6F_1,s518,homo-oligomer,2,4.0,5.0,88,119,76.26833333333333,0.74,fold_5j6f_model_0.cif,0.0,0.0,0.0,0.0,original
+5HTC,5HTC_1,s988,protein-peptide,3,2.0,2.0,24,26,51.49,0.57,fold_5htc_model_0.cif,0.0,1.0,0.0,1.0,original
+1JOU,1JOU_1,s398,protein-peptide,0,5.0,7.0,18,22,96.985,0.93,fold_1jou_model_0.cif,0.0,0.0,0.0,0.0,original
+4EAJ,4EAJ_1,s970,hetero-complex,4,3.0,2.0,35,38,93.91285714285712,0.91,fold_4eaj_model_0.cif,0.0,1.0,0.0,1.0,original
+2PUA,2PUA_1,s281,homo (assembly only),4,1.0,1.0,41,51,96.8757142857143,0.87,fold_2pua_model_0.cif,1.0,1.0,1.0,1.0,original
+6FMZ,6FMZ_1,s589,homo (assembly only),1,3.0,1.0,76,77,97.03603174603175,0.93,fold_6fmz_model_0.cif,0.0,1.0,1.0,1.0,original
+5UFJ,5UFJ_1,s807,hetero-complex,0,5.0,30.0,41,36,91.214,0.84,fold_5ufj_model_0.cif,0.0,0.0,0.0,0.0,original
+3KJF,3KJF_1,s654,pseudo-hetero,3,5.0,12.0,25,24,96.55785714285716,0.94,fold_3kjf_model_0.cif,0.0,0.0,0.0,0.0,original
+4W9N,4W9N_1,s866,pseudo-hetero,0,1.0,16.0,37,34,60.026363636363634,0.6,fold_4w9n_model_0.cif,1.0,1.0,0.0,0.0,original
+1WQW,1WQW_1,s39,homo-oligomer,3,2.0,1.0,33,33,96.04309523809523,0.92,fold_1wqw_model_0.cif,0.0,1.0,1.0,1.0,original
+1H7A,1H7A_1,s223,homo (assembly only),2,2.0,2.0,71,80,94.4025,0.81,fold_1h7a_model_0.cif,0.0,1.0,0.0,1.0,original
+3KFS,3KFS_1,s500,homo-oligomer,2,11.0,2.0,13,13,98.22333333333331,0.92,fold_3kfs_model_0.cif,0.0,0.0,0.0,1.0,original
+3WGG,3WGG_1,s606,homo-oligomer,2,11.0,9.0,37,28,89.6,0.91,fold_3wgg_model_0.cif,0.0,0.0,0.0,0.0,original
+3WMG,3WMG_1,s583,protein-peptide,1,8.0,31.0,40,52,79.10444444444445,0.22,fold_3wmg_model_0.cif,0.0,0.0,0.0,0.0,original
+1I6L,1I6L_1,s235,homo (assembly only),1,1.0,2.0,30,44,91.71160000000002,0.91,fold_1i6l_model_0.cif,1.0,1.0,0.0,1.0,original
+3ZZH,3ZZH_1,s184,homo-oligomer,0,4.0,63.0,79,84,81.9546153846154,0.7,fold_3zzh_model_0.cif,0.0,0.0,0.0,0.0,original
+3QH0,3QH0_1,s332,homo-oligomer,1,1.0,3.0,70,64,97.07357142857144,0.96,fold_3qh0_model_0.cif,1.0,1.0,0.0,1.0,original
+3E2W,3E2W_1,s625,homo-oligomer,4,4.0,24.0,45,84,80.018,0.67,fold_3e2w_model_0.cif,0.0,0.0,0.0,0.0,original
+2HVW,2HVW_1,s82,homo-oligomer,2,4.0,9.0,49,46,78.99727272727273,0.68,fold_2hvw_model_0.cif,0.0,0.0,0.0,0.0,original
+4ASY,4ASY_1,s454,homo-oligomer,3,4.0,4.0,80,82,97.0907692307692,0.91,fold_4asy_model_0.cif,0.0,0.0,0.0,0.0,original
+2VJY,2VJY_1,s204,homo-oligomer,3,13.0,63.0,57,74,95.373125,0.91,fold_2vjy_model_0.cif,0.0,0.0,0.0,0.0,original
+5L58,5L58_1,s726,homo (assembly only),2,1.0,2.0,57,50,72.5792,0.17,fold_5l58_model_0.cif,1.0,1.0,0.0,1.0,original
+1HNI,1HNI_1,s542,hetero-complex,4,1.0,3.0,77,81,91.58133333333332,0.9,fold_1hni_model_0.cif,1.0,1.0,0.0,1.0,original
+2VT5,2VT5_1,s113,homo-oligomer,0,4.0,22.0,92,116,82.58076923076922,0.78,fold_2vt5_model_0.cif,0.0,0.0,0.0,0.0,original
+5DWJ,5DWJ_1,s837,protein-peptide,1,1.0,1.0,35,29,93.98785714285712,0.9,fold_5dwj_model_0.cif,1.0,1.0,1.0,1.0,original
+4LPH,4LPH_1,s822,homo (assembly only),0,1.0,2.0,51,43,96.17285714285713,0.96,fold_4lph_model_0.cif,1.0,1.0,0.0,1.0,original
+5T5T,5T5T_1,s17,hetero-complex,4,36.0,55.0,60,69,91.82,0.63,fold_5t5t_model_0.cif,0.0,0.0,0.0,0.0,original
+4FAP,4FAP_1,s939,hetero-complex,1,1.0,1.0,8,16,87.00833333333333,0.14,fold_4fap_model_0.cif,1.0,1.0,1.0,1.0,original
+1LDN,1LDN_1,s172,homo-oligomer,1,2.0,6.0,74,67,97.4675,0.94,fold_1ldn_model_0.cif,0.0,1.0,0.0,0.0,original
+4DFZ,4DFZ_1,s969,protein-peptide,2,2.0,1.0,28,24,89.70785714285716,0.96,fold_4dfz_model_0.cif,0.0,1.0,1.0,1.0,original
+3DZ3,3DZ3_1,s637,pseudo-hetero,0,1.0,3.0,22,22,85.4814285714286,0.96,fold_3dz3_model_0.cif,1.0,1.0,0.0,1.0,original
+3VP2,3VP2_1,s416,homo (assembly only),1,1.0,7.0,80,91,93.165,0.94,fold_3vp2_model_0.cif,1.0,1.0,0.0,0.0,original
+3E5U,3E5U_1,s381,homo-oligomer,1,2.0,1.0,34,35,91.355,0.65,fold_3e5u_model_0.cif,0.0,1.0,1.0,1.0,original
+6NCJ,6NCJ_1,s306,homo (assembly only),1,4.0,2.0,17,16,96.15133333333333,0.92,fold_6ncj_model_0.cif,0.0,0.0,0.0,1.0,original
+1I7S,1I7S_1,s21,hetero-complex,4,9.0,31.0,89,104,92.49384615384614,0.88,fold_1i7s_model_0.cif,0.0,0.0,0.0,0.0,original
+2QPY,2QPY_1,s861,protein-peptide,1,12.0,11.0,17,21,97.447,0.79,fold_2qpy_model_0.cif,0.0,0.0,0.0,0.0,original
+5L32,5L32_1,s840,homo-oligomer,4,6.0,9.0,26,34,76.43666666666665,0.5,fold_5l32_model_0.cif,0.0,0.0,0.0,0.0,original
+2CLM,2CLM_1,s232,hetero-complex,1,1.0,23.0,71,89,93.9576923076923,0.92,fold_2clm_model_0.cif,1.0,1.0,0.0,0.0,original
+4JNE,4JNE_1,s417,homo-oligomer,4,8.0,1.0,91,89,93.0642105263158,0.66,fold_4jne_model_0.cif,0.0,0.0,1.0,1.0,original
+2W4I,2W4I_1,s270,homo-oligomer,0,1.0,1.0,34,31,93.53133333333336,0.83,fold_2w4i_model_0.cif,1.0,1.0,1.0,1.0,original
+4RXO,4RXO_1,s616,homo-oligomer,1,2.0,3.0,64,68,97.21142857142856,0.83,fold_4rxo_model_0.cif,0.0,1.0,0.0,1.0,original
+1WPU,1WPU_1,s160,homo-oligomer,2,56.0,inf,65,51,98.485,0.95,fold_1wpu_model_0.cif,0.0,0.0,0.0,0.0,original
+4BNT,4BNT_1,s397,homo-oligomer,0,2.0,6.0,65,68,57.18666666666667,0.45,fold_4bnt_model_0.cif,0.0,1.0,0.0,0.0,original
+2P2N,2P2N_1,s181,homo-oligomer,2,13.0,8.0,93,70,89.60333333333334,0.78,fold_2p2n_model_0.cif,0.0,0.0,0.0,0.0,original
+4ABU,4ABU_1,s459,homo-oligomer,0,1.0,2.0,40,23,98.575,0.93,fold_4abu_model_0.cif,1.0,1.0,0.0,1.0,original
+2ONB,2ONB_1,s771,homo (assembly only),3,5.0,2.0,41,35,73.26666666666668,0.8,fold_2onb_model_0.cif,0.0,0.0,0.0,1.0,original
+3O6G,3O6G_1,s614,homo (assembly only),3,1.0,1.0,31,29,97.12666666666664,0.89,fold_3o6g_model_0.cif,1.0,1.0,1.0,1.0,original
+2PG2,2PG2_1,s984,homo-oligomer,4,1.0,12.0,39,57,81.64200000000001,0.11,fold_2pg2_model_0.cif,1.0,1.0,0.0,0.0,original
+2ORQ,2ORQ_1,s387,homo (assembly only),3,2.0,2.0,55,58,56.084166666666654,0.39,fold_2orq_model_0.cif,0.0,1.0,0.0,1.0,original
+5KDE,5KDE_1,s545,homo (assembly only),1,23.0,9.0,57,71,97.59928571428571,0.94,fold_5kde_model_0.cif,0.0,0.0,0.0,0.0,original
+1IQ5,1IQ5_1,s652,protein-peptide,2,7.0,1.0,14,9,93.25295454545454,0.9,fold_1iq5_model_0.cif,0.0,0.0,1.0,1.0,original
+3B1T,3B1T_2,s930,homo (assembly only),1,51.0,74.0,72,89,73.78411764705882,0.85,fold_3b1t_model_0.cif,0.0,0.0,0.0,0.0,original
+4NIL,4NIL_1,s475,homo-oligomer,4,14.0,28.0,34,28,98.73833333333332,0.88,fold_4nil_model_0.cif,0.0,0.0,0.0,0.0,original
+2VD4,2VD4_1,s115,homo (assembly only),2,82.0,78.0,95,85,96.28545454545456,0.93,fold_2vd4_model_0.cif,0.0,0.0,0.0,0.0,extension
+4FKZ,4FKZ_1,s238,homo-oligomer,3,4.0,3.0,44,46,83.27374999999999,0.85,fold_4fkz_model_0.cif,0.0,0.0,0.0,1.0,extension
+3ZQG,3ZQG_1,s370,protein-peptide,4,1.0,5.0,39,39,97.30384615384617,0.95,fold_3zqg_model_0.cif,1.0,1.0,0.0,0.0,extension
+5YVE,5YVE_1,s955,homo (assembly only),0,2.0,14.0,84,67,81.35249999999999,0.82,fold_5yve_model_0.cif,0.0,1.0,0.0,0.0,extension
+3MWB,3MWB_1,s200,homo-oligomer,2,4.0,3.0,77,87,86.40200000000002,0.73,fold_3mwb_model_0.cif,0.0,0.0,0.0,1.0,extension
+5Y8T,5Y8T_1,s591,homo-oligomer,4,1.0,8.0,27,21,84.03615384615384,0.68,fold_5y8t_model_0.cif,1.0,1.0,0.0,0.0,extension
+3ZQI,3ZQI_1,s374,protein-peptide,2,4.0,2.0,29,31,85.5,0.9,fold_3zqi_model_0.cif,0.0,0.0,0.0,1.0,extension
+1NH8,1NH8_1,s593,homo (assembly only),3,43.0,26.0,43,40,82.86,0.37,fold_1nh8_model_0.cif,0.0,0.0,0.0,0.0,extension
+3PJG,3PJG_1,s376,homo (assembly only),3,2.0,2.0,46,36,82.22000000000001,0.77,fold_3pjg_model_0.cif,0.0,1.0,0.0,1.0,extension
+4ZSI,4ZSI_1,s442,homo-oligomer,4,1.0,1.0,25,22,93.98041666666666,0.88,fold_4zsi_model_0.cif,1.0,1.0,1.0,1.0,extension
+4ZSI,4ZSI_2,s442,homo-oligomer,4,1.0,1.0,25,22,93.74923076923076,0.88,fold_4zsi_model_0.cif,1.0,1.0,1.0,1.0,extension
+5MRM,5MRM_1,s319,homo (assembly only),3,2.0,3.0,29,30,90.36333333333334,0.82,fold_5mrm_model_0.cif,0.0,1.0,0.0,1.0,extension
+5W3X,5W3X_1,s553,hetero-complex,0,5.0,8.0,29,35,96.91954545454546,0.55,fold_5w3x_model_0.cif,0.0,0.0,0.0,0.0,extension
+1W25,1W25_1,s394,homo-oligomer,4,9.0,13.0,74,60,86.35823529411766,0.55,fold_1w25_model_0.cif,0.0,0.0,0.0,0.0,extension
+5I75,5I75_1,s717,hetero-complex,3,1.0,1.0,66,58,87.95315789473685,0.7,fold_5i75_model_0.cif,1.0,1.0,1.0,1.0,extension
+3LCB,3LCB_1,s414,hetero-complex,2,1.0,1.0,62,64,72.58714285714287,0.76,fold_3lcb_model_0.cif,1.0,1.0,1.0,1.0,extension
+5LRS,5LRS_1,s396,homo-oligomer,0,2.0,1.0,34,31,90.61777777777776,0.86,fold_5lrs_model_0.cif,0.0,1.0,1.0,1.0,extension
+2C2B,2C2B_1,s227,homo-oligomer,4,1.0,1.0,51,48,95.459375,0.88,fold_2c2b_model_0.cif,1.0,1.0,1.0,1.0,extension
+2HH7,2HH7_1,s474,homo (assembly only),3,7.0,11.0,10,12,97.32,0.89,fold_2hh7_model_0.cif,0.0,0.0,0.0,0.0,extension
+2BU2,2BU2_1,s754,homo (assembly only),2,3.0,33.0,50,47,93.589,0.89,fold_2bu2_model_0.cif,0.0,1.0,0.0,0.0,extension
+3ZQH,3ZQH_1,s371,protein-peptide,0,1.0,1.0,23,32,73.50250000000001,0.9,fold_3zqh_model_0.cif,1.0,1.0,1.0,1.0,extension
+2QMX,2QMX_1,s199,homo-oligomer,0,2.0,1.0,37,40,90.30384615384617,0.81,fold_2qmx_model_0.cif,0.0,1.0,1.0,1.0,extension
+5IWD,5IWD_1,s547,homo (assembly only),3,12.0,inf,34,32,48.35,0.76,fold_5iwd_model_0.cif,0.0,0.0,0.0,0.0,extension
+4Q9O,4Q9O_1,s505,homo-oligomer,2,1.0,1.0,23,28,90.35586206896554,0.91,fold_4q9o_model_0.cif,1.0,1.0,1.0,1.0,extension
+4RYL,4RYL_1,s888,homo (assembly only),3,1.0,25.0,39,38,97.89941176470587,0.92,fold_4ryl_model_0.cif,1.0,1.0,0.0,0.0,extension
+3IJG,3IJG_1,s831,homo-oligomer,0,3.0,3.0,21,23,98.71,0.96,fold_3ijg_model_0.cif,0.0,1.0,0.0,1.0,extension
+3LAJ,3LAJ_1,s326,homo-oligomer,1,1.0,4.0,49,71,74.1375,0.48,fold_3laj_model_0.cif,1.0,1.0,0.0,0.0,extension
+1PEO,1PEO_1,s586,homo (assembly only),4,2.0,2.0,99,102,88.06714285714285,0.8,fold_1peo_model_0.cif,0.0,1.0,0.0,1.0,extension
+5ON7,5ON7_1,s610,homo-oligomer,4,2.0,inf,26,25,93.14,0.12,fold_5on7_model_0.cif,0.0,1.0,0.0,0.0,extension
+2NS8,2NS8_1,s368,protein-peptide,1,7.0,3.0,29,23,42.68,0.86,fold_2ns8_model_0.cif,0.0,0.0,0.0,1.0,extension
+4P86,4P86_1,s577,homo-oligomer,2,11.0,1.0,70,67,90.42272727272729,0.78,fold_4p86_model_0.cif,0.0,0.0,1.0,1.0,extension
+3ATH,3ATH_1,s889,homo-oligomer,4,38.0,39.0,54,54,96.39666666666668,0.85,fold_3ath_model_0.cif,0.0,0.0,0.0,0.0,extension
+1TB6,1TB6_1,s812,protein-peptide,4,40.0,3.0,53,50,72.46666666666667,0.56,fold_1tb6_model_0.cif,0.0,0.0,0.0,1.0,extension
+4Q0A,4Q0A_1,s882,protein-peptide,2,12.0,23.0,38,34,98.66428571428573,0.87,fold_4q0a_model_0.cif,0.0,0.0,0.0,0.0,extension
+2R1R,2R1R_1,s219,protein-peptide,2,1.0,2.0,45,45,89.6675,0.93,fold_2r1r_model_0.cif,1.0,1.0,0.0,1.0,extension
+4I1R,4I1R_1,s927,homo (assembly only),1,2.0,1.0,59,47,84.52785714285714,0.53,fold_4i1r_model_0.cif,0.0,1.0,1.0,1.0,extension
+1QW7,1QW7_1,s187,homo-oligomer,0,27.0,inf,29,36,98.895,0.92,fold_1qw7_model_0.cif,0.0,0.0,0.0,0.0,extension
+3ZL6,3ZL6_1,s601,homo-oligomer,3,1.0,1.0,39,48,89.00214285714286,0.9,fold_3zl6_model_0.cif,1.0,1.0,1.0,1.0,extension
+6IIK,6IIK_1,s979,homo-oligomer,3,1.0,inf,41,54,70.85636363636364,0.46,fold_6iik_model_0.cif,1.0,1.0,0.0,0.0,extension
+1NJJ,1NJJ_1,s389,homo-oligomer,3,52.0,28.0,57,55,85.2075,0.81,fold_1njj_model_0.cif,0.0,0.0,0.0,0.0,extension
+2XJF,2XJF_1,s503,homo (assembly only),4,1.0,5.0,65,95,79.042,0.72,fold_2xjf_model_0.cif,1.0,1.0,0.0,0.0,extension
+4QPL,4QPL_1,s940,hetero-complex,0,1.0,4.0,28,26,74.32793103448276,0.48,fold_4qpl_model_0.cif,1.0,1.0,0.0,0.0,extension
+3F48,3F48_1,s413,homo (assembly only),4,4.0,6.0,70,66,87.451,0.77,fold_3f48_model_0.cif,0.0,0.0,0.0,0.0,extension
+3ALO,3ALO_1,s819,protein-peptide,0,4.0,inf,44,31,48.77285714285714,0.68,fold_3alo_model_0.cif,0.0,0.0,0.0,0.0,extension
+4P02,4P02_1,s395,protein-peptide,2,7.0,6.0,110,102,82.13374999999999,0.83,fold_4p02_model_0.cif,0.0,0.0,0.0,0.0,extension
+3PA8,3PA8_1,s520,homo-oligomer,0,1.0,5.0,36,33,62.66769230769231,0.28,fold_3pa8_model_0.cif,1.0,1.0,0.0,0.0,extension
+3X1M,3X1M_1,s560,homo-oligomer,1,2.0,1.0,34,33,88.88222222222223,0.47,fold_3x1m_model_0.cif,0.0,1.0,1.0,1.0,extension
+1PFK,1PFK_1,s808,homo-oligomer,3,1.0,8.0,76,75,92.023125,0.95,fold_1pfk_model_0.cif,1.0,1.0,0.0,0.0,extension
+2RDE,2RDE_1,s521,homo-oligomer,2,3.0,3.0,34,30,89.46705882352941,0.55,fold_2rde_model_0.cif,0.0,1.0,0.0,1.0,extension
+5FII,5FII_1,s742,homo-oligomer,0,1.0,1.0,10,12,92.69899999999998,0.78,fold_5fii_model_0.cif,1.0,1.0,1.0,1.0,extension
+5KMF,5KMF_1,s558,homo-oligomer,0,60.0,56.0,68,67,80.0,0.84,fold_5kmf_model_0.cif,0.0,0.0,0.0,0.0,extension
+5IN4,5IN4_1,s975,homo-oligomer,1,14.0,10.0,68,77,93.86066666666666,0.9,fold_5in4_model_0.cif,0.0,0.0,0.0,0.0,extension
+2V4Y,2V4Y_1,s244,homo-oligomer,0,12.0,9.0,65,79,89.87214285714286,0.76,fold_2v4y_model_0.cif,0.0,0.0,0.0,0.0,extension
+5DED,5DED_1,s534,homo-oligomer,4,26.0,56.0,72,91,91.51583333333332,0.77,fold_5ded_model_0.cif,0.0,0.0,0.0,0.0,extension
+2I7P,2I7P_1,s741,homo-oligomer,3,2.0,2.0,61,49,95.46052631578948,0.89,fold_2i7p_model_0.cif,0.0,1.0,0.0,1.0,extension
+5IXE,5IXE_1,s620,homo-oligomer,2,1.0,3.0,58,51,96.90473684210524,0.75,fold_5ixe_model_0.cif,1.0,1.0,0.0,1.0,extension
+4CLY,4CLY_1,s935,homo (assembly only),0,1.0,4.0,96,110,93.46090909090908,0.21,fold_4cly_model_0.cif,1.0,1.0,0.0,0.0,extension
+1FCJ,1FCJ_1,s186,homo-oligomer,0,7.0,inf,35,26,98.515,0.93,fold_1fcj_model_0.cif,0.0,0.0,0.0,0.0,extension
+1OG0,1OG0_1,s2,homo-oligomer,4,17.0,28.0,43,36,95.52307692307691,0.85,fold_1og0_model_0.cif,0.0,0.0,0.0,0.0,extension
+5UGH,5UGH_1,s960,homo-oligomer,3,1.0,2.0,50,57,96.06095238095236,0.93,fold_5ugh_model_0.cif,1.0,1.0,0.0,1.0,extension
+5TCJ,5TCJ_1,s234,hetero-complex,3,2.0,5.0,81,58,95.57789473684213,0.93,fold_5tcj_model_0.cif,0.0,1.0,0.0,0.0,extension
+3ZQF,3ZQF_1,s369,protein-peptide,3,2.0,8.0,27,41,78.97692307692306,0.5,fold_3zqf_model_0.cif,0.0,1.0,0.0,0.0,extension
+11BG,11BG_1,s256,homo-oligomer,1,11.0,7.0,15,17,82.69500000000001,0.63,fold_11bg_model_0.cif,0.0,0.0,0.0,0.0,extension
+4MDK,4MDK_1,s971,hetero-complex,3,1.0,11.0,26,23,91.82615384615384,0.66,fold_4mdk_model_0.cif,1.0,1.0,0.0,0.0,extension
+5XE9,5XE9_1,s549,homo-oligomer,3,3.0,10.0,19,23,88.958125,0.68,fold_5xe9_model_0.cif,0.0,1.0,0.0,0.0,extension
+4OV9,4OV9_1,s624,homo (assembly only),1,1.0,4.0,54,39,95.99727272727272,0.78,fold_4ov9_model_0.cif,1.0,1.0,0.0,0.0,extension
+5Y2F,5Y2F_1,s959,protein-peptide,3,3.0,4.0,14,17,90.60888888888888,0.89,fold_5y2f_model_0.cif,0.0,1.0,0.0,0.0,extension
+4COJ,4COJ_1,s539,homo-oligomer,1,2.0,6.0,79,91,95.55333333333331,0.9,fold_4coj_model_0.cif,0.0,1.0,0.0,0.0,extension
+1F2U,1F2U_1,s423,pseudo-hetero,3,1.0,1.0,40,42,67.9669565217391,0.24,fold_1f2u_model_0.cif,1.0,1.0,1.0,1.0,extension
+3ZG1,3ZG1_1,s440,homo-oligomer,2,2.0,1.0,17,24,88.09666666666668,0.76,fold_3zg1_model_0.cif,0.0,1.0,1.0,1.0,extension
+4H3B,4H3B_1,s904,protein-peptide,4,8.0,8.0,28,23,85.34400000000001,0.92,fold_4h3b_model_0.cif,0.0,0.0,0.0,0.0,extension
+5NPP,5NPP_1,s567,homo-oligomer,4,2.0,10.0,97,89,81.45555555555556,0.87,fold_5npp_model_0.cif,0.0,1.0,0.0,0.0,extension
+6FBA,6FBA_1,s585,pseudo-hetero,1,1.0,3.0,61,60,94.998,0.91,fold_6fba_model_0.cif,1.0,1.0,0.0,1.0,extension
+2I80,2I80_1,s77,homo-oligomer,0,1.0,inf,60,60,94.31875,0.86,fold_2i80_model_0.cif,1.0,1.0,0.0,0.0,extension
+4XCZ,4XCZ_1,s597,homo (assembly only),2,7.0,6.0,57,61,96.15444444444444,0.8,fold_4xcz_model_0.cif,0.0,0.0,0.0,0.0,extension
+3F6G,3F6G_1,s336,homo-oligomer,2,2.0,1.0,16,16,83.415,0.79,fold_3f6g_model_0.cif,0.0,1.0,1.0,1.0,extension
+2B08,2B08_1,s364,homo-oligomer,1,6.0,18.0,51,57,98.23333333333332,0.97,fold_2b08_model_0.cif,0.0,0.0,0.0,0.0,extension
+3HND,3HND_1,s602,homo-oligomer,2,1.0,6.0,94,86,82.78052631578947,0.86,fold_3hnd_model_0.cif,1.0,1.0,0.0,0.0,extension
+1DKU,1DKU_1,s749,homo-oligomer,0,1.0,4.0,33,30,87.58999999999999,0.82,fold_1dku_model_0.cif,1.0,1.0,0.0,0.0,extension
+3DBA,3DBA_1,s190,homo-oligomer,4,1.0,3.0,58,50,89.59157894736843,0.19,fold_3dba_model_0.cif,1.0,1.0,0.0,1.0,extension
+2PUT,2PUT_1,s458,homo-oligomer,0,18.0,46.0,102,105,93.59615384615388,0.81,fold_2put_model_0.cif,0.0,0.0,0.0,0.0,extension
+5HTB,5HTB_1,s989,protein-peptide,0,4.0,3.0,24,25,55.555,0.62,fold_5htb_model_0.cif,0.0,0.0,0.0,1.0,extension
+4H39,4H39_1,s903,protein-peptide,4,9.0,5.0,25,20,91.429,0.94,fold_4h39_model_0.cif,0.0,0.0,0.0,0.0,extension
+5U7M,5U7M_1,s556,hetero-complex,3,1.0,21.0,98,111,81.41760000000001,0.37,fold_5u7m_model_0.cif,1.0,1.0,0.0,0.0,extension
+3MF5,3MF5_1,s301,homo-oligomer,3,1.0,67.0,81,87,93.33416666666666,0.15,fold_3mf5_model_0.cif,1.0,1.0,0.0,0.0,extension
+3NJQ,3NJQ_1,s354,pseudo-hetero,4,1.0,1.0,31,33,75.34083333333332,0.31,fold_3njq_model_0.cif,1.0,1.0,1.0,1.0,extension
+3L76,3L76_1,s358,homo-oligomer,2,1.0,11.0,77,93,88.03615384615385,0.72,fold_3l76_model_0.cif,1.0,1.0,0.0,0.0,extension
+3L76,3L76_2,s358,homo-oligomer,2,5.0,8.0,77,93,87.52272727272727,0.72,fold_3l76_model_0.cif,0.0,0.0,0.0,0.0,extension
+3L76,3L76_3,s358,homo-oligomer,2,7.0,7.0,77,93,88.19,0.72,fold_3l76_model_0.cif,0.0,0.0,0.0,0.0,extension
+3L76,3L76_4,s358,homo-oligomer,2,5.0,11.0,77,93,88.39399999999999,0.72,fold_3l76_model_0.cif,0.0,0.0,0.0,0.0,extension
+1FX2,1FX2_1,s460,homo (assembly only),0,9.0,21.0,38,30,97.60727272727271,0.55,fold_1fx2_model_0.cif,0.0,0.0,0.0,0.0,extension
+5GRF,5GRF_1,s973,hetero-complex,1,3.0,5.0,43,48,93.24222222222222,0.92,fold_5grf_model_0.cif,0.0,1.0,0.0,0.0,extension
+4CJN,4CJN_1,s472,homo-oligomer,1,23.0,10.0,84,88,92.50636363636364,0.14,fold_4cjn_model_0.cif,0.0,0.0,0.0,0.0,extension
+3G6W,3G6W_1,s246,homo-oligomer,2,16.0,10.0,55,53,91.734,0.77,fold_3g6w_model_0.cif,0.0,0.0,0.0,0.0,extension
+1H9G,1H9G_1,s468,homo (assembly only),4,1.0,9.0,42,35,98.4288,0.93,fold_1h9g_model_0.cif,1.0,1.0,0.0,0.0,extension
+3CQD,3CQD_1,s193,homo-oligomer,4,10.0,24.0,100,92,82.86222222222221,0.7,fold_3cqd_model_0.cif,0.0,0.0,0.0,0.0,extension
+1ECB,1ECB_1,s15,homo-oligomer,1,11.0,14.0,47,62,88.55933333333333,0.58,fold_1ecb_model_0.cif,0.0,0.0,0.0,0.0,extension
+1Z2L,1Z2L_1,s457,homo-oligomer,0,6.0,6.0,53,52,96.19166666666666,0.89,fold_1z2l_model_0.cif,0.0,0.0,0.0,0.0,extension
+4G0N,4G0N_1,s854,hetero-complex,0,7.0,7.0,13,12,88.146,0.83,fold_4g0n_model_0.cif,0.0,0.0,0.0,0.0,extension
+4G0N,4G0N_2,s854,hetero-complex,0,8.0,7.0,13,12,95.13111111111112,0.83,fold_4g0n_model_0.cif,0.0,0.0,0.0,0.0,extension
+1KXT,1KXT_1,s513,hetero-complex,4,1.0,inf,29,27,97.965,0.49,fold_1kxt_model_0.cif,1.0,1.0,0.0,0.0,extension
+3MKS,3MKS_1,s334,hetero-complex,2,1.0,31.0,78,92,91.57916666666668,0.23,fold_3mks_model_0.cif,1.0,1.0,0.0,0.0,extension
+6B21,6B21_1,s564,homo (assembly only),4,4.0,10.0,56,56,97.82363636363635,0.94,fold_6b21_model_0.cif,0.0,0.0,0.0,0.0,extension
+4TME,4TME_1,s532,homo-oligomer,1,15.0,23.0,39,39,41.825,0.94,fold_4tme_model_0.cif,0.0,0.0,0.0,0.0,extension

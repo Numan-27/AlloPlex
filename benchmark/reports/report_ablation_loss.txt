@@ -1,0 +1,97 @@
+sets: stripped (127473 pockets), partner (22614 pockets), holo (127164 pockets); device cuda
+  done mlp B repeat 0 fold 0  (0s)
+  done mlp B repeat 0 fold 1  (0s)
+  done mlp B repeat 0 fold 2  (0s)
+  done mlp B repeat 0 fold 3  (0s)
+  done mlp B repeat 0 fold 4  (0s)
+  done mlpbce B repeat 0 fold 0  (654s)
+  done mlpbce B repeat 0 fold 1  (1284s)
+  done mlpbce B repeat 0 fold 2  (1897s)
+  done mlpbce B repeat 0 fold 3  (2439s)
+  done mlpbce B repeat 0 fold 4  (2895s)
+  done mlp B repeat 1 fold 0  (2895s)
+  done mlp B repeat 1 fold 1  (2895s)
+  done mlp B repeat 1 fold 2  (2895s)
+  done mlp B repeat 1 fold 3  (2895s)
+  done mlp B repeat 1 fold 4  (2895s)
+  done mlpbce B repeat 1 fold 0  (3440s)
+  done mlpbce B repeat 1 fold 1  (3972s)
+  done mlpbce B repeat 1 fold 2  (4487s)
+  done mlpbce B repeat 1 fold 3  (5017s)
+  done mlpbce B repeat 1 fold 4  (5644s)
+  done mlp B repeat 2 fold 0  (5644s)
+  done mlp B repeat 2 fold 1  (5644s)
+  done mlp B repeat 2 fold 2  (5644s)
+  done mlp B repeat 2 fold 3  (5644s)
+  done mlp B repeat 2 fold 4  (5644s)
+  done mlpbce B repeat 2 fold 0  (6182s)
+  done mlpbce B repeat 2 fold 1  (6701s)
+  done mlpbce B repeat 2 fold 2  (7300s)
+  done mlpbce B repeat 2 fold 3  (7933s)
+  done mlpbce B repeat 2 fold 4  (8450s)
+
+============================================================================================================
+RESULTS (mean over repeats [0, 1, 2]; PRIMARY = partner where available, else stripped)
+============================================================================================================
+  model featuresset         sites    Top-1    Top-3  site AUROC    AUPRC
+  mlp   B       primary      2349    0.422    0.583       0.856
+  mlp   B       partner      1601    0.400    0.568       0.847    0.150
+  mlp   B       stripped     2349    0.474    0.620       0.891    0.316
+  mlp   B+I     primary      2349    0.430    0.578       0.853
+  mlp   B+I     partner      1601    0.413    0.562       0.844    0.161
+  mlp   B+I     stripped     2349    0.467    0.617       0.891    0.310
+  mlp   B+I-d   primary      2349    0.428    0.575       0.851
+  mlp   B+I-d   partner      1601    0.409    0.559       0.841    0.158
+  mlp   B+I-d   stripped     2349    0.468    0.620       0.891    0.315
+  mlp   I       primary      2349    0.261    0.489       0.827
+  mlp   I       partner      1601    0.238    0.471       0.813    0.114
+  mlp   I       stripped     2349    0.322    0.500       0.849    0.148
+  mlpbceB       primary      2349    0.424    0.580       0.849
+  mlpbceB       partner      1601    0.405    0.565       0.838    0.134
+  mlpbceB       stripped     2349    0.464    0.613       0.884    0.285
+
+PAIRED DIFFERENCES (95 % family-bootstrap intervals)
+  mlp: B+I minus B
+     primary  top1      +0.008  [-0.005, +0.023]  (sites 2349)
+     primary  site_auc  -0.002  [-0.014, +0.005]  (sites 2168)
+     partner  top1      +0.013  [-0.004, +0.034]  (sites 1601)
+     partner  site_auc  -0.003  [-0.020, +0.009]  (sites 1439)
+     stripped top1      -0.007  [-0.014, -0.000]  (sites 2349)
+     stripped site_auc  -0.001  [-0.005, +0.003]  (sites 2191)
+  mlp: B+I-d minus B
+     primary  top1      +0.007  [-0.007, +0.021]  (sites 2349)
+     primary  site_auc  -0.005  [-0.022, +0.006]  (sites 2168)
+     partner  top1      +0.009  [-0.009, +0.030]  (sites 1601)
+     partner  site_auc  -0.006  [-0.031, +0.011]  (sites 1439)
+     stripped top1      -0.006  [-0.016, +0.002]  (sites 2349)
+     stripped site_auc  -0.000  [-0.005, +0.003]  (sites 2191)
+  mlp: B+I minus B+I-d
+     primary  top1      +0.001  [-0.009, +0.014]  (sites 2349)
+     primary  site_auc  +0.003  [-0.003, +0.009]  (sites 2168)
+     partner  top1      +0.004  [-0.011, +0.020]  (sites 1601)
+     partner  site_auc  +0.003  [-0.005, +0.013]  (sites 1439)
+     stripped top1      -0.001  [-0.009, +0.008]  (sites 2349)
+     stripped site_auc  -0.000  [-0.002, +0.002]  (sites 2191)
+  mlp: I minus B
+     primary  top1      -0.161  [-0.264, -0.080]  (sites 2349)
+     primary  site_auc  -0.028  [-0.058, -0.001]  (sites 2168)
+     partner  top1      -0.162  [-0.281, -0.065]  (sites 1601)
+     partner  site_auc  -0.034  [-0.072, -0.001]  (sites 1439)
+     stripped top1      -0.152  [-0.210, -0.102]  (sites 2349)
+     stripped site_auc  -0.042  [-0.068, -0.018]  (sites 2191)
+
+ABLATION: loss function (MLP, feature set B): focal loss minus plain binary cross-entropy
+  mlp B minus mlpbce B
+     primary  top1      -0.002  [-0.016, +0.013]  (sites 2349)
+     primary  top3      +0.003  [-0.008, +0.014]  (sites 2349)
+     primary  site_auc  +0.007  [-0.000, +0.015]  (sites 2168)
+     partner  top1      -0.005  [-0.026, +0.016]  (sites 1601)
+     partner  top3      +0.002  [-0.013, +0.017]  (sites 1601)
+     partner  site_auc  +0.009  [-0.001, +0.021]  (sites 1439)
+     stripped top1      +0.010  [+0.003, +0.019]  (sites 2349)
+     stripped top3      +0.007  [-0.002, +0.018]  (sites 2349)
+     stripped site_auc  +0.007  [+0.003, +0.012]  (sites 2191)
+  mlp: B+I minus B
+     primary  top1      +0.008  [-0.005, +0.023]  (sites 2349)
+     primary  site_auc  -0.002  [-0.014, +0.005]  (sites 2168)
+  -> DECISION (plan): interface features improve prediction: NOT SUPPORTED

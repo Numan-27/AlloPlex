@@ -1,0 +1,61 @@
+pdb_id,n_chains,n_res,kind,family,sites
+2CSM,2,490,homo (assembly only),s504,2CSM_1
+4HNN,2,614,homo-oligomer,s89,4HNN_1
+2NW8,4,1060,homo-oligomer,s228,2NW8_1
+2HA3,2,1072,homo-oligomer,s9,2HA3_1
+3O0N,2,1218,homo-oligomer,s220,3O0N_1
+3E2M,2,364,homo-oligomer,s721,3E2M_1
+5J6F,4,1384,homo-oligomer,s518,5J6F_1
+5HTC,2,335,protein-peptide,s988,5HTC_1
+1JOU,2,304,protein-peptide,s398,1JOU_1
+4EAJ,3,440,hetero-complex,s970,4EAJ_1
+2PUA,2,678,homo (assembly only),s281,2PUA_1
+6FMZ,2,1176,homo (assembly only),s589,6FMZ_1
+5UFJ,4,574,hetero-complex,s807,5UFJ_1
+3KJF,4,484,pseudo-hetero,s654,3KJF_1
+4W9N,2,634,pseudo-hetero,s866,4W9N_1
+1WQW,2,470,homo-oligomer,s39,1WQW_1
+1H7A,2,1126,homo (assembly only),s223,1H7A_1
+3KFS,2,198,homo-oligomer,s500,3KFS_1
+3WGG,2,426,homo-oligomer,s606,3WGG_1
+3WMG,2,607,protein-peptide,s583,3WMG_1
+1I6L,2,652,homo (assembly only),s235,1I6L_1
+3ZZH,4,1157,homo-oligomer,s184,3ZZH_1
+3QH0,2,1103,homo-oligomer,s332,3QH0_1
+3E2W,4,808,homo-oligomer,s625,3E2W_1
+2HVW,6,878,homo-oligomer,s82,2HVW_1
+4ASY,4,1171,homo-oligomer,s454,4ASY_1
+2VJY,2,1124,homo-oligomer,s204,2VJY_1
+5L58,2,752,homo (assembly only),s726,5L58_1
+1HNI,2,985,hetero-complex,s542,1HNI_1
+2VT5,4,1274,homo-oligomer,s113,2VT5_1
+5DWJ,4,479,protein-peptide,s837,5DWJ_1
+4LPH,2,684,homo (assembly only),s822,4LPH_1
+5T5T,3,825,hetero-complex,s17,5T5T_1
+4FAP,2,201,hetero-complex,s939,4FAP_1
+1LDN,4,1264,homo-oligomer,s172,1LDN_1
+4DFZ,2,370,protein-peptide,s969,4DFZ_1
+3DZ3,2,306,pseudo-hetero,s637,3DZ3_1
+1L5G,3,1471,protein-peptide,s719,1L5G_1
+3VP2,4,1244,homo (assembly only),s416,3VP2_1
+3E5U,2,433,homo-oligomer,s381,3E5U_1
+6NCJ,2,284,homo (assembly only),s306,6NCJ_1
+1I7S,4,1406,hetero-complex,s21,1I7S_1
+2QPY,2,258,protein-peptide,s861,2QPY_1
+5L32,4,424,homo-oligomer,s840,5L32_1
+2CLM,4,1290,hetero-complex,s232,2CLM_1
+4JNE,2,1200,homo-oligomer,s417,4JNE_1
+2W4I,2,509,homo-oligomer,s270,2W4I_1
+4RXO,2,878,homo-oligomer,s616,4RXO_1
+1WPU,6,882,homo-oligomer,s160,1WPU_1
+4BNT,4,947,homo-oligomer,s397,4BNT_1
+2P2N,4,1251,homo-oligomer,s181,2P2N_1
+4ABU,4,460,homo-oligomer,s459,4ABU_1
+2ONB,2,528,homo (assembly only),s771,2ONB_1
+3O6G,2,526,homo (assembly only),s614,3O6G_1
+2PG2,2,662,homo-oligomer,s984,2PG2_1
+2ORQ,2,600,homo (assembly only),s387,2ORQ_1
+5KDE,6,966,homo (assembly only),s545,5KDE_1
+1IQ5,2,168,protein-peptide,s652,1IQ5_1
+3B1T,2,1248,homo (assembly only),s930,3B1T_2
+4NIL,2,548,homo-oligomer,s475,4NIL_1

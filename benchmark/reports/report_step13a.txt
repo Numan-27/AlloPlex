@@ -1,0 +1,24 @@
+PRIMARY sites scored by both AlloPlex and DeepAllo: 2349 (259 families)
+  AlloPlex only    486 sites (20.7%),  68 families
+  DeepAllo only    417 sites (17.8%),  88 families
+  both first       484 sites (20.6%),  72 families
+  neither first    962 sites (41.0%), 182 families
+  sites where exactly one of the two ranks the site first: 903
+
+Disagreements by site-pocket volume tercile (AlloPlex only / DeepAllo only):
+  large (>= 837 Å³)         209 /   85
+  medium                    123 /  151
+  small (< 420 Å³)          150 /  165
+
+Disagreements by modulator type (AlloPlex only / DeepAllo only):
+  fragment (< 15 atoms)      71 /  102
+  large (> 40 atoms)         12 /   11
+  peptide                     5 /    0
+  small molecule (15-40)    394 /  303
+
+Case-study selection rules:
+  success rule (AlloPlex first in all repeats, every other method outside the top ten): 0 sites; e.g. 
+  failure rule (AlloPlex outside the top ten, at least one other method first): 142 sites
+  (5OLK must appear in the success list and 2VD4 in the failure list - check below)
+   5OLK: site 5OLK_1 AlloPlex rank 2.3, DeepAllo rank 15.0, success_rule False, failure_rule False
+   2VD4: site 2VD4_1 AlloPlex rank 61.3, DeepAllo rank 1.0, success_rule False, failure_rule True

@@ -1,0 +1,22 @@
+quantity,n,value
+sites,2349.0,100.0
+sites detected by fpocket,2191.0,93.27373350361856
+druggability not detected,158.0,6.726266496381439
+druggability < 0.2,1101.0,46.87100893997446
+druggability 0.2–0.5,327.0,13.920817369093232
+druggability 0.5–0.7,235.0,10.004257130693912
+druggability ≥ 0.7,528.0,22.47765006385696
+"druggable site pockets (>= 0.5), % of all sites",763.0,32.48190719455087
+"druggable site pockets (>= 0.5), % of detected sites",763.0,34.82428115015974
+"median druggability, site pockets",,0.19599999487400055
+other pockets,113324.0,
+druggable other pockets (>= 0.5),1957.0,1.7269069217464967
+"median druggability, other pockets",,0.0010000000474974513
+fragment (< 15 atoms): druggable (>= 0.5),88.0,22.62210796915167
+fragment (< 15 atoms): median druggability,389.0,0.04100000113248825
+large (> 40 atoms): druggable (>= 0.5),18.0,21.686746987951807
+large (> 40 atoms): median druggability,83.0,0.08699999749660492
+peptide: druggable (>= 0.5),4.0,14.285714285714285
+peptide: median druggability,28.0,0.013500000117346644
+small molecule (15-40): druggable (>= 0.5),650.0,39.41782898726501
+small molecule (15-40): median druggability,1649.0,0.29100000858306885

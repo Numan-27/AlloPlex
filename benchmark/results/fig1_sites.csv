@@ -1,0 +1,2376 @@
+site_id,pdb_id,family,source,complex_kind,position_class,n_modulator_free
+1KFL_1,1KFL,s2,ASD,homo-oligomer,PPI interface,13.0
+3PG9_1,3PG9,s518,ASD,homo-oligomer,PPI interface,3.0
+1OF6_1,1OF6,s2,ASD,homo-oligomer,PPI interface,8.0
+1OFR_1,1OFR,s2,ASD,homo-oligomer,PPI interface,8.0
+1OG0_1,1OG0,s2,ASD,homo-oligomer,PPI interface,8.0
+4UC5_1,4UC5,s2,ASD,homo-oligomer,allosteric position (unspecified),13.0
+1J07_1,1J07,s9,ASD,homo-oligomer,inner protein,87.0
+1N5M_1,1N5M,s9,ASD,homo-oligomer,inner protein,87.0
+1N5R_1,1N5R,s9,ASD,homo-oligomer,inner protein,87.0
+2HA0_1,2HA0,s9,ASD,homo-oligomer,inner protein,87.0
+2HA2_1,2HA2,s9,ASD,homo-oligomer,inner protein,87.0
+2HA3_1,2HA3,s9,ASD,homo-oligomer,inner protein,87.0
+2HA4_1,2HA4,s9,ASD,homo-oligomer,inner protein,87.0
+2HA5_1,2HA5,s9,ASD,homo-oligomer,inner protein,87.0
+2HA6_1,2HA6,s9,ASD,homo-oligomer,inner protein,87.0
+2HA7_1,2HA7,s9,ASD,homo-oligomer,inner protein,87.0
+2C4H_1,2C4H,s9,ASD,monomer,inner protein,119.0
+2C58_1,2C58,s9,ASD,homo (assembly only),inner protein,119.0
+2C5F_1,2C5F,s9,ASD,homo (assembly only),inner protein,118.0
+2C5G_1,2C5G,s9,ASD,homo (assembly only),inner protein,119.0
+2J3Q_1,2J3Q,s9,ASD,monomer,inner protein,119.0
+1YP2_1,1YP2,s10,ASD,homo-oligomer,PPI interface,
+1YP2_2,1YP2,s10,ASD,homo-oligomer,inner protein,0.0
+1YP3_1,1YP3,s10,ASD,homo-oligomer,PPI interface,
+1YP3_2,1YP3,s10,ASD,homo-oligomer,inner protein,0.0
+1YP4_1,1YP4,s10,ASD,homo-oligomer,PPI interface,
+1YP4_2,1YP4,s10,ASD,homo-oligomer,inner protein,0.0
+3BRK_1,3BRK,s10,ASD,monomer,inner protein,0.0
+5W5R_1,5W5R,s10,ASD,homo-oligomer,allosteric position (unspecified),3.0
+1AO0_1,1AO0,s15,ASD,homo-oligomer,PPI interface,0.0
+1GPH_1,1GPH,s15,ASD,homo-oligomer,PPI interface,0.0
+1ECB_1,1ECB,s15,ASD,homo-oligomer,PPI interface,7.0
+2V8Q_1,2V8Q,s970,ASD,hetero-complex,inner protein,0.0
+2V92_1,2V92,s970,ASD,hetero-complex,inner protein,0.0
+2V9J_1,2V9J,s970,ASD,hetero-complex,inner protein,0.0
+2Y8L_1,2Y8L,s970,ASD,hetero-complex,inner protein,0.0
+2Y8Q_1,2Y8Q,s970,ASD,hetero-complex,inner protein,0.0
+2YA3_1,2YA3,s970,ASD,hetero-complex,inner protein,0.0
+4CFH_1,4CFH,s970,ASD,protein-peptide,inner protein,0.0
+4EAG_1,4EAG,s970,ASD,hetero-complex,inner protein,5.0
+4EAJ_1,4EAJ,s970,ASD,hetero-complex,inner protein,0.0
+4EAK_1,4EAK,s970,ASD,hetero-complex,inner protein,5.0
+4EAL_1,4EAL,s970,ASD,hetero-complex,inner protein,0.0
+4QFG_1,4QFG,s970,ASD,hetero-complex,inner protein,0.0
+4QFR_1,4QFR,s970,ASD,hetero-complex,inner protein,0.0
+5KQ5_1,5KQ5,s17,ASD,hetero-complex,allosteric position (unspecified),7.0
+5T5T_1,5T5T,s17,ASD,hetero-complex,allosteric position (unspecified),7.0
+3KH5_1,3KH5,s19,ASD,monomer,inner protein,0.0
+1I1Q_1,1I1Q,s21,ASD,hetero-complex,inner protein,0.0
+1I7S_1,1I7S,s21,ASD,hetero-complex,inner protein,1.0
+4KGV_1,4KGV,s24,ASD,hetero-complex,inner protein,39.0
+4KGX_1,4KGX,s24,ASD,hetero-complex,inner protein,43.0
+4KH0_1,4KH0,s24,ASD,hetero-complex,inner protein,
+4KH1_1,4KH1,s24,ASD,hetero-complex,inner protein,
+1RAA_1,1RAA,s24,ASD,hetero-complex,inner protein,43.0
+1RAB_1,1RAB,s24,ASD,hetero-complex,inner protein,43.0
+1RAC_1,1RAC,s24,ASD,hetero-complex,inner protein,43.0
+1RAD_1,1RAD,s24,ASD,hetero-complex,inner protein,43.0
+1RAE_1,1RAE,s24,ASD,hetero-complex,inner protein,43.0
+1RAF_1,1RAF,s24,ASD,hetero-complex,inner protein,43.0
+1RAG_1,1RAG,s24,ASD,hetero-complex,inner protein,43.0
+1RAH_1,1RAH,s24,ASD,hetero-complex,inner protein,43.0
+1RAI_1,1RAI,s24,ASD,hetero-complex,inner protein,43.0
+1TUG_1,1TUG,s24,ASD,hetero-complex,inner protein,43.0
+1ZA1_1,1ZA1,s24,ASD,hetero-complex,inner protein,43.0
+1ZA2_1,1ZA2,s24,ASD,hetero-complex,inner protein,43.0
+2FZC_1,2FZC,s24,ASD,hetero-complex,inner protein,43.0
+2FZG_1,2FZG,s24,ASD,hetero-complex,inner protein,43.0
+2FZK_1,2FZK,s24,ASD,hetero-complex,inner protein,43.0
+4AT1_1,4AT1,s24,ASD,hetero-complex,inner protein,39.0
+4FYV_1,4FYV,s24,ASD,hetero-complex,inner protein,45.0
+4FYW_1,4FYW,s24,ASD,hetero-complex,inner protein,43.0
+4FYX_1,4FYX,s24,ASD,hetero-complex,inner protein,
+4FYY_1,4FYY,s24,ASD,hetero-complex,inner protein,
+5AT1_1,5AT1,s24,ASD,hetero-complex,inner protein,43.0
+7AT1_1,7AT1,s24,ASD,hetero-complex,inner protein,39.0
+8AT1_1,8AT1,s24,ASD,hetero-complex,inner protein,43.0
+2BE9_1,2BE9,s24,ASD,hetero-complex,inner protein,1.0
+3C1N_1,3C1N,s358,ASD,homo-oligomer,PPI interface,3.0
+2CDQ_1,2CDQ,s358,ASD,homo-oligomer,PPI interface,0.0
+3L76_1,3L76,s358,ASD,homo-oligomer,inner protein,0.0
+3L76_2,3L76,s358,ASD,homo-oligomer,inner protein,0.0
+3L76_3,3L76,s358,ASD,homo-oligomer,inner protein,0.0
+3L76_4,3L76,s358,ASD,homo-oligomer,inner protein,0.0
+1I2D_1,1I2D,s28,ASD,homo-oligomer,inner protein,0.0
+1M8P_1,1M8P,s28,ASD,homo-oligomer,inner protein,0.0
+1W96_1,1W96,s365,ASD,homo-oligomer,inner protein,29.0
+2EWN_1,2EWN,s39,ASD,homo-oligomer,inner protein,3.0
+4WF2_1,4WF2,s39,ASD,monomer,inner protein,3.0
+1WQW_1,1WQW,s39,ASD,homo-oligomer,inner protein,18.0
+2DEQ_1,2DEQ,s39,ASD,homo-oligomer,inner protein,18.0
+2DJZ_1,2DJZ,s39,ASD,homo-oligomer,inner protein,18.0
+2DKG_1,2DKG,s39,ASD,homo-oligomer,inner protein,18.0
+2DTI_1,2DTI,s39,ASD,homo-oligomer,inner protein,18.0
+2DVE_1,2DVE,s39,ASD,homo-oligomer,inner protein,18.0
+2DXU_1,2DXU,s39,ASD,homo-oligomer,inner protein,18.0
+2DZ9_1,2DZ9,s39,ASD,homo-oligomer,inner protein,18.0
+4OP0_1,4OP0,s39,ASD,homo-oligomer,inner protein,12.0
+1CGP_1,1CGP,s969,ASD,homo-oligomer,PPI interface,1.0
+1G6N_1,1G6N,s969,ASD,homo-oligomer,PPI interface,1.0
+1HW5_1,1HW5,s969,ASD,homo-oligomer,PPI interface,1.0
+1I5Z_1,1I5Z,s969,ASD,homo-oligomer,PPI interface,1.0
+1I6X_1,1I6X,s969,ASD,homo-oligomer,PPI interface,1.0
+1J59_1,1J59,s969,ASD,homo-oligomer,PPI interface,1.0
+1LB2_1,1LB2,s969,ASD,hetero-complex,PPI interface,1.0
+1O3Q_1,1O3Q,s969,ASD,homo (assembly only),PPI interface,1.0
+1O3R_1,1O3R,s969,ASD,homo (assembly only),PPI interface,1.0
+1O3S_1,1O3S,s969,ASD,homo (assembly only),PPI interface,1.0
+1O3T_1,1O3T,s969,ASD,homo-oligomer,PPI interface,1.0
+1RUN_1,1RUN,s969,ASD,homo-oligomer,PPI interface,1.0
+1RUO_1,1RUO,s969,ASD,homo-oligomer,PPI interface,1.0
+1ZRC_1,1ZRC,s969,ASD,homo-oligomer,PPI interface,1.0
+1ZRD_1,1ZRD,s969,ASD,homo-oligomer,PPI interface,1.0
+1ZRE_1,1ZRE,s969,ASD,homo-oligomer,PPI interface,1.0
+1ZRF_1,1ZRF,s969,ASD,homo-oligomer,PPI interface,1.0
+2CGP_1,2CGP,s969,ASD,homo (assembly only),PPI interface,1.0
+2GZW_1,2GZW,s969,ASD,homo-oligomer,PPI interface,1.0
+3KCC_1,3KCC,s969,ASD,homo-oligomer,PPI interface,1.0
+3N4M_1,3N4M,s969,ASD,hetero-complex,PPI interface,1.0
+3QOP_1,3QOP,s969,ASD,homo-oligomer,PPI interface,1.0
+3RDI_1,3RDI,s969,ASD,homo-oligomer,PPI interface,1.0
+3ROU_1,3ROU,s969,ASD,homo-oligomer,PPI interface,1.0
+3RPQ_1,3RPQ,s969,ASD,homo-oligomer,PPI interface,1.0
+3RYP_1,3RYP,s969,ASD,homo-oligomer,PPI interface,1.0
+3RYR_1,3RYR,s969,ASD,homo-oligomer,PPI interface,1.0
+4FT8_1,4FT8,s969,ASD,homo-oligomer,PPI interface,1.0
+4HZF_1,4HZF,s969,ASD,homo-oligomer,PPI interface,1.0
+4I01_1,4I01,s969,ASD,homo-oligomer,PPI interface,1.0
+4I02_1,4I02,s969,ASD,homo-oligomer,PPI interface,1.0
+4I09_1,4I09,s969,ASD,homo-oligomer,PPI interface,1.0
+4I0A_1,4I0A,s969,ASD,homo-oligomer,PPI interface,1.0
+4I0B_1,4I0B,s969,ASD,homo-oligomer,PPI interface,1.0
+4R8H_1,4R8H,s969,ASD,homo-oligomer,PPI interface,1.0
+3I54_1,3I54,s969,ASD,homo-oligomer,PPI interface,1.0
+3I59_1,3I59,s969,ASD,pseudo-hetero,PPI interface,2.0
+3MZH_1,3MZH,s969,ASD,homo-oligomer,PPI interface,1.0
+4A2U_1,4A2U,s969,ASD,homo-oligomer,PPI interface,1.0
+2OZ6_1,2OZ6,s969,ASD,homo (assembly only),PPI interface,0.0
+1A9X_1,1A9X,s60,ASD,hetero-complex,inner protein,0.0
+1BXR_1,1BXR,s60,ASD,hetero-complex,inner protein,0.0
+1C30_1,1C30,s60,ASD,hetero-complex,inner protein,0.0
+1C3O_1,1C3O,s60,ASD,hetero-complex,inner protein,0.0
+1CE8_1,1CE8,s60,ASD,hetero-complex,inner protein,0.0
+1CE8_2,1CE8,s60,ASD,hetero-complex,inner protein,0.0
+1CS0_1,1CS0,s60,ASD,hetero-complex,inner protein,0.0
+1JDB_1,1JDB,s60,ASD,hetero-complex,inner protein,0.0
+1KEE_1,1KEE,s60,ASD,hetero-complex,inner protein,0.0
+1M6V_1,1M6V,s60,ASD,hetero-complex,inner protein,0.0
+1T36_1,1T36,s60,ASD,hetero-complex,inner protein,0.0
+1T36_2,1T36,s60,ASD,hetero-complex,inner protein,0.0
+4MBS_1,4MBS,s63,ASD,homo-oligomer,inner protein,57.0
+1CSM_1,1CSM,s504,ASD,homo-oligomer,PPI interface,0.0
+2CSM_1,2CSM,s504,ASD,homo (assembly only),PPI interface,0.0
+3CSM_1,3CSM,s504,ASD,homo-oligomer,PPI interface,0.0
+4CSM_1,4CSM,s504,ASD,homo-oligomer,PPI interface,0.0
+5CSM_1,5CSM,s504,ASD,homo (assembly only),PPI interface,0.0
+1NXG_1,1NXG,s68,ASD,homo-oligomer,inner protein,6.0
+1OWB_1,1OWB,s68,ASD,homo-oligomer,inner protein,6.0
+4JAF_1,4JAF,s68,ASD,homo-oligomer,inner protein,6.0
+2OIQ_1,2OIQ,s969,ASD,homo-oligomer,inner protein,120.0
+3EL8_1,3EL8,s969,ASD,homo-oligomer,inner protein,120.0
+3F3T_1,3F3T,s969,ASD,homo-oligomer,inner protein,121.0
+3F3U_1,3F3U,s969,ASD,homo-oligomer,inner protein,121.0
+3F3V_1,3F3V,s969,ASD,homo-oligomer,inner protein,121.0
+3F3W_1,3F3W,s969,ASD,homo-oligomer,inner protein,121.0
+3G6G_1,3G6G,s969,ASD,homo-oligomer,inner protein,121.0
+3TZ7_1,3TZ7,s969,ASD,homo-oligomer,inner protein,121.0
+3TZ8_1,3TZ8,s969,ASD,homo-oligomer,inner protein,121.0
+3TZ9_1,3TZ9,s969,ASD,homo-oligomer,inner protein,121.0
+4AGW_1,4AGW,s969,ASD,homo-oligomer,inner protein,121.0
+5J5S_1,5J5S,s969,ASD,homo-oligomer,allosteric position (unspecified),121.0
+5TKV_1,5TKV,s75,ASD,homo-oligomer,allosteric position (unspecified),8.0
+1EGY_1,1EGY,s76,ASD,monomer,inner protein,7.0
+1EUP_1,1EUP,s76,ASD,monomer,inner protein,7.0
+2I80_1,2I80,s77,ASD,homo-oligomer,inner protein,3.0
+3GNV_1,3GNV,s301,ASD,homo-oligomer,inner protein,45.0
+3GNW_1,3GNW,s301,ASD,homo-oligomer,inner protein,45.0
+3MWW_1,3MWW,s301,ASD,homo-oligomer,inner protein,45.0
+4DQW_1,4DQW,s80,ASD,homo-oligomer,inner protein,
+4JJS_1,4JJS,s301,ASD,homo-oligomer,inner protein,45.0
+4JJU_1,4JJU,s301,ASD,homo-oligomer,inner protein,45.0
+4JTW_1,4JTW,s301,ASD,homo-oligomer,inner protein,45.0
+4JTY_1,4JTY,s301,ASD,homo-oligomer,inner protein,45.0
+4JTZ_1,4JTZ,s301,ASD,homo-oligomer,inner protein,45.0
+4JU1_1,4JU1,s301,ASD,homo-oligomer,inner protein,45.0
+4JU2_1,4JU2,s301,ASD,homo-oligomer,inner protein,45.0
+4JVQ_1,4JVQ,s301,ASD,homo-oligomer,inner protein,45.0
+5CZB_1,5CZB,s301,ASD,homo-oligomer,allosteric position (unspecified),45.0
+2HVW_1,2HVW,s82,ASD,homo-oligomer,inner protein,1.0
+4P9D_1,4P9D,s82,ASD,homo-oligomer,PPI interface,2.0
+5C2O_1,5C2O,s82,ASD,homo-oligomer,allosteric position (unspecified),1.0
+1YXD_1,1YXD,s89,ASD,homo-oligomer,inner protein,23.0
+2ATS_1,2ATS,s89,ASD,homo-oligomer,inner protein,27.0
+3PUO_1,3PUO,s89,ASD,homo-oligomer,inner protein,5.0
+3TCE_1,3TCE,s89,ASD,homo-oligomer,inner protein,9.0
+4DPQ_1,4DPQ,s89,ASD,homo-oligomer,inner protein,1.0
+4FHA_1,4FHA,s89,ASD,homo-oligomer,inner protein,0.0
+4HNN_1,4HNN,s89,ASD,homo-oligomer,inner protein,1.0
+4I7W_1,4I7W,s89,ASD,homo-oligomer,inner protein,2.0
+4M19_1,4M19,s89,ASD,homo-oligomer,inner protein,33.0
+4MLR_1,4MLR,s89,ASD,homo-oligomer,inner protein,33.0
+5F1U_1,5F1U,s89,ASD,homo-oligomer,allosteric position (unspecified),35.0
+5F1V_1,5F1V,s89,ASD,homo-oligomer,allosteric position (unspecified),35.0
+1KMP_1,1KMP,s95,ASD,monomer,inner protein,2.0
+1PO0_1,1PO0,s95,ASD,monomer,inner protein,
+1PO3_1,1PO3,s95,ASD,homo-oligomer,inner protein,
+1EYJ_1,1EYJ,s113,ASD,homo-oligomer,inner protein,35.0
+1EYK_1,1EYK,s113,ASD,homo-oligomer,inner protein,35.0
+1FBP_1,1FBP,s113,ASD,homo-oligomer,inner protein,35.0
+1FJ9_1,1FJ9,s113,ASD,homo-oligomer,inner protein,35.0
+1FPD_1,1FPD,s113,ASD,homo-oligomer,inner protein,35.0
+1FPE_1,1FPE,s113,ASD,homo-oligomer,inner protein,35.0
+1FPF_1,1FPF,s113,ASD,homo-oligomer,inner protein,35.0
+1FPG_1,1FPG,s113,ASD,homo-oligomer,inner protein,35.0
+1FPI_1,1FPI,s113,ASD,homo-oligomer,inner protein,35.0
+1FPJ_1,1FPJ,s113,ASD,homo-oligomer,inner protein,35.0
+1FPL_1,1FPL,s113,ASD,homo-oligomer,inner protein,35.0
+1FRP_1,1FRP,s113,ASD,homo-oligomer,inner protein,35.0
+1FSA_1,1FSA,s113,ASD,homo-oligomer,inner protein,35.0
+1KZ8_1,1KZ8,s113,ASD,homo-oligomer,inner protein,35.0
+1KZ8_2,1KZ8,s113,ASD,homo-oligomer,PPI interface,35.0
+1LEV_1,1LEV,s113,ASD,homo-oligomer,inner protein,35.0
+1NV7_1,1NV7,s113,ASD,homo-oligomer,inner protein,35.0
+1Q9D_1,1Q9D,s113,ASD,homo-oligomer,PPI interface,35.0
+1RDY_1,1RDY,s113,ASD,homo-oligomer,inner protein,35.0
+1RDZ_1,1RDZ,s113,ASD,homo-oligomer,inner protein,35.0
+1YYZ_1,1YYZ,s113,ASD,homo (assembly only),inner protein,35.0
+1YZ0_1,1YZ0,s113,ASD,homo-oligomer,inner protein,35.0
+2F3D_1,2F3D,s113,ASD,homo (assembly only),inner protein,35.0
+4FBP_1,4FBP,s113,ASD,homo-oligomer,inner protein,35.0
+4GBV_1,4GBV,s113,ASD,homo (assembly only),inner protein,35.0
+4GBW_1,4GBW,s113,ASD,homo (assembly only),inner protein,35.0
+4GWS_1,4GWS,s113,ASD,homo-oligomer,inner protein,35.0
+4GWY_1,4GWY,s113,ASD,homo (assembly only),inner protein,35.0
+4GWZ_1,4GWZ,s113,ASD,homo-oligomer,inner protein,35.0
+4GX4_1,4GX4,s113,ASD,homo-oligomer,inner protein,35.0
+4GX6_1,4GX6,s113,ASD,homo-oligomer,inner protein,35.0
+4H46_1,4H46,s113,ASD,homo (assembly only),inner protein,35.0
+4KXP_1,4KXP,s113,ASD,homo-oligomer,inner protein,35.0
+2GQ1_1,2GQ1,s113,ASD,homo (assembly only),PPI interface,3.0
+2Q8M_1,2Q8M,s113,ASD,homo-oligomer,inner protein,3.0
+2Q8M_2,2Q8M,s113,ASD,homo-oligomer,PPI interface,3.0
+5OSC_1,5OSC,s114,ASD,homo-oligomer,allosteric position (unspecified),114.0
+2VD4_1,2VD4,s115,ASD,homo (assembly only),inner protein,13.0
+4BQH_1,4BQH,s116,ASD,monomer,inner protein,0.0
+1FRZ_1,1FRZ,s117,ASD,homo-oligomer,PPI interface,7.0
+1FS5_1,1FS5,s117,ASD,homo-oligomer,PPI interface,7.0
+1HOT_1,1HOT,s117,ASD,homo-oligomer,PPI interface,7.0
+2WU1_1,2WU1,s117,ASD,homo-oligomer,PPI interface,7.0
+1LBC_1,1LBC,s614,ASD,homo-oligomer,PPI interface,190.0
+2AL4_1,2AL4,s614,ASD,homo-oligomer,PPI interface,209.0
+2AL5_1,2AL5,s614,ASD,homo-oligomer,PPI interface,209.0
+2XX7_1,2XX7,s614,ASD,homo-oligomer,PPI interface,209.0
+2XX8_1,2XX8,s614,ASD,homo-oligomer,PPI interface,209.0
+2XX9_1,2XX9,s614,ASD,homo-oligomer,PPI interface,209.0
+2XXH_1,2XXH,s614,ASD,homo-oligomer,PPI interface,209.0
+2XXI_1,2XXI,s614,ASD,homo-oligomer,PPI interface,209.0
+3BBR_1,3BBR,s614,ASD,homo-oligomer,PPI interface,209.0
+3H6T_1,3H6T,s614,ASD,homo-oligomer,PPI interface,190.0
+3H6U_1,3H6U,s614,ASD,homo (assembly only),PPI interface,209.0
+3H6V_1,3H6V,s614,ASD,homo-oligomer,PPI interface,209.0
+3H6W_1,3H6W,s614,ASD,homo-oligomer,PPI interface,209.0
+3IJO_1,3IJO,s614,ASD,homo-oligomer,PPI interface,
+3IJX_1,3IJX,s614,ASD,homo-oligomer,PPI interface,209.0
+3IK6_1,3IK6,s614,ASD,homo-oligomer,PPI interface,
+3IL1_1,3IL1,s614,ASD,homo-oligomer,PPI interface,
+3ILT_1,3ILT,s614,ASD,homo-oligomer,PPI interface,209.0
+3ILU_1,3ILU,s614,ASD,homo-oligomer,PPI interface,209.0
+3KGC_1,3KGC,s614,ASD,homo-oligomer,PPI interface,209.0
+3LSF_1,3LSF,s614,ASD,homo-oligomer,PPI interface,209.0
+3LSF_2,3LSF,s614,ASD,homo-oligomer,PPI interface,209.0
+3LSL_1,3LSL,s614,ASD,homo-oligomer,PPI interface,209.0
+3LSL_2,3LSL,s614,ASD,homo-oligomer,PPI interface,209.0
+3M3L_1,3M3L,s614,ASD,homo-oligomer,PPI interface,209.0
+3O28_1,3O28,s614,ASD,homo (assembly only),PPI interface,209.0
+3O29_1,3O29,s614,ASD,homo (assembly only),PPI interface,209.0
+3O2A_1,3O2A,s614,ASD,homo (assembly only),PPI interface,209.0
+3O6G_1,3O6G,s614,ASD,homo (assembly only),PPI interface,209.0
+3O6H_1,3O6H,s614,ASD,homo (assembly only),PPI interface,209.0
+3O6I_1,3O6I,s614,ASD,homo (assembly only),PPI interface,209.0
+3PMV_1,3PMV,s614,ASD,homo (assembly only),PPI interface,209.0
+3PMW_1,3PMW,s614,ASD,homo (assembly only),PPI interface,209.0
+3PMX_1,3PMX,s614,ASD,homo (assembly only),PPI interface,209.0
+3TDJ_1,3TDJ,s614,ASD,homo-oligomer,PPI interface,209.0
+3TKD_1,3TKD,s614,ASD,homo-oligomer,PPI interface,190.0
+4FAT_1,4FAT,s614,ASD,homo (assembly only),PPI interface,209.0
+4IY5_1,4IY5,s614,ASD,homo-oligomer,PPI interface,209.0
+4IY6_1,4IY6,s614,ASD,homo (assembly only),PPI interface,209.0
+4LZ5_1,4LZ5,s614,ASD,homo-oligomer,PPI interface,209.0
+4LZ7_1,4LZ7,s614,ASD,homo-oligomer,PPI interface,209.0
+4LZ8_1,4LZ8,s614,ASD,homo-oligomer,PPI interface,209.0
+4N07_1,4N07,s614,ASD,homo-oligomer,PPI interface,209.0
+4U4S_1,4U4S,s614,ASD,homo-oligomer,allosteric position (unspecified),209.0
+4U4X_1,4U4X,s614,ASD,homo-oligomer,allosteric position (unspecified),209.0
+4X48_1,4X48,s614,ASD,homo-oligomer,inner protein,209.0
+5BUU_1,5BUU,s614,ASD,homo-oligomer,allosteric position (unspecified),209.0
+5ELV_1,5ELV,s614,ASD,homo-oligomer,allosteric position (unspecified),209.0
+5O9A_1,5O9A,s614,ASD,homo-oligomer,inner protein,209.0
+5OEW_1,5OEW,s614,ASD,homo-oligomer,allosteric position (unspecified),209.0
+1HWY_1,1HWY,s134,ASD,homo-oligomer,PPI interface,17.0
+1NQT_1,1NQT,s134,ASD,homo-oligomer,PPI interface,16.0
+3ETD_1,3ETD,s134,ASD,homo-oligomer,PPI interface,
+3ETD_2,3ETD,s134,ASD,homo-oligomer,inner protein,12.0
+3ETE_1,3ETE,s134,ASD,homo-oligomer,PPI interface,
+3ETE_2,3ETE,s134,ASD,homo-oligomer,inner protein,12.0
+3ETG_1,3ETG,s134,ASD,homo-oligomer,PPI interface,
+3ETG_2,3ETG,s134,ASD,homo-oligomer,inner protein,12.0
+1UXN_1,1UXN,s137,ASD,homo (assembly only),inner protein,1.0
+1UXP_1,1UXP,s137,ASD,homo (assembly only),inner protein,1.0
+1UXQ_1,1UXQ,s137,ASD,homo (assembly only),inner protein,1.0
+1UXR_1,1UXR,s137,ASD,homo (assembly only),inner protein,1.0
+1UXT_1,1UXT,s137,ASD,homo (assembly only),inner protein,1.0
+1UXU_1,1UXU,s137,ASD,homo (assembly only),inner protein,1.0
+1UXV_1,1UXV,s137,ASD,homo (assembly only),inner protein,1.0
+1BO5_1,1BO5,s138,ASD,homo-oligomer,PPI interface,12.0
+1ABB_1,1ABB,s709,ASD,homo-oligomer,inner protein,144.0
+1B4D_1,1B4D,s709,ASD,monomer,inner protein,144.0
+1C50_1,1C50,s709,ASD,homo (assembly only),inner protein,160.0
+1C8K_1,1C8K,s709,ASD,homo (assembly only),inner protein,160.0
+1C8L_1,1C8L,s709,ASD,homo (assembly only),inner protein,160.0
+1C8L_2,1C8L,s709,ASD,homo (assembly only),inner protein,159.0
+1E1Y_1,1E1Y,s709,ASD,homo (assembly only),inner protein,160.0
+1FTQ_1,1FTQ,s709,ASD,homo (assembly only),inner protein,144.0
+1GFZ_1,1GFZ,s709,ASD,homo (assembly only),inner protein,144.0
+1GFZ_2,1GFZ,s709,ASD,homo (assembly only),inner protein,159.0
+1GG8_1,1GG8,s709,ASD,homo (assembly only),inner protein,144.0
+1GPY_1,1GPY,s709,ASD,homo (assembly only),inner protein,160.0
+1H5U_1,1H5U,s709,ASD,homo (assembly only),inner protein,160.0
+1K06_1,1K06,s709,ASD,homo (assembly only),inner protein,160.0
+1K08_1,1K08,s709,ASD,homo (assembly only),inner protein,160.0
+1LWO_1,1LWO,s709,ASD,homo (assembly only),inner protein,160.0
+1PYG_1,1PYG,s709,ASD,homo-oligomer,inner protein,158.0
+1UZU_1,1UZU,s709,ASD,homo (assembly only),inner protein,160.0
+1WUT_1,1WUT,s709,ASD,homo (assembly only),inner protein,160.0
+1WUY_1,1WUY,s709,ASD,homo (assembly only),inner protein,160.0
+1WV0_1,1WV0,s709,ASD,homo (assembly only),inner protein,160.0
+1WV1_1,1WV1,s709,ASD,homo (assembly only),inner protein,160.0
+1XKX_1,1XKX,s709,ASD,monomer,inner protein,160.0
+1Z62_1,1Z62,s709,ASD,homo (assembly only),inner protein,
+1Z62_2,1Z62,s709,ASD,homo (assembly only),inner protein,160.0
+1Z6P_1,1Z6P,s709,ASD,homo (assembly only),inner protein,160.0
+1Z6Q_1,1Z6Q,s709,ASD,homo (assembly only),inner protein,160.0
+2AMV_1,2AMV,s709,ASD,homo (assembly only),inner protein,160.0
+2GJ4_1,2GJ4,s709,ASD,homo (assembly only),inner protein,160.0
+2GM9_1,2GM9,s709,ASD,homo (assembly only),inner protein,160.0
+2IEG_1,2IEG,s709,ASD,homo-oligomer,inner protein,160.0
+2IEI_1,2IEI,s709,ASD,homo-oligomer,inner protein,160.0
+2OFF_1,2OFF,s709,ASD,homo (assembly only),inner protein,160.0
+2PRI_1,2PRI,s709,ASD,homo (assembly only),inner protein,160.0
+2PRJ_1,2PRJ,s709,ASD,homo (assembly only),inner protein,144.0
+2QN1_1,2QN1,s709,ASD,homo (assembly only),inner protein,160.0
+2QN2_1,2QN2,s709,ASD,homo (assembly only),inner protein,160.0
+2QN7_1,2QN7,s709,ASD,homo (assembly only),inner protein,144.0
+2QN8_1,2QN8,s709,ASD,homo (assembly only),inner protein,160.0
+2QN9_1,2QN9,s709,ASD,homo (assembly only),inner protein,144.0
+2QNB_1,2QNB,s709,ASD,homo (assembly only),inner protein,160.0
+2SKC_1,2SKC,s709,ASD,homo (assembly only),inner protein,144.0
+2SKD_1,2SKD,s709,ASD,homo (assembly only),inner protein,144.0
+2SKE_1,2SKE,s709,ASD,homo (assembly only),inner protein,144.0
+3AMV_1,3AMV,s709,ASD,homo (assembly only),inner protein,160.0
+3BCR_1,3BCR,s709,ASD,homo (assembly only),inner protein,160.0
+3BCU_1,3BCU,s709,ASD,homo (assembly only),inner protein,160.0
+3BD6_1,3BD6,s709,ASD,homo (assembly only),inner protein,160.0
+3BD7_1,3BD7,s709,ASD,homo (assembly only),inner protein,160.0
+3BDA_1,3BDA,s709,ASD,homo (assembly only),inner protein,160.0
+3CUW_1,3CUW,s709,ASD,monomer,inner protein,160.0
+3E3N_1,3E3N,s709,ASD,homo-oligomer,inner protein,158.0
+3E3O_1,3E3O,s709,ASD,homo-oligomer,inner protein,144.0
+3EBO_1,3EBO,s709,ASD,homo (assembly only),inner protein,160.0
+3EBP_1,3EBP,s709,ASD,homo (assembly only),inner protein,160.0
+3G2H_1,3G2H,s709,ASD,monomer,inner protein,144.0
+3MQF_1,3MQF,s709,ASD,homo (assembly only),inner protein,160.0
+3MRT_1,3MRT,s709,ASD,homo (assembly only),inner protein,160.0
+3MRV_1,3MRV,s709,ASD,homo (assembly only),inner protein,160.0
+3MRX_1,3MRX,s709,ASD,homo (assembly only),inner protein,160.0
+3MS2_1,3MS2,s709,ASD,homo (assembly only),inner protein,160.0
+3MS4_1,3MS4,s709,ASD,homo (assembly only),inner protein,160.0
+3MS7_1,3MS7,s709,ASD,homo (assembly only),inner protein,160.0
+3MSC_1,3MSC,s709,ASD,homo (assembly only),inner protein,160.0
+3MT7_1,3MT7,s709,ASD,homo (assembly only),inner protein,160.0
+3MT8_1,3MT8,s709,ASD,homo (assembly only),inner protein,160.0
+3MT9_1,3MT9,s709,ASD,homo (assembly only),inner protein,160.0
+3MTA_1,3MTA,s709,ASD,homo (assembly only),inner protein,160.0
+3MTB_1,3MTB,s709,ASD,homo (assembly only),inner protein,160.0
+3MTD_1,3MTD,s709,ASD,homo (assembly only),inner protein,160.0
+3NC4_1,3NC4,s709,ASD,homo (assembly only),inner protein,160.0
+4MRA_1,4MRA,s709,ASD,homo (assembly only),inner protein,160.0
+8GPB_1,8GPB,s709,ASD,homo (assembly only),inner protein,158.0
+8GPB_2,8GPB,s709,ASD,homo (assembly only),inner protein,158.0
+1PCQ_1,1PCQ,s147,ASD,hetero-complex,inner protein,
+1SVT_1,1SVT,s147,ASD,hetero-complex,inner protein,
+3E2A_1,3E2A,s625,ASD,homo-oligomer,inner protein,11.0
+3E2W_1,3E2W,s625,ASD,homo-oligomer,inner protein,11.0
+3E3F_1,3E3F,s625,ASD,homo-oligomer,inner protein,11.0
+3E3I_1,3E3I,s625,ASD,homo-oligomer,inner protein,11.0
+3PHE_1,3PHE,s301,ASD,homo-oligomer,inner protein,5.0
+4O3T_1,4O3T,s154,ASD,protein-peptide,inner protein,
+4O3U_1,4O3U,s155,ASD,protein-peptide,inner protein,
+4B9Q_1,4B9Q,s417,ASD,homo-oligomer,inner protein,49.0
+4JN4_1,4JN4,s417,ASD,homo-oligomer,inner protein,49.0
+4JNE_1,4JNE,s417,ASD,homo-oligomer,inner protein,49.0
+4R5G_1,4R5G,s417,ASD,homo-oligomer,allosteric position (unspecified),57.0
+1VEA_1,1VEA,s160,ASD,homo-oligomer,PPI interface,7.0
+1WMQ_1,1WMQ,s160,ASD,homo-oligomer,PPI interface,2.0
+1WPU_1,1WPU,s160,ASD,homo-oligomer,PPI interface,2.0
+1WPV_1,1WPV,s160,ASD,homo-oligomer,PPI interface,2.0
+1DP4_1,1DP4,s161,ASD,homo-oligomer,inner protein,0.0
+1T34_1,1T34,s161,ASD,protein-peptide,inner protein,0.0
+3A3K_1,3A3K,s161,ASD,homo-oligomer,inner protein,6.0
+3TUV_1,3TUV,s162,ASD,homo (assembly only),inner protein,2.0
+1HYV_1,1HYV,s306,ASD,homo (assembly only),PPI interface,259.0
+3ZCM_1,3ZCM,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSO_1,3ZSO,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSQ_1,3ZSQ,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSR_1,3ZSR,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSV_1,3ZSV,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSW_1,3ZSW,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSX_1,3ZSX,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSY_1,3ZSY,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZSZ_1,3ZSZ,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZT0_1,3ZT0,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZT1_1,3ZT1,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZT2_1,3ZT2,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZT2_2,3ZT2,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZT3_1,3ZT3,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZT4_1,3ZT4,s306,ASD,homo-oligomer,PPI interface,259.0
+3ZT4_2,3ZT4,s306,ASD,homo-oligomer,PPI interface,259.0
+4CE9_1,4CE9,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEA_1,4CEA,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEB_1,4CEB,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEC_1,4CEC,s306,ASD,homo-oligomer,PPI interface,259.0
+4CED_1,4CED,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEE_1,4CEE,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEF_1,4CEF,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEO_1,4CEO,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEQ_1,4CEQ,s306,ASD,homo-oligomer,PPI interface,259.0
+4CER_1,4CER,s306,ASD,homo-oligomer,PPI interface,259.0
+4CES_1,4CES,s306,ASD,homo-oligomer,PPI interface,259.0
+4CEZ_1,4CEZ,s306,ASD,homo-oligomer,PPI interface,259.0
+4CF0_1,4CF0,s306,ASD,homo-oligomer,PPI interface,259.0
+4CF1_1,4CF1,s306,ASD,homo-oligomer,PPI interface,259.0
+4CF2_1,4CF2,s306,ASD,homo-oligomer,PPI interface,259.0
+4CF8_1,4CF8,s306,ASD,homo-oligomer,PPI interface,259.0
+4CF9_1,4CF9,s306,ASD,homo-oligomer,PPI interface,259.0
+4CFA_1,4CFA,s306,ASD,homo-oligomer,PPI interface,259.0
+4CFB_1,4CFB,s306,ASD,homo-oligomer,PPI interface,259.0
+4CFC_1,4CFC,s306,ASD,homo-oligomer,PPI interface,259.0
+4CFD_1,4CFD,s306,ASD,homo-oligomer,PPI interface,259.0
+4CGD_1,4CGD,s306,ASD,homo-oligomer,PPI interface,259.0
+4CGF_1,4CGF,s306,ASD,homo-oligomer,PPI interface,259.0
+4CGG_1,4CGG,s306,ASD,homo-oligomer,PPI interface,259.0
+4CGH_1,4CGH,s306,ASD,homo-oligomer,PPI interface,259.0
+4CGI_1,4CGI,s306,ASD,homo-oligomer,PPI interface,259.0
+4CGJ_1,4CGJ,s306,ASD,homo-oligomer,PPI interface,259.0
+4CHN_1,4CHN,s306,ASD,homo-oligomer,PPI interface,259.0
+4CHO_1,4CHO,s306,ASD,homo-oligomer,PPI interface,259.0
+4CHP_1,4CHP,s306,ASD,homo-oligomer,PPI interface,259.0
+4CHP_2,4CHP,s306,ASD,homo-oligomer,inner protein,259.0
+4CHQ_1,4CHQ,s306,ASD,homo-oligomer,PPI interface,259.0
+4CHY_1,4CHY,s306,ASD,homo-oligomer,PPI interface,259.0
+4CHZ_1,4CHZ,s306,ASD,homo-oligomer,inner protein,259.0
+4CIE_1,4CIE,s306,ASD,homo-oligomer,PPI interface,259.0
+4CIF_1,4CIF,s306,ASD,homo-oligomer,PPI interface,259.0
+4CIG_1,4CIG,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJ3_1,4CJ3,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJ4_1,4CJ4,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJ5_1,4CJ5,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJE_1,4CJE,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJF_1,4CJF,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJK_1,4CJK,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJL_1,4CJL,s306,ASD,homo (assembly only),PPI interface,259.0
+4CJP_1,4CJP,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJQ_1,4CJQ,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJR_1,4CJR,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJS_1,4CJS,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJT_1,4CJT,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJU_1,4CJU,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJV_1,4CJV,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJW_1,4CJW,s306,ASD,homo-oligomer,PPI interface,259.0
+4CJW_2,4CJW,s306,ASD,homo-oligomer,inner protein,259.0
+4CK1_1,4CK1,s306,ASD,homo-oligomer,PPI interface,259.0
+4CK2_1,4CK2,s306,ASD,homo-oligomer,PPI interface,259.0
+4CK2_2,4CK2,s306,ASD,homo-oligomer,PPI interface,259.0
+4CK3_1,4CK3,s306,ASD,homo-oligomer,PPI interface,259.0
+4LH5_1,4LH5,s306,ASD,homo (assembly only),PPI interface,258.0
+4OVL_1,4OVL,s306,ASD,homo-oligomer,PPI interface,259.0
+5KGW_1,5KGW,s306,ASD,homo (assembly only),allosteric position (unspecified),259.0
+5KGX_1,5KGX,s306,ASD,homo (assembly only),allosteric position (unspecified),259.0
+5KRS_1,5KRS,s306,ASD,monomer,allosteric position (unspecified),259.0
+5KRT_1,5KRT,s306,ASD,homo (assembly only),allosteric position (unspecified),259.0
+1LDN_1,1LDN,s172,ASD,homo-oligomer,inner protein,1.0
+2LDB_1,2LDB,s172,ASD,homo-oligomer,inner protein,1.0
+1EFA_1,1EFA,s969,ASD,homo-oligomer,inner protein,5.0
+1LBH_1,1LBH,s969,ASD,homo-oligomer,inner protein,5.0
+1TLF_1,1TLF,s969,ASD,homo-oligomer,inner protein,5.0
+2P9H_1,2P9H,s969,ASD,homo-oligomer,inner protein,5.0
+2PAF_1,2PAF,s969,ASD,homo-oligomer,inner protein,5.0
+2PE5_1,2PE5,s969,ASD,homo-oligomer,inner protein,5.0
+3EDC_1,3EDC,s969,ASD,homo-oligomer,inner protein,5.0
+4RZT_1,4RZT,s969,ASD,homo-oligomer,allosteric position (unspecified),5.0
+2HIM_1,2HIM,s181,ASD,homo-oligomer,PPI interface,1.0
+2P2N_1,2P2N,s181,ASD,homo-oligomer,PPI interface,1.0
+1O0S_1,1O0S,s182,ASD,homo-oligomer,PPI interface,1.0
+3D2P_1,3D2P,s184,ASD,homo-oligomer,inner protein,4.0
+4KZT_1,4KZT,s184,ASD,homo-oligomer,inner protein,2.0
+5I56_1,5I56,s614,ASD,hetero-complex,inner protein,34.0
+5I58_1,5I58,s614,ASD,hetero-complex,inner protein,34.0
+5I59_1,5I59,s614,ASD,hetero-complex,inner protein,34.0
+5JTY_1,5JTY,s614,ASD,hetero-complex,inner protein,34.0
+1FCJ_1,1FCJ,s186,ASD,homo-oligomer,PPI interface,3.0
+1QW7_1,1QW7,s187,ASD,homo-oligomer,inner protein,54.0
+3WMG_1,3WMG,s583,ASD,protein-peptide,inner protein,
+2Q5O_1,2Q5O,s189,ASD,homo-oligomer,inner protein,3.0
+2Q5Q_1,2Q5Q,s189,ASD,homo-oligomer,inner protein,3.0
+1FIY_1,1FIY,s191,ASD,homo (assembly only),inner protein,0.0
+1JQN_1,1JQN,s191,ASD,homo (assembly only),inner protein,0.0
+1QB4_1,1QB4,s191,ASD,homo (assembly only),inner protein,0.0
+5VYJ_1,5VYJ,s191,ASD,homo-oligomer,inner protein,3.0
+3CQD_1,3CQD,s193,ASD,homo-oligomer,PPI interface,1.0
+3UMO_1,3UMO,s193,ASD,homo-oligomer,PPI interface,1.0
+3DC2_1,3DC2,s195,ASD,homo-oligomer,inner protein,2.0
+1PSD_1,1PSD,s195,ASD,homo-oligomer,inner protein,3.0
+2P9C_1,2P9C,s195,ASD,homo-oligomer,inner protein,3.0
+2P9G_1,2P9G,s195,ASD,homo-oligomer,inner protein,3.0
+2PA3_1,2PA3,s195,ASD,homo (assembly only),inner protein,3.0
+1DKR_1,1DKR,s749,ASD,homo-oligomer,PPI interface,0.0
+1DKU_1,1DKU,s749,ASD,homo-oligomer,PPI interface,0.0
+1IBS_1,1IBS,s749,ASD,homo-oligomer,PPI interface,0.0
+2QMX_1,2QMX,s199,ASD,homo-oligomer,PPI interface,0.0
+3MWB_1,3MWB,s200,ASD,homo-oligomer,PPI interface,0.0
+4DFX_1,4DFX,s969,ASD,protein-peptide,inner protein,73.0
+4DFZ_1,4DFZ,s969,ASD,protein-peptide,inner protein,73.0
+2VK1_1,2VK1,s204,ASD,homo-oligomer,inner protein,4.0
+2VK8_1,2VK8,s204,ASD,homo-oligomer,inner protein,4.0
+2VJY_1,2VJY,s204,ASD,homo-oligomer,inner protein,3.0
+1A3W_1,1A3W,s581,ASD,homo-oligomer,inner protein,1.0
+2G50_1,2G50,s581,ASD,homo-oligomer,inner protein,9.0
+3N25_1,3N25,s581,ASD,homo-oligomer,inner protein,10.0
+3HQP_1,3HQP,s581,ASD,homo-oligomer,inner protein,12.0
+4HYV_1,4HYV,s581,ASD,homo-oligomer,inner protein,0.0
+4HYW_1,4HYW,s581,ASD,homo-oligomer,inner protein,0.0
+1XMS_1,1XMS,s214,ASD,homo (assembly only),PPI interface,15.0
+1XMV_1,1XMV,s214,ASD,homo (assembly only),PPI interface,13.0
+3CMW_1,3CMW,s214,ASD,homo-oligomer,PPI interface,13.0
+3CMX_1,3CMX,s214,ASD,homo-oligomer,PPI interface,13.0
+2G88_1,2G88,s214,ASD,monomer,inner protein,14.0
+4YI8_1,4YI8,s215,ASD,monomer,allosteric position (unspecified),0.0
+4YI8_2,4YI8,s215,ASD,monomer,allosteric position (unspecified),0.0
+3AO2_1,3AO2,s306,ASD,homo-oligomer,PPI interface,259.0
+3I0R_1,3I0R,s542,ASD,pseudo-hetero,inner protein,259.0
+3I0S_1,3I0S,s542,ASD,pseudo-hetero,inner protein,259.0
+2R1R_1,2R1R,s219,ASD,protein-peptide,PPI interface,21.0
+3R1R_1,3R1R,s219,ASD,protein-peptide,inner protein,17.0
+4R1R_1,4R1R,s219,ASD,protein-peptide,PPI interface,21.0
+5CNS_1,5CNS,s219,ASD,hetero-complex,allosteric position (unspecified),17.0
+5CNT_1,5CNT,s219,ASD,hetero-complex,allosteric position (unspecified),17.0
+5CNU_1,5CNU,s219,ASD,hetero-complex,allosteric position (unspecified),21.0
+5CNV_1,5CNV,s219,ASD,hetero-complex,allosteric position (unspecified),21.0
+1XJE_1,1XJE,s220,ASD,homo-oligomer,PPI interface,0.0
+1XJF_1,1XJF,s220,ASD,homo-oligomer,PPI interface,0.0
+1XJG_1,1XJG,s220,ASD,homo-oligomer,PPI interface,0.0
+1XJJ_1,1XJJ,s220,ASD,homo-oligomer,PPI interface,0.0
+1XJK_1,1XJK,s220,ASD,homo-oligomer,PPI interface,0.0
+1XJM_1,1XJM,s220,ASD,homo-oligomer,PPI interface,0.0
+1XJN_1,1XJN,s220,ASD,homo-oligomer,PPI interface,0.0
+3O0N_1,3O0N,s220,ASD,homo-oligomer,PPI interface,0.0
+3O0O_1,3O0O,s220,ASD,homo-oligomer,PPI interface,0.0
+3O0Q_1,3O0Q,s220,ASD,homo-oligomer,PPI interface,0.0
+1PEO_1,1PEO,s586,ASD,homo (assembly only),PPI interface,1.0
+1PEQ_1,1PEQ,s586,ASD,homo (assembly only),PPI interface,1.0
+1PEU_1,1PEU,s586,ASD,homo (assembly only),PPI interface,1.0
+1H78_1,1H78,s223,ASD,homo (assembly only),PPI interface,1.0
+1H79_1,1H79,s223,ASD,homo (assembly only),PPI interface,1.0
+1H7A_1,1H7A,s223,ASD,homo (assembly only),PPI interface,1.0
+1HK8_1,1HK8,s223,ASD,homo (assembly only),PPI interface,1.0
+3RSR_1,3RSR,s602,ASD,homo (assembly only),PPI interface,13.0
+3S87_1,3S87,s602,ASD,homo (assembly only),PPI interface,11.0
+3S8A_1,3S8A,s602,ASD,homo (assembly only),PPI interface,11.0
+3S8B_1,3S8B,s602,ASD,homo (assembly only),PPI interface,9.0
+3S8C_1,3S8C,s602,ASD,homo (assembly only),PPI interface,9.0
+3TB9_1,3TB9,s602,ASD,homo (assembly only),PPI interface,9.0
+3TBA_1,3TBA,s602,ASD,homo (assembly only),PPI interface,11.0
+2C2B_1,2C2B,s227,ASD,homo-oligomer,inner protein,
+2NW8_1,2NW8,s228,ASD,homo-oligomer,PPI interface,3.0
+1BEU_1,1BEU,s232,ASD,hetero-complex,inner protein,103.0
+1FUY_1,1FUY,s232,ASD,hetero-complex,inner protein,103.0
+1K3U_1,1K3U,s232,ASD,hetero-complex,inner protein,105.0
+1K7E_1,1K7E,s232,ASD,hetero-complex,inner protein,105.0
+1K7F_1,1K7F,s232,ASD,hetero-complex,inner protein,105.0
+1K8Y_1,1K8Y,s232,ASD,hetero-complex,inner protein,105.0
+1K8Z_1,1K8Z,s232,ASD,hetero-complex,inner protein,105.0
+1KFB_1,1KFB,s232,ASD,hetero-complex,inner protein,102.0
+1KFC_1,1KFC,s232,ASD,hetero-complex,inner protein,103.0
+1TJP_1,1TJP,s232,ASD,hetero-complex,inner protein,105.0
+2CLE_1,2CLE,s232,ASD,hetero-complex,inner protein,97.0
+2CLF_1,2CLF,s232,ASD,hetero-complex,inner protein,97.0
+2CLH_1,2CLH,s232,ASD,hetero-complex,inner protein,105.0
+2CLI_1,2CLI,s232,ASD,hetero-complex,inner protein,69.0
+2CLK_1,2CLK,s232,ASD,hetero-complex,inner protein,105.0
+2CLL_1,2CLL,s232,ASD,hetero-complex,inner protein,69.0
+2CLM_1,2CLM,s232,ASD,hetero-complex,inner protein,97.0
+2CLO_1,2CLO,s232,ASD,hetero-complex,inner protein,105.0
+2J9X_1,2J9X,s232,ASD,hetero-complex,inner protein,102.0
+2RH9_1,2RH9,s232,ASD,hetero-complex,inner protein,102.0
+3CEP_1,3CEP,s232,ASD,hetero-complex,inner protein,102.0
+4HN4_1,4HN4,s232,ASD,hetero-complex,inner protein,69.0
+4HPJ_1,4HPJ,s232,ASD,hetero-complex,inner protein,69.0
+4HPX_1,4HPX,s232,ASD,hetero-complex,inner protein,69.0
+4HT3_1,4HT3,s232,ASD,hetero-complex,inner protein,69.0
+4KKX_1,4KKX,s232,ASD,hetero-complex,inner protein,97.0
+4WX2_1,4WX2,s234,ASD,hetero-complex,PPI interface,95.0
+1I6K_1,1I6K,s235,ASD,homo (assembly only),inner protein,6.0
+1I6L_1,1I6L,s235,ASD,homo (assembly only),inner protein,6.0
+1I6M_1,1I6M,s235,ASD,homo (assembly only),inner protein,6.0
+1M83_1,1M83,s235,ASD,homo (assembly only),inner protein,3.0
+1MAU_1,1MAU,s235,ASD,homo (assembly only),inner protein,3.0
+1MAW_1,1MAW,s235,ASD,homo-oligomer,inner protein,3.0
+2OV4_1,2OV4,s235,ASD,homo (assembly only),inner protein,6.0
+3FHJ_1,3FHJ,s235,ASD,homo-oligomer,inner protein,6.0
+3FI0_1,3FI0,s235,ASD,homo-oligomer,inner protein,6.0
+3BEO_1,3BEO,s238,ASD,homo-oligomer,inner protein,2.0
+4NES_1,4NES,s238,ASD,homo (assembly only),inner protein,1.0
+4FKZ_1,4FKZ,s238,ASD,homo-oligomer,inner protein,1.0
+2JJX_1,2JJX,s244,ASD,homo-oligomer,PPI interface,0.0
+2V4Y_1,2V4Y,s244,ASD,homo-oligomer,PPI interface,3.0
+3EK5_1,3EK5,s244,ASD,homo-oligomer,PPI interface,1.0
+3NWY_1,3NWY,s244,ASD,homo-oligomer,PPI interface,3.0
+4A7W_1,4A7W,s244,ASD,homo-oligomer,PPI interface,1.0
+1VST_1,1VST,s246,ASD,homo (assembly only),PPI interface,2.0
+1XTU_1,1XTU,s246,ASD,homo-oligomer,PPI interface,
+3G6W_1,3G6W,s246,ASD,homo-oligomer,PPI interface,
+1JLR_1,1JLR,s246,ASD,homo-oligomer,PPI interface,5.0
+1PZO_1,1PZO,s248,ASD,monomer,inner protein,
+1PZP_1,1PZP,s248,ASD,monomer,inner protein,77.0
+4EIY_1,4EIY,s840,ASD,monomer,inner protein,
+4N6H_1,4N6H,s840,ASD,monomer,inner protein,
+4OR2_1,4OR2,s840,ASD,homo-oligomer,inner protein,309.0
+5L32_1,5L32,s840,ASD,homo-oligomer,allosteric position (unspecified),265.0
+5UIG_1,5UIG,s840,ASD,monomer,inner protein,360.0
+5WIV_1,5WIV,s840,ASD,monomer,allosteric position (unspecified),
+6C1Q_1,6C1Q,s840,ASD,protein-peptide,allosteric position (unspecified),320.0
+6C1R_1,6C1R,s840,ASD,protein-peptide,allosteric position (unspecified),321.0
+11BG_1,11BG,s256,ASD,homo-oligomer,PPI interface,19.0
+3K5V_1,3K5V,s969,ASD,homo-oligomer,inner protein,22.0
+6HD6_1,6HD6,s969,ASD,homo-oligomer,allosteric position (unspecified),22.0
+1SOZ_1,1SOZ,s258,ASD,protein-peptide,inner protein,
+2R3Y_1,2R3Y,s259,ASD,protein-peptide,inner protein,
+3GCN_1,3GCN,s260,ASD,homo (assembly only),inner protein,
+3GCO_1,3GCO,s261,ASD,protein-peptide,inner protein,
+3GDS_1,3GDS,s262,ASD,protein-peptide,inner protein,
+3GDU_1,3GDU,s263,ASD,homo-oligomer,inner protein,
+3GDV_1,3GDV,s260,ASD,homo-oligomer,inner protein,
+4RQZ_1,4RQZ,s258,ASD,protein-peptide,inner protein,
+1Q3E_1,1Q3E,s969,ASD,homo-oligomer,inner protein,9.0
+1Q43_1,1Q43,s969,ASD,homo-oligomer,inner protein,8.0
+1Q5O_1,1Q5O,s969,ASD,homo (assembly only),inner protein,8.0
+2Q0A_1,2Q0A,s969,ASD,homo-oligomer,inner protein,9.0
+3BPZ_1,3BPZ,s969,ASD,homo-oligomer,inner protein,8.0
+3ETQ_1,3ETQ,s969,ASD,homo-oligomer,inner protein,8.0
+2PTM_1,2PTM,s969,ASD,homo (assembly only),inner protein,0.0
+2JFZ_1,2JFZ,s270,ASD,homo-oligomer,inner protein,4.0
+2W4I_1,2W4I,s270,ASD,homo-oligomer,PPI interface,4.0
+4B1F_1,4B1F,s270,ASD,homo-oligomer,inner protein,4.0
+2JFN_1,2JFN,s270,ASD,monomer,inner protein,0.0
+3HFR_1,3HFR,s270,ASD,homo-oligomer,inner protein,2.0
+2VVT_1,2VVT,s270,ASD,homo-oligomer,inner protein,2.0
+3AV9_1,3AV9,s306,ASD,protein-peptide,PPI interface,
+3AVA_1,3AVA,s306,ASD,protein-peptide,PPI interface,
+3AVB_1,3AVB,s306,ASD,protein-peptide,PPI interface,
+3AVC_1,3AVC,s306,ASD,protein-peptide,PPI interface,
+3AVF_1,3AVF,s306,ASD,protein-peptide,PPI interface,
+3AVG_1,3AVG,s306,ASD,protein-peptide,PPI interface,
+3AVH_1,3AVH,s306,ASD,protein-peptide,PPI interface,
+3AVI_1,3AVI,s306,ASD,protein-peptide,PPI interface,
+3AVJ_1,3AVJ,s306,ASD,protein-peptide,PPI interface,
+3AVK_1,3AVK,s306,ASD,protein-peptide,PPI interface,
+3AVL_1,3AVL,s306,ASD,protein-peptide,PPI interface,
+3AVM_1,3AVM,s306,ASD,protein-peptide,PPI interface,
+3AVN_1,3AVN,s306,ASD,protein-peptide,PPI interface,
+3LPU_1,3LPU,s306,ASD,homo (assembly only),PPI interface,259.0
+3NF6_1,3NF6,s306,ASD,homo-oligomer,inner protein,259.0
+3NF7_1,3NF7,s306,ASD,homo-oligomer,inner protein,259.0
+3NF8_1,3NF8,s306,ASD,homo-oligomer,inner protein,259.0
+3NF9_1,3NF9,s306,ASD,homo-oligomer,inner protein,259.0
+3NFA_1,3NFA,s306,ASD,homo-oligomer,inner protein,259.0
+4AH9_1,4AH9,s306,ASD,homo-oligomer,PPI interface,259.0
+4AHR_1,4AHR,s306,ASD,homo-oligomer,PPI interface,259.0
+4AHS_1,4AHS,s306,ASD,homo-oligomer,PPI interface,259.0
+4AHT_1,4AHT,s306,ASD,homo-oligomer,PPI interface,259.0
+4AHU_1,4AHU,s306,ASD,homo-oligomer,PPI interface,259.0
+4AHV_1,4AHV,s306,ASD,homo-oligomer,PPI interface,259.0
+4DMN_1,4DMN,s306,ASD,homo (assembly only),PPI interface,259.0
+4E1M_1,4E1M,s306,ASD,homo (assembly only),PPI interface,259.0
+4E1N_1,4E1N,s306,ASD,homo (assembly only),PPI interface,259.0
+4GVM_1,4GVM,s306,ASD,homo (assembly only),PPI interface,259.0
+4GW6_1,4GW6,s306,ASD,homo (assembly only),PPI interface,259.0
+4ID1_1,4ID1,s306,ASD,homo (assembly only),PPI interface,258.0
+4JLH_1,4JLH,s306,ASD,homo (assembly only),PPI interface,259.0
+4O0J_1,4O0J,s306,ASD,homo (assembly only),PPI interface,259.0
+4O55_1,4O55,s306,ASD,homo (assembly only),PPI interface,259.0
+4O5B_1,4O5B,s306,ASD,homo (assembly only),PPI interface,259.0
+1PFK_1,1PFK,s808,ASD,homo-oligomer,PPI interface,2.0
+4PFK_1,4PFK,s808,ASD,homo (assembly only),PPI interface,7.0
+1BDH_1,1BDH,s281,ASD,homo (assembly only),inner protein,2.0
+1BDI_1,1BDI,s281,ASD,homo (assembly only),inner protein,2.0
+1JFS_1,1JFS,s281,ASD,homo (assembly only),inner protein,2.0
+1JFT_1,1JFT,s281,ASD,homo (assembly only),inner protein,2.0
+1JH9_1,1JH9,s281,ASD,homo (assembly only),inner protein,2.0
+1PNR_1,1PNR,s281,ASD,homo (assembly only),inner protein,2.0
+1QP4_1,1QP4,s281,ASD,homo (assembly only),inner protein,2.0
+1QP7_1,1QP7,s281,ASD,homo (assembly only),inner protein,2.0
+1QPZ_1,1QPZ,s281,ASD,homo (assembly only),inner protein,2.0
+1QQA_1,1QQA,s281,ASD,homo (assembly only),inner protein,2.0
+1QQB_1,1QQB,s281,ASD,homo (assembly only),inner protein,2.0
+1VPW_1,1VPW,s281,ASD,homo (assembly only),inner protein,2.0
+1WET_1,1WET,s281,ASD,homo (assembly only),inner protein,2.0
+1ZAY_1,1ZAY,s281,ASD,homo (assembly only),inner protein,2.0
+2PUA_1,2PUA,s281,ASD,homo (assembly only),inner protein,2.0
+2PUB_1,2PUB,s281,ASD,homo (assembly only),inner protein,2.0
+2PUC_1,2PUC,s281,ASD,homo (assembly only),inner protein,2.0
+2PUD_1,2PUD,s281,ASD,homo (assembly only),inner protein,2.0
+2PUE_1,2PUE,s281,ASD,homo (assembly only),inner protein,2.0
+2PUF_1,2PUF,s281,ASD,homo (assembly only),inner protein,2.0
+2PUG_1,2PUG,s281,ASD,homo (assembly only),inner protein,2.0
+2A68_1,2A68,s286,ASD,hetero-complex,PPI interface,84.0
+2A69_1,2A69,s286,ASD,hetero-complex,PPI interface,84.0
+4OIR_1,4OIR,s286,ASD,protein-peptide,PPI interface,84.0
+3EEB_1,3EEB,s530,ASD,homo-oligomer,inner protein,0.0
+3FZY_1,3FZY,s530,ASD,homo-oligomer,inner protein,0.0
+3GCD_1,3GCD,s530,ASD,homo-oligomer,inner protein,0.0
+4Q0A_1,4Q0A,s882,ASD,protein-peptide,inner protein,76.0
+1NHU_1,1NHU,s301,ASD,homo-oligomer,inner protein,24.0
+1NHV_1,1NHV,s301,ASD,homo-oligomer,inner protein,24.0
+1OS5_1,1OS5,s301,ASD,monomer,inner protein,24.0
+2AWZ_1,2AWZ,s301,ASD,homo-oligomer,inner protein,24.0
+2AX0_1,2AX0,s301,ASD,homo-oligomer,inner protein,24.0
+2AX1_1,2AX1,s301,ASD,homo-oligomer,inner protein,24.0
+2BRK_1,2BRK,s301,ASD,monomer,inner protein,24.0
+2BRL_1,2BRL,s301,ASD,monomer,inner protein,24.0
+2D3U_1,2D3U,s301,ASD,homo-oligomer,inner protein,9.0
+2D3Z_1,2D3Z,s301,ASD,homo-oligomer,inner protein,9.0
+2D41_1,2D41,s301,ASD,homo-oligomer,inner protein,9.0
+2DXS_1,2DXS,s301,ASD,homo-oligomer,inner protein,24.0
+2FVC_1,2FVC,s301,ASD,homo-oligomer,inner protein,9.0
+2GIQ_1,2GIQ,s301,ASD,homo-oligomer,inner protein,24.0
+2GIR_1,2GIR,s301,ASD,homo-oligomer,inner protein,24.0
+2HAI_1,2HAI,s301,ASD,monomer,inner protein,24.0
+2HWH_1,2HWH,s301,ASD,homo-oligomer,inner protein,24.0
+2HWI_1,2HWI,s301,ASD,homo-oligomer,inner protein,24.0
+2I1R_1,2I1R,s301,ASD,homo-oligomer,inner protein,24.0
+2JC0_1,2JC0,s301,ASD,homo-oligomer,inner protein,24.0
+2JC0_2,2JC0,s301,ASD,homo-oligomer,inner protein,24.0
+2JC1_1,2JC1,s301,ASD,homo-oligomer,inner protein,24.0
+2O5D_1,2O5D,s301,ASD,homo-oligomer,inner protein,24.0
+2QE2_1,2QE2,s301,ASD,homo-oligomer,inner protein,9.0
+2QE5_1,2QE5,s301,ASD,homo-oligomer,inner protein,9.0
+2WCX_1,2WCX,s301,ASD,monomer,inner protein,24.0
+2WHO_1,2WHO,s301,ASD,homo-oligomer,inner protein,24.0
+2WRM_1,2WRM,s301,ASD,homo (assembly only),inner protein,24.0
+2XWY_1,2XWY,s301,ASD,monomer,inner protein,24.0
+3BR9_1,3BR9,s301,ASD,homo-oligomer,inner protein,24.0
+3BSA_1,3BSA,s301,ASD,homo-oligomer,inner protein,24.0
+3BSC_1,3BSC,s301,ASD,homo-oligomer,inner protein,24.0
+3CDE_1,3CDE,s301,ASD,homo-oligomer,inner protein,24.0
+3CIZ_1,3CIZ,s301,ASD,homo-oligomer,inner protein,24.0
+3CJ0_1,3CJ0,s301,ASD,homo-oligomer,inner protein,24.0
+3CJ2_1,3CJ2,s301,ASD,homo-oligomer,inner protein,24.0
+3CJ3_1,3CJ3,s301,ASD,homo-oligomer,inner protein,24.0
+3CJ4_1,3CJ4,s301,ASD,homo-oligomer,inner protein,24.0
+3CJ5_1,3CJ5,s301,ASD,homo-oligomer,inner protein,24.0
+3CO9_1,3CO9,s301,ASD,homo-oligomer,inner protein,24.0
+3CVK_1,3CVK,s301,ASD,homo-oligomer,inner protein,24.0
+3CWJ_1,3CWJ,s301,ASD,homo-oligomer,inner protein,24.0
+3D28_1,3D28,s301,ASD,homo-oligomer,inner protein,24.0
+3D5M_1,3D5M,s301,ASD,homo-oligomer,inner protein,24.0
+3E51_1,3E51,s301,ASD,homo-oligomer,inner protein,24.0
+3FQK_1,3FQK,s301,ASD,homo-oligomer,inner protein,24.0
+3FRZ_1,3FRZ,s301,ASD,monomer,inner protein,24.0
+3G86_1,3G86,s301,ASD,homo-oligomer,inner protein,24.0
+3GYN_1,3GYN,s301,ASD,homo-oligomer,inner protein,24.0
+3H2L_1,3H2L,s301,ASD,homo-oligomer,inner protein,24.0
+3H59_1,3H59,s301,ASD,homo-oligomer,inner protein,24.0
+3H5S_1,3H5S,s301,ASD,homo-oligomer,inner protein,24.0
+3H5U_1,3H5U,s301,ASD,homo-oligomer,inner protein,24.0
+3H98_1,3H98,s301,ASD,homo-oligomer,inner protein,24.0
+3IGV_1,3IGV,s301,ASD,homo-oligomer,inner protein,24.0
+3MF5_1,3MF5,s301,ASD,homo-oligomer,inner protein,24.0
+3UDL_1,3UDL,s301,ASD,homo-oligomer,inner protein,24.0
+3VQS_1,3VQS,s301,ASD,homo-oligomer,inner protein,24.0
+4B6E_1,4B6E,s306,ASD,homo-oligomer,inner protein,24.0
+4B6F_1,4B6F,s306,ASD,homo-oligomer,inner protein,24.0
+4B71_1,4B71,s306,ASD,homo-oligomer,inner protein,24.0
+4B73_1,4B73,s306,ASD,homo-oligomer,inner protein,24.0
+4B74_1,4B74,s306,ASD,homo-oligomer,inner protein,24.0
+4B75_1,4B75,s306,ASD,homo-oligomer,inner protein,24.0
+4B76_1,4B76,s306,ASD,homo-oligomer,inner protein,24.0
+4EO6_1,4EO6,s301,ASD,homo-oligomer,inner protein,24.0
+4EO8_1,4EO8,s301,ASD,homo-oligomer,inner protein,24.0
+4IH5_1,4IH5,s301,ASD,homo-oligomer,inner protein,24.0
+4IH6_1,4IH6,s301,ASD,homo-oligomer,inner protein,24.0
+4IH7_1,4IH7,s301,ASD,homo-oligomer,inner protein,24.0
+4KAI_1,4KAI,s301,ASD,homo-oligomer,inner protein,24.0
+4KAI_2,4KAI,s301,ASD,homo-oligomer,inner protein,24.0
+4KB7_1,4KB7,s301,ASD,homo-oligomer,inner protein,24.0
+4KBI_1,4KBI,s301,ASD,homo-oligomer,inner protein,24.0
+4KE5_1,4KE5,s301,ASD,homo-oligomer,inner protein,24.0
+4KE5_2,4KE5,s301,ASD,homo-oligomer,inner protein,24.0
+4MIA_1,4MIA,s301,ASD,homo-oligomer,inner protein,24.0
+4MIB_1,4MIB,s301,ASD,homo-oligomer,inner protein,24.0
+4MK7_1,4MK7,s301,ASD,homo-oligomer,inner protein,24.0
+4MK8_1,4MK8,s301,ASD,homo-oligomer,inner protein,24.0
+4MK9_1,4MK9,s301,ASD,homo-oligomer,inner protein,24.0
+4MKA_1,4MKA,s301,ASD,homo-oligomer,inner protein,24.0
+4MKB_1,4MKB,s301,ASD,homo-oligomer,inner protein,24.0
+3PMA_1,3PMA,s398,ASD,protein-peptide,PPI interface,30.0
+1IWH_1,1IWH,s807,ASD,hetero-complex,inner protein,19.0
+2D5X_1,2D5X,s807,ASD,hetero-complex,inner protein,19.0
+2D5X_2,2D5X,s807,ASD,hetero-complex,PPI interface,19.0
+3HWS_1,3HWS,s314,ASD,homo-oligomer,inner protein,7.0
+1UM8_1,1UM8,s314,ASD,monomer,inner protein,0.0
+2YC3_1,2YC3,s319,ASD,homo (assembly only),inner protein,4.0
+2YC5_1,2YC5,s319,ASD,homo (assembly only),inner protein,4.0
+2YCM_1,2YCM,s319,ASD,homo (assembly only),inner protein,4.0
+4NAK_1,4NAK,s319,ASD,homo (assembly only),inner protein,4.0
+4NAL_1,4NAL,s319,ASD,homo (assembly only),inner protein,4.0
+4NAN_1,4NAN,s319,ASD,homo (assembly only),inner protein,4.0
+5MRM_1,5MRM,s319,ASD,homo (assembly only),inner protein,4.0
+5MRO_1,5MRO,s319,ASD,homo (assembly only),inner protein,4.0
+5MRP_1,5MRP,s319,ASD,homo (assembly only),inner protein,4.0
+2XTA_1,2XTA,s320,ASD,homo-oligomer,inner protein,17.0
+2Y0P_1,2Y0P,s320,ASD,homo-oligomer,inner protein,17.0
+3Q0Z_1,3Q0Z,s301,ASD,homo-oligomer,inner protein,12.0
+4NLD_1,4NLD,s301,ASD,monomer,inner protein,17.0
+5PZK_1,5PZK,s301,ASD,homo-oligomer,inner protein,17.0
+5PZL_1,5PZL,s301,ASD,homo-oligomer,inner protein,17.0
+5PZM_1,5PZM,s301,ASD,homo-oligomer,inner protein,17.0
+5PZN_1,5PZN,s301,ASD,homo-oligomer,inner protein,17.0
+5PZO_1,5PZO,s301,ASD,homo-oligomer,inner protein,17.0
+5PZP_1,5PZP,s301,ASD,homo-oligomer,inner protein,17.0
+5TRH_1,5TRH,s301,ASD,homo-oligomer,inner protein,17.0
+5TRI_1,5TRI,s301,ASD,homo-oligomer,inner protein,17.0
+5TRJ_1,5TRJ,s301,ASD,homo-oligomer,inner protein,17.0
+5TRK_1,5TRK,s301,ASD,homo-oligomer,inner protein,17.0
+2BTY_1,2BTY,s184,ASD,homo-oligomer,inner protein,0.0
+2RD5_1,2RD5,s184,ASD,hetero-complex,inner protein,0.0
+3ZZH_1,3ZZH,s184,ASD,homo-oligomer,inner protein,3.0
+1XXA_1,1XXA,s326,ASD,homo-oligomer,PPI interface,1.0
+1XXB_1,1XXB,s326,ASD,homo-oligomer,PPI interface,1.0
+2ZFZ_1,2ZFZ,s326,ASD,homo-oligomer,PPI interface,2.0
+3CAG_1,3CAG,s326,ASD,homo-oligomer,PPI interface,2.0
+3FHZ_1,3FHZ,s326,ASD,homo-oligomer,PPI interface,2.0
+3LAJ_1,3LAJ,s326,ASD,homo-oligomer,PPI interface,2.0
+3LAP_1,3LAP,s326,ASD,homo-oligomer,PPI interface,2.0
+2P5M_1,2P5M,s326,ASD,homo-oligomer,PPI interface,3.0
+1B4B_1,1B4B,s326,ASD,homo-oligomer,PPI interface,1.0
+5DL1_1,5DL1,s331,ASD,homo-oligomer,allosteric position (unspecified),32.0
+3QH0_1,3QH0,s332,ASD,homo-oligomer,inner protein,47.0
+4OTJ_1,4OTJ,s332,ASD,homo-oligomer,allosteric position (unspecified),47.0
+4RUT_1,4RUT,s332,ASD,homo-oligomer,inner protein,47.0
+3MKS_1,3MKS,s334,ASD,hetero-complex,inner protein,3.0
+1MC0_1,1MC0,s190,ASD,homo (assembly only),inner protein,0.0
+3F6G_1,3F6G,s336,ASD,homo-oligomer,PPI interface,3.0
+3F6H_1,3F6H,s336,ASD,homo-oligomer,PPI interface,3.0
+1R1V_1,1R1V,s337,ASD,homo-oligomer,inner protein,1.0
+1B4K_1,1B4K,s348,ASD,homo-oligomer,inner protein,0.0
+1GZG_1,1GZG,s348,ASD,homo-oligomer,inner protein,0.0
+1W54_1,1W54,s348,ASD,homo-oligomer,inner protein,0.0
+1W56_1,1W56,s348,ASD,homo-oligomer,inner protein,0.0
+1W5M_1,1W5M,s348,ASD,homo-oligomer,inner protein,0.0
+1W5N_1,1W5N,s348,ASD,homo-oligomer,inner protein,0.0
+1W5O_1,1W5O,s348,ASD,homo-oligomer,inner protein,0.0
+1W5P_1,1W5P,s348,ASD,homo-oligomer,inner protein,0.0
+1W5Q_1,1W5Q,s348,ASD,homo-oligomer,inner protein,0.0
+2C13_1,2C13,s348,ASD,homo-oligomer,inner protein,0.0
+2C14_1,2C14,s348,ASD,homo-oligomer,inner protein,0.0
+2C15_1,2C15,s348,ASD,homo-oligomer,inner protein,0.0
+2C16_1,2C16,s348,ASD,homo-oligomer,inner protein,0.0
+2C18_1,2C18,s348,ASD,homo-oligomer,inner protein,0.0
+2C19_1,2C19,s348,ASD,homo-oligomer,inner protein,0.0
+2WOQ_1,2WOQ,s348,ASD,homo (assembly only),inner protein,0.0
+3OBK_1,3OBK,s348,ASD,homo-oligomer,inner protein,0.0
+5CC9_1,5CC9,s349,ASD,monomer,allosteric position (unspecified),63.0
+5W3Q_1,5W3Q,s349,ASD,monomer,inner protein,146.0
+3LSW_1,3LSW,s614,ASD,homo (assembly only),PPI interface,24.0
+3LSX_1,3LSX,s614,ASD,homo (assembly only),PPI interface,24.0
+3M3F_1,3M3F,s614,ASD,homo (assembly only),PPI interface,24.0
+3V4F_1,3V4F,s854,ASD,homo (assembly only),inner protein,0.0
+2PBK_1,2PBK,s354,ASD,protein-peptide,inner protein,
+4P3H_1,4P3H,s354,ASD,homo-oligomer,inner protein,1.0
+3AO1_1,3AO1,s306,ASD,homo-oligomer,PPI interface,5.0
+3AO3_1,3AO3,s306,ASD,homo-oligomer,PPI interface,5.0
+3AO4_1,3AO4,s306,ASD,homo-oligomer,PPI interface,5.0
+3AO5_1,3AO5,s306,ASD,homo-oligomer,PPI interface,5.0
+3L3V_1,3L3V,s306,ASD,homo-oligomer,PPI interface,259.0
+3OVN_1,3OVN,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQ4_1,3VQ4,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQ4_2,3VQ4,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQ5_1,3VQ5,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQ7_1,3VQ7,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQ7_2,3VQ7,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQ7_3,3VQ7,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQ8_1,3VQ8,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQA_1,3VQA,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQA_2,3VQA,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQB_1,3VQB,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQC_1,3VQC,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQD_1,3VQD,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQE_1,3VQE,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQP_1,3VQP,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQQ_1,3VQQ,s306,ASD,homo-oligomer,PPI interface,5.0
+3VQQ_2,3VQQ,s306,ASD,homo-oligomer,PPI interface,5.0
+2J0X_1,2J0X,s358,ASD,homo-oligomer,PPI interface,1.0
+1YV3_1,1YV3,s359,ASD,monomer,inner protein,38.0
+2JHR_1,2JHR,s359,ASD,monomer,inner protein,41.0
+2XEL_1,2XEL,s359,ASD,monomer,inner protein,41.0
+2XO8_1,2XO8,s359,ASD,monomer,inner protein,41.0
+3BZ7_1,3BZ7,s359,ASD,monomer,inner protein,41.0
+3BZ8_1,3BZ8,s359,ASD,monomer,inner protein,41.0
+3BZ9_1,3BZ9,s359,ASD,monomer,inner protein,41.0
+3MJX_1,3MJX,s359,ASD,monomer,inner protein,38.0
+1ZDQ_1,1ZDQ,s364,ASD,homo-oligomer,inner protein,43.0
+1ZDS_1,1ZDS,s364,ASD,homo-oligomer,inner protein,43.0
+2B08_1,2B08,s364,ASD,homo-oligomer,inner protein,43.0
+3HO8_1,3HO8,s365,ASD,homo-oligomer,PPI interface,6.0
+4QSH_1,4QSH,s365,ASD,homo-oligomer,inner protein,0.0
+4QSK_1,4QSK,s365,ASD,homo-oligomer,inner protein,0.0
+2NS8_1,2NS8,s368,ASD,protein-peptide,PPI interface,
+3ZQF_1,3ZQF,s369,ASD,protein-peptide,PPI interface,
+3ZQG_1,3ZQG,s370,ASD,protein-peptide,PPI interface,
+3ZQH_1,3ZQH,s371,ASD,protein-peptide,PPI interface,
+3ZQI_1,3ZQI,s374,ASD,protein-peptide,PPI interface,
+2XPU_1,2XPU,s374,ASD,homo (assembly only),allosteric position (unspecified),37.0
+2VPR_1,2VPR,s374,ASD,homo (assembly only),inner protein,0.0
+3PA8_1,3PA8,s520,ASD,homo-oligomer,inner protein,0.0
+3PEE_1,3PEE,s520,ASD,homo-oligomer,inner protein,0.0
+3PJG_1,3PJG,s376,ASD,homo (assembly only),inner protein,4.0
+2HH7_1,2HH7,s474,ASD,homo (assembly only),inner protein,0.0
+3HL8_1,3HL8,s378,ASD,monomer,inner protein,11.0
+4AVB_1,4AVB,s379,ASD,homo-oligomer,inner protein,1.0
+4AVC_1,4AVC,s379,ASD,homo-oligomer,inner protein,1.0
+3E5U_1,3E5U,s381,ASD,homo-oligomer,PPI interface,2.0
+3E5X_1,3E5X,s381,ASD,homo-oligomer,PPI interface,2.0
+3E6B_1,3E6B,s381,ASD,homo-oligomer,PPI interface,2.0
+3E6C_1,3E6C,s381,ASD,homo (assembly only),PPI interface,2.0
+3IRH_1,3IRH,s382,ASD,homo-oligomer,PPI interface,1.0
+4LRL_1,4LRL,s382,ASD,homo-oligomer,PPI interface,1.0
+4LRL_2,4LRL,s382,ASD,homo-oligomer,PPI interface,1.0
+3HV8_1,3HV8,s383,ASD,monomer,inner protein,5.0
+3LLA_1,3LLA,s386,ASD,homo-oligomer,inner protein,1.0
+3LMH_1,3LMH,s386,ASD,homo-oligomer,inner protein,1.0
+3LMI_1,3LMI,s386,ASD,homo-oligomer,inner protein,1.0
+3PDT_1,3PDT,s386,ASD,monomer,inner protein,1.0
+1DD7_1,1DD7,s387,ASD,homo (assembly only),inner protein,43.0
+2ORO_1,2ORO,s387,ASD,monomer,inner protein,43.0
+2ORP_1,2ORP,s387,ASD,monomer,inner protein,43.0
+2ORQ_1,2ORQ,s387,ASD,homo (assembly only),inner protein,43.0
+2ORR_1,2ORR,s387,ASD,homo (assembly only),inner protein,43.0
+2ORS_1,2ORS,s387,ASD,homo (assembly only),inner protein,43.0
+2ORT_1,2ORT,s387,ASD,homo (assembly only),inner protein,43.0
+3NQS_1,3NQS,s387,ASD,homo-oligomer,inner protein,42.0
+1NJJ_1,1NJJ,s389,ASD,homo-oligomer,PPI interface,0.0
+2BBH_1,2BBH,s390,ASD,monomer,inner protein,1.0
+2IUB_1,2IUB,s390,ASD,homo-oligomer,inner protein,1.0
+4I0U_1,4I0U,s390,ASD,homo-oligomer,inner protein,1.0
+1W25_1,1W25,s394,ASD,homo-oligomer,inner protein,
+2V0N_1,2V0N,s394,ASD,homo-oligomer,PPI interface,
+4P02_1,4P02,s395,ASD,protein-peptide,inner protein,
+5LRS_1,5LRS,s396,ASD,homo-oligomer,allosteric position (unspecified),31.0
+4BNT_1,4BNT,s397,ASD,homo-oligomer,PPI interface,3.0
+4BNU_1,4BNU,s397,ASD,homo-oligomer,PPI interface,3.0
+4BNV_1,4BNV,s397,ASD,homo-oligomer,PPI interface,3.0
+4BNX_1,4BNX,s397,ASD,homo-oligomer,PPI interface,3.0
+4BNY_1,4BNY,s397,ASD,homo-oligomer,PPI interface,3.0
+4BNZ_1,4BNZ,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO0_1,4BO0,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO1_1,4BO1,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO2_1,4BO2,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO3_1,4BO3,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO4_1,4BO4,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO5_1,4BO5,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO6_1,4BO6,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO7_1,4BO7,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO8_1,4BO8,s397,ASD,homo-oligomer,PPI interface,3.0
+4BO9_1,4BO9,s397,ASD,homo-oligomer,PPI interface,3.0
+3BEU_1,3BEU,s398,ASD,homo-oligomer,inner protein,
+3I78_1,3I78,s398,ASD,monomer,inner protein,
+1NH8_1,1NH8,s593,ASD,homo (assembly only),inner protein,2.0
+5LHT_1,5LHT,s593,ASD,homo (assembly only),allosteric position (unspecified),2.0
+5LHU_1,5LHU,s593,ASD,homo (assembly only),allosteric position (unspecified),2.0
+2VD3_1,2VD3,s593,ASD,homo-oligomer,inner protein,0.0
+3RHW_1,3RHW,s114,ASD,hetero-complex,PPI interface,0.0
+3RI5_1,3RI5,s114,ASD,hetero-complex,PPI interface,0.0
+3RIF_1,3RIF,s114,ASD,hetero-complex,PPI interface,0.0
+3P4W_1,3P4W,s114,ASD,homo-oligomer,inner protein,107.0
+3P50_1,3P50,s114,ASD,homo-oligomer,inner protein,105.0
+4F8H_1,4F8H,s114,ASD,homo-oligomer,PPI interface,107.0
+5HCJ_1,5HCJ,s114,ASD,homo-oligomer,allosteric position (unspecified),104.0
+5HCM_1,5HCM,s114,ASD,homo-oligomer,allosteric position (unspecified),104.0
+5MUO_1,5MUO,s114,ASD,homo-oligomer,allosteric position (unspecified),105.0
+5MUR_1,5MUR,s114,ASD,homo-oligomer,allosteric position (unspecified),105.0
+5MVN_1,5MVN,s114,ASD,homo-oligomer,allosteric position (unspecified),105.0
+5MZQ_1,5MZQ,s114,ASD,homo-oligomer,allosteric position (unspecified),104.0
+6EMX_1,6EMX,s114,ASD,homo-oligomer,allosteric position (unspecified),104.0
+2Q6H_1,2Q6H,s413,ASD,monomer,inner protein,54.0
+2Q72_1,2Q72,s413,ASD,monomer,inner protein,55.0
+2QB4_1,2QB4,s413,ASD,monomer,inner protein,54.0
+2QEI_1,2QEI,s413,ASD,monomer,inner protein,54.0
+3F48_1,3F48,s413,ASD,homo (assembly only),inner protein,24.0
+3EPS_1,3EPS,s414,ASD,homo-oligomer,inner protein,0.0
+3LC6_1,3LC6,s414,ASD,homo-oligomer,inner protein,0.0
+3LCB_1,3LCB,s414,ASD,hetero-complex,inner protein,0.0
+4JKT_1,4JKT,s416,ASD,homo-oligomer,PPI interface,5.0
+2QXL_1,2QXL,s417,ASD,homo-oligomer,inner protein,1.0
+3D2E_1,3D2E,s417,ASD,hetero-complex,inner protein,1.0
+3D2F_1,3D2F,s417,ASD,hetero-complex,inner protein,1.0
+1F2U_1,1F2U,s423,ASD,pseudo-hetero,PPI interface,11.0
+3QKU_1,3QKU,s423,ASD,protein-peptide,PPI interface,10.0
+4NCJ_1,4NCJ,s423,ASD,homo-oligomer,PPI interface,11.0
+3AUX_1,3AUX,s423,ASD,homo (assembly only),PPI interface,2.0
+3AUY_1,3AUY,s423,ASD,homo-oligomer,PPI interface,2.0
+3AV0_1,3AV0,s423,ASD,hetero-complex,PPI interface,0.0
+3THO_1,3THO,s423,ASD,hetero-complex,PPI interface,3.0
+1BVN_1,1BVN,s513,ASD,hetero-complex,inner protein,1.0
+1DHK_1,1DHK,s513,ASD,hetero-complex,inner protein,1.0
+1HX0_1,1HX0,s513,ASD,monomer,inner protein,1.0
+1JFH_1,1JFH,s513,ASD,monomer,inner protein,1.0
+1KXQ_1,1KXQ,s513,ASD,hetero-complex,inner protein,1.0
+1KXT_1,1KXT,s513,ASD,hetero-complex,inner protein,1.0
+1OSE_1,1OSE,s513,ASD,monomer,inner protein,1.0
+1PIF_1,1PIF,s513,ASD,monomer,inner protein,1.0
+1PIG_1,1PIG,s513,ASD,monomer,inner protein,1.0
+1PPI_1,1PPI,s513,ASD,monomer,inner protein,1.0
+1UA3_1,1UA3,s513,ASD,monomer,inner protein,1.0
+1VAH_1,1VAH,s513,ASD,monomer,inner protein,1.0
+1WO2_1,1WO2,s513,ASD,monomer,inner protein,1.0
+3L2L_1,3L2L,s513,ASD,monomer,inner protein,1.0
+3L2M_1,3L2M,s513,ASD,monomer,inner protein,1.0
+1T4G_1,1T4G,s435,ASD,monomer,inner protein,3.0
+2FPK_1,2FPK,s435,ASD,monomer,inner protein,7.0
+2FPL_1,2FPL,s435,ASD,monomer,inner protein,3.0
+2FPM_1,2FPM,s435,ASD,monomer,inner protein,3.0
+2GDJ_1,2GDJ,s435,ASD,monomer,inner protein,3.0
+3FYH_1,3FYH,s435,ASD,monomer,inner protein,7.0
+3FYH_2,3FYH,s435,ASD,monomer,inner protein,
+3NTU_1,3NTU,s435,ASD,homo (assembly only),inner protein,3.0
+3ETL_1,3ETL,s435,ASD,monomer,inner protein,0.0
+2Y39_1,2Y39,s440,ASD,homo (assembly only),inner protein,4.0
+2Y3B_1,2Y3B,s440,ASD,homo (assembly only),inner protein,5.0
+3EPV_1,3EPV,s440,ASD,homo-oligomer,inner protein,6.0
+3ZG1_1,3ZG1,s440,ASD,homo-oligomer,inner protein,4.0
+3DBA_1,3DBA,s190,ASD,homo-oligomer,inner protein,1.0
+4ZSI_1,4ZSI,s442,ASD,homo-oligomer,allosteric position (unspecified),3.0
+4ZSI_2,4ZSI,s442,ASD,homo-oligomer,allosteric position (unspecified),3.0
+4ZSK_1,4ZSK,s442,ASD,homo-oligomer,allosteric position (unspecified),3.0
+4ZSK_2,4ZSK,s442,ASD,homo-oligomer,allosteric position (unspecified),3.0
+4DN0_1,4DN0,s443,ASD,monomer,inner protein,
+4ETZ_1,4ETZ,s443,ASD,homo-oligomer,inner protein,1.0
+4EU0_1,4EU0,s443,ASD,monomer,inner protein,1.0
+4EUV_1,4EUV,s443,ASD,monomer,inner protein,1.0
+2YPO_1,2YPO,s598,ASD,homo-oligomer,PPI interface,12.0
+2YPO_2,2YPO,s598,ASD,homo-oligomer,PPI interface,12.0
+3KGF_1,3KGF,s598,ASD,homo-oligomer,inner protein,12.0
+3KGF_2,3KGF,s598,ASD,homo-oligomer,PPI interface,12.0
+3KGF_3,3KGF,s598,ASD,homo-oligomer,inner protein,12.0
+3NUD_1,3NUD,s598,ASD,homo-oligomer,inner protein,12.0
+3NUD_2,3NUD,s598,ASD,homo-oligomer,PPI interface,12.0
+3NUD_3,3NUD,s598,ASD,homo-oligomer,inner protein,12.0
+3NUE_1,3NUE,s598,ASD,homo-oligomer,inner protein,12.0
+3NUE_2,3NUE,s598,ASD,homo-oligomer,inner protein,12.0
+3RZI_1,3RZI,s598,ASD,homo-oligomer,inner protein,12.0
+3RZI_2,3RZI,s598,ASD,homo-oligomer,PPI interface,12.0
+5E7Z_1,5E7Z,s598,ASD,homo-oligomer,allosteric position (unspecified),12.0
+5EX4_1,5EX4,s598,ASD,homo-oligomer,allosteric position (unspecified),12.0
+5EX4_2,5EX4,s598,ASD,homo-oligomer,allosteric position (unspecified),12.0
+5EX4_3,5EX4,s598,ASD,homo-oligomer,allosteric position (unspecified),12.0
+1FXO_1,1FXO,s454,ASD,homo-oligomer,PPI interface,7.0
+1G0R_1,1G0R,s454,ASD,homo-oligomer,PPI interface,7.0
+1G1L_1,1G1L,s454,ASD,homo-oligomer,PPI interface,7.0
+1G2V_1,1G2V,s454,ASD,homo-oligomer,PPI interface,7.0
+1G3L_1,1G3L,s454,ASD,homo-oligomer,PPI interface,7.0
+3ZLK_1,3ZLK,s454,ASD,homo-oligomer,PPI interface,7.0
+3ZLL_1,3ZLL,s454,ASD,homo-oligomer,PPI interface,7.0
+4ARW_1,4ARW,s454,ASD,homo-oligomer,PPI interface,7.0
+4ASJ_1,4ASJ,s454,ASD,homo-oligomer,PPI interface,7.0
+4ASY_1,4ASY,s454,ASD,homo-oligomer,PPI interface,7.0
+4B2W_1,4B2W,s454,ASD,homo-oligomer,PPI interface,7.0
+4B2X_1,4B2X,s454,ASD,homo-oligomer,PPI interface,7.0
+4B3U_1,4B3U,s454,ASD,homo-oligomer,PPI interface,7.0
+4B42_1,4B42,s454,ASD,homo-oligomer,PPI interface,7.0
+4B4B_1,4B4B,s454,ASD,homo-oligomer,PPI interface,7.0
+4B4G_1,4B4G,s454,ASD,homo-oligomer,PPI interface,7.0
+4B4M_1,4B4M,s454,ASD,homo-oligomer,PPI interface,7.0
+4B5B_1,4B5B,s454,ASD,homo-oligomer,PPI interface,7.0
+5FTV_1,5FTV,s454,ASD,homo-oligomer,allosteric position (unspecified),7.0
+5FU0_1,5FU0,s454,ASD,homo-oligomer,allosteric position (unspecified),7.0
+5FU8_1,5FU8,s454,ASD,homo-oligomer,allosteric position (unspecified),7.0
+5FUH_1,5FUH,s454,ASD,homo-oligomer,allosteric position (unspecified),7.0
+1H5R_1,1H5R,s454,ASD,pseudo-hetero,PPI interface,1.0
+1H5S_1,1H5S,s454,ASD,pseudo-hetero,PPI interface,1.0
+1LVW_1,1LVW,s454,ASD,homo-oligomer,PPI interface,0.0
+1MP3_1,1MP3,s454,ASD,homo-oligomer,PPI interface,5.0
+4HO2_1,4HO2,s454,ASD,monomer,PPI interface,2.0
+4HO3_1,4HO3,s454,ASD,monomer,PPI interface,2.0
+4HO4_1,4HO4,s454,ASD,homo-oligomer,PPI interface,2.0
+4HO5_1,4HO5,s454,ASD,homo-oligomer,PPI interface,2.0
+4HO6_1,4HO6,s454,ASD,monomer,PPI interface,2.0
+4HO8_1,4HO8,s454,ASD,homo-oligomer,PPI interface,2.0
+4HO9_1,4HO9,s454,ASD,homo-oligomer,PPI interface,2.0
+1Z2L_1,1Z2L,s457,ASD,homo-oligomer,inner protein,2.0
+2POC_1,2POC,s458,ASD,homo-oligomer,inner protein,1.0
+2PUT_1,2PUT,s458,ASD,homo-oligomer,inner protein,1.0
+2PUV_1,2PUV,s458,ASD,homo-oligomer,inner protein,1.0
+1IE4_1,1IE4,s459,ASD,homo-oligomer,PPI interface,3.0
+1FX2_1,1FX2,s460,ASD,homo (assembly only),inner protein,0.0
+4GVL_1,4GVL,s461,ASD,homo-oligomer,PPI interface,0.0
+4GX0_1,4GX0,s461,ASD,homo-oligomer,PPI interface,0.0
+4GX1_1,4GX1,s461,ASD,homo-oligomer,PPI interface,0.0
+4GX2_1,4GX2,s461,ASD,homo-oligomer,PPI interface,0.0
+3JPY_1,3JPY,s614,ASD,monomer,PPI interface,25.0
+3QEL_1,3QEL,s614,ASD,hetero-complex,PPI interface,25.0
+3QEM_1,3QEM,s614,ASD,hetero-complex,PPI interface,25.0
+1IG5_1,1IG5,s522,ASD,monomer,inner protein,3.0
+1IGV_1,1IGV,s522,ASD,monomer,inner protein,3.0
+3ICB_1,3ICB,s522,ASD,monomer,inner protein,0.0
+1H9G_1,1H9G,s468,ASD,homo (assembly only),inner protein,
+2CEV_1,2CEV,s469,ASD,homo-oligomer,PPI interface,1.0
+3CEV_1,3CEV,s469,ASD,homo-oligomer,PPI interface,2.0
+4CEV_1,4CEV,s469,ASD,homo-oligomer,PPI interface,1.0
+3R6S_1,3R6S,s969,ASD,homo-oligomer,PPI interface,1.0
+3LA2_1,3LA2,s969,ASD,homo-oligomer,PPI interface,1.0
+3LA3_1,3LA3,s969,ASD,homo-oligomer,PPI interface,1.0
+3ZFZ_1,3ZFZ,s472,ASD,homo-oligomer,PPI interface,6.0
+3ZFZ_2,3ZFZ,s472,ASD,homo-oligomer,inner protein,3.0
+3ZG0_1,3ZG0,s472,ASD,homo-oligomer,PPI interface,6.0
+3ZG0_2,3ZG0,s472,ASD,homo-oligomer,inner protein,3.0
+4FXY_1,4FXY,s473,ASD,homo-oligomer,inner protein,2.0
+4M1P_1,4M1P,s474,ASD,homo (assembly only),inner protein,0.0
+4NHV_1,4NHV,s475,ASD,homo-oligomer,PPI interface,29.0
+4NIL_1,4NIL,s475,ASD,homo-oligomer,PPI interface,29.0
+4NIR_1,4NIR,s475,ASD,homo-oligomer,PPI interface,29.0
+4NL1_1,4NL1,s475,ASD,homo-oligomer,PPI interface,29.0
+1BQM_1,1BQM,s542,ASD,pseudo-hetero,inner protein,283.0
+1BQN_1,1BQN,s542,ASD,pseudo-hetero,inner protein,283.0
+1EET_1,1EET,s542,ASD,pseudo-hetero,inner protein,283.0
+1HNI_1,1HNI,s542,ASD,hetero-complex,inner protein,283.0
+1HNV_1,1HNV,s542,ASD,pseudo-hetero,inner protein,283.0
+1HPZ_1,1HPZ,s542,ASD,pseudo-hetero,inner protein,283.0
+1HQU_1,1HQU,s542,ASD,pseudo-hetero,inner protein,283.0
+1IKV_1,1IKV,s542,ASD,pseudo-hetero,inner protein,282.0
+1IKW_1,1IKW,s542,ASD,pseudo-hetero,inner protein,282.0
+1IKX_1,1IKX,s542,ASD,pseudo-hetero,inner protein,283.0
+1IKY_1,1IKY,s542,ASD,pseudo-hetero,inner protein,283.0
+1S6P_1,1S6P,s542,ASD,pseudo-hetero,inner protein,283.0
+1S6Q_1,1S6Q,s542,ASD,pseudo-hetero,inner protein,283.0
+1S9E_1,1S9E,s542,ASD,pseudo-hetero,inner protein,283.0
+1S9G_1,1S9G,s542,ASD,pseudo-hetero,inner protein,283.0
+1SUQ_1,1SUQ,s542,ASD,pseudo-hetero,inner protein,283.0
+1SV5_1,1SV5,s542,ASD,pseudo-hetero,inner protein,283.0
+1TV6_1,1TV6,s542,ASD,pseudo-hetero,inner protein,283.0
+1TVR_1,1TVR,s542,ASD,pseudo-hetero,inner protein,283.0
+1UWB_1,1UWB,s542,ASD,pseudo-hetero,inner protein,283.0
+2B5J_1,2B5J,s542,ASD,pseudo-hetero,inner protein,283.0
+2B6A_1,2B6A,s542,ASD,pseudo-hetero,inner protein,283.0
+2BAN_1,2BAN,s542,ASD,pseudo-hetero,inner protein,283.0
+2BE2_1,2BE2,s542,ASD,pseudo-hetero,inner protein,283.0
+2IC3_1,2IC3,s542,ASD,pseudo-hetero,inner protein,283.0
+2VG5_1,2VG5,s542,ASD,pseudo-hetero,inner protein,283.0
+2VG6_1,2VG6,s542,ASD,pseudo-hetero,inner protein,283.0
+2VG7_1,2VG7,s542,ASD,pseudo-hetero,inner protein,283.0
+2YKM_1,2YKM,s542,ASD,pseudo-hetero,inner protein,283.0
+2YKN_1,2YKN,s542,ASD,pseudo-hetero,inner protein,283.0
+2ZD1_1,2ZD1,s542,ASD,pseudo-hetero,inner protein,279.0
+2ZE2_1,2ZE2,s542,ASD,pseudo-hetero,inner protein,279.0
+3BGR_1,3BGR,s542,ASD,pseudo-hetero,inner protein,279.0
+3HVT_1,3HVT,s542,ASD,pseudo-hetero,inner protein,281.0
+3IRX_1,3IRX,s542,ASD,pseudo-hetero,inner protein,283.0
+3IS9_1,3IS9,s542,ASD,pseudo-hetero,inner protein,283.0
+3KF0_1,3KF0,s500,ASD,homo-oligomer,inner protein,25.0
+3KFN_1,3KFN,s500,ASD,homo-oligomer,inner protein,25.0
+3KFR_1,3KFR,s500,ASD,homo-oligomer,inner protein,25.0
+3KFS_1,3KFS,s500,ASD,homo-oligomer,inner protein,25.0
+3QLH_1,3QLH,s542,ASD,pseudo-hetero,inner protein,279.0
+3QO9_1,3QO9,s542,ASD,pseudo-hetero,inner protein,283.0
+3V81_1,3V81,s542,ASD,pseudo-hetero,inner protein,281.0
+4EJ8_1,4EJ8,s500,ASD,homo-oligomer,inner protein,25.0
+4EJD_1,4EJD,s500,ASD,protein-peptide,inner protein,25.0
+4EJK_1,4EJK,s500,ASD,protein-peptide,inner protein,25.0
+4EJL_1,4EJL,s500,ASD,homo-oligomer,inner protein,25.0
+4G1Q_1,4G1Q,s542,ASD,pseudo-hetero,inner protein,279.0
+4H4M_1,4H4M,s542,ASD,pseudo-hetero,inner protein,283.0
+4H4O_1,4H4O,s542,ASD,pseudo-hetero,inner protein,283.0
+4I2P_1,4I2P,s542,ASD,pseudo-hetero,inner protein,283.0
+4I2Q_1,4I2Q,s542,ASD,pseudo-hetero,inner protein,283.0
+4ICL_1,4ICL,s542,ASD,pseudo-hetero,inner protein,279.0
+4ID5_1,4ID5,s542,ASD,pseudo-hetero,inner protein,279.0
+4IDK_1,4IDK,s542,ASD,pseudo-hetero,inner protein,279.0
+4IFY_1,4IFY,s542,ASD,pseudo-hetero,inner protein,279.0
+4IG3_1,4IG3,s542,ASD,pseudo-hetero,inner protein,279.0
+4IG3_2,4IG3,s542,ASD,pseudo-hetero,PPI interface,283.0
+4K4Q_1,4K4Q,s500,ASD,homo-oligomer,inner protein,25.0
+4K4R_1,4K4R,s500,ASD,homo-oligomer,inner protein,25.0
+4KFB_1,4KFB,s542,ASD,pseudo-hetero,inner protein,279.0
+4KFB_2,4KFB,s542,ASD,pseudo-hetero,inner protein,283.0
+4KKO_1,4KKO,s542,ASD,pseudo-hetero,inner protein,283.0
+4KO0_1,4KO0,s542,ASD,pseudo-hetero,inner protein,283.0
+4LSL_1,4LSL,s542,ASD,pseudo-hetero,inner protein,283.0
+4LSN_1,4LSN,s542,ASD,pseudo-hetero,inner protein,283.0
+4MFB_1,4MFB,s542,ASD,pseudo-hetero,inner protein,282.0
+4NYF_1,4NYF,s306,ASD,homo-oligomer,inner protein,13.0
+4O44_1,4O44,s542,ASD,pseudo-hetero,inner protein,283.0
+4OJR_1,4OJR,s306,ASD,homo (assembly only),PPI interface,283.0
+4PUO_1,4PUO,s542,ASD,pseudo-hetero,inner protein,281.0
+4PWD_1,4PWD,s542,ASD,pseudo-hetero,inner protein,281.0
+4Q0B_1,4Q0B,s542,ASD,pseudo-hetero,inner protein,281.0
+4TVG_1,4TVG,s500,ASD,protein-peptide,inner protein,0.0
+4OHF_1,4OHF,s503,ASD,homo-oligomer,PPI interface,2.0
+4PPU_1,4PPU,s504,ASD,homo (assembly only),inner protein,0.0
+4PPV_1,4PPV,s504,ASD,homo (assembly only),inner protein,0.0
+4Q9M_1,4Q9M,s505,ASD,homo-oligomer,inner protein,0.0
+4Q9O_1,4Q9O,s505,ASD,homo-oligomer,inner protein,0.0
+3QAK_1,3QAK,s840,ASD,monomer,inner protein,505.0
+4OO9_1,4OO9,s840,ASD,monomer,inner protein,346.0
+4PHU_1,4PHU,s840,ASD,monomer,inner protein,335.0
+5NDD_1,5NDD,s840,ASD,monomer,inner protein,642.0
+1VM1_1,1VM1,s248,ASD,monomer,inner protein,5.0
+1LTH_1,1LTH,s172,ASD,homo-oligomer,inner protein,1.0
+4P2T_1,4P2T,s354,ASD,homo-oligomer,inner protein,1.0
+3NJQ_1,3NJQ,s354,ASD,pseudo-hetero,inner protein,0.0
+1AQM_1,1AQM,s513,ASD,monomer,inner protein,1.0
+1JD7_1,1JD7,s513,ASD,monomer,inner protein,1.0
+1L0P_1,1L0P,s513,ASD,monomer,inner protein,8.0
+1JAE_1,1JAE,s513,ASD,monomer,inner protein,0.0
+1VIW_1,1VIW,s513,ASD,hetero-complex,inner protein,0.0
+4GRS_1,4GRS,s518,ASD,homo-oligomer,PPI interface,6.0
+3HO6_1,3HO6,s520,ASD,homo-oligomer,inner protein,24.0
+4N9I_1,4N9I,s969,ASD,homo-oligomer,PPI interface,1.0
+2RDE_1,2RDE,s521,ASD,homo-oligomer,inner protein,0.0
+1QP0_1,1QP0,s281,ASD,homo (assembly only),inner protein,2.0
+1MHO_1,1MHO,s522,ASD,homo (assembly only),inner protein,0.0
+4BXC_1,4BXC,s191,ASD,homo-oligomer,inner protein,1.0
+4BXH_1,4BXH,s191,ASD,pseudo-hetero,inner protein,0.0
+1JL0_1,1JL0,s637,ASD,homo-oligomer,inner protein,7.0
+4QBY_1,4QBY,s525,ASD,hetero-complex,PPI interface,
+3C31_1,3C31,s614,ASD,homo-oligomer,PPI interface,26.0
+3C31_2,3C31,s614,ASD,homo-oligomer,PPI interface,8.0
+3C32_1,3C32,s614,ASD,homo-oligomer,PPI interface,
+3C32_2,3C32,s614,ASD,homo-oligomer,PPI interface,8.0
+3C33_1,3C33,s614,ASD,homo-oligomer,PPI interface,26.0
+3C33_2,3C33,s614,ASD,homo-oligomer,PPI interface,8.0
+3C34_1,3C34,s614,ASD,homo-oligomer,PPI interface,26.0
+3C34_2,3C34,s614,ASD,homo-oligomer,PPI interface,8.0
+3C35_1,3C35,s614,ASD,homo-oligomer,PPI interface,26.0
+3C35_2,3C35,s614,ASD,homo-oligomer,PPI interface,8.0
+3C36_1,3C36,s614,ASD,homo-oligomer,PPI interface,25.0
+3C36_2,3C36,s614,ASD,homo-oligomer,PPI interface,8.0
+5MFQ_1,5MFQ,s614,ASD,homo-oligomer,PPI interface,26.0
+5MFV_1,5MFV,s614,ASD,homo-oligomer,PPI interface,26.0
+5MFW_1,5MFW,s614,ASD,homo-oligomer,PPI interface,26.0
+2YN6_1,2YN6,s519,ASD,homo-oligomer,PPI interface,25.0
+3PNA_1,3PNA,s969,ASD,homo-oligomer,inner protein,13.0
+4MHD_1,4MHD,s530,ASD,homo-oligomer,allosteric position (unspecified),17.0
+4MI4_1,4MI4,s530,ASD,homo-oligomer,allosteric position (unspecified),15.0
+4R87_1,4R87,s530,ASD,homo-oligomer,allosteric position (unspecified),15.0
+4TME_1,4TME,s532,ASD,homo-oligomer,allosteric position (unspecified),7.0
+4YW8_1,4YW8,s533,ASD,monomer,allosteric position (unspecified),55.0
+5DED_1,5DED,s534,ASD,homo-oligomer,allosteric position (unspecified),2.0
+4Z87_1,4Z87,s80,ASD,homo-oligomer,allosteric position (unspecified),4.0
+4Z87_2,4Z87,s80,ASD,homo-oligomer,allosteric position (unspecified),4.0
+4Z87_3,4Z87,s80,ASD,homo-oligomer,allosteric position (unspecified),4.0
+5MCP_1,5MCP,s80,ASD,homo-oligomer,inner protein,5.0
+5MCP_2,5MCP,s80,ASD,homo-oligomer,inner protein,5.0
+5TC3_1,5TC3,s80,ASD,homo-oligomer,inner protein,5.0
+5TC3_2,5TC3,s80,ASD,homo-oligomer,inner protein,4.0
+5TC3_3,5TC3,s80,ASD,homo-oligomer,inner protein,4.0
+5FPT_1,5FPT,s306,ASD,homo-oligomer,allosteric position (unspecified),23.0
+5FPY_1,5FPY,s306,ASD,homo-oligomer,allosteric position (unspecified),24.0
+4COJ_1,4COJ,s539,ASD,homo-oligomer,allosteric position (unspecified),4.0
+5KLP_1,5KLP,s540,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5KLQ_1,5KLQ,s540,ASD,homo-oligomer,allosteric position (unspecified),0.0
+4RW4_1,4RW4,s542,ASD,pseudo-hetero,allosteric position (unspecified),283.0
+4RW6_1,4RW6,s542,ASD,pseudo-hetero,allosteric position (unspecified),283.0
+4RW7_1,4RW7,s542,ASD,pseudo-hetero,allosteric position (unspecified),283.0
+4RW8_1,4RW8,s542,ASD,pseudo-hetero,allosteric position (unspecified),283.0
+4RW9_1,4RW9,s542,ASD,pseudo-hetero,allosteric position (unspecified),283.0
+5OI2_1,5OI2,s306,ASD,homo (assembly only),allosteric position (unspecified),283.0
+5OI5_1,5OI5,s306,ASD,homo (assembly only),allosteric position (unspecified),283.0
+5OI8_1,5OI8,s306,ASD,homo (assembly only),allosteric position (unspecified),283.0
+5OIA_1,5OIA,s306,ASD,homo (assembly only),allosteric position (unspecified),283.0
+4WI1_1,4WI1,s544,ASD,homo-oligomer,allosteric position (unspecified),13.0
+5IFU_1,5IFU,s544,ASD,homo-oligomer,allosteric position (unspecified),13.0
+5KDE_1,5KDE,s545,ASD,homo (assembly only),allosteric position (unspecified),8.0
+5KDF_1,5KDF,s545,ASD,homo (assembly only),allosteric position (unspecified),8.0
+5KWI_1,5KWI,s546,ASD,monomer,allosteric position (unspecified),16.0
+5KWJ_1,5KWJ,s546,ASD,homo-oligomer,allosteric position (unspecified),16.0
+5IWD_1,5IWD,s547,ASD,homo (assembly only),allosteric position (unspecified),6.0
+5JWC_1,5JWC,s548,ASD,homo-oligomer,allosteric position (unspecified),2.0
+5XE9_1,5XE9,s549,ASD,homo-oligomer,inner protein,3.0
+5W3T_1,5W3T,s553,ASD,homo-oligomer,inner protein,0.0
+5W3X_1,5W3X,s553,ASD,hetero-complex,inner protein,0.0
+5W3Y_1,5W3Y,s553,ASD,homo-oligomer,inner protein,0.0
+5W40_1,5W40,s553,ASD,homo-oligomer,inner protein,0.0
+5UR3_1,5UR3,s354,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5UTE_1,5UTE,s354,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5UTN_1,5UTN,s354,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5UV3_1,5UV3,s354,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5UVP_1,5UVP,s354,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5V5D_1,5V5D,s354,ASD,homo-oligomer,inner protein,0.0
+5V5E_1,5V5E,s354,ASD,homo-oligomer,inner protein,0.0
+5U7M_1,5U7M,s556,ASD,hetero-complex,inner protein,26.0
+5U7O_1,5U7O,s556,ASD,hetero-complex,inner protein,25.0
+5TCI_1,5TCI,s234,ASD,hetero-complex,inner protein,11.0
+5TCJ_1,5TCJ,s234,ASD,hetero-complex,inner protein,11.0
+5KLG_1,5KLG,s558,ASD,homo-oligomer,allosteric position (unspecified),64.0
+5KLS_1,5KLS,s558,ASD,homo-oligomer,allosteric position (unspecified),64.0
+5KMD_1,5KMD,s558,ASD,homo-oligomer,allosteric position (unspecified),63.0
+5KMF_1,5KMF,s558,ASD,homo-oligomer,allosteric position (unspecified),64.0
+3X1M_1,3X1M,s560,ASD,homo-oligomer,allosteric position (unspecified),2.0
+4RUK_1,4RUK,s560,ASD,homo-oligomer,allosteric position (unspecified),2.0
+4OFG_1,4OFG,s969,ASD,monomer,allosteric position (unspecified),3.0
+5AA4_1,5AA4,s562,ASD,hetero-complex,allosteric position (unspecified),0.0
+5CRL_1,5CRL,s563,ASD,homo-oligomer,allosteric position (unspecified),0.0
+6B21_1,6B21,s564,ASD,homo (assembly only),allosteric position (unspecified),22.0
+5T3O_1,5T3O,s749,ASD,homo-oligomer,inner protein,0.0
+5NQB_1,5NQB,s172,ASD,homo-oligomer,inner protein,8.0
+5NQQ_1,5NQQ,s172,ASD,homo-oligomer,inner protein,8.0
+5NPK_1,5NPK,s567,ASD,homo-oligomer,PPI interface,26.0
+5NPP_1,5NPP,s567,ASD,homo-oligomer,PPI interface,26.0
+5N69_1,5N69,s359,ASD,hetero-complex,inner protein,6.0
+5M18_1,5M18,s472,ASD,homo-oligomer,inner protein,0.0
+5M19_1,5M19,s472,ASD,homo-oligomer,inner protein,0.0
+5M1A_1,5M1A,s472,ASD,homo-oligomer,inner protein,0.0
+5DW0_1,5DW0,s234,ASD,homo-oligomer,allosteric position (unspecified),
+5I3P_1,5I3P,s573,ASD,monomer,allosteric position (unspecified),19.0
+5I3Q_1,5I3Q,s573,ASD,monomer,allosteric position (unspecified),19.0
+5JJR_1,5JJR,s573,ASD,monomer,allosteric position (unspecified),19.0
+5JJS_1,5JJS,s573,ASD,monomer,allosteric position (unspecified),19.0
+5K5M_1,5K5M,s573,ASD,monomer,allosteric position (unspecified),0.0
+5NZK_1,5NZK,s574,ASD,monomer,allosteric position (unspecified),10.0
+5NZL_1,5NZL,s574,ASD,monomer,allosteric position (unspecified),10.0
+5NZM_1,5NZM,s574,ASD,monomer,allosteric position (unspecified),10.0
+5M05_1,5M05,s359,ASD,monomer,inner protein,3.0
+5T45_1,5T45,s359,ASD,monomer,inner protein,3.0
+4P86_1,4P86,s577,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5M0E_1,5M0E,s578,ASD,monomer,allosteric position (unspecified),231.0
+5M0M_1,5M0M,s578,ASD,monomer,allosteric position (unspecified),231.0
+5M0S_1,5M0S,s578,ASD,monomer,allosteric position (unspecified),231.0
+5Y66_1,5Y66,s579,ASD,monomer,allosteric position (unspecified),23.0
+5L6S_1,5L6S,s10,ASD,homo-oligomer,allosteric position (unspecified),4.0
+5L6V_1,5L6V,s10,ASD,homo-oligomer,allosteric position (unspecified),4.0
+5WSB_1,5WSB,s581,ASD,homo-oligomer,allosteric position (unspecified),3.0
+5WSB_2,5WSB,s581,ASD,homo-oligomer,allosteric position (unspecified),4.0
+5OFU_1,5OFU,s113,ASD,homo-oligomer,inner protein,2.0
+6BPL_1,6BPL,s583,ASD,homo-oligomer,allosteric position (unspecified),0.0
+6BPP_1,6BPP,s583,ASD,homo-oligomer,allosteric position (unspecified),0.0
+4CYD_1,4CYD,s969,ASD,protein-peptide,allosteric position (unspecified),0.0
+6FBA_1,6FBA,s585,ASD,pseudo-hetero,allosteric position (unspecified),1.0
+6CGL_1,6CGL,s586,ASD,homo-oligomer,allosteric position (unspecified),14.0
+6CGN_1,6CGN,s586,ASD,monomer,allosteric position (unspecified),14.0
+5OLK_1,5OLK,s587,ASD,homo-oligomer,PPI interface,2.0
+6FMU_1,6FMU,s589,ASD,homo (assembly only),allosteric position (unspecified),10.0
+6FMZ_1,6FMZ,s589,ASD,homo (assembly only),allosteric position (unspecified),10.0
+6FP4_1,6FP4,s589,ASD,homo (assembly only),allosteric position (unspecified),41.0
+6FTC_1,6FTC,s589,ASD,homo (assembly only),allosteric position (unspecified),41.0
+4KS0_1,4KS0,s581,ASD,homo-oligomer,allosteric position (unspecified),2.0
+5X13_1,5X13,s591,ASD,homo (assembly only),allosteric position (unspecified),2.0
+5X14_1,5X14,s591,ASD,homo (assembly only),allosteric position (unspecified),2.0
+5Y8T_1,5Y8T,s591,ASD,homo-oligomer,allosteric position (unspecified),2.0
+6H8S_1,6H8S,s753,ASD,monomer,allosteric position (unspecified),0.0
+6CZM_1,6CZM,s593,ASD,homo-oligomer,allosteric position (unspecified),1.0
+4YB5_1,4YB5,s593,ASD,homo-oligomer,allosteric position (unspecified),5.0
+4TSX_1,4TSX,s306,ASD,homo (assembly only),allosteric position (unspecified),2.0
+5J6F_1,5J6F,s518,ASD,homo-oligomer,PPI interface,0.0
+4CJN_1,4CJN,s472,ASD,homo-oligomer,allosteric position (unspecified),0.0
+4XCZ_1,4XCZ,s597,ASD,homo (assembly only),allosteric position (unspecified),1.0
+5UXM_1,5UXM,s598,ASD,homo (assembly only),allosteric position (unspecified),2.0
+5HUD_1,5HUD,s598,ASD,hetero-complex,allosteric position (unspecified),0.0
+5HUE_1,5HUE,s598,ASD,homo (assembly only),allosteric position (unspecified),0.0
+5W6Y_1,5W6Y,s504,ASD,homo-oligomer,allosteric position (unspecified),0.0
+4P9D_2,4P9D,s82,ASD,homo-oligomer,allosteric position (unspecified),2.0
+3ZL6_1,3ZL6,s601,ASD,homo-oligomer,allosteric position (unspecified),5.0
+6NCJ_1,6NCJ,s306,ASD,homo (assembly only),allosteric position (unspecified),6.0
+5IM3_1,5IM3,s602,ASD,homo-oligomer,allosteric position (unspecified),0.0
+5T3N_1,5T3N,s969,ASD,homo-oligomer,inner protein,2.0
+5OJ0_1,5OJ0,s605,ASD,monomer,allosteric position (unspecified),5.0
+3WGG_1,3WGG,s606,ASD,homo-oligomer,allosteric position (unspecified),3.0
+5IRZ_1,5IRZ,s612,ASD,homo-oligomer,allosteric position (unspecified),48.0
+5ON7_1,5ON7,s610,ASD,homo-oligomer,PPI interface,4.0
+6D7O_1,6D7O,s612,ASD,homo (assembly only),allosteric position (unspecified),5.0
+5TPW_1,5TPW,s614,ASD,hetero-complex,inner protein,33.0
+6BRH_1,6BRH,s616,ASD,homo-oligomer,allosteric position (unspecified),1.0
+6BRK_1,6BRK,s616,ASD,monomer,allosteric position (unspecified),1.0
+5U1V_1,5U1V,s955,ASD,homo (assembly only),allosteric position (unspecified),3.0
+5U1X_1,5U1X,s955,ASD,homo (assembly only),allosteric position (unspecified),3.0
+5U1Y_1,5U1Y,s955,ASD,homo (assembly only),allosteric position (unspecified),3.0
+4WLW_1,4WLW,s618,ASD,homo (assembly only),allosteric position (unspecified),3.0
+4YPL_1,4YPL,s619,ASD,homo-oligomer,allosteric position (unspecified),9.0
+5IXE_1,5IXE,s620,ASD,homo-oligomer,allosteric position (unspecified),15.0
+5N70_1,5N70,s621,ASD,protein-peptide,allosteric position (unspecified),
+5O1S_1,5O1S,s969,ASD,monomer,allosteric position (unspecified),8.0
+5Z45_1,5Z45,s623,ASD,homo-oligomer,allosteric position (unspecified),1.0
+5Z46_1,5Z46,s623,ASD,homo-oligomer,allosteric position (unspecified),1.0
+4OV4_1,4OV4,s624,ASD,homo (assembly only),allosteric position (unspecified),0.0
+4OV9_1,4OV9,s624,ASD,homo (assembly only),allosteric position (unspecified),0.0
+5BQ1_1,5BQ1,s625,ASD,monomer,allosteric position (unspecified),6.0
+3IRW_1,3IRW,T:ASD80060000_2,ASD,monomer,DNA/RNA,0.0
+3IWN_1,3IWN,T:ASD80060000_2,ASD,homo-oligomer,DNA/RNA,0.0
+3MUM_1,3MUM,T:ASD80060000_2,ASD,monomer,DNA/RNA,0.0
+3MUR_1,3MUR,T:ASD80060000_2,ASD,monomer,DNA/RNA,0.0
+3MUT_1,3MUT,T:ASD80060000_2,ASD,monomer,DNA/RNA,0.0
+3MUV_1,3MUV,T:ASD80060000_2,ASD,monomer,DNA/RNA,0.0
+3MXH_1,3MXH,T:ASD80060000_2,ASD,monomer,DNA/RNA,0.0
+3OWI_1,3OWI,T:ASD80060000_2,ASD,no protein chain >= 50 aa,DNA/RNA,0.0
+3OWW_1,3OWW,T:ASD80060000_2,ASD,no protein chain >= 50 aa,DNA/RNA,0.0
+3OWZ_1,3OWZ,T:ASD80060000_2,ASD,no protein chain >= 50 aa,DNA/RNA,0.0
+3OXE_1,3OXE,T:ASD80060000_2,ASD,no protein chain >= 50 aa,DNA/RNA,0.0
+3OXJ_1,3OXJ,T:ASD80060000_2,ASD,no protein chain >= 50 aa,DNA/RNA,0.0
+3OXM_1,3OXM,T:ASD80060000_2,ASD,no protein chain >= 50 aa,DNA/RNA,0.0
+3Q3Z_1,3Q3Z,T:ASD80060000_2,ASD,no protein chain >= 50 aa,DNA/RNA,0.0
+5MRD_1,5MRD,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+4XX9_1,4XX9,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+4AW0_1,4AW0,s969,AlloBench,monomer,inner protein,51.0
+4RQK_1,4RQK,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+5LVL_1,5LVL,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+4RQV_1,4RQV,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+3NAX_1,3NAX,s969,AlloBench,monomer,inner protein,50.0
+5ACK_1,5ACK,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+4AW1_1,4AW1,s969,AlloBench,monomer,inner protein,51.0
+3ORZ_1,3ORZ,s969,AlloBench,homo-oligomer,inner protein,51.0
+5LVN_1,5LVN,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+4CT1_1,4CT1,s969,AlloBench,monomer,inner protein,51.0
+5LVP_1,5LVP,s969,AlloBench,protein-peptide,allosteric position (unspecified),
+3ORX_1,3ORX,s969,AlloBench,homo-oligomer,inner protein,51.0
+3HRF_1,3HRF,s969,AlloBench,monomer,inner protein,51.0
+3OTU_1,3OTU,s969,AlloBench,monomer,inner protein,51.0
+5LVO_1,5LVO,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+4A06_1,4A06,s969,AlloBench,monomer,inner protein,51.0
+4A07_1,4A07,s969,AlloBench,monomer,inner protein,51.0
+3VGA_1,3VGA,s840,AlloBench,hetero-complex,PPI interface,
+3VG9_1,3VG9,s840,AlloBench,hetero-complex,PPI interface,
+3H0W_1,3H0W,s637,AlloBench,pseudo-hetero,inner protein,7.0
+1I7M_1,1I7M,s637,AlloBench,pseudo-hetero,inner protein,7.0
+1I72_1,1I72,s637,AlloBench,pseudo-hetero,inner protein,7.0
+3DZ3_1,3DZ3,s637,AlloBench,pseudo-hetero,inner protein,7.0
+1I7B_1,1I7B,s637,AlloBench,pseudo-hetero,inner protein,7.0
+3EPB_1,3EPB,s637,AlloBench,pseudo-hetero,inner protein,7.0
+3EPA_1,3EPA,s637,AlloBench,pseudo-hetero,inner protein,7.0
+1I7C_1,1I7C,s637,AlloBench,pseudo-hetero,inner protein,7.0
+3EP5_1,3EP5,s637,AlloBench,pseudo-hetero,inner protein,15.0
+3H0V_1,3H0V,s637,AlloBench,pseudo-hetero,inner protein,7.0
+1MSV_1,1MSV,s637,AlloBench,homo-oligomer,inner protein,7.0
+1I79_1,1I79,s637,AlloBench,pseudo-hetero,inner protein,7.0
+4CFE_1,4CFE,s970,AlloBench,hetero-complex,inner protein,1.0
+4ZHX_1,4ZHX,s970,AlloBench,hetero-complex,allosteric position (unspecified),13.0
+4CFE_2,4CFE,s969,AlloBench,hetero-complex,PPI interface,8.0
+5EZV_1,5EZV,s970,AlloBench,hetero-complex,PPI interface,13.0
+4G9C_1,4G9C,s969,AlloBench,homo-oligomer,inner protein,96.0
+4DBN_1,4DBN,s969,AlloBench,homo-oligomer,inner protein,96.0
+4JVG_1,4JVG,s969,AlloBench,homo-oligomer,inner protein,96.0
+4FC0_1,4FC0,s969,AlloBench,homo-oligomer,inner protein,96.0
+4WO5_1,4WO5,s969,AlloBench,homo-oligomer,inner protein,95.0
+3Q96_1,3Q96,s969,AlloBench,homo-oligomer,inner protein,96.0
+1UWJ_1,1UWJ,s969,AlloBench,homo-oligomer,inner protein,95.0
+3IDP_1,3IDP,s969,AlloBench,homo-oligomer,inner protein,96.0
+4G9R_1,4G9R,s969,AlloBench,homo-oligomer,inner protein,94.0
+1UWH_1,1UWH,s969,AlloBench,homo-oligomer,inner protein,95.0
+1IQ5_1,1IQ5,s652,AlloBench,protein-peptide,inner protein,
+3H30_1,3H30,s969,AlloBench,homo-oligomer,inner protein,300.0
+2FQQ_1,2FQQ,s654,AlloBench,pseudo-hetero,PPI interface,38.0
+3KJF_1,3KJF,s654,AlloBench,pseudo-hetero,PPI interface,134.0
+2QLJ_1,2QLJ,s654,AlloBench,protein-peptide,PPI interface,37.0
+5V6U_1,5V6U,s654,AlloBench,homo-oligomer,allosteric position (unspecified),41.0
+1SHJ_1,1SHJ,s654,AlloBench,homo-oligomer,PPI interface,41.0
+1SHL_1,1SHL,s654,AlloBench,homo-oligomer,PPI interface,41.0
+3JVS_1,3JVS,s969,AlloBench,monomer,inner protein,164.0
+3F9N_1,3F9N,s969,AlloBench,monomer,inner protein,164.0
+3JVR_1,3JVR,s969,AlloBench,monomer,inner protein,164.0
+4K5Y_1,4K5Y,s840,AlloBench,homo-oligomer,allosteric position (unspecified),341.0
+4UUU_1,4UUU,s186,AlloBench,homo-oligomer,inner protein,17.0
+1W0F_1,1W0F,s666,AlloBench,monomer,inner protein,122.0
+5OPM_1,5OPM,s503,AlloBench,homo (assembly only),allosteric position (unspecified),32.0
+5OPK_1,5OPK,s503,AlloBench,homo (assembly only),allosteric position (unspecified),16.0
+2JC9_1,2JC9,s503,AlloBench,homo (assembly only),inner protein,33.0
+5OPK_2,5OPK,s503,AlloBench,homo (assembly only),allosteric position (unspecified),32.0
+5OPM_2,5OPM,s503,AlloBench,homo (assembly only),allosteric position (unspecified),16.0
+2JC9_2,2JC9,s503,AlloBench,homo (assembly only),PPI interface,33.0
+2XCW_1,2XCW,s503,AlloBench,homo (assembly only),PPI interface,30.0
+2XCV_1,2XCV,s503,AlloBench,homo (assembly only),PPI interface,33.0
+2XJC_1,2XJC,s503,AlloBench,homo (assembly only),PPI interface,33.0
+2XJD_1,2XJD,s503,AlloBench,homo (assembly only),PPI interface,30.0
+4H4B_1,4H4B,s503,AlloBench,homo (assembly only),PPI interface,33.0
+2XJE_1,2XJE,s503,AlloBench,homo (assembly only),PPI interface,30.0
+2XJF_1,2XJF,s503,AlloBench,homo (assembly only),PPI interface,33.0
+2UYM_1,2UYM,s984,AlloBench,homo-oligomer,inner protein,21.0
+2UYI_1,2UYI,s984,AlloBench,homo-oligomer,inner protein,21.0
+2WOG_1,2WOG,s984,AlloBench,homo-oligomer,inner protein,21.0
+2GM1_1,2GM1,s984,AlloBench,homo-oligomer,inner protein,21.0
+4AS7_1,4AS7,s984,AlloBench,monomer,inner protein,21.0
+4A51_1,4A51,s984,AlloBench,homo-oligomer,inner protein,21.0
+4BXN_1,4BXN,s984,AlloBench,homo-oligomer,inner protein,21.0
+2G1Q_1,2G1Q,s984,AlloBench,homo-oligomer,inner protein,21.0
+3CJO_1,3CJO,s984,AlloBench,homo-oligomer,inner protein,21.0
+4BBG_1,4BBG,s984,AlloBench,homo (assembly only),inner protein,21.0
+2X7D_1,2X7D,s984,AlloBench,homo-oligomer,inner protein,21.0
+3KEN_1,3KEN,s984,AlloBench,monomer,inner protein,21.0
+2FL2_1,2FL2,s984,AlloBench,homo-oligomer,inner protein,21.0
+2X7E_1,2X7E,s984,AlloBench,homo-oligomer,inner protein,21.0
+1Q0B_1,1Q0B,s984,AlloBench,homo-oligomer,inner protein,21.0
+2XAE_1,2XAE,s984,AlloBench,homo-oligomer,inner protein,21.0
+2X2R_1,2X2R,s984,AlloBench,homo-oligomer,inner protein,21.0
+3K3B_1,3K3B,s984,AlloBench,homo-oligomer,inner protein,21.0
+2X7C_1,2X7C,s984,AlloBench,homo-oligomer,inner protein,21.0
+3L9H_1,3L9H,s984,AlloBench,homo-oligomer,inner protein,21.0
+3K5E_1,3K5E,s984,AlloBench,homo-oligomer,inner protein,21.0
+4AP0_1,4AP0,s984,AlloBench,homo-oligomer,inner protein,20.0
+2PG2_1,2PG2,s984,AlloBench,homo-oligomer,inner protein,21.0
+2Q2Y_1,2Q2Y,s984,AlloBench,homo-oligomer,inner protein,21.0
+2Q2Z_1,2Q2Z,s984,AlloBench,homo-oligomer,inner protein,21.0
+1X88_1,1X88,s984,AlloBench,homo-oligomer,inner protein,21.0
+1YRS_1,1YRS,s984,AlloBench,homo-oligomer,inner protein,21.0
+2IEH_1,2IEH,s984,AlloBench,homo-oligomer,inner protein,21.0
+2FL6_1,2FL6,s984,AlloBench,homo-oligomer,inner protein,21.0
+3ZCW_1,3ZCW,s984,AlloBench,monomer,inner protein,21.0
+3ZCW_2,3ZCW,s984,AlloBench,monomer,inner protein,21.0
+4A50_1,4A50,s984,AlloBench,monomer,inner protein,21.0
+3WPN_1,3WPN,s984,AlloBench,monomer,allosteric position (unspecified),21.0
+2FKY_1,2FKY,s984,AlloBench,homo-oligomer,inner protein,21.0
+5D41_1,5D41,s969,AlloBench,homo-oligomer,allosteric position (unspecified),284.0
+5DWG_1,5DWG,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5E15_1,5E15,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DXK_1,5DXK,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DMF_1,5DMF,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DRJ_1,5DRJ,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5E14_1,5E14,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DID_1,5DID,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DKE_1,5DKE,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DI7_1,5DI7,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DZ1_1,5DZ1,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DTV_1,5DTV,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DWE_1,5DWE,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DP0_1,5DP0,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5E1C_1,5E1C,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5EHJ_1,5EHJ,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DZ3_1,5DZ3,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DL4_1,5DL4,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DVV_1,5DVV,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DZH_1,5DZH,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DKS_1,5DKS,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DMC_1,5DMC,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DZ0_1,5DZ0,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DIE_1,5DIE,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5E0X_1,5E0X,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DUH_1,5DUH,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DLR_1,5DLR,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DKG_1,5DKG,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5E0W_1,5E0W,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DKB_1,5DKB,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DIG_1,5DIG,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DYB_1,5DYB,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DUG_1,5DUG,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DXQ_1,5DXQ,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DXR_1,5DXR,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5E19_1,5E19,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DXM_1,5DXM,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DZI_1,5DZI,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DYD_1,5DYD,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DUE_1,5DUE,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DWJ_1,5DWJ,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DRM_1,5DRM,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DY8_1,5DY8,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DWI_1,5DWI,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DVS_1,5DVS,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DK9_1,5DK9,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DXP_1,5DXP,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+5DU5_1,5DU5,s837,AlloBench,protein-peptide,allosteric position (unspecified),296.0
+3KC1_1,3KC1,s113,AlloBench,homo-oligomer,inner protein,36.0
+2Y5L_1,2Y5L,s113,AlloBench,homo-oligomer,inner protein,36.0
+2VT5_1,2VT5,s113,AlloBench,homo-oligomer,inner protein,36.0
+2FIX_1,2FIX,s113,AlloBench,homo-oligomer,inner protein,36.0
+2WBD_1,2WBD,s113,AlloBench,homo-oligomer,inner protein,36.0
+2Y5K_1,2Y5K,s113,AlloBench,homo-oligomer,inner protein,36.0
+1FTA_1,1FTA,s113,AlloBench,homo-oligomer,inner protein,32.0
+3IFA_1,3IFA,s113,AlloBench,homo-oligomer,inner protein,9.0
+3KC0_1,3KC0,s113,AlloBench,homo-oligomer,inner protein,36.0
+4MJO_1,4MJO,s113,AlloBench,homo-oligomer,inner protein,36.0
+2WBB_1,2WBB,s113,AlloBench,homo-oligomer,inner protein,36.0
+3IFC_1,3IFC,s113,AlloBench,homo-oligomer,inner protein,9.0
+3KBZ_1,3KBZ,s113,AlloBench,homo-oligomer,inner protein,36.0
+2JJK_1,2JJK,s113,AlloBench,homo-oligomer,inner protein,36.0
+3A29_1,3A29,s113,AlloBench,homo-oligomer,inner protein,36.0
+2FHY_1,2FHY,s113,AlloBench,homo-oligomer,inner protein,36.0
+2FIE_1,2FIE,s113,AlloBench,homo-oligomer,inner protein,36.0
+5V4X_1,5V4X,s714,AlloBench,monomer,inner protein,10.0
+4ISE_1,4ISE,s714,AlloBench,monomer,inner protein,10.0
+3VEY_1,3VEY,s714,AlloBench,monomer,inner protein,10.0
+3GOI_1,3GOI,s714,AlloBench,monomer,inner protein,10.0
+3VEV_1,3VEV,s714,AlloBench,monomer,inner protein,10.0
+4MLH_1,4MLH,s714,AlloBench,monomer,inner protein,10.0
+4IWV_1,4IWV,s714,AlloBench,monomer,inner protein,10.0
+4ISG_1,4ISG,s714,AlloBench,monomer,inner protein,10.0
+3ID8_1,3ID8,s714,AlloBench,monomer,inner protein,10.0
+4NO7_1,4NO7,s714,AlloBench,monomer,inner protein,10.0
+1V4S_1,1V4S,s714,AlloBench,monomer,inner protein,10.0
+3VF6_1,3VF6,s714,AlloBench,monomer,inner protein,10.0
+4MLE_1,4MLE,s714,AlloBench,monomer,inner protein,10.0
+3A0I_1,3A0I,s714,AlloBench,monomer,inner protein,10.0
+3FR0_1,3FR0,s714,AlloBench,monomer,inner protein,10.0
+3IMX_1,3IMX,s714,AlloBench,monomer,inner protein,10.0
+4DHY_1,4DHY,s714,AlloBench,monomer,inner protein,10.0
+5V4W_1,5V4W,s714,AlloBench,monomer,inner protein,10.0
+4DCH_1,4DCH,s714,AlloBench,monomer,inner protein,10.0
+4IXC_1,4IXC,s714,AlloBench,monomer,inner protein,10.0
+4ISF_1,4ISF,s714,AlloBench,monomer,inner protein,10.0
+3H1V_1,3H1V,s714,AlloBench,monomer,inner protein,10.0
+3F9M_1,3F9M,s714,AlloBench,monomer,inner protein,10.0
+4L3Q_1,4L3Q,s714,AlloBench,monomer,inner protein,10.0
+3S41_1,3S41,s714,AlloBench,monomer,inner protein,10.0
+1NE7_1,1NE7,s117,AlloBench,homo-oligomer,PPI interface,0.0
+5YBF_1,5YBF,s614,AlloBench,homo-oligomer,allosteric position (unspecified),11.0
+3RNN_1,3RNN,s614,AlloBench,homo-oligomer,PPI interface,11.0
+3RN8_1,3RN8,s614,AlloBench,homo-oligomer,PPI interface,11.0
+2XHD_1,2XHD,s614,AlloBench,homo-oligomer,PPI interface,11.0
+6DHQ_1,6DHQ,s134,AlloBench,homo-oligomer,PPI interface,17.0
+6DHD_1,6DHD,s134,AlloBench,homo-oligomer,inner protein,12.0
+6DHM_1,6DHM,s134,AlloBench,homo-oligomer,inner protein,12.0
+6DHM_2,6DHM,s134,AlloBench,homo-oligomer,PPI interface,11.0
+1Z8D_1,1Z8D,s709,AlloBench,homo (assembly only),inner protein,0.0
+1Z8D_2,1Z8D,s709,AlloBench,homo (assembly only),inner protein,0.0
+1L7X_1,1L7X,s709,AlloBench,homo-oligomer,inner protein,4.0
+1L5Q_1,1L5Q,s709,AlloBench,homo-oligomer,inner protein,4.0
+2ZB2_1,2ZB2,s709,AlloBench,homo-oligomer,inner protein,4.0
+1L5R_1,1L5R,s709,AlloBench,homo-oligomer,inner protein,4.0
+3CEH_1,3CEH,s709,AlloBench,homo-oligomer,inner protein,4.0
+1EXV_1,1EXV,s709,AlloBench,homo-oligomer,inner protein,4.0
+3DDW_1,3DDW,s709,AlloBench,homo-oligomer,inner protein,4.0
+3DDW_2,3DDW,s709,AlloBench,homo-oligomer,inner protein,4.0
+1L5S_1,1L5S,s709,AlloBench,homo-oligomer,inner protein,4.0
+1XOI_1,1XOI,s709,AlloBench,homo-oligomer,inner protein,4.0
+1L5R_2,1L5R,s709,AlloBench,homo-oligomer,inner protein,4.0
+3DDS_1,3DDS,s709,AlloBench,homo-oligomer,inner protein,4.0
+3CEM_1,3CEM,s709,AlloBench,homo-oligomer,inner protein,4.0
+2ZB2_2,2ZB2,s709,AlloBench,homo-oligomer,inner protein,4.0
+3DD1_1,3DD1,s709,AlloBench,homo-oligomer,inner protein,4.0
+3DDS_2,3DDS,s709,AlloBench,homo-oligomer,inner protein,4.0
+1L5Q_2,1L5Q,s709,AlloBench,homo-oligomer,inner protein,4.0
+2ATI_1,2ATI,s709,AlloBench,homo-oligomer,inner protein,4.0
+1L7X_2,1L7X,s709,AlloBench,homo-oligomer,inner protein,4.0
+3DD1_2,3DD1,s709,AlloBench,homo-oligomer,inner protein,4.0
+3CEJ_1,3CEJ,s709,AlloBench,homo-oligomer,inner protein,4.0
+1EM6_1,1EM6,s709,AlloBench,homo-oligomer,inner protein,4.0
+1L5S_2,1L5S,s709,AlloBench,homo-oligomer,inner protein,4.0
+1EXV_2,1EXV,s709,AlloBench,homo-oligomer,inner protein,4.0
+1CZA_1,1CZA,s714,AlloBench,monomer,inner protein,7.0
+1QHA_1,1QHA,s714,AlloBench,homo-oligomer,inner protein,7.0
+1HKB_1,1HKB,s714,AlloBench,homo-oligomer,inner protein,7.0
+4IO8_1,4IO8,s417,AlloBench,monomer,inner protein,66.0
+5I73_1,5I73,s717,AlloBench,hetero-complex,allosteric position (unspecified),11.0
+5I75_1,5I75,s717,AlloBench,hetero-complex,allosteric position (unspecified),11.0
+3LW0_1,3LW0,s969,AlloBench,homo-oligomer,inner protein,33.0
+1L5G_1,1L5G,s719,AlloBench,protein-peptide,PPI interface,
+4IXD_1,4IXD,s721,AlloBench,monomer,inner protein,23.0
+2O7N_1,2O7N,s721,AlloBench,monomer,inner protein,23.0
+1XUO_1,1XUO,s721,AlloBench,homo-oligomer,inner protein,23.0
+3BQM_1,3BQM,s721,AlloBench,homo-oligomer,inner protein,23.0
+3F78_1,3F78,s721,AlloBench,homo-oligomer,inner protein,23.0
+3M6F_1,3M6F,s721,AlloBench,monomer,inner protein,22.0
+3BQN_1,3BQN,s721,AlloBench,homo-oligomer,inner protein,23.0
+2ICA_1,2ICA,s721,AlloBench,monomer,inner protein,23.0
+1CQP_1,1CQP,s721,AlloBench,homo-oligomer,inner protein,22.0
+3E2M_1,3E2M,s721,AlloBench,homo-oligomer,inner protein,23.0
+1XDD_1,1XDD,s721,AlloBench,homo-oligomer,inner protein,23.0
+1RD4_1,1RD4,s721,AlloBench,homo-oligomer,inner protein,23.0
+1XDG_1,1XDG,s721,AlloBench,homo-oligomer,inner protein,23.0
+4JA8_1,4JA8,s726,AlloBench,homo-oligomer,PPI interface,12.0
+1PJ4_1,1PJ4,s182,AlloBench,homo-oligomer,PPI interface,13.0
+1PJ2_1,1PJ2,s182,AlloBench,homo-oligomer,PPI interface,13.0
+1GZ4_1,1GZ4,s182,AlloBench,homo-oligomer,PPI interface,13.0
+1PJ3_1,1PJ3,s182,AlloBench,homo-oligomer,PPI interface,13.0
+1GZ3_1,1GZ3,s182,AlloBench,homo-oligomer,PPI interface,13.0
+6FFH_1,6FFH,s840,AlloBench,monomer,allosteric position (unspecified),346.0
+6FFI_1,6FFI,s840,AlloBench,monomer,allosteric position (unspecified),346.0
+5CGC_1,5CGC,s840,AlloBench,monomer,allosteric position (unspecified),346.0
+5CGD_1,5CGD,s840,AlloBench,monomer,allosteric position (unspecified),346.0
+3OS3_1,3OS3,s969,AlloBench,monomer,inner protein,62.0
+3V01_1,3V01,s969,AlloBench,monomer,inner protein,62.0
+3ORN_1,3ORN,s969,AlloBench,monomer,inner protein,62.0
+3EQH_1,3EQH,s969,AlloBench,monomer,inner protein,62.0
+2P55_1,2P55,s969,AlloBench,homo (assembly only),inner protein,62.0
+3SLS_1,3SLS,s969,AlloBench,homo-oligomer,inner protein,62.0
+3E8N_1,3E8N,s969,AlloBench,monomer,inner protein,62.0
+4LMN_1,4LMN,s969,AlloBench,monomer,inner protein,61.0
+4ANB_1,4ANB,s969,AlloBench,monomer,inner protein,62.0
+3VVH_1,3VVH,s969,AlloBench,homo-oligomer,inner protein,61.0
+4ARK_1,4ARK,s969,AlloBench,homo (assembly only),inner protein,62.0
+4AN2_1,4AN2,s969,AlloBench,monomer,inner protein,61.0
+3EQB_1,3EQB,s969,AlloBench,homo (assembly only),inner protein,62.0
+4AN9_1,4AN9,s969,AlloBench,monomer,inner protein,62.0
+3WIG_1,3WIG,s969,AlloBench,monomer,inner protein,59.0
+3DY7_1,3DY7,s969,AlloBench,monomer,inner protein,62.0
+3V04_1,3V04,s969,AlloBench,monomer,inner protein,62.0
+3EQG_1,3EQG,s969,AlloBench,monomer,inner protein,61.0
+3PP1_1,3PP1,s969,AlloBench,monomer,inner protein,62.0
+1S9J_1,1S9J,s969,AlloBench,homo (assembly only),inner protein,62.0
+3EQC_1,3EQC,s969,AlloBench,monomer,inner protein,62.0
+4MNE_1,4MNE,s969,AlloBench,hetero-complex,inner protein,62.0
+4AN3_1,4AN3,s969,AlloBench,monomer,inner protein,62.0
+3DV3_1,3DV3,s969,AlloBench,homo (assembly only),inner protein,62.0
+1S9I_1,1S9I,s969,AlloBench,homo-oligomer,inner protein,1.0
+5KDT_1,5KDT,s614,AlloBench,hetero-complex,allosteric position (unspecified),23.0
+5H8Q_1,5H8Q,s614,AlloBench,hetero-complex,inner protein,23.0
+5H8H_1,5H8H,s614,AlloBench,hetero-complex,inner protein,23.0
+5TP9_1,5TP9,s614,AlloBench,hetero-complex,inner protein,23.0
+5KCJ_1,5KCJ,s614,AlloBench,hetero-complex,inner protein,23.0
+5TPA_1,5TPA,s614,AlloBench,hetero-complex,inner protein,23.0
+5I2N_1,5I2N,s614,AlloBench,hetero-complex,allosteric position (unspecified),23.0
+5I2K_1,5I2K,s614,AlloBench,hetero-complex,allosteric position (unspecified),6.0
+2I7N_1,2I7N,s741,AlloBench,homo-oligomer,PPI interface,0.0
+5FII_1,5FII,s742,AlloBench,homo-oligomer,allosteric position (unspecified),20.0
+3IAD_1,3IAD,s744,AlloBench,homo-oligomer,inner protein,118.0
+5TKB_1,5TKB,s744,AlloBench,homo-oligomer,allosteric position (unspecified),118.0
+6BOJ_1,6BOJ,s744,AlloBench,homo-oligomer,allosteric position (unspecified),157.0
+1TBF_1,1TBF,s744,AlloBench,monomer,inner protein,46.0
+2H08_1,2H08,s749,AlloBench,homo-oligomer,PPI interface,15.0
+2H06_1,2H06,s749,AlloBench,homo-oligomer,PPI interface,15.0
+2H07_1,2H07,s749,AlloBench,homo-oligomer,PPI interface,15.0
+3S5J_1,3S5J,s749,AlloBench,homo-oligomer,PPI interface,15.0
+2HCR_1,2HCR,s749,AlloBench,homo-oligomer,PPI interface,15.0
+3OF1_1,3OF1,s969,AlloBench,monomer,inner protein,1.0
+6B95_1,6B95,s753,AlloBench,monomer,allosteric position (unspecified),306.0
+1T4J_1,1T4J,s753,AlloBench,monomer,inner protein,305.0
+1T48_1,1T48,s753,AlloBench,monomer,inner protein,306.0
+1T49_1,1T49,s753,AlloBench,monomer,inner protein,306.0
+5T19_1,5T19,s753,AlloBench,monomer,allosteric position (unspecified),306.0
+2BU7_1,2BU7,s754,AlloBench,homo (assembly only),inner protein,19.0
+2BU6_1,2BU6,s754,AlloBench,homo (assembly only),inner protein,33.0
+2BU8_1,2BU8,s754,AlloBench,homo (assembly only),inner protein,33.0
+2BU5_1,2BU5,s754,AlloBench,homo (assembly only),inner protein,33.0
+2BU2_1,2BU2,s754,AlloBench,homo (assembly only),inner protein,33.0
+4B2D_1,4B2D,s581,AlloBench,pseudo-hetero,inner protein,45.0
+3H6O_1,3H6O,s581,AlloBench,homo-oligomer,inner protein,21.0
+6GG6_1,6GG6,s581,AlloBench,homo-oligomer,allosteric position (unspecified),45.0
+4FXF_1,4FXF,s581,AlloBench,homo-oligomer,inner protein,21.0
+6GG5_1,6GG5,s581,AlloBench,homo-oligomer,allosteric position (unspecified),49.0
+4B2D_2,4B2D,s581,AlloBench,pseudo-hetero,inner protein,21.0
+3BJF_1,3BJF,s581,AlloBench,homo-oligomer,inner protein,21.0
+3GR4_1,3GR4,s581,AlloBench,homo-oligomer,inner protein,21.0
+6GG4_1,6GG4,s581,AlloBench,homo-oligomer,allosteric position (unspecified),47.0
+1T5A_1,1T5A,s581,AlloBench,homo-oligomer,inner protein,21.0
+3GQY_1,3GQY,s581,AlloBench,homo-oligomer,inner protein,21.0
+4G1N_1,4G1N,s581,AlloBench,homo-oligomer,PPI interface,49.0
+2VGG_1,2VGG,s581,AlloBench,homo-oligomer,inner protein,12.0
+2VGI_1,2VGI,s581,AlloBench,homo-oligomer,inner protein,12.0
+2VGF_1,2VGF,s581,AlloBench,homo-oligomer,inner protein,12.0
+4IP7_1,4IP7,s581,AlloBench,homo-oligomer,inner protein,12.0
+2VGB_1,2VGB,s581,AlloBench,homo-oligomer,inner protein,12.0
+3HNE_1,3HNE,s602,AlloBench,homo-oligomer,inner protein,5.0
+3HND_1,3HND,s602,AlloBench,homo-oligomer,PPI interface,1.0
+3HNE_2,3HNE,s602,AlloBench,homo-oligomer,PPI interface,1.0
+3HNF_1,3HNF,s602,AlloBench,homo-oligomer,PPI interface,1.0
+3HNC_1,3HNC,s602,AlloBench,homo-oligomer,PPI interface,1.0
+2WGH_1,2WGH,s602,AlloBench,homo-oligomer,PPI interface,4.0
+3HNF_2,3HNF,s602,AlloBench,homo-oligomer,inner protein,4.0
+2BXD_1,2BXD,s769,AlloBench,homo-oligomer,inner protein,163.0
+1E7C_1,1E7C,s769,AlloBench,monomer,inner protein,165.0
+3LU6_1,3LU6,s769,AlloBench,homo-oligomer,inner protein,165.0
+2BXA_1,2BXA,s769,AlloBench,homo-oligomer,inner protein,165.0
+2BXG_1,2BXG,s769,AlloBench,homo-oligomer,inner protein,165.0
+2BXC_1,2BXC,s769,AlloBench,homo-oligomer,inner protein,163.0
+2BX8_1,2BX8,s769,AlloBench,homo-oligomer,inner protein,163.0
+3LU6_2,3LU6,s769,AlloBench,homo-oligomer,inner protein,165.0
+1E7B_1,1E7B,s769,AlloBench,homo-oligomer,inner protein,
+3LU7_1,3LU7,s769,AlloBench,homo-oligomer,inner protein,165.0
+2BXE_1,2BXE,s769,AlloBench,homo-oligomer,inner protein,165.0
+2BXB_1,2BXB,s769,AlloBench,homo-oligomer,inner protein,164.0
+2BXE_2,2BXE,s769,AlloBench,homo-oligomer,inner protein,165.0
+2BXH_1,2BXH,s769,AlloBench,homo-oligomer,inner protein,165.0
+1E7C_2,1E7C,s769,AlloBench,monomer,inner protein,
+4FGT_1,4FGT,s771,AlloBench,homo (assembly only),inner protein,
+5X69_1,5X69,s771,AlloBench,homo-oligomer,inner protein,58.0
+2ONB_1,2ONB,s771,AlloBench,homo (assembly only),inner protein,58.0
+4ZHT_1,4ZHT,s773,AlloBench,homo-oligomer,allosteric position (unspecified),4.0
+5X7D_1,5X7D,s840,AlloBench,monomer,inner protein,429.0
+5OS5_1,5OS5,s969,AlloBench,monomer,PPI interface,171.0
+5ORO_1,5ORO,s969,AlloBench,monomer,PPI interface,171.0
+5OS1_1,5OS1,s969,AlloBench,monomer,PPI interface,171.0
+5OS3_1,5OS3,s969,AlloBench,monomer,PPI interface,171.0
+5DR9_1,5DR9,s969,AlloBench,monomer,PPI interface,171.0
+5DR6_1,5DR6,s969,AlloBench,monomer,PPI interface,171.0
+5ORW_1,5ORW,s969,AlloBench,monomer,PPI interface,171.0
+5ORP_1,5ORP,s969,AlloBench,monomer,PPI interface,171.0
+5ORR_1,5ORR,s969,AlloBench,monomer,PPI interface,171.0
+5OS2_1,5OS2,s969,AlloBench,monomer,PPI interface,171.0
+5DR2_1,5DR2,s969,AlloBench,monomer,PPI interface,171.0
+5OS4_1,5OS4,s969,AlloBench,monomer,PPI interface,171.0
+5ORV_1,5ORV,s969,AlloBench,monomer,PPI interface,171.0
+5OSD_1,5OSD,s969,AlloBench,monomer,PPI interface,171.0
+5OBR_1,5OBR,s969,AlloBench,monomer,PPI interface,171.0
+5OSE_1,5OSE,s969,AlloBench,monomer,PPI interface,171.0
+5ORN_1,5ORN,s969,AlloBench,monomer,PPI interface,171.0
+5DOS_1,5DOS,s969,AlloBench,monomer,PPI interface,171.0
+5OSF_1,5OSF,s969,AlloBench,monomer,PPI interface,171.0
+5OBJ_1,5OBJ,s969,AlloBench,monomer,PPI interface,171.0
+5OS0_1,5OS0,s969,AlloBench,monomer,PPI interface,171.0
+5ORS_1,5ORS,s969,AlloBench,monomer,PPI interface,171.0
+5DN3_1,5DN3,s969,AlloBench,monomer,allosteric position (unspecified),171.0
+5ORX_1,5ORX,s969,AlloBench,monomer,PPI interface,171.0
+5ORZ_1,5ORZ,s969,AlloBench,monomer,PPI interface,171.0
+5ORL_1,5ORL,s969,AlloBench,monomer,PPI interface,171.0
+5OS6_1,5OS6,s969,AlloBench,monomer,PPI interface,171.0
+5DPV_1,5DPV,s969,AlloBench,monomer,PPI interface,171.0
+5DT4_1,5DT4,s969,AlloBench,monomer,PPI interface,171.0
+5ORT_1,5ORT,s969,AlloBench,monomer,PPI interface,171.0
+5ORY_1,5ORY,s969,AlloBench,monomer,PPI interface,171.0
+4EJN_1,4EJN,s969,AlloBench,monomer,inner protein,52.0
+3O96_1,3O96,s969,AlloBench,monomer,inner protein,52.0
+5KCV_1,5KCV,s969,AlloBench,monomer,allosteric position (unspecified),51.0
+1OPL_1,1OPL,s969,AlloBench,homo-oligomer,inner protein,72.0
+5MO4_1,5MO4,s969,AlloBench,monomer,inner protein,72.0
+3PYY_1,3PYY,s969,AlloBench,homo-oligomer,inner protein,73.0
+4RQZ_2,4RQZ,s787,AlloBench,protein-peptide,inner protein,21.0
+4RQZ_3,4RQZ,s787,AlloBench,protein-peptide,allosteric position (unspecified),
+1WBN_1,1WBN,s969,AlloBench,monomer,inner protein,215.0
+3HV7_1,3HV7,s969,AlloBench,monomer,inner protein,215.0
+2BAK_1,2BAK,s969,AlloBench,monomer,inner protein,215.0
+4E6C_1,4E6C,s969,AlloBench,monomer,inner protein,215.0
+4EH9_1,4EH9,s969,AlloBench,monomer,inner protein,215.0
+3GI3_1,3GI3,s969,AlloBench,monomer,inner protein,215.0
+4A9Y_1,4A9Y,s969,AlloBench,monomer,inner protein,215.0
+3O8U_1,3O8U,s969,AlloBench,monomer,inner protein,215.0
+3K3I_1,3K3I,s969,AlloBench,monomer,inner protein,215.0
+3NNX_1,3NNX,s969,AlloBench,monomer,inner protein,215.0
+1KV1_1,1KV1,s969,AlloBench,monomer,inner protein,215.0
+3O8T_1,3O8T,s969,AlloBench,monomer,inner protein,215.0
+3E93_1,3E93,s969,AlloBench,monomer,inner protein,215.0
+3HV6_1,3HV6,s969,AlloBench,monomer,inner protein,215.0
+3O8P_1,3O8P,s969,AlloBench,monomer,inner protein,215.0
+3NNU_1,3NNU,s969,AlloBench,monomer,inner protein,215.0
+3GCU_1,3GCU,s969,AlloBench,homo-oligomer,inner protein,215.0
+3LFD_1,3LFD,s969,AlloBench,monomer,inner protein,215.0
+4EH9_2,4EH9,s969,AlloBench,monomer,inner protein,206.0
+3OC1_1,3OC1,s969,AlloBench,monomer,inner protein,215.0
+3K3J_1,3K3J,s969,AlloBench,monomer,inner protein,215.0
+3GCQ_1,3GCQ,s969,AlloBench,monomer,inner protein,215.0
+3GCV_1,3GCV,s969,AlloBench,monomer,inner protein,215.0
+4E6A_1,4E6A,s969,AlloBench,monomer,inner protein,215.0
+3OBJ_1,3OBJ,s969,AlloBench,monomer,inner protein,215.0
+1WBS_1,1WBS,s969,AlloBench,monomer,inner protein,215.0
+3NNV_1,3NNV,s969,AlloBench,monomer,inner protein,215.0
+4E8A_1,4E8A,s969,AlloBench,monomer,inner protein,215.0
+3NNW_1,3NNW,s969,AlloBench,monomer,inner protein,215.0
+3LFE_1,3LFE,s969,AlloBench,monomer,inner protein,215.0
+3IW8_1,3IW8,s969,AlloBench,monomer,inner protein,215.0
+3HEG_1,3HEG,s969,AlloBench,monomer,inner protein,214.0
+3HV3_1,3HV3,s969,AlloBench,monomer,inner protein,215.0
+1W82_1,1W82,s969,AlloBench,monomer,inner protein,215.0
+3D83_1,3D83,s969,AlloBench,monomer,inner protein,215.0
+3LFB_1,3LFB,s969,AlloBench,monomer,inner protein,215.0
+3KQ7_1,3KQ7,s969,AlloBench,monomer,inner protein,215.0
+3HV5_1,3HV5,s969,AlloBench,homo-oligomer,inner protein,215.0
+1WBT_1,1WBT,s969,AlloBench,monomer,inner protein,215.0
+1W83_1,1W83,s969,AlloBench,monomer,inner protein,215.0
+3GCS_1,3GCS,s969,AlloBench,monomer,inner protein,214.0
+3HEC_1,3HEC,s969,AlloBench,monomer,inner protein,215.0
+2BAJ_1,2BAJ,s969,AlloBench,monomer,inner protein,215.0
+1KV2_1,1KV2,s969,AlloBench,monomer,inner protein,213.0
+1WBV_1,1WBV,s969,AlloBench,monomer,inner protein,215.0
+3PG3_1,3PG3,s969,AlloBench,monomer,inner protein,215.0
+4AA0_1,4AA0,s969,AlloBench,monomer,inner protein,215.0
+3NEW_1,3NEW,s969,AlloBench,monomer,inner protein,215.0
+3HV4_1,3HV4,s969,AlloBench,homo-oligomer,inner protein,215.0
+5E29_1,5E29,s807,AlloBench,hetero-complex,PPI interface,290.0
+5UFJ_1,5UFJ,s807,AlloBench,hetero-complex,inner protein,296.0
+5E29_2,5E29,s807,AlloBench,hetero-complex,allosteric position (unspecified),290.0
+5X2S_1,5X2S,s807,AlloBench,hetero-complex,allosteric position (unspecified),290.0
+1G9V_1,1G9V,s807,AlloBench,hetero-complex,PPI interface,296.0
+5KSI_1,5KSI,s807,AlloBench,hetero-complex,allosteric position (unspecified),289.0
+5X2T_1,5X2T,s807,AlloBench,hetero-complex,allosteric position (unspecified),290.0
+6BNR_1,6BNR,s807,AlloBench,hetero-complex,allosteric position (unspecified),296.0
+2D5Z_1,2D5Z,s807,AlloBench,hetero-complex,PPI interface,296.0
+4NI0_1,4NI0,s807,AlloBench,hetero-complex,allosteric position (unspecified),290.0
+5U3I_1,5U3I,s807,AlloBench,hetero-complex,inner protein,296.0
+2D60_1,2D60,s807,AlloBench,hetero-complex,PPI interface,296.0
+5E29_3,5E29,s807,AlloBench,hetero-complex,PPI interface,296.0
+4ROM_1,4ROM,s807,AlloBench,hetero-complex,inner protein,290.0
+5KDQ_1,5KDQ,s807,AlloBench,hetero-complex,allosteric position (unspecified),290.0
+1B86_1,1B86,s807,AlloBench,hetero-complex,PPI interface,288.0
+4ROL_1,4ROL,s807,AlloBench,hetero-complex,inner protein,290.0
+4XZ2_1,4XZ2,s808,AlloBench,homo-oligomer,allosteric position (unspecified),5.0
+3GVU_1,3GVU,s969,AlloBench,monomer,inner protein,6.0
+3EVJ_1,3EVJ,s812,AlloBench,homo-oligomer,inner protein,20.0
+1NQ9_1,1NQ9,s812,AlloBench,homo-oligomer,inner protein,20.0
+1E03_1,1E03,s812,AlloBench,homo-oligomer,inner protein,20.0
+1AZX_1,1AZX,s812,AlloBench,homo-oligomer,inner protein,20.0
+3KCG_1,3KCG,s812,AlloBench,hetero-complex,inner protein,20.0
+1TB6_1,1TB6,s812,AlloBench,protein-peptide,inner protein,
+1SR5_1,1SR5,s812,AlloBench,protein-peptide,inner protein,20.0
+4N7M_1,4N7M,s654,AlloBench,homo-oligomer,PPI interface,28.0
+4NBL_1,4NBL,s654,AlloBench,homo-oligomer,PPI interface,27.0
+4N5D_1,4N5D,s654,AlloBench,homo-oligomer,PPI interface,28.0
+4NBK_1,4NBK,s654,AlloBench,homo-oligomer,PPI interface,28.0
+4N6G_1,4N6G,s654,AlloBench,homo-oligomer,PPI interface,28.0
+4N7J_1,4N7J,s654,AlloBench,homo-oligomer,PPI interface,28.0
+4EJF_1,4EJF,s654,AlloBench,protein-peptide,PPI interface,
+4NBN_1,4NBN,s654,AlloBench,homo-oligomer,PPI interface,28.0
+4FXO_1,4FXO,s654,AlloBench,homo-oligomer,PPI interface,28.0
+3KJN_1,3KJN,s654,AlloBench,pseudo-hetero,PPI interface,25.0
+3KJQ_1,3KJQ,s654,AlloBench,pseudo-hetero,PPI interface,25.0
+3KJN_2,3KJN,s654,AlloBench,pseudo-hetero,PPI interface,24.0
+3KJQ_2,3KJQ,s654,AlloBench,pseudo-hetero,PPI interface,25.0
+1YGC_1,1YGC,s398,AlloBench,pseudo-hetero,inner protein,106.0
+1DVA_1,1DVA,s398,AlloBench,protein-peptide,PPI interface,
+3PY1_1,3PY1,s969,AlloBench,monomer,inner protein,
+4EZ7_1,4EZ7,s969,AlloBench,monomer,inner protein,
+3PXZ_1,3PXZ,s969,AlloBench,monomer,inner protein,
+3PXF_1,3PXF,s969,AlloBench,monomer,inner protein,
+3PXQ_1,3PXQ,s969,AlloBench,monomer,inner protein,
+3ALO_1,3ALO,s819,AlloBench,protein-peptide,inner protein,
+5JA7_1,5JA7,s820,AlloBench,homo-oligomer,allosteric position (unspecified),68.0
+5J94_1,5J94,s820,AlloBench,monomer,allosteric position (unspecified),67.0
+5J94_2,5J94,s820,AlloBench,monomer,inner protein,67.0
+4TQB_1,4TQB,s821,AlloBench,homo-oligomer,inner protein,40.0
+4TQC_1,4TQC,s821,AlloBench,homo-oligomer,inner protein,40.0
+4TPW_1,4TPW,s821,AlloBench,homo-oligomer,inner protein,40.0
+3N5J_1,3N5J,s822,AlloBench,homo (assembly only),inner protein,67.0
+4QXS_1,4QXS,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+3N45_1,3N45,s822,AlloBench,homo (assembly only),inner protein,67.0
+5KSX_1,5KSX,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+3N1W_1,3N1W,s822,AlloBench,homo (assembly only),inner protein,67.0
+5DJV_1,5DJV,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+5DIQ_1,5DIQ,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+5JUZ_1,5JUZ,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+3N5H_1,3N5H,s822,AlloBench,homo (assembly only),inner protein,67.0
+4LPH_1,4LPH,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+5DJP_1,5DJP,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+5JV0_1,5JV0,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+5DJR_1,5DJR,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+3N49_1,3N49,s822,AlloBench,homo (assembly only),inner protein,67.0
+5DGM_1,5DGM,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+5DGN_1,5DGN,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+3N3L_1,3N3L,s822,AlloBench,homo (assembly only),inner protein,67.0
+5JA0_1,5JA0,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+3N6K_1,3N6K,s822,AlloBench,homo (assembly only),inner protein,67.0
+4LPG_1,4LPG,s822,AlloBench,homo (assembly only),allosteric position (unspecified),66.0
+5JV2_1,5JV2,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+3N1V_1,3N1V,s822,AlloBench,homo (assembly only),inner protein,67.0
+5JV1_1,5JV1,s822,AlloBench,homo (assembly only),allosteric position (unspecified),66.0
+3N46_1,3N46,s822,AlloBench,homo (assembly only),inner protein,67.0
+4RXA_1,4RXA,s822,AlloBench,homo (assembly only),allosteric position (unspecified),67.0
+4EBW_1,4EBW,s969,AlloBench,monomer,inner protein,37.0
+4EBV_1,4EBV,s969,AlloBench,monomer,inner protein,37.0
+4I4F_1,4I4F,s969,AlloBench,monomer,inner protein,37.0
+3LBI_1,3LBI,s854,AlloBench,monomer,inner protein,171.0
+4DLV_1,4DLV,s854,AlloBench,monomer,inner protein,226.0
+3OIU_1,3OIU,s854,AlloBench,monomer,inner protein,171.0
+3OIV_1,3OIV,s854,AlloBench,monomer,inner protein,226.0
+3LBH_1,3LBH,s854,AlloBench,monomer,inner protein,171.0
+4DLX_1,4DLX,s854,AlloBench,monomer,inner protein,228.0
+3OIW_1,3OIW,s854,AlloBench,monomer,inner protein,171.0
+3K8Y_1,3K8Y,s854,AlloBench,monomer,inner protein,171.0
+4G0N_1,4G0N,s854,AlloBench,hetero-complex,inner protein,226.0
+4DLW_1,4DLW,s854,AlloBench,monomer,inner protein,171.0
+4DLY_1,4DLY,s854,AlloBench,monomer,inner protein,226.0
+4DLU_1,4DLU,s854,AlloBench,monomer,inner protein,171.0
+4DLR_1,4DLR,s854,AlloBench,monomer,inner protein,228.0
+4DLT_1,4DLT,s854,AlloBench,monomer,inner protein,171.0
+4G0N_2,4G0N,s854,AlloBench,hetero-complex,inner protein,171.0
+4DLZ_1,4DLZ,s854,AlloBench,monomer,inner protein,228.0
+3U18_1,3U18,s831,AlloBench,homo-oligomer,PPI interface,114.0
+3IJJ_1,3IJJ,s831,AlloBench,homo-oligomer,PPI interface,113.0
+3IJG_1,3IJG,s831,AlloBench,homo-oligomer,PPI interface,113.0
+3O2M_1,3O2M,s969,AlloBench,protein-peptide,PPI interface,40.0
+5BTR_1,5BTR,s959,AlloBench,protein-peptide,allosteric position (unspecified),8.0
+5BTR_2,5BTR,s959,AlloBench,protein-peptide,allosteric position (unspecified),8.0
+5BTR_3,5BTR,s834,AlloBench,protein-peptide,allosteric position (unspecified),0.0
+4C7B_1,4C7B,s959,AlloBench,homo (assembly only),inner protein,41.0
+5LYQ_1,5LYQ,s837,AlloBench,protein-peptide,allosteric position (unspecified),106.0
+3UVV_1,3UVV,s837,AlloBench,hetero-complex,inner protein,102.0
+4ZJJ_1,4ZJJ,s969,AlloBench,homo-oligomer,allosteric position (unspecified),37.0
+4ZJI_1,4ZJI,s969,AlloBench,homo-oligomer,allosteric position (unspecified),37.0
+4ZLO_1,4ZLO,s969,AlloBench,homo-oligomer,allosteric position (unspecified),37.0
+5L7I_1,5L7I,s840,AlloBench,homo-oligomer,allosteric position (unspecified),310.0
+5F6Y_1,5F6Y,s971,AlloBench,monomer,allosteric position (unspecified),28.0
+5F6W_1,5F6W,s971,AlloBench,monomer,allosteric position (unspecified),28.0
+1DX5_1,1DX5,s398,AlloBench,protein-peptide,inner protein,
+1SFQ_1,1SFQ,s398,AlloBench,protein-peptide,inner protein,
+3JZ1_1,3JZ1,s398,AlloBench,protein-peptide,inner protein,
+1JOU_1,1JOU,s398,AlloBench,protein-peptide,inner protein,
+4RKO_1,4RKO,s398,AlloBench,protein-peptide,allosteric position (unspecified),
+3R3G_1,3R3G,s398,AlloBench,protein-peptide,inner protein,
+1SG8_1,1SG8,s398,AlloBench,protein-peptide,inner protein,
+1JMO_1,1JMO,s398,AlloBench,protein-peptide,inner protein,
+5N9T_1,5N9T,s850,AlloBench,homo-oligomer,allosteric position (unspecified),81.0
+5N9R_1,5N9R,s850,AlloBench,homo-oligomer,allosteric position (unspecified),81.0
+3RZ3_1,3RZ3,s971,AlloBench,homo-oligomer,PPI interface,2.0
+4MDK_1,4MDK,s971,AlloBench,hetero-complex,PPI interface,2.0
+3PRJ_1,3PRJ,s853,AlloBench,homo-oligomer,inner protein,16.0
+3PTZ_1,3PTZ,s853,AlloBench,homo-oligomer,inner protein,16.0
+4M1W_1,4M1W,s854,AlloBench,homo-oligomer,inner protein,281.0
+5F2E_1,5F2E,s854,AlloBench,monomer,allosteric position (unspecified),281.0
+5V9L_1,5V9L,s854,AlloBench,homo-oligomer,inner protein,281.0
+4LV6_1,4LV6,s854,AlloBench,homo-oligomer,inner protein,281.0
+4LUC_1,4LUC,s854,AlloBench,homo-oligomer,inner protein,281.0
+4M22_1,4M22,s854,AlloBench,homo-oligomer,inner protein,281.0
+4M1S_1,4M1S,s854,AlloBench,homo-oligomer,inner protein,281.0
+4M1T_1,4M1T,s854,AlloBench,homo-oligomer,inner protein,281.0
+4M1Y_1,4M1Y,s854,AlloBench,homo-oligomer,inner protein,281.0
+4M1O_1,4M1O,s854,AlloBench,homo-oligomer,inner protein,281.0
+4LYF_1,4LYF,s854,AlloBench,homo-oligomer,inner protein,281.0
+4LYH_1,4LYH,s854,AlloBench,homo-oligomer,inner protein,281.0
+5V9O_1,5V9O,s854,AlloBench,monomer,inner protein,281.0
+4LYJ_1,4LYJ,s854,AlloBench,monomer,inner protein,281.0
+4M21_1,4M21,s854,AlloBench,homo-oligomer,inner protein,281.0
+2I7P_1,2I7P,s741,AlloBench,homo-oligomer,PPI interface,32.0
+3MK6_1,3MK6,s741,AlloBench,homo-oligomer,PPI interface,32.0
+5KQD_1,5KQD,s741,AlloBench,homo (assembly only),allosteric position (unspecified),32.0
+2YLO_1,2YLO,s861,AlloBench,monomer,inner protein,78.0
+2PIW_1,2PIW,s861,AlloBench,monomer,inner protein,78.0
+2YLP_1,2YLP,s861,AlloBench,monomer,inner protein,78.0
+2PIQ_1,2PIQ,s861,AlloBench,monomer,PPI interface,78.0
+2PIX_1,2PIX,s861,AlloBench,monomer,inner protein,78.0
+2PIU_1,2PIU,s861,AlloBench,monomer,inner protein,78.0
+2PIO_1,2PIO,s861,AlloBench,monomer,PPI interface,78.0
+2QPY_1,2QPY,s861,AlloBench,protein-peptide,inner protein,0.0
+2YLQ_1,2YLQ,s861,AlloBench,monomer,inner protein,78.0
+2PIU_2,2PIU,s861,AlloBench,monomer,PPI interface,78.0
+2PIP_1,2PIP,s861,AlloBench,monomer,PPI interface,78.0
+4HLW_1,4HLW,s861,AlloBench,monomer,inner protein,78.0
+3ZQT_1,3ZQT,s861,AlloBench,monomer,inner protein,78.0
+2PIO_2,2PIO,s861,AlloBench,monomer,inner protein,78.0
+2YLP_2,2YLP,s861,AlloBench,monomer,PPI interface,78.0
+2PIP_2,2PIP,s861,AlloBench,monomer,inner protein,78.0
+2PKL_1,2PKL,s861,AlloBench,homo (assembly only),inner protein,78.0
+4K7A_1,4K7A,s861,AlloBench,monomer,inner protein,78.0
+2PIW_2,2PIW,s861,AlloBench,monomer,PPI interface,78.0
+2PIV_1,2PIV,s861,AlloBench,monomer,inner protein,78.0
+2PIT_1,2PIT,s861,AlloBench,monomer,inner protein,78.0
+2YHD_1,2YHD,s861,AlloBench,monomer,PPI interface,78.0
+2ZMF_1,2ZMF,s190,AlloBench,homo-oligomer,inner protein,298.0
+6D1Z_1,6D1Z,s969,AlloBench,monomer,allosteric position (unspecified),59.0
+5H3Q_1,5H3Q,s969,AlloBench,monomer,allosteric position (unspecified),59.0
+6D1Y_1,6D1Y,s969,AlloBench,monomer,allosteric position (unspecified),59.0
+6D20_1,6D20,s969,AlloBench,monomer,allosteric position (unspecified),59.0
+4W9N_1,4W9N,s866,AlloBench,pseudo-hetero,PPI interface,33.0
+5JYP_1,5JYP,s416,AlloBench,homo (assembly only),allosteric position (unspecified),40.0
+5JYO_1,5JYO,s416,AlloBench,homo-oligomer,allosteric position (unspecified),39.0
+3UO9_1,3UO9,s416,AlloBench,homo-oligomer,PPI interface,38.0
+5WJ6_1,5WJ6,s416,AlloBench,pseudo-hetero,blank,39.0
+3VP4_1,3VP4,s416,AlloBench,homo (assembly only),PPI interface,40.0
+3VP2_1,3VP2,s416,AlloBench,homo (assembly only),PPI interface,40.0
+3VP3_1,3VP3,s416,AlloBench,homo (assembly only),PPI interface,40.0
+3VP1_1,3VP1,s416,AlloBench,homo (assembly only),PPI interface,38.0
+3VOZ_1,3VOZ,s416,AlloBench,homo (assembly only),PPI interface,38.0
+5WMV_1,5WMV,s873,AlloBench,homo-oligomer,allosteric position (unspecified),81.0
+5WMX_1,5WMX,s873,AlloBench,homo-oligomer,allosteric position (unspecified),81.0
+2QV4_1,2QV4,s513,AlloBench,monomer,inner protein,17.0
+4GQR_1,4GQR,s513,AlloBench,monomer,inner protein,6.0
+3BAK_1,3BAK,s513,AlloBench,monomer,inner protein,17.0
+1KBB_1,1KBB,s513,AlloBench,monomer,inner protein,6.0
+1XD1_1,1XD1,s513,AlloBench,monomer,inner protein,6.0
+4GQQ_1,4GQQ,s513,AlloBench,monomer,inner protein,17.0
+3OLG_1,3OLG,s513,AlloBench,monomer,inner protein,6.0
+2QMK_1,2QMK,s513,AlloBench,monomer,inner protein,17.0
+1KBK_1,1KBK,s513,AlloBench,monomer,inner protein,6.0
+2CPU_1,2CPU,s513,AlloBench,monomer,inner protein,6.0
+1U2Y_1,1U2Y,s513,AlloBench,monomer,inner protein,6.0
+1U30_1,1U30,s513,AlloBench,monomer,inner protein,6.0
+3IJ8_1,3IJ8,s513,AlloBench,monomer,inner protein,6.0
+1XCW_1,1XCW,s513,AlloBench,monomer,inner protein,6.0
+1B2Y_1,1B2Y,s513,AlloBench,monomer,inner protein,6.0
+3BAW_1,3BAW,s513,AlloBench,monomer,inner protein,6.0
+3BAJ_1,3BAJ,s513,AlloBench,monomer,inner protein,17.0
+3OLI_1,3OLI,s513,AlloBench,monomer,inner protein,6.0
+3IJ7_1,3IJ7,s513,AlloBench,monomer,inner protein,6.0
+1XCX_1,1XCX,s513,AlloBench,monomer,inner protein,6.0
+1XH2_1,1XH2,s513,AlloBench,monomer,inner protein,6.0
+3BAX_1,3BAX,s513,AlloBench,monomer,inner protein,6.0
+3IJ9_1,3IJ9,s513,AlloBench,monomer,inner protein,6.0
+4GQQ_2,4GQQ,s513,AlloBench,monomer,inner protein,17.0
+1HNY_1,1HNY,s513,AlloBench,monomer,inner protein,6.0
+1BSI_1,1BSI,s513,AlloBench,monomer,inner protein,6.0
+4GQQ_3,4GQQ,s513,AlloBench,monomer,inner protein,17.0
+3OLD_1,3OLD,s513,AlloBench,monomer,inner protein,6.0
+3OLE_1,3OLE,s513,AlloBench,monomer,inner protein,6.0
+1CPU_1,1CPU,s513,AlloBench,monomer,inner protein,6.0
+3BAY_1,3BAY,s513,AlloBench,monomer,inner protein,17.0
+3BAI_1,3BAI,s513,AlloBench,monomer,inner protein,17.0
+1U33_1,1U33,s513,AlloBench,monomer,inner protein,6.0
+1XD0_1,1XD0,s513,AlloBench,monomer,inner protein,6.0
+1XH1_1,1XH1,s513,AlloBench,monomer,inner protein,6.0
+3CPU_1,3CPU,s513,AlloBench,monomer,inner protein,6.0
+4GQQ_4,4GQQ,s513,AlloBench,monomer,inner protein,6.0
+5UE4_1,5UE4,s965,AlloBench,homo-oligomer,allosteric position (unspecified),28.0
+4M0Z_1,4M0Z,s969,AlloBench,monomer,inner protein,28.0
+4M0Y_1,4M0Y,s969,AlloBench,monomer,inner protein,28.0
+4M13_1,4M13,s969,AlloBench,monomer,inner protein,28.0
+4M12_1,4M12,s969,AlloBench,monomer,inner protein,28.0
+4M15_1,4M15,s969,AlloBench,monomer,inner protein,28.0
+4M14_1,4M14,s969,AlloBench,monomer,inner protein,28.0
+3K8S_1,3K8S,s882,AlloBench,homo-oligomer,inner protein,299.0
+5EHR_1,5EHR,s753,AlloBench,homo-oligomer,allosteric position (unspecified),101.0
+5EHP_1,5EHP,s753,AlloBench,homo-oligomer,allosteric position (unspecified),105.0
+6BMY_1,6BMY,s753,AlloBench,homo-oligomer,inner protein,101.0
+6BMV_1,6BMV,s753,AlloBench,homo-oligomer,inner protein,105.0
+6BMW_1,6BMW,s753,AlloBench,homo-oligomer,inner protein,105.0
+6BMW_2,6BMW,s753,AlloBench,homo-oligomer,inner protein,101.0
+6BN5_1,6BN5,s753,AlloBench,homo-oligomer,allosteric position (unspecified),105.0
+5XZR_1,5XZR,s753,AlloBench,monomer,allosteric position (unspecified),105.0
+6BMU_1,6BMU,s753,AlloBench,homo-oligomer,inner protein,105.0
+6BMY_2,6BMY,s753,AlloBench,homo-oligomer,inner protein,105.0
+6BMR_1,6BMR,s753,AlloBench,homo-oligomer,inner protein,105.0
+6BMU_2,6BMU,s753,AlloBench,homo-oligomer,inner protein,101.0
+6BMX_1,6BMX,s753,AlloBench,homo-oligomer,inner protein,105.0
+5KW2_1,5KW2,s840,AlloBench,monomer,allosteric position (unspecified),337.0
+5TZY_1,5TZY,s840,AlloBench,monomer,inner protein,337.0
+5TZR_1,5TZR,s840,AlloBench,monomer,inner protein,337.0
+5ICN_1,5ICN,s887,AlloBench,protein-peptide,PPI interface,5.0
+4QQN_1,4QQN,s888,AlloBench,homo (assembly only),allosteric position (unspecified),6.0
+4RYL_1,4RYL,s888,AlloBench,homo (assembly only),allosteric position (unspecified),6.0
+3SMQ_1,3SMQ,s888,AlloBench,homo (assembly only),inner protein,6.0
+4HSG_1,4HSG,s888,AlloBench,homo (assembly only),inner protein,6.0
+3ATH_1,3ATH,s889,AlloBench,homo-oligomer,inner protein,3.0
+4QFY_1,4QFY,s616,AlloBench,homo-oligomer,PPI interface,45.0
+4RXR_1,4RXR,s616,AlloBench,homo-oligomer,allosteric position (unspecified),25.0
+4QG2_1,4QG2,s616,AlloBench,homo-oligomer,PPI interface,25.0
+4RXQ_1,4RXQ,s616,AlloBench,homo-oligomer,allosteric position (unspecified),25.0
+4TNX_1,4TNX,s616,AlloBench,homo-oligomer,allosteric position (unspecified),45.0
+4TNR_1,4TNR,s616,AlloBench,homo-oligomer,allosteric position (unspecified),30.0
+4QFX_1,4QFX,s616,AlloBench,homo-oligomer,PPI interface,45.0
+4RXO_1,4RXO,s616,AlloBench,homo-oligomer,allosteric position (unspecified),25.0
+5AO2_1,5AO2,s616,AlloBench,homo-oligomer,allosteric position (unspecified),45.0
+4BZC_1,4BZC,s616,AlloBench,homo-oligomer,PPI interface,
+4QG0_1,4QG0,s616,AlloBench,homo-oligomer,PPI interface,45.0
+4TNQ_1,4TNQ,s616,AlloBench,homo-oligomer,allosteric position (unspecified),48.0
+4BZB_1,4BZB,s616,AlloBench,homo-oligomer,PPI interface,
+5AO1_1,5AO1,s616,AlloBench,homo-oligomer,allosteric position (unspecified),52.0
+4QG4_1,4QG4,s616,AlloBench,homo-oligomer,PPI interface,25.0
+4QFZ_1,4QFZ,s616,AlloBench,homo-oligomer,PPI interface,45.0
+4TNP_1,4TNP,s616,AlloBench,homo-oligomer,allosteric position (unspecified),42.0
+4RXP_1,4RXP,s616,AlloBench,homo-oligomer,allosteric position (unspecified),25.0
+4MZ7_1,4MZ7,s616,AlloBench,homo-oligomer,PPI interface,
+4RXS_1,4RXS,s616,AlloBench,homo-oligomer,allosteric position (unspecified),25.0
+5NN4_1,5NN4,s899,AlloBench,monomer,allosteric position (unspecified),18.0
+5FTJ_1,5FTJ,s900,AlloBench,homo-oligomer,allosteric position (unspecified),105.0
+5LM4_1,5LM4,s901,AlloBench,monomer,inner protein,15.0
+4H39_1,4H39,s903,AlloBench,protein-peptide,inner protein,
+4H3B_1,4H3B,s904,AlloBench,protein-peptide,inner protein,
+4H36_1,4H36,s905,AlloBench,protein-peptide,inner protein,
+3HJ0_1,3HJ0,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4IK7_1,4IK7,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3GLZ_1,3GLZ,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4FI6_1,4FI6,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3CFT_1,3CFT,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1Z7J_1,1Z7J,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2B15_1,2B15,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1F86_1,1F86,s459,AlloBench,homo-oligomer,PPI interface,290.0
+2G9K_1,2G9K,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1DVS_1,1DVS,s459,AlloBench,homo-oligomer,PPI interface,289.0
+4MAS_1,4MAS,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3IMT_1,3IMT,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1DVU_1,1DVU,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2ROX_1,2ROX,s459,AlloBench,homo-oligomer,PPI interface,290.0
+4L1T_1,4L1T,s459,AlloBench,homo-oligomer,PPI interface,290.0
+2QGC_1,2QGC,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3TCT_1,3TCT,s459,AlloBench,homo-oligomer,PPI interface,287.0
+3P3T_1,3P3T,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3CN2_1,3CN2,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2F8I_1,2F8I,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2ROY_1,2ROY,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3P3S_1,3P3S,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4I87_1,4I87,s459,AlloBench,homo-oligomer,PPI interface,291.0
+3GS4_1,3GS4,s459,AlloBench,homo-oligomer,PPI interface,291.0
+1THA_1,1THA,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4IKK_1,4IKK,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3OZK_1,3OZK,s459,AlloBench,homo-oligomer,PPI interface,290.0
+4HJT_1,4HJT,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4DEW_1,4DEW,s459,AlloBench,homo-oligomer,PPI interface,290.0
+4HJS_1,4HJS,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4HIS_1,4HIS,s459,AlloBench,homo-oligomer,PPI interface,287.0
+2FBR_1,2FBR,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1BM7_1,1BM7,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2B9A_1,2B9A,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4L1S_1,4L1S,s459,AlloBench,homo-oligomer,PPI interface,291.0
+4FI7_1,4FI7,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1TYR_1,1TYR,s459,AlloBench,homo-oligomer,PPI interface,291.0
+2F7I_1,2F7I,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3M1O_1,3M1O,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3NG5_1,3NG5,s459,AlloBench,homo-oligomer,inner protein,292.0
+2G5U_1,2G5U,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3NEX_1,3NEX,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1ETB_1,1ETB,s459,AlloBench,homo-oligomer,PPI interface,290.0
+4ABQ_1,4ABQ,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4ABU_1,4ABU,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2FLM_1,2FLM,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4DET_1,4DET,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4N87_1,4N87,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4AC4_1,4AC4,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4ABW_1,4ABW,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3IMV_1,3IMV,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3CFQ_1,3CFQ,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4KY2_1,4KY2,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1TLM_1,1TLM,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1ETA_1,1ETA,s459,AlloBench,homo-oligomer,PPI interface,290.0
+3OZL_1,3OZL,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2QGD_1,2QGD,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3GS0_1,3GS0,s459,AlloBench,homo-oligomer,PPI interface,291.0
+4FI8_1,4FI8,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3IMS_1,3IMS,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4DER_1,4DER,s459,AlloBench,homo-oligomer,PPI interface,291.0
+3ESN_1,3ESN,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1DVZ_1,1DVZ,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1U21_1,1U21,s459,AlloBench,homo-oligomer,PPI interface,291.0
+3IPB_1,3IPB,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4HJU_1,4HJU,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2QGE_1,2QGE,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3KGT_1,3KGT,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1DVY_1,1DVY,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1Y1D_1,1Y1D,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4HIQ_1,4HIQ,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4DEU_1,4DEU,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3CN0_1,3CN0,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1THC_1,1THC,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4ACT_1,4ACT,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3GS7_1,3GS7,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3IMU_1,3IMU,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3P3U_1,3P3U,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1DVT_1,1DVT,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3IMR_1,3IMR,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4N86_1,4N86,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3ESP_1,3ESP,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1DVX_1,1DVX,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2GAB_1,2GAB,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2B16_1,2B16,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3B56_1,3B56,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3IMW_1,3IMW,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3CN4_1,3CN4,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1TT6_1,1TT6,s459,AlloBench,homo-oligomer,PPI interface,291.0
+3FCB_1,3FCB,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3D2T_1,3D2T,s459,AlloBench,homo-oligomer,PPI interface,288.0
+4IKL_1,4IKL,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3ESO_1,3ESO,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3CFN_1,3CFN,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3CN1_1,3CN1,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4IIZ_1,4IIZ,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3P3R_1,3P3R,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2B77_1,2B77,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4DES_1,4DES,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3FC8_1,3FC8,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4ABV_1,4ABV,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4I89_1,4I89,s459,AlloBench,homo-oligomer,PPI interface,288.0
+3NES_1,3NES,s459,AlloBench,homo-oligomer,PPI interface,291.0
+3NEO_1,3NEO,s459,AlloBench,homo-oligomer,PPI interface,292.0
+2B14_1,2B14,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3KGU_1,3KGU,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4IKI_1,4IKI,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4IKJ_1,4IKJ,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3NG5_2,3NG5,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4IK6_1,4IK6,s459,AlloBench,homo-oligomer,PPI interface,292.0
+1E4H_1,1E4H,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4AC2_1,4AC2,s459,AlloBench,homo-oligomer,PPI interface,292.0
+4I85_1,4I85,s459,AlloBench,homo-oligomer,PPI interface,291.0
+3CN3_1,3CN3,s459,AlloBench,homo-oligomer,PPI interface,292.0
+3FUD_1,3FUD,s925,AlloBench,monomer,PPI interface,76.0
+5EWJ_1,5EWJ,s614,AlloBench,hetero-complex,inner protein,17.0
+5EWL_1,5EWL,s614,AlloBench,hetero-complex,inner protein,17.0
+5EWM_1,5EWM,s614,AlloBench,hetero-complex,inner protein,17.0
+4I1R_1,4I1R,s927,AlloBench,homo (assembly only),inner protein,24.0
+3ZM9_1,3ZM9,s928,AlloBench,homo-oligomer,inner protein,25.0
+3B1T_1,3B1T,s930,AlloBench,homo (assembly only),inner protein,5.0
+2DEX_1,2DEX,s930,AlloBench,protein-peptide,inner protein,
+3B1U_1,3B1U,s930,AlloBench,homo (assembly only),inner protein,5.0
+1WDA_1,1WDA,s930,AlloBench,homo (assembly only),inner protein,5.0
+1WDA_2,1WDA,s930,AlloBench,homo (assembly only),inner protein,
+3B1U_2,3B1U,s930,AlloBench,homo (assembly only),inner protein,
+4DKT_1,4DKT,s930,AlloBench,protein-peptide,inner protein,5.0
+2DEY_1,2DEY,s930,AlloBench,protein-peptide,inner protein,
+2DEY_2,2DEY,s930,AlloBench,protein-peptide,inner protein,5.0
+2DW5_1,2DW5,s930,AlloBench,homo (assembly only),inner protein,5.0
+2DW5_2,2DW5,s930,AlloBench,homo (assembly only),inner protein,
+2DEW_1,2DEW,s930,AlloBench,protein-peptide,inner protein,
+2DEX_2,2DEX,s930,AlloBench,protein-peptide,inner protein,5.0
+2DEW_2,2DEW,s930,AlloBench,protein-peptide,inner protein,5.0
+3B1T_2,3B1T,s930,AlloBench,homo (assembly only),inner protein,
+4DKT_2,4DKT,s930,AlloBench,protein-peptide,inner protein,
+1WD9_1,1WD9,s930,AlloBench,homo (assembly only),inner protein,
+1WD9_2,1WD9,s930,AlloBench,homo (assembly only),inner protein,5.0
+4TPT_1,4TPT,s969,AlloBench,homo-oligomer,inner protein,5.0
+4CLW_1,4CLW,s935,AlloBench,homo (assembly only),inner protein,18.0
+4OYO_1,4OYO,s935,AlloBench,monomer,inner protein,18.0
+4OYB_1,4OYB,s935,AlloBench,monomer,inner protein,18.0
+5IV4_1,5IV4,s935,AlloBench,monomer,allosteric position (unspecified),18.0
+4CLZ_1,4CLZ,s935,AlloBench,homo (assembly only),inner protein,8.0
+5D0R_1,5D0R,s935,AlloBench,monomer,allosteric position (unspecified),18.0
+4CLP_1,4CLP,s935,AlloBench,homo (assembly only),inner protein,8.0
+4USW_1,4USW,s935,AlloBench,homo (assembly only),inner protein,8.0
+4OYP_1,4OYP,s935,AlloBench,monomer,inner protein,18.0
+4OYZ_1,4OYZ,s935,AlloBench,monomer,inner protein,18.0
+5IV3_1,5IV3,s935,AlloBench,monomer,allosteric position (unspecified),18.0
+4OYA_1,4OYA,s935,AlloBench,monomer,inner protein,18.0
+4OZ2_1,4OZ2,s935,AlloBench,monomer,inner protein,18.0
+4OZ3_1,4OZ3,s935,AlloBench,monomer,inner protein,18.0
+4CM2_1,4CM2,s935,AlloBench,homo (assembly only),inner protein,18.0
+4OYI_1,4OYI,s935,AlloBench,monomer,inner protein,18.0
+4CLY_1,4CLY,s935,AlloBench,homo (assembly only),inner protein,18.0
+4CLL_1,4CLL,s935,AlloBench,monomer,inner protein,18.0
+4OYM_1,4OYM,s935,AlloBench,monomer,inner protein,18.0
+2O8C_1,2O8C,s937,AlloBench,hetero-complex,inner protein,6.0
+2O8F_1,2O8F,s937,AlloBench,hetero-complex,inner protein,6.0
+2O8B_1,2O8B,s937,AlloBench,hetero-complex,inner protein,6.0
+2O8E_1,2O8E,s937,AlloBench,hetero-complex,inner protein,6.0
+2O8D_1,2O8D,s937,AlloBench,hetero-complex,inner protein,6.0
+1NSG_1,1NSG,s939,AlloBench,hetero-complex,PPI interface,99.0
+4FAP_1,4FAP,s939,AlloBench,hetero-complex,PPI interface,99.0
+3FAP_1,3FAP,s939,AlloBench,hetero-complex,PPI interface,99.0
+2FAP_1,2FAP,s939,AlloBench,hetero-complex,PPI interface,99.0
+1FAP_1,1FAP,s939,AlloBench,hetero-complex,PPI interface,88.0
+4QPL_1,4QPL,s940,AlloBench,hetero-complex,inner protein,0.0
+4ZSJ_1,4ZSJ,s969,AlloBench,monomer,allosteric position (unspecified),11.0
+4ZSL_1,4ZSL,s969,AlloBench,monomer,allosteric position (unspecified),11.0
+4ZSG_1,4ZSG,s969,AlloBench,monomer,allosteric position (unspecified),11.0
+6BKY_1,6BKY,s726,AlloBench,homo-oligomer,allosteric position (unspecified),51.0
+5L57_1,5L57,s726,AlloBench,homo (assembly only),allosteric position (unspecified),51.0
+5LGE_1,5LGE,s726,AlloBench,homo-oligomer,allosteric position (unspecified),51.0
+5TQH_1,5TQH,s726,AlloBench,homo-oligomer,inner protein,51.0
+6B0Z_1,6B0Z,s726,AlloBench,homo-oligomer,allosteric position (unspecified),51.0
+5SVF_1,5SVF,s726,AlloBench,homo-oligomer,inner protein,51.0
+6BKZ_1,6BKZ,s726,AlloBench,homo-oligomer,allosteric position (unspecified),51.0
+5SUN_1,5SUN,s726,AlloBench,homo-oligomer,inner protein,51.0
+4UMX_1,4UMX,s726,AlloBench,homo-oligomer,allosteric position (unspecified),51.0
+5DE1_1,5DE1,s726,AlloBench,homo-oligomer,allosteric position (unspecified),51.0
+5L58_1,5L58,s726,AlloBench,homo (assembly only),allosteric position (unspecified),51.0
+5E84_1,5E84,s417,AlloBench,homo-oligomer,allosteric position (unspecified),29.0
+5TKD_1,5TKD,s969,AlloBench,homo-oligomer,allosteric position (unspecified),51.0
+5KKN_1,5KKN,s365,AlloBench,homo-oligomer,PPI interface,8.0
+5VDH_1,5VDH,s114,AlloBench,homo-oligomer,inner protein,13.0
+5VDI_1,5VDI,s114,AlloBench,homo-oligomer,inner protein,13.0
+5YVE_1,5YVE,s955,AlloBench,homo (assembly only),allosteric position (unspecified),17.0
+5ET6_1,5ET6,s113,AlloBench,homo-oligomer,allosteric position (unspecified),9.0
+5ET8_1,5ET8,s113,AlloBench,homo (assembly only),allosteric position (unspecified),8.0
+4KGA_1,4KGA,s398,AlloBench,homo-oligomer,allosteric position (unspecified),16.0
+5WE8_1,5WE8,s969,AlloBench,homo-oligomer,inner protein,2.0
+5WDY_1,5WDY,s969,AlloBench,homo-oligomer,inner protein,2.0
+5TF9_1,5TF9,s969,AlloBench,homo-oligomer,inner protein,2.0
+5Y2F_1,5Y2F,s959,AlloBench,protein-peptide,allosteric position (unspecified),41.0
+5UGH_1,5UGH,s960,AlloBench,homo-oligomer,inner protein,58.0
+5LU9_1,5LU9,s961,AlloBench,protein-peptide,allosteric position (unspecified),13.0
+5LUB_1,5LUB,s961,AlloBench,homo-oligomer,allosteric position (unspecified),13.0
+5LUA_1,5LUA,s961,AlloBench,homo-oligomer,allosteric position (unspecified),13.0
+5LU8_1,5LU8,s961,AlloBench,protein-peptide,allosteric position (unspecified),13.0
+5URJ_1,5URJ,s963,AlloBench,monomer,inner protein,50.0
+5URK_1,5URK,s963,AlloBench,monomer,inner protein,50.0
+5UT5_1,5UT5,s969,AlloBench,monomer,inner protein,167.0
+5UT6_1,5UT6,s969,AlloBench,monomer,inner protein,168.0
+5UT4_1,5UT4,s969,AlloBench,monomer,inner protein,167.0
+5O2D_1,5O2D,s966,AlloBench,monomer,allosteric position (unspecified),46.0
+5H08_1,5H08,s753,AlloBench,monomer,allosteric position (unspecified),5.0
+5FM3_1,5FM3,s969,AlloBench,homo (assembly only),allosteric position (unspecified),23.0
+5FM2_1,5FM2,s969,AlloBench,homo (assembly only),allosteric position (unspecified),23.0
+4RT7_1,4RT7,s969,AlloBench,homo (assembly only),allosteric position (unspecified),5.0
+5NGZ_1,5NGZ,s971,AlloBench,monomer,inner protein,8.0
+5GRI_1,5GRI,s973,AlloBench,hetero-complex,allosteric position (unspecified),4.0
+5GRE_1,5GRE,s973,AlloBench,hetero-complex,allosteric position (unspecified),11.0
+5GRF_1,5GRF,s973,AlloBench,hetero-complex,allosteric position (unspecified),4.0
+5YVT_1,5YVT,s973,AlloBench,hetero-complex,allosteric position (unspecified),7.0
+5IN4_1,5IN4,s975,AlloBench,homo-oligomer,allosteric position (unspecified),6.0
+5LVX_1,5LVX,s976,AlloBench,homo-oligomer,allosteric position (unspecified),56.0
+5VAR_1,5VAR,s977,AlloBench,monomer,allosteric position (unspecified),88.0
+6H8R_1,6H8R,s753,AlloBench,monomer,allosteric position (unspecified),12.0
+6IIK_1,6IIK,s979,AlloBench,homo-oligomer,allosteric position (unspecified),19.0
+4C8B_1,4C8B,s969,AlloBench,homo-oligomer,allosteric position (unspecified),28.0
+5UHV_1,5UHV,s854,AlloBench,monomer,allosteric position (unspecified),27.0
+5IKP_1,5IKP,s709,AlloBench,monomer,allosteric position (unspecified),1.0
+4Z07_1,4Z07,s969,AlloBench,homo-oligomer,PPI interface,20.0
+4PLE_1,4PLE,s837,AlloBench,protein-peptide,blank,26.0
+5HTC_1,5HTC,s988,AlloBench,protein-peptide,allosteric position (unspecified),0.0
+5HTB_1,5HTB,s989,AlloBench,protein-peptide,allosteric position (unspecified),0.0
+6BHV_1,6BHV,s990,AlloBench,homo-oligomer,allosteric position (unspecified),88.0

@@ -1,0 +1,54 @@
+
+1. FAMILY WEIGHTING (matched evaluation as in Table 5; each tool on the sites it ran on)
+  2349 sites, 259 families; largest families (sites, AlloPlex Top-1):
+    family s969: 266 sites (11.3%), AlloPlex Top-1 0.633
+    family s306: 155 sites (6.6%), AlloPlex Top-1 0.277
+    family s459: 115 sites (4.9%), AlloPlex Top-1 0.983
+    family s709: 101 sites (4.3%), AlloPlex Top-1 0.439
+    family s301: 101 sites (4.3%), AlloPlex Top-1 0.502
+    family s614: 91 sites (3.9%), AlloPlex Top-1 0.081
+    family s542: 68 sites (2.9%), AlloPlex Top-1 0.819
+    family s513: 57 sites (2.4%), AlloPlex Top-1 0.023
+  all families
+    AlloPlex      sites  2349, families 259: site-weighted 0.422; family-weighted 0.314 [0.271, 0.361]
+    Druggability  sites  2349, families 259: site-weighted 0.346; family-weighted 0.197 [0.157, 0.241]
+                  AlloPlex minus Druggability: site-weighted +0.076 [+0.029, +0.126]; family-weighted +0.117 [+0.085, +0.151]
+    DeepAllo      sites  2328, families 246: site-weighted 0.387; family-weighted 0.373 [0.320, 0.426]
+                  AlloPlex minus DeepAllo: site-weighted +0.034 [-0.104, +0.161]; family-weighted -0.062 [-0.120, -0.007]
+    APOP          sites  2215, families 242: site-weighted 0.379; family-weighted 0.244 [0.199, 0.292]
+                  AlloPlex minus APOP: site-weighted +0.059 [+0.013, +0.113]; family-weighted +0.084 [+0.042, +0.127]
+    P2Rank        sites  2340, families 256: site-weighted 0.315; family-weighted 0.230 [0.187, 0.276]
+                  AlloPlex minus P2Rank: site-weighted +0.107 [+0.037, +0.171]; family-weighted +0.087 [+0.046, +0.130]
+    PASSer        sites  2012, families 219: site-weighted 0.331; family-weighted 0.232 [0.189, 0.284]
+                  AlloPlex minus PASSer: site-weighted +0.093 [+0.041, +0.157]; family-weighted +0.094 [+0.050, +0.139]
+  families absent from ASD 2019
+    AlloPlex      sites   112, families  68: site-weighted 0.369; family-weighted 0.338 [0.238, 0.440]
+    Druggability  sites   112, families  68: site-weighted 0.241; family-weighted 0.213 [0.121, 0.316]
+                  AlloPlex minus Druggability: site-weighted +0.128 [+0.053, +0.217]; family-weighted +0.125 [+0.061, +0.194]
+    DeepAllo      sites   108, families  64: site-weighted 0.176; family-weighted 0.183 [0.097, 0.281]
+                  AlloPlex minus DeepAllo: site-weighted +0.191 [+0.069, +0.321]; family-weighted +0.151 [+0.051, +0.256]
+    APOP          sites   107, families  64: site-weighted 0.327; family-weighted 0.323 [0.214, 0.434]
+                  AlloPlex minus APOP: site-weighted +0.059 [-0.029, +0.165]; family-weighted +0.036 [-0.054, +0.125]
+    P2Rank        sites   110, families  66: site-weighted 0.259; family-weighted 0.239 [0.144, 0.343]
+                  AlloPlex minus P2Rank: site-weighted +0.117 [-0.002, +0.244]; family-weighted +0.110 [+0.018, +0.196]
+    PASSer        sites    96, families  57: site-weighted 0.284; family-weighted 0.292 [0.179, 0.410]
+                  AlloPlex minus PASSer: site-weighted +0.070 [-0.031, +0.178]; family-weighted +0.044 [-0.053, +0.146]
+
+2. NEGATIVES RETAINED - AlloPlex re-scored on ALL pockets with the released networks that never
+   trained on each family; standard negatives vs every set-aside pocket counted as a negative
+  stripped: scored 127473 of 127473 pockets with held-out released networks
+  partner: scored 22614 of 22614 pockets with held-out released networks
+  standard negatives (paper rule)
+  set-aside pockets counted as negatives
+
+3. CASE STUDIES (ranks among the pockets of the structure used in the paper; AlloPlex = held-out networks)
+  5OLK (stripped) site 5OLK_1, best-pocket Jaccard 0.79: AlloPlex 2, DeepAllo 15, APOP 26, P2Rank 56, PASSer 19, Druggability 21, Pocket volume 13
+     AlloPlex rank 1: pocket 63 (set aside), score 0.603, 13 residues on chain(s) A, volume 619 A^3, druggability 0.23
+     AlloPlex rank 2: pocket 106 (set aside), score 0.597, 13 residues on chain(s) B, volume 751 A^3, druggability 0.50
+     AlloPlex rank 3: pocket 40 (set aside), score 0.597, 13 residues on chain(s) C, volume 692 A^3, druggability 0.17
+     site pocket: score 0.552, volume 655 A^3, druggability 0.00, 17 residues
+  2VD4 (stripped) site 2VD4_1, best-pocket Jaccard 0.55: AlloPlex 78, Druggability 40, Pocket volume 78
+     AlloPlex rank 1: pocket 4 (other), score 0.400, 17 residues on chain(s) A,B,C, volume 567 A^3, druggability 0.53
+     AlloPlex rank 2: pocket 15 (other), score 0.397, 17 residues on chain(s) A,B,C, volume 563 A^3, druggability 0.57
+     AlloPlex rank 3: pocket 24 (other), score 0.378, 17 residues on chain(s) A,B,C, volume 554 A^3, druggability 0.49
+     site pocket: score 0.124, volume 165 A^3, druggability 0.00, 6 residues

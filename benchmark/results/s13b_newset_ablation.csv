@@ -1,0 +1,106 @@
+pdb_id,family_status,group,n_pockets,rank_alloplex_released,rank_B,rank_F,rank_E,rank_druggability
+10AD,new family,10AD,245,196.0,172.0,163.0,203.0,179.0
+21DU,new family,21DU,69,inf,inf,inf,inf,inf
+26XC,new family,26XC,177,8.0,7.0,6.0,32.0,1.0
+36BT,seen family (held-out networks),s542,75,8.0,8.0,7.0,14.0,8.0
+8FV3,seen family (held-out networks),s969,43,1.0,1.0,1.0,1.0,1.0
+8IKG,seen family (held-out networks),s840,92,11.0,19.0,13.0,1.0,9.0
+8J6H,new family,8J6H,120,1.0,1.0,3.0,11.0,1.0
+8K9L,seen family (held-out networks),s840,72,2.0,1.0,1.0,4.0,2.0
+8P3E,seen family (held-out networks),s976,116,49.0,70.0,62.0,35.0,78.0
+8PIO,seen family (held-out networks),s195,108,14.0,17.0,11.0,13.0,81.5
+8QDR,new family,8QDR,103,28.0,25.0,6.0,11.0,8.0
+8QOD,seen family (held-out networks),s398,39,1.0,1.0,1.0,1.0,2.0
+8QQI,seen family (held-out networks),s567,154,11.0,12.0,1.0,58.0,3.0
+8QQR,seen family (held-out networks),s80,283,1.0,1.0,74.0,1.0,81.0
+8QUC,new family,8QUC,150,1.0,1.0,1.0,13.0,5.0
+8R32,seen family (held-out networks),s614,34,1.0,1.0,1.0,3.0,1.0
+8S9Q,seen family (held-out networks),s306,19,4.0,6.0,1.0,14.0,1.0
+8SPN,seen family (held-out networks),s831,18,1.0,1.0,1.0,1.0,1.0
+8SZI,new family,8SZI,157,4.0,3.0,4.0,6.0,3.0
+8TM7,new family,8TM7,58,9.0,8.0,10.0,4.0,21.5
+8TQB,new family,8TQB,94,7.0,4.0,4.0,6.0,20.5
+8TR6,seen family (held-out networks),s955,137,1.0,1.0,1.0,32.0,15.0
+8V4X,seen family (held-out networks),s927,41,1.0,1.0,1.0,11.0,1.0
+8V89,new family,8V89,172,95.0,93.0,134.0,83.0,119.0
+8V90,new family,8V90,22,1.0,1.0,1.0,1.0,1.0
+8VJ6,new family,8VJ6,249,7.0,5.0,2.0,11.0,2.0
+8VKU,seen family (held-out networks),s900,153,16.0,24.0,32.0,13.0,31.5
+8VQ3,new family,8VQ3,32,3.0,3.0,2.0,12.0,2.0
+8W2H,seen family (held-out networks),s808,231,171.0,144.0,78.0,152.0,173.5
+8W49,seen family (held-out networks),s726,62,1.0,1.0,1.0,6.0,1.0
+8W4V,new family,8W4V,34,1.0,1.0,1.0,1.0,5.0
+8W6G,new family,8W6G,54,inf,inf,inf,inf,inf
+8W9A,new family,8W9A,99,1.0,1.0,1.0,11.0,1.0
+8X0E,new family,8X0E,113,7.0,7.0,18.0,15.0,32.5
+8XAM,seen family (held-out networks),s960,52,1.0,1.0,1.0,1.0,1.0
+8XLR,new family,8XLR,130,1.0,1.0,1.0,3.0,5.0
+8Y72,seen family (held-out networks),s840,81,1.0,1.0,1.0,9.0,1.0
+8YHX,new family,8YHX,655,15.0,11.0,59.0,8.0,65.0
+8YKD,new family,8YKD,71,1.0,1.0,1.0,1.0,1.0
+9B2B,seen family (held-out networks),s837,25,1.0,1.0,1.0,1.0,1.0
+9B96,seen family (held-out networks),s930,101,1.0,1.0,1.0,64.0,1.0
+9BFC,new family,9BFC,83,40.0,42.0,40.0,46.0,36.5
+9BJA,seen family (held-out networks),s520,28,1.0,1.0,1.0,11.0,6.5
+9BQI,seen family (held-out networks),s955,95,1.0,1.0,1.0,22.0,1.0
+9CE8,new family,9CE8,543,198.0,163.0,176.0,71.0,97.0
+9DH0,seen family (held-out networks),s853,148,1.0,1.0,1.0,2.0,1.0
+9DKW,seen family (held-out networks),s331,202,32.0,32.0,1.0,14.0,12.0
+9DNM,new family,9DNM,47,25.0,27.0,27.0,17.0,15.0
+9DQI,new family,9DQI,155,7.0,7.0,6.0,5.0,41.0
+9DU7,new family,9DU7,21,1.0,1.0,1.0,2.0,1.0
+9EAP,new family,9EAP,104,93.0,87.0,87.0,92.0,82.0
+9EBS,new family,9EBS,80,1.0,1.0,1.0,5.0,1.0
+9EEH,seen family (held-out networks),s24,179,16.0,16.0,3.0,46.0,53.5
+9EJZ,seen family (held-out networks),s840,73,7.0,6.0,6.0,50.0,5.0
+9EK0,seen family (held-out networks),s840,72,1.0,1.0,1.0,8.0,2.0
+9EMA,new family,9EMA,156,8.0,4.0,4.0,26.0,4.0
+9FVE,new family,9FVE,320,22.0,19.0,8.0,15.0,27.0
+9HFZ,seen family (held-out networks),s80,245,74.0,24.0,17.0,23.0,160.0
+9HGM,new family,9HGM,53,1.0,1.0,1.0,1.0,1.0
+9IBY,new family,9IBY,24,1.0,1.0,1.0,1.0,1.0
+9IIR,new family,9IIR,78,1.0,1.0,1.0,2.0,1.0
+9IK1,seen family (held-out networks),s955,87,2.0,2.0,5.0,25.0,2.0
+9J2W,new family,9J2W,58,4.0,7.0,4.0,1.0,9.0
+9KNA,new family,9KNA,17,3.0,3.0,2.0,4.0,2.0
+9L60,seen family (held-out networks),s840,65,17.0,19.0,8.0,12.0,5.0
+9L62,new family,9L62,65,2.0,1.0,1.0,9.0,1.0
+9L80,new family,9L80,111,78.0,78.0,96.0,66.0,52.0
+9LHF,new family,9LHF,31,1.0,1.0,1.0,1.0,1.0
+9LLG,seen family (held-out networks),s840,26,1.0,1.0,1.0,1.0,3.0
+9LLH,seen family (held-out networks),s840,75,2.0,3.0,11.0,2.0,5.0
+9ME7,new family,9ME7,50,9.0,3.0,3.0,1.0,27.5
+9MJP,seen family (held-out networks),s331,223,53.0,53.0,59.0,1.0,43.5
+9MUL,seen family (held-out networks),s614,31,1.0,1.0,1.0,1.0,1.0
+9MZX,seen family (held-out networks),s969,43,1.0,1.0,2.0,2.0,1.0
+9N6G,seen family (held-out networks),s969,45,1.0,1.0,1.0,1.0,1.0
+9O1S,new family,9O1S,29,28.0,26.0,16.0,27.0,24.5
+9OGB,new family,9OGB,130,1.0,1.0,1.0,1.0,1.0
+9OGC,new family,9OGC,96,1.0,1.0,1.0,1.0,1.0
+9OGN,new family,9OGN,98,3.0,3.0,4.0,1.0,2.0
+9OUK,new family,9OUK,97,3.0,3.0,3.0,4.0,2.0
+9OVU,new family,9OVU,300,1.0,1.0,3.0,1.0,7.0
+9OX9,seen family (held-out networks),s900,267,11.0,9.0,2.0,7.0,4.0
+9P0Q,new family,9P0Q,170,75.0,78.0,19.0,1.0,17.0
+9PKW,seen family (held-out networks),s114,125,1.0,1.0,1.0,1.0,1.0
+9PVN,seen family (held-out networks),s182,125,3.0,3.0,4.0,19.0,1.0
+9PXR,seen family (held-out networks),s182,152,2.0,3.0,11.0,18.0,4.0
+9Q0F,seen family (held-out networks),s840,27,1.0,1.0,1.0,6.0,1.0
+9RCC,new family,9RCC,79,1.0,1.0,1.0,1.0,1.0
+9RHG,seen family (held-out networks),s840,59,1.0,1.0,1.0,12.0,1.0
+9SIQ,seen family (held-out networks),s114,163,78.0,67.0,25.0,99.0,35.0
+9U4S,new family,9U4S,42,1.0,1.0,1.0,1.0,1.0
+9VUL,new family,9VUL,132,1.0,1.0,1.0,38.0,1.0
+9VUM,new family,9VUM,101,9.0,9.0,6.0,23.0,4.0
+9W4Q,seen family (held-out networks),s581,157,1.0,1.0,1.0,26.0,1.0
+9WDA,new family,9WDA,61,46.0,50.0,9.0,46.0,13.5
+9XDQ,seen family (held-out networks),s840,72,33.0,43.0,19.0,7.0,10.0
+9XN2,new family,9XN2,66,1.0,1.0,1.0,1.0,1.0
+9XN3,seen family (held-out networks),s840,74,1.0,1.0,1.0,1.0,1.0
+9XN4,seen family (held-out networks),s840,75,1.0,1.0,1.0,1.0,1.0
+9Y5S,new family,9Y5S,303,6.0,7.0,19.0,10.0,11.0
+9YDQ,seen family (held-out networks),s840,67,39.0,46.0,19.0,7.0,15.0
+9YIC,new family,9YIC,12,1.0,1.0,1.0,1.0,1.0
+9Z2D,new family,9Z2D,158,1.0,2.0,1.0,72.0,9.0
+9ZPW,new family,9ZPW,148,1.0,1.0,23.0,1.0,13.0
+9ZS0,seen family (held-out networks),s182,149,33.0,39.0,1.0,73.0,4.5

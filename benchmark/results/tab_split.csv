@@ -1,0 +1,4 @@
+data set,structures,families,pockets,allosteric pockets,sites
+ligand-free holo structures (training + evaluation),2234,259,115511,2187,2349
+modulator-free partner structures (evaluation only),375,200,20153,456,1601
+holo structures with ligands (inflation analysis only),2234,259,115319,2165,2349

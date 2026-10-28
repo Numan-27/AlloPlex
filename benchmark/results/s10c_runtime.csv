@@ -1,0 +1,7 @@
+tool,structures,median_s,mean_s,max_s,note
+AlloPlex (GPU),20,2.411652088165283,4.100604569911956,19.654666423797607,NVIDIA RTX A6000; one-off model loading 13s
+AlloPlex (CPU),20,11.771664142608643,14.191530001163482,42.942429304122925,8 CPU threads; one-off model loading 12s
+APOP,20,13.1,73.505,768.3,recorded in benchmark run; 4 threads
+PASSer,16,5.95,7.937499999999999,20.7,web server; includes upload and queue
+DeepAllo,20,,9.551,,batch run incl. model loading; per chain; total 191s
+P2Rank,20,,1.621,,1 thread; batch run incl. JVM start; total 32s

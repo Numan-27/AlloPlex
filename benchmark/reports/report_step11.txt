@@ -1,0 +1,179 @@
+sets: stripped (127473 pockets), partner (22614 pockets); methods: AlloPlex, DeepAllo, APOP, P2Rank, PASSer, Druggability, Pocket volume
+
+1. SUBSETS (concern 9): does the ordering hold on partner-only and stripped-only sites?
+  (check: the PRIMARY block must reproduce Table 5 - AlloPlex 0.422, DeepAllo 0.387, APOP 0.379 ...)
+  PRIMARY (paper)
+    AlloPlex       n= 2349  Top-1 0.422 [0.319, 0.514]  Top-3 0.583
+    DeepAllo       n= 2349  Top-1 0.384 [0.302, 0.477]  Top-3 0.512   AlloPlex minus DeepAllo: +0.038 [-0.095, +0.164] (n=2349)
+    APOP           n= 2349  Top-1 0.358 [0.252, 0.457]  Top-3 0.535   AlloPlex minus APOP: +0.064 [+0.024, +0.116] (n=2349)
+    P2Rank         n= 2349  Top-1 0.314 [0.207, 0.411]  Top-3 0.451   AlloPlex minus P2Rank: +0.108 [+0.041, +0.170] (n=2349)
+    PASSer         n= 2349  Top-1 0.285 [0.200, 0.373]  Top-3 0.419   AlloPlex minus PASSer: +0.137 [+0.082, +0.195] (n=2349)
+    Druggability   n= 2349  Top-1 0.346 [0.236, 0.444]  Top-3 0.477   AlloPlex minus Druggability: +0.076 [+0.029, +0.126] (n=2349)
+    Pocket volume  n= 2349  Top-1 0.243 [0.166, 0.316]  Top-3 0.396   AlloPlex minus Pocket volume: +0.179 [+0.095, +0.285] (n=2349)
+  partner structures only
+    AlloPlex       n= 1601  Top-1 0.400 [0.275, 0.506]  Top-3 0.568
+    DeepAllo       n= 1594  Top-1 0.355 [0.272, 0.465]  Top-3 0.493   AlloPlex minus DeepAllo: +0.043 [-0.139, +0.207] (n=1594)
+    APOP           n= 1528  Top-1 0.357 [0.207, 0.488]  Top-3 0.517   AlloPlex minus APOP: +0.056 [+0.008, +0.116] (n=1528)
+    P2Rank         n= 1593  Top-1 0.276 [0.149, 0.404]  Top-3 0.422   AlloPlex minus P2Rank: +0.124 [+0.066, +0.184] (n=1593)
+    PASSer         n= 1390  Top-1 0.312 [0.182, 0.440]  Top-3 0.438   AlloPlex minus PASSer: +0.084 [+0.033, +0.143] (n=1390)
+    Druggability   n= 1601  Top-1 0.305 [0.164, 0.429]  Top-3 0.422   AlloPlex minus Druggability: +0.095 [+0.050, +0.154] (n=1601)
+    Pocket volume  n= 1601  Top-1 0.226 [0.135, 0.313]  Top-3 0.356   AlloPlex minus Pocket volume: +0.174 [+0.074, +0.292] (n=1601)
+  stripped only (sites without a partner)
+    AlloPlex       n=  748  Top-1 0.469 [0.356, 0.604]  Top-3 0.615
+    DeepAllo       n=  735  Top-1 0.456 [0.285, 0.626]  Top-3 0.565   AlloPlex minus DeepAllo: +0.014 [-0.113, +0.112] (n=735)
+    APOP           n=  689  Top-1 0.428 [0.342, 0.521]  Top-3 0.678   AlloPlex minus APOP: +0.066 [-0.023, +0.174] (n=687)
+    P2Rank         n=  747  Top-1 0.399 [0.261, 0.498]  Top-3 0.518   AlloPlex minus P2Rank: +0.071 [-0.047, +0.192] (n=747)
+    PASSer         n=  628  Top-1 0.373 [0.290, 0.458]  Top-3 0.597   AlloPlex minus PASSer: +0.114 [-0.003, +0.254] (n=622)
+    Druggability   n=  748  Top-1 0.434 [0.298, 0.543]  Top-3 0.594   AlloPlex minus Druggability: +0.035 [-0.041, +0.131] (n=748)
+    Pocket volume  n=  748  Top-1 0.278 [0.194, 0.352]  Top-3 0.483   AlloPlex minus Pocket volume: +0.191 [+0.045, +0.359] (n=748)
+  ALL sites scored on stripped (holo-derived) structures
+    AlloPlex       n= 2349  Top-1 0.474 [0.377, 0.565]  Top-3 0.620
+    DeepAllo       n=  749  Top-1 0.451 [0.283, 0.618]  Top-3 0.563   AlloPlex minus DeepAllo: +0.013 [-0.111, +0.110] (n=749)
+    APOP           n=  696  Top-1 0.425 [0.339, 0.517]  Top-3 0.675   AlloPlex minus APOP: +0.066 [-0.022, +0.171] (n=696)
+    P2Rank         n=  761  Top-1 0.391 [0.252, 0.492]  Top-3 0.510   AlloPlex minus P2Rank: +0.073 [-0.044, +0.191] (n=761)
+    PASSer         n=  629  Top-1 0.372 [0.289, 0.456]  Top-3 0.596   AlloPlex minus PASSer: +0.112 [-0.003, +0.251] (n=629)
+    Druggability   n= 2349  Top-1 0.414 [0.314, 0.501]  Top-3 0.568   AlloPlex minus Druggability: +0.060 [+0.021, +0.099] (n=2349)
+    Pocket volume  n= 2349  Top-1 0.275 [0.202, 0.342]  Top-3 0.435   AlloPlex minus Pocket volume: +0.199 [+0.128, +0.273] (n=2349)
+
+2. LABEL THRESHOLD (concern 4): Jaccard cut-off for the site pocket
+  mode 'strict': sites below the cut-off count as misses
+   cut-off 0.1
+    AlloPlex       n= 2349  Top-1 0.422 [0.319, 0.514]  Top-3 0.583
+    DeepAllo       n= 2349  Top-1 0.384 [0.302, 0.477]  Top-3 0.512   AlloPlex minus DeepAllo: +0.038 [-0.095, +0.164] (n=2349)
+    APOP           n= 2349  Top-1 0.358 [0.252, 0.457]  Top-3 0.535   AlloPlex minus APOP: +0.064 [+0.024, +0.116] (n=2349)
+    P2Rank         n= 2349  Top-1 0.314 [0.207, 0.411]  Top-3 0.451   AlloPlex minus P2Rank: +0.108 [+0.041, +0.170] (n=2349)
+    PASSer         n= 2349  Top-1 0.285 [0.200, 0.373]  Top-3 0.419   AlloPlex minus PASSer: +0.137 [+0.082, +0.195] (n=2349)
+    Druggability   n= 2349  Top-1 0.346 [0.236, 0.444]  Top-3 0.477   AlloPlex minus Druggability: +0.076 [+0.029, +0.126] (n=2349)
+   cut-off 0.2
+    AlloPlex       n= 2349  Top-1 0.387 [0.281, 0.482]  Top-3 0.534
+    DeepAllo       n= 2349  Top-1 0.349 [0.270, 0.440]  Top-3 0.450   AlloPlex minus DeepAllo: +0.038 [-0.091, +0.159] (n=2349)
+    APOP           n= 2349  Top-1 0.330 [0.219, 0.432]  Top-3 0.492   AlloPlex minus APOP: +0.057 [+0.018, +0.105] (n=2349)
+    P2Rank         n= 2349  Top-1 0.297 [0.188, 0.392]  Top-3 0.424   AlloPlex minus P2Rank: +0.090 [+0.028, +0.146] (n=2349)
+    PASSer         n= 2349  Top-1 0.262 [0.174, 0.351]  Top-3 0.386   AlloPlex minus PASSer: +0.125 [+0.071, +0.180] (n=2349)
+    Druggability   n= 2349  Top-1 0.331 [0.221, 0.429]  Top-3 0.448   AlloPlex minus Druggability: +0.056 [+0.013, +0.102] (n=2349)
+   cut-off 0.3
+    AlloPlex       n= 2349  Top-1 0.318 [0.234, 0.390]  Top-3 0.439
+    DeepAllo       n= 2349  Top-1 0.302 [0.227, 0.388]  Top-3 0.377   AlloPlex minus DeepAllo: +0.015 [-0.087, +0.110] (n=2349)
+    APOP           n= 2349  Top-1 0.265 [0.179, 0.339]  Top-3 0.407   AlloPlex minus APOP: +0.053 [+0.019, +0.097] (n=2349)
+    P2Rank         n= 2349  Top-1 0.247 [0.158, 0.319]  Top-3 0.357   AlloPlex minus P2Rank: +0.071 [+0.018, +0.124] (n=2349)
+    PASSer         n= 2349  Top-1 0.202 [0.137, 0.265]  Top-3 0.311   AlloPlex minus PASSer: +0.116 [+0.065, +0.167] (n=2349)
+    Druggability   n= 2349  Top-1 0.272 [0.184, 0.347]  Top-3 0.373   AlloPlex minus Druggability: +0.045 [+0.010, +0.084] (n=2349)
+   cut-off 0.5
+    AlloPlex       n= 2349  Top-1 0.182 [0.120, 0.238]  Top-3 0.245
+    DeepAllo       n= 2349  Top-1 0.189 [0.134, 0.253]  Top-3 0.231   AlloPlex minus DeepAllo: -0.007 [-0.065, +0.038] (n=2349)
+    APOP           n= 2349  Top-1 0.142 [0.082, 0.197]  Top-3 0.236   AlloPlex minus APOP: +0.040 [+0.015, +0.073] (n=2349)
+    P2Rank         n= 2349  Top-1 0.140 [0.072, 0.201]  Top-3 0.210   AlloPlex minus P2Rank: +0.041 [+0.007, +0.077] (n=2349)
+    PASSer         n= 2349  Top-1 0.091 [0.054, 0.128]  Top-3 0.159   AlloPlex minus PASSer: +0.091 [+0.046, +0.134] (n=2349)
+    Druggability   n= 2349  Top-1 0.158 [0.089, 0.220]  Top-3 0.219   AlloPlex minus Druggability: +0.024 [+0.001, +0.052] (n=2349)
+  mode 'subset': only sites whose best pocket reaches the cut-off
+   cut-off 0.1
+    AlloPlex       n= 2248  Top-1 0.456 [0.360, 0.539]  Top-3 0.631
+    DeepAllo       n= 2173  Top-1 0.415 [0.323, 0.519]  Top-3 0.553   AlloPlex minus DeepAllo: +0.041 [-0.106, +0.164] (n=2171)
+    APOP           n= 2172  Top-1 0.387 [0.277, 0.487]  Top-3 0.579   AlloPlex minus APOP: +0.070 [+0.023, +0.127] (n=2168)
+    P2Rank         n= 2172  Top-1 0.340 [0.226, 0.436]  Top-3 0.487   AlloPlex minus P2Rank: +0.117 [+0.042, +0.183] (n=2170)
+    PASSer         n= 2178  Top-1 0.307 [0.222, 0.397]  Top-3 0.452   AlloPlex minus PASSer: +0.149 [+0.089, +0.211] (n=2169)
+    Druggability   n= 2248  Top-1 0.379 [0.263, 0.473]  Top-3 0.521   AlloPlex minus Druggability: +0.077 [+0.027, +0.133] (n=2248)
+   cut-off 0.2
+    AlloPlex       n= 2068  Top-1 0.471 [0.365, 0.564]  Top-3 0.655
+    DeepAllo       n= 1890  Top-1 0.434 [0.338, 0.554]  Top-3 0.562   AlloPlex minus DeepAllo: +0.047 [-0.115, +0.191] (n=1884)
+    APOP           n= 1910  Top-1 0.406 [0.279, 0.513]  Top-3 0.607   AlloPlex minus APOP: +0.070 [+0.021, +0.135] (n=1884)
+    P2Rank         n= 1887  Top-1 0.370 [0.248, 0.472]  Top-3 0.527   AlloPlex minus P2Rank: +0.112 [+0.037, +0.184] (n=1883)
+    PASSer         n= 1940  Top-1 0.317 [0.220, 0.410]  Top-3 0.467   AlloPlex minus PASSer: +0.156 [+0.091, +0.223] (n=1895)
+    Druggability   n= 2068  Top-1 0.409 [0.281, 0.513]  Top-3 0.554   AlloPlex minus Druggability: +0.062 [+0.015, +0.121] (n=2068)
+   cut-off 0.3
+    AlloPlex       n= 1827  Top-1 0.496 [0.383, 0.597]  Top-3 0.682
+    DeepAllo       n= 1526  Top-1 0.466 [0.357, 0.584]  Top-3 0.584   AlloPlex minus DeepAllo: +0.026 [-0.138, +0.168] (n=1514)
+    APOP           n= 1555  Top-1 0.401 [0.273, 0.514]  Top-3 0.615   AlloPlex minus APOP: +0.082 [+0.026, +0.152] (n=1514)
+    P2Rank         n= 1516  Top-1 0.382 [0.248, 0.496]  Top-3 0.553   AlloPlex minus P2Rank: +0.111 [+0.027, +0.196] (n=1510)
+    PASSer         n= 1616  Top-1 0.293 [0.204, 0.378]  Top-3 0.452   AlloPlex minus PASSer: +0.183 [+0.103, +0.264] (n=1526)
+    Druggability   n= 1827  Top-1 0.437 [0.303, 0.547]  Top-3 0.591   AlloPlex minus Druggability: +0.058 [+0.011, +0.120] (n=1827)
+   cut-off 0.5
+    AlloPlex       n= 1222  Top-1 0.509 [0.401, 0.606]  Top-3 0.690
+    DeepAllo       n=  837  Top-1 0.532 [0.401, 0.668]  Top-3 0.650   AlloPlex minus DeepAllo: -0.021 [-0.198, +0.103] (n=817)
+    APOP           n=  915  Top-1 0.365 [0.234, 0.482]  Top-3 0.607   AlloPlex minus APOP: +0.114 [+0.043, +0.208] (n=848)
+    P2Rank         n=  825  Top-1 0.400 [0.249, 0.519]  Top-3 0.597   AlloPlex minus P2Rank: +0.119 [+0.022, +0.234] (n=818)
+    PASSer         n= 1017  Top-1 0.209 [0.131, 0.276]  Top-3 0.367   AlloPlex minus PASSer: +0.266 [+0.149, +0.369] (n=865)
+    Druggability   n= 1222  Top-1 0.450 [0.315, 0.566]  Top-3 0.638   AlloPlex minus Druggability: +0.060 [+0.006, +0.126] (n=1222)
+
+3. POCKET SIZE (concern 5)
+  volume terciles over all pockets: < 248, 248-375, >= 375 A^3
+  (a) Top-1 by volume tercile of the site pocket (standard evaluation)
+   small site pockets
+    AlloPlex       n=  303  Top-1 0.081 [0.047, 0.121]  Top-3 0.288
+    DeepAllo       n=  299  Top-1 0.368 [0.259, 0.488]  Top-3 0.476   AlloPlex minus DeepAllo: -0.289 [-0.406, -0.173] (n=299)
+    APOP           n=  278  Top-1 0.029 [0.008, 0.054]  Top-3 0.194   AlloPlex minus APOP: +0.060 [+0.018, +0.108] (n=278)
+    P2Rank         n=  299  Top-1 0.058 [0.022, 0.097]  Top-3 0.230   AlloPlex minus P2Rank: +0.015 [-0.029, +0.058] (n=299)
+    PASSer         n=  250  Top-1 0.032 [0.004, 0.074]  Top-3 0.097   AlloPlex minus PASSer: +0.060 [+0.023, +0.100] (n=250)
+    Druggability   n=  303  Top-1 0.053 [0.018, 0.096]  Top-3 0.239   AlloPlex minus Druggability: +0.029 [-0.017, +0.076] (n=303)
+    Pocket volume  n=  303  Top-1 0.000 [0.000, 0.000]  Top-3 0.013   AlloPlex minus Pocket volume: +0.081 [+0.047, +0.121] (n=303)
+   medium site pockets
+    AlloPlex       n=  488  Top-1 0.320 [0.094, 0.573]  Top-3 0.511
+    DeepAllo       n=  484  Top-1 0.337 [0.183, 0.542]  Top-3 0.413   AlloPlex minus DeepAllo: -0.019 [-0.392, +0.355] (n=484)
+    APOP           n=  471  Top-1 0.291 [0.045, 0.560]  Top-3 0.450   AlloPlex minus APOP: +0.041 [-0.003, +0.103] (n=471)
+    P2Rank         n=  488  Top-1 0.269 [0.057, 0.536]  Top-3 0.393   AlloPlex minus P2Rank: +0.051 [-0.009, +0.139] (n=488)
+    PASSer         n=  442  Top-1 0.249 [0.019, 0.541]  Top-3 0.376   AlloPlex minus PASSer: +0.090 [+0.027, +0.201] (n=442)
+    Druggability   n=  488  Top-1 0.283 [0.050, 0.542]  Top-3 0.369   AlloPlex minus Druggability: +0.038 [+0.005, +0.086] (n=488)
+    Pocket volume  n=  488  Top-1 0.002 [0.000, 0.008]  Top-3 0.041   AlloPlex minus Pocket volume: +0.318 [+0.093, +0.569] (n=488)
+   large site pockets
+    AlloPlex       n= 1377  Top-1 0.588 [0.478, 0.679]  Top-3 0.750
+    DeepAllo       n= 1369  Top-1 0.459 [0.357, 0.574]  Top-3 0.628   AlloPlex minus DeepAllo: +0.128 [+0.014, +0.223] (n=1369)
+    APOP           n= 1291  Top-1 0.538 [0.427, 0.641]  Top-3 0.768   AlloPlex minus APOP: +0.074 [+0.004, +0.162] (n=1291)
+    P2Rank         n= 1375  Top-1 0.429 [0.312, 0.519]  Top-3 0.581   AlloPlex minus P2Rank: +0.161 [+0.051, +0.258] (n=1375)
+    PASSer         n= 1155  Top-1 0.476 [0.380, 0.560]  Top-3 0.687   AlloPlex minus PASSer: +0.118 [+0.032, +0.212] (n=1155)
+    Druggability   n= 1377  Top-1 0.479 [0.355, 0.578]  Top-3 0.631   AlloPlex minus Druggability: +0.110 [+0.032, +0.197] (n=1377)
+    Pocket volume  n= 1377  Top-1 0.413 [0.303, 0.507]  Top-3 0.659   AlloPlex minus Pocket volume: +0.175 [+0.070, +0.293] (n=1377)
+  (b) SIZE-MATCHED Top-1: the site pocket competes only with pockets of its own volume tercile
+    AlloPlex       n= 2334  Top-1 0.516 [0.427, 0.592]  Top-3 0.703
+    DeepAllo       n= 2304  Top-1 0.475 [0.376, 0.570]  Top-3 0.618   AlloPlex minus DeepAllo: +0.038 [-0.085, +0.157] (n=2304)
+    APOP           n= 2186  Top-1 0.464 [0.366, 0.552]  Top-3 0.671   AlloPlex minus APOP: +0.067 [+0.013, +0.126] (n=2186)
+    P2Rank         n= 2309  Top-1 0.398 [0.303, 0.479]  Top-3 0.559   AlloPlex minus P2Rank: +0.115 [+0.046, +0.177] (n=2309)
+    PASSer         n= 1990  Top-1 0.420 [0.334, 0.504]  Top-3 0.645   AlloPlex minus PASSer: +0.098 [+0.046, +0.156] (n=1990)
+    Druggability   n= 2334  Top-1 0.416 [0.308, 0.505]  Top-3 0.593   AlloPlex minus Druggability: +0.100 [+0.055, +0.149] (n=2334)
+    Pocket volume  n= 2334  Top-1 0.269 [0.195, 0.342]  Top-3 0.470   AlloPlex minus Pocket volume: +0.247 [+0.165, +0.343] (n=2334)
+   (pocket volume should fall towards chance here: it can no longer use size; sites whose pocket has no competitor in its size band are skipped for every method)
+
+4. NEGATIVE SET (moderate concern): pockets set aside from the negatives
+  stripped: 127473 pockets; positive 2187, negative 113324, set aside 11962 (9.4%; overlap an annotated site or a symmetric copy)
+  partner: 22614 pockets; positive 456, negative 19697, set aside 2461 (10.9%; overlap an annotated site or a symmetric copy)
+  Top-1 when ALL set-aside pockets count as negatives (strict lower bound: includes other annotated
+  sites and identical copies of the same site on other chains, which a perfect method would also rank high)
+    AlloPlex       n= 2349  Top-1 0.422 [0.319, 0.514]  Top-3 0.583
+    DeepAllo       n= 2349  Top-1 0.295 [0.230, 0.366]  Top-3 0.451   AlloPlex minus DeepAllo: +0.127 [+0.007, +0.240] (n=2349)
+    APOP           n= 2349  Top-1 0.202 [0.128, 0.286]  Top-3 0.428   AlloPlex minus APOP: +0.220 [+0.145, +0.318] (n=2349)
+    P2Rank         n= 2349  Top-1 0.220 [0.122, 0.322]  Top-3 0.392   AlloPlex minus P2Rank: +0.202 [+0.153, +0.254] (n=2349)
+    PASSer         n= 2349  Top-1 0.158 [0.109, 0.206]  Top-3 0.307   AlloPlex minus PASSer: +0.263 [+0.175, +0.359] (n=2349)
+    Druggability   n= 2349  Top-1 0.228 [0.142, 0.318]  Top-3 0.430   AlloPlex minus Druggability: +0.194 [+0.121, +0.296] (n=2349)
+    Pocket volume  n= 2349  Top-1 0.173 [0.096, 0.256]  Top-3 0.333   AlloPlex minus Pocket volume: +0.249 [+0.162, +0.356] (n=2349)
+
+5. FAMILY WEIGHTING (concern 10)
+  2349 sites in 259 families; sites per family: median 3, max 266; 10 largest families hold 45.1% of sites
+  The bootstrap resamples whole families (clustered bootstrap); the estimate is the site-weighted mean.
+  AlloPlex       site-weighted Top-1 0.422;  family-weighted 0.314 [0.271, 0.361]
+  DeepAllo       site-weighted Top-1 0.384;  family-weighted 0.353 [0.302, 0.404]
+  APOP           site-weighted Top-1 0.358;  family-weighted 0.223 [0.181, 0.267]
+  Druggability   site-weighted Top-1 0.346;  family-weighted 0.197 [0.157, 0.239]
+
+6. COUNTS (internal consistency)
+  sites in the stripped site table: 2350; status: ok 2349, no_pockets 1
+  sites evaluated (status ok): 2349
+  modulator categories among evaluated sites: small molecule (15-40) 1700, fragment (< 15 atoms) 480, large (> 40 atoms) 84, no size information 49, peptide 36
+  fpocket detection, stripped: 93.3% of 2349 sites (best pocket Jaccard >= 0.1 with the annotated site residues)
+  fpocket detection, partner: 89.9% of 1601 sites (best pocket Jaccard >= 0.1 with the annotated site residues)
+  2024+ set: site found in 98.1% of 105 complexes (site = residues within 4.5 A of a single drug-like ligand, i.e. compact, well-defined pockets)
+
+7. CANDIDATE FAILURE CASES (AlloPlex rank >= 10 although fpocket found the site well, J >= 0.5)
+  155 candidates; the 10 where another method does best:
+   2VD4 site 2VD4_1 (partner, J=0.55): AlloPlex rank 61; DeepAllo 1, APOP 5, P2Rank 56, PASSer 25, Druggability 14
+   2RD5 site 2RD5_1 (stripped, J=0.55): AlloPlex rank 54; DeepAllo 1, P2Rank 16, Druggability 20
+   2FIX site 2FIX_1 (partner, J=0.59): AlloPlex rank 53; DeepAllo 1, APOP 28, P2Rank 56, PASSer 42, Druggability 30
+   2JJK site 2JJK_1 (partner, J=0.62): AlloPlex rank 53; DeepAllo 1, APOP 28, P2Rank 56, PASSer 42, Druggability 30
+   3A29 site 3A29_1 (partner, J=0.78): AlloPlex rank 53; DeepAllo 1, APOP 28, P2Rank 56, PASSer 42, Druggability 30
+   3KBZ site 3KBZ_1 (partner, J=0.83): AlloPlex rank 53; DeepAllo 1, APOP 28, P2Rank 56, PASSer 42, Druggability 30
+   3KC0 site 3KC0_1 (partner, J=0.87): AlloPlex rank 53; DeepAllo 1, APOP 28, P2Rank 56, PASSer 42, Druggability 30
+   3KC1 site 3KC1_1 (partner, J=0.79): AlloPlex rank 53; DeepAllo 1, APOP 28, P2Rank 56, PASSer 42, Druggability 30
+   3ETG site 3ETG_2 (partner, J=0.50): AlloPlex rank 51; DeepAllo 1, P2Rank 26, Druggability 50
+   6DHD site 6DHD_1 (partner, J=0.57): AlloPlex rank 51; DeepAllo 1, P2Rank 26, Druggability 50
+  (full list: figures/data/s11_failure_candidates.csv; pick one with a clear modulator and a competitor ranking it first)
+
+8. SCORE GUIDE ON THE 2024+ SET (independent check of the cross-validation thresholds)
+  per-pocket files not found under /home/yousaf/allosite/processed/newset/work - skipped (the guide can be re-derived by re-running step 10e)

@@ -1,0 +1,14 @@
+
+2024+ complexes scored: 105 (new families 55)
+Top-1 / Top-3 [95% family-bootstrap CI for Top-1]:
+  B  ESM-2 + fpocket (retrained)   Top-1 0.476 [0.377, 0.570]   Top-3 0.581
+  F  fpocket only                  Top-1 0.476 [0.380, 0.563]   Top-3 0.571
+  E  ESM-2 only                    Top-1 0.305 [0.223, 0.393]   Top-3 0.371
+  AlloPlex released (step 10e)     Top-1 0.467 [0.372, 0.559]   Top-3 0.562
+  fpocket druggability             Top-1 0.390 [0.304, 0.487]   Top-3 0.505
+Paired differences in Top-1 (B minus other):
+  B - F: Top-1 +0.000 [-0.060, +0.058]   Top-3 +0.010
+  B - E: Top-1 +0.171 [+0.074, +0.258]   Top-3 +0.210
+  new family                       n= 55: Top-1 B 0.418, F 0.382, E 0.327
+  seen family (held-out networks)  n= 50: Top-1 B 0.540, F 0.580, E 0.280
+(check: 'B retrained' should be close to 'AlloPlex released'; if not, report both)

@@ -1,0 +1,61 @@
+stripped set: 127,473 pockets; device cuda; seeds per fold 3
+  B fold 0: train 89,931 pockets, early-stopping fold 25,580, 1291 inputs
+      seed 0: best validation AUPRC 0.250 (epoch 1)
+      seed 1: best validation AUPRC 0.332 (epoch 4)
+      seed 2: best validation AUPRC 0.229 (epoch 2)
+  B fold 1: train 92,529 pockets, early-stopping fold 22,982, 1291 inputs
+      seed 0: best validation AUPRC 0.308 (epoch 1)
+      seed 1: best validation AUPRC 0.280 (epoch 1)
+      seed 2: best validation AUPRC 0.255 (epoch 4)
+  B fold 2: train 96,993 pockets, early-stopping fold 18,518, 1291 inputs
+      seed 0: best validation AUPRC 0.477 (epoch 1)
+      seed 1: best validation AUPRC 0.527 (epoch 3)
+      seed 2: best validation AUPRC 0.543 (epoch 2)
+  B fold 3: train 95,571 pockets, early-stopping fold 19,940, 1291 inputs
+      seed 0: best validation AUPRC 0.335 (epoch 1)
+      seed 1: best validation AUPRC 0.338 (epoch 1)
+      seed 2: best validation AUPRC 0.329 (epoch 2)
+  B fold 4: train 87,020 pockets, early-stopping fold 28,491, 1291 inputs
+      seed 0: best validation AUPRC 0.428 (epoch 3)
+      seed 1: best validation AUPRC 0.408 (epoch 6)
+      seed 2: best validation AUPRC 0.405 (epoch 2)
+  F fold 0: train 89,931 pockets, early-stopping fold 25,580, 11 inputs
+      seed 0: best validation AUPRC 0.220 (epoch 24)
+      seed 1: best validation AUPRC 0.207 (epoch 18)
+      seed 2: best validation AUPRC 0.205 (epoch 29)
+  F fold 1: train 92,529 pockets, early-stopping fold 22,982, 11 inputs
+      seed 0: best validation AUPRC 0.313 (epoch 13)
+      seed 1: best validation AUPRC 0.310 (epoch 9)
+      seed 2: best validation AUPRC 0.321 (epoch 8)
+  F fold 2: train 96,993 pockets, early-stopping fold 18,518, 11 inputs
+      seed 0: best validation AUPRC 0.405 (epoch 1)
+      seed 1: best validation AUPRC 0.409 (epoch 4)
+      seed 2: best validation AUPRC 0.394 (epoch 1)
+  F fold 3: train 95,571 pockets, early-stopping fold 19,940, 11 inputs
+      seed 0: best validation AUPRC 0.321 (epoch 16)
+      seed 1: best validation AUPRC 0.326 (epoch 12)
+      seed 2: best validation AUPRC 0.327 (epoch 24)
+  F fold 4: train 87,020 pockets, early-stopping fold 28,491, 11 inputs
+      seed 0: best validation AUPRC 0.383 (epoch 23)
+      seed 1: best validation AUPRC 0.389 (epoch 7)
+      seed 2: best validation AUPRC 0.399 (epoch 5)
+  E fold 0: train 89,931 pockets, early-stopping fold 25,580, 1280 inputs
+      seed 0: best validation AUPRC 0.179 (epoch 1)
+      seed 1: best validation AUPRC 0.150 (epoch 1)
+      seed 2: best validation AUPRC 0.095 (epoch 1)
+  E fold 1: train 92,529 pockets, early-stopping fold 22,982, 1280 inputs
+      seed 0: best validation AUPRC 0.067 (epoch 2)
+      seed 1: best validation AUPRC 0.069 (epoch 3)
+      seed 2: best validation AUPRC 0.073 (epoch 3)
+  E fold 2: train 96,993 pockets, early-stopping fold 18,518, 1280 inputs
+      seed 0: best validation AUPRC 0.246 (epoch 3)
+      seed 1: best validation AUPRC 0.238 (epoch 1)
+      seed 2: best validation AUPRC 0.260 (epoch 2)
+  E fold 3: train 95,571 pockets, early-stopping fold 19,940, 1280 inputs
+      seed 0: best validation AUPRC 0.112 (epoch 1)
+      seed 1: best validation AUPRC 0.083 (epoch 4)
+      seed 2: best validation AUPRC 0.100 (epoch 14)
+  E fold 4: train 87,020 pockets, early-stopping fold 28,491, 1280 inputs
+      seed 0: best validation AUPRC 0.094 (epoch 13)
+      seed 1: best validation AUPRC 0.109 (epoch 14)
+      seed 2: best validation AUPRC 0.114 (epoch 12)

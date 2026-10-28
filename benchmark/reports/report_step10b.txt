@@ -1,0 +1,13 @@
+baseline (held-out fold members): Top-1 0.483, AUPRC 0.377
+ESM-2 embedding (all 1,280)  Top-1 drop +0.168 (SD 0.006); AUPRC drop +0.222 (SD 0.002)
+Hydrophobic density          Top-1 drop +0.111 (SD 0.005); AUPRC drop +0.148 (SD 0.003)
+Alpha spheres                Top-1 drop +0.030 (SD 0.003); AUPRC drop +0.034 (SD 0.001)
+Polarity                     Top-1 drop +0.015 (SD 0.002); AUPRC drop +0.017 (SD 0.001)
+Druggability                 Top-1 drop +0.014 (SD 0.002); AUPRC drop +0.042 (SD 0.000)
+Flexibility                  Top-1 drop +0.012 (SD 0.003); AUPRC drop +0.026 (SD 0.002)
+Charge                       Top-1 drop +0.005 (SD 0.002); AUPRC drop +0.004 (SD 0.001)
+Polar SASA                   Top-1 drop +0.003 (SD 0.001); AUPRC drop +0.020 (SD 0.000)
+Pocket residues              Top-1 drop +0.003 (SD 0.002); AUPRC drop +0.007 (SD 0.000)
+Volume                       Top-1 drop +0.002 (SD 0.000); AUPRC drop +0.015 (SD 0.001)
+Apolar SASA                  Top-1 drop +0.001 (SD 0.001); AUPRC drop -0.004 (SD 0.001)
+fpocket score                Top-1 drop +0.001 (SD 0.002); AUPRC drop +0.027 (SD 0.001)

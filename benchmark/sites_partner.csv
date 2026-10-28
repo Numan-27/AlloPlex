@@ -1,0 +1,1602 @@
+site_id,pdb_id,position_class,status,n_site_residues_mapped,n_pockets,nearest_pocket,nearest_pocket_dist,detected,best_pocket,best_jaccard,n_overlapping_pockets,site_frac_interface_5,modulator_dist_to_interface_5,modulator_contacts_interface,holo_pdb,partner_pdb,transfer,candidate_rank
+4M1W_1,12XE,inner protein,ok,1,6,1.0,10.01,False,1,0.026,1,0.0,,,4M1W,12XE,aligned,1.0
+5F2E_1,12XE,allosteric position (unspecified),ok,29,6,1.0,5.93,True,1,0.457,4,0.0,,,5F2E,12XE,direct,1.0
+5V9L_1,12XE,inner protein,ok,23,6,1.0,10.01,True,1,0.419,4,0.0,,,5V9L,12XE,direct,1.0
+4LV6_1,12XE,inner protein,ok,19,6,1.0,10.01,True,1,0.39,4,0.0,,,4LV6,12XE,direct,1.0
+4LUC_1,12XE,inner protein,ok,18,6,1.0,10.01,True,1,0.366,4,0.0,,,4LUC,12XE,direct,1.0
+4M22_1,12XE,inner protein,ok,17,6,1.0,10.01,True,1,0.375,4,0.0,,,4M22,12XE,aligned,1.0
+4M1S_1,12XE,inner protein,ok,18,6,1.0,10.01,True,1,0.366,4,0.0,,,4M1S,12XE,aligned,1.0
+4M1T_1,12XE,inner protein,ok,14,6,1.0,10.01,True,1,0.268,4,0.0,,,4M1T,12XE,direct,1.0
+4M1Y_1,12XE,inner protein,ok,15,6,1.0,10.01,True,1,0.262,4,0.0,,,4M1Y,12XE,direct,1.0
+4M1O_1,12XE,inner protein,ok,15,6,1.0,10.01,True,1,0.262,4,0.0,,,4M1O,12XE,direct,1.0
+4LYF_1,12XE,inner protein,ok,13,6,1.0,10.01,True,1,0.214,3,0.0,,,4LYF,12XE,direct,1.0
+4LYH_1,12XE,inner protein,ok,14,6,1.0,10.01,True,1,0.268,4,0.0,,,4LYH,12XE,direct,1.0
+5V9O_1,12XE,inner protein,ok,28,6,1.0,5.93,True,1,0.535,3,0.0,,,5V9O,12XE,direct,1.0
+4LYJ_1,12XE,inner protein,ok,12,6,1.0,5.93,True,1,0.25,4,0.0,,,4LYJ,12XE,direct,1.0
+4M21_1,12XE,inner protein,ok,13,6,1.0,10.01,True,1,0.244,4,0.0,,,4M21,12XE,direct,1.0
+2PUA_1,1DBQ,inner protein,ok,6,32,,,True,21,0.5,2,0.0,,,2PUA,1DBQ,aligned,1.0
+2PUB_1,1DBQ,inner protein,ok,6,32,,,True,21,0.5,2,0.0,,,2PUB,1DBQ,aligned,1.0
+2PUC_1,1DBQ,inner protein,ok,7,32,,,True,21,0.444,2,0.0,,,2PUC,1DBQ,aligned,1.0
+2PUD_1,1DBQ,inner protein,ok,6,32,,,True,21,0.5,2,0.0,,,2PUD,1DBQ,aligned,1.0
+1JLR_1,1BD3,PPI interface,ok,13,38,,,True,37,0.357,6,0.615,,,1JLR,1BD3,direct,1.0
+1B4B_1,1B4A,PPI interface,ok,11,74,,,True,12,0.235,7,0.909,,,1B4B,1B4A,direct,1.0
+4NCJ_1,1F2T,PPI interface,ok,22,23,,,True,21,0.16,5,0.318,,,4NCJ,1F2T,direct,1.0
+3QKU_1,1F2T,PPI interface,ok,15,23,,,True,21,0.222,5,0.533,,,3QKU,1F2T,direct,1.0
+2CEV_1,1CEV,PPI interface,ok,5,123,,,True,116,0.13,5,1.0,,,2CEV,1CEV,direct,1.0
+3CEV_1,1CEV,PPI interface,ok,13,123,,,True,64,0.348,7,0.615,,,3CEV,1CEV,direct,1.0
+4CEV_1,1CEV,PPI interface,ok,5,123,,,True,116,0.13,5,1.0,,,4CEV,1CEV,direct,1.0
+4P3H_1,1FL1,inner protein,ok,14,25,,,False,13,0.05,2,0.357,,,4P3H,1FL1,direct,1.0
+4P2T_1,1FL1,inner protein,ok,15,25,,,False,13,0.048,2,0.333,,,4P2T,1FL1,direct,1.0
+5M05_1,1BR2,inner protein,ok,35,30,,,True,10,0.216,7,0.0,,,5M05,1BR2,direct,1.0
+5T45_1,1BR2,inner protein,ok,33,30,,,True,10,0.229,7,0.0,,,5T45,1BR2,direct,1.0
+2G50_1,1A49,inner protein,ok,16,98,,,True,16,0.476,4,0.0,,,2G50,1A49,direct,1.0
+3N25_1,1A49,inner protein,ok,10,98,,,True,16,0.562,4,0.0,,,3N25,1A49,direct,1.0
+1L0P_1,1G94,inner protein,ok,8,21,,,False,7,0.05,2,0.0,,,1L0P,1G94,direct,1.0
+1FRZ_1,1FSF,PPI interface,ok,2,129,,,True,49,0.125,2,0.5,,,1FRZ,1FSF,direct,1.0
+1FS5_1,1FSF,PPI interface,ok,3,129,,,True,9,0.167,3,0.667,,,1FS5,1FSF,direct,1.0
+1HOT_1,1FSF,PPI interface,ok,2,129,,,True,49,0.125,2,0.5,,,1HOT,1FSF,direct,1.0
+2WU1_1,1FSF,PPI interface,ok,2,129,,,True,49,0.125,2,0.5,,,2WU1,1FSF,direct,1.0
+1L7X_1,1FA9,inner protein,ok,7,122,,,True,106,0.12,3,0.286,,,1L7X,1FA9,direct,1.0
+1L5Q_1,1FA9,inner protein,ok,6,122,,,True,106,0.1,2,0.333,,,1L5Q,1FA9,direct,1.0
+2ZB2_1,1FA9,inner protein,ok,8,122,4.0,6.12,True,4,0.189,2,0.0,3.02,True,2ZB2,1FA9,direct,1.0
+1L5R_1,1FA9,inner protein,ok,13,122,,,True,119,0.227,5,0.154,,,1L5R,1FA9,direct,1.0
+3DDW_1,1FA9,inner protein,ok,6,122,,,True,106,0.1,2,0.333,,,3DDW,1FA9,direct,1.0
+3DDS_2,1FA9,inner protein,ok,6,122,,,True,106,0.1,2,0.333,,,3DDS,1FA9,direct,1.0
+3DD1_2,1FA9,inner protein,ok,6,122,,,True,106,0.1,2,0.333,,,3DD1,1FA9,direct,1.0
+1L5S_2,1FA9,inner protein,ok,7,122,,,False,106,0.098,4,0.286,,,1L5S,1FA9,direct,1.0
+11BG_1,1BSR,PPI interface,ok,8,14,,,True,9,0.308,3,0.5,,,11BG,1BSR,direct,2.0
+1H5R_1,1H5T,PPI interface,ok,12,79,16.0,2.14,True,16,0.476,5,0.583,2.45,True,1H5R,1H5T,direct,1.0
+1H5S_1,1H5T,PPI interface,ok,14,79,16.0,2.14,True,16,0.5,6,0.714,2.45,True,1H5S,1H5T,direct,1.0
+1H78_1,1H7B,PPI interface,ok,11,65,,,True,29,0.25,5,0.364,,,1H78,1H7B,direct,1.0
+1H79_1,1H7B,PPI interface,ok,9,65,,,True,29,0.286,4,0.333,,,1H79,1H7B,direct,1.0
+1H7A_1,1H7B,PPI interface,ok,8,65,,,True,29,0.214,5,0.375,,,1H7A,1H7B,direct,1.0
+1HK8_1,1H7B,PPI interface,ok,10,65,,,True,29,0.267,4,0.3,,,1HK8,1H7B,direct,1.0
+1FXO_1,1FZW,PPI interface,ok,14,87,,,True,39,0.458,5,0.571,,,1FXO,1FZW,direct,1.0
+1G0R_1,1FZW,PPI interface,ok,4,87,,,False,31,0.091,2,1.0,,,1G0R,1FZW,direct,1.0
+1G1L_1,1FZW,PPI interface,ok,6,87,,,False,31,0.083,2,0.833,,,1G1L,1FZW,direct,1.0
+1G2V_1,1FZW,PPI interface,ok,16,87,,,True,39,0.542,7,0.562,,,1G2V,1FZW,direct,1.0
+1G3L_1,1FZW,PPI interface,ok,18,87,,,True,39,0.5,7,0.556,,,1G3L,1FZW,direct,1.0
+3ZLK_1,1FZW,PPI interface,ok,15,87,,,True,39,0.5,5,0.333,,,3ZLK,1FZW,direct,1.0
+3ZLL_1,1FZW,PPI interface,ok,6,87,,,True,39,0.286,2,0.333,,,3ZLL,1FZW,direct,1.0
+4ARW_1,1FZW,PPI interface,ok,14,87,,,True,39,0.458,4,0.357,,,4ARW,1FZW,direct,1.0
+4ASJ_1,1FZW,PPI interface,ok,15,87,,,True,39,0.5,5,0.333,,,4ASJ,1FZW,direct,1.0
+4ASY_1,1FZW,PPI interface,ok,13,87,,,True,39,0.417,5,0.462,,,4ASY,1FZW,direct,1.0
+4B2W_1,1FZW,PPI interface,ok,12,87,,,True,39,0.435,4,0.25,,,4B2W,1FZW,direct,1.0
+4B2X_1,1FZW,PPI interface,ok,12,87,,,True,39,0.5,4,0.417,,,4B2X,1FZW,direct,1.0
+4B3U_1,1FZW,PPI interface,ok,10,87,,,True,39,0.476,5,0.4,,,4B3U,1FZW,direct,1.0
+4B42_1,1FZW,PPI interface,ok,12,87,,,True,39,0.435,4,0.417,,,4B42,1FZW,direct,1.0
+4B4B_1,1FZW,PPI interface,ok,6,87,,,True,39,0.286,2,0.333,,,4B4B,1FZW,direct,1.0
+4B4G_1,1FZW,PPI interface,ok,13,87,,,True,39,0.478,4,0.385,,,4B4G,1FZW,direct,1.0
+4B4M_1,1FZW,PPI interface,ok,15,87,,,True,39,0.5,5,0.333,,,4B4M,1FZW,direct,1.0
+4B5B_1,1FZW,PPI interface,ok,15,87,,,True,39,0.5,5,0.333,,,4B5B,1FZW,direct,1.0
+5FTV_1,1FZW,allosteric position (unspecified),ok,21,87,,,True,39,0.615,8,0.333,,,5FTV,1FZW,direct,1.0
+5FU0_1,1FZW,allosteric position (unspecified),ok,1,87,,,False,39,0.048,1,1.0,,,5FU0,1FZW,aligned,1.0
+5FU8_1,1FZW,allosteric position (unspecified),ok,21,87,,,True,39,0.615,8,0.333,,,5FU8,1FZW,direct,1.0
+5FUH_1,1FZW,allosteric position (unspecified),ok,23,87,,,True,39,0.63,7,0.304,,,5FUH,1FZW,direct,1.0
+1MP3_1,1IIN,PPI interface,ok,14,80,,,True,16,0.632,6,0.357,,,1MP3,1IIN,direct,1.0
+1I7S_1,1I7Q,inner protein,ok,13,95,,,True,13,0.733,5,0.0,,,1I7S,1I7Q,direct,1.0
+1JAE_1,1CLV,inner protein,ok,4,20,,,False,1,0.0,0,0.0,,,1JAE,1CLV,direct,1.0
+1VIW_1,1CLV,inner protein,ok,4,20,,,False,1,0.0,0,0.0,,,1VIW,1CLV,direct,1.0
+1IE4_1,1KGI,PPI interface,ok,11,34,2.0,1.78,True,2,0.231,5,0.545,2.7,True,1IE4,1KGI,aligned,1.0
+1AQM_1,1JD9,inner protein,ok,4,16,,,False,15,0.077,1,0.0,,,1AQM,1JD9,aligned,1.0
+1JD7_1,1JD9,inner protein,ok,4,16,,,False,15,0.077,1,0.0,,,1JD7,1JD9,aligned,1.0
+1KMP_1,1KMO,inner protein,ok,13,47,,,True,18,0.25,4,0.0,,,1KMP,1KMO,direct,1.0
+1PO0_1,1KMO,inner protein,ok,10,47,,,True,18,0.308,2,0.0,,,1PO0,1KMO,direct,1.0
+1PO3_1,1KMO,inner protein,ok,14,47,,,True,18,0.235,4,0.0,,,1PO3,1KMO,direct,1.0
+1BVN_1,1KXV,inner protein,ok,5,28,,,False,1,0.043,1,0.0,,,1BVN,1KXV,direct,1.0
+1DHK_1,1KXV,inner protein,ok,3,28,,,False,1,0.048,1,0.0,,,1DHK,1KXV,direct,1.0
+1HX0_1,1KXV,inner protein,ok,4,28,,,False,1,0.045,1,0.0,,,1HX0,1KXV,direct,1.0
+1JFH_1,1KXV,inner protein,ok,5,28,,,False,1,0.091,1,0.0,,,1JFH,1KXV,direct,1.0
+1KXQ_1,1KXV,inner protein,ok,5,28,,,False,1,0.043,1,0.0,,,1KXQ,1KXV,direct,1.0
+1KXT_1,1KXV,inner protein,ok,4,28,,,False,1,0.095,1,0.0,,,1KXT,1KXV,direct,1.0
+1OSE_1,1KXV,inner protein,ok,4,28,,,False,1,0.045,1,0.0,,,1OSE,1KXV,direct,1.0
+1PIF_1,1KXV,inner protein,ok,4,28,,,False,1,0.045,1,0.0,,,1PIF,1KXV,direct,1.0
+1PIG_1,1KXV,inner protein,ok,3,28,,,False,1,0.048,1,0.0,,,1PIG,1KXV,direct,1.0
+1PPI_1,1KXV,inner protein,ok,5,28,,,False,1,0.091,1,0.0,,,1PPI,1KXV,direct,1.0
+1UA3_1,1KXV,inner protein,ok,5,28,,,False,1,0.091,1,0.0,,,1UA3,1KXV,direct,1.0
+1VAH_1,1KXV,inner protein,ok,5,28,,,False,1,0.091,1,0.0,,,1VAH,1KXV,direct,1.0
+1WO2_1,1KXV,inner protein,ok,5,28,,,False,1,0.091,1,0.0,,,1WO2,1KXV,direct,1.0
+3L2L_1,1KXV,inner protein,ok,6,28,,,False,1,0.087,1,0.0,,,3L2L,1KXV,direct,1.0
+3L2M_1,1KXV,inner protein,ok,6,28,,,False,1,0.087,1,0.0,,,3L2M,1KXV,direct,1.0
+1UXP_1,1KY8,inner protein,ok,11,116,,,True,8,0.368,6,0.909,,,1UXP,1KY8,direct,1.0
+1UXQ_1,1KY8,inner protein,ok,8,116,,,True,8,0.438,5,0.875,,,1UXQ,1KY8,direct,1.0
+1UXR_1,1KY8,inner protein,ok,7,116,,,True,8,0.375,5,0.857,,,1UXR,1KY8,direct,1.0
+1UXT_1,1KY8,inner protein,ok,8,116,,,True,8,0.438,5,0.875,,,1UXT,1KY8,direct,1.0
+1UXN_1,1KY8,inner protein,ok,9,116,,,True,8,0.333,5,0.778,,,1UXN,1KY8,direct,1.0
+1UXU_1,1KY8,inner protein,ok,9,116,,,True,8,0.333,5,0.889,,,1UXU,1KY8,direct,1.0
+1UXV_1,1KY8,inner protein,ok,12,116,,,True,8,0.35,6,0.833,,,1UXV,1KY8,direct,1.0
+3PXF_1,1HCL,inner protein,ok,17,30,,,True,3,0.263,7,0.0,,,3PXF,1HCL,direct,1.0
+3PXQ_1,1HCL,inner protein,ok,17,30,,,True,3,0.263,6,0.0,,,3PXQ,1HCL,direct,1.0
+3PY1_1,1HCL,inner protein,ok,20,30,,,True,3,0.227,7,0.0,,,3PY1,1HCL,direct,1.0
+4EZ7_1,1HCL,inner protein,ok,17,30,,,True,3,0.263,6,0.0,,,4EZ7,1HCL,direct,1.0
+3PXZ_1,1HCL,inner protein,ok,16,30,,,True,3,0.278,6,0.0,,,3PXZ,1HCL,direct,1.0
+1LTH_1,1LLD,inner protein,ok,5,88,,,True,2,0.211,3,0.8,,,1LTH,1LLD,direct,1.0
+1LDN_1,1LDB,inner protein,ok,8,53,,,True,8,0.1,6,1.0,,,1LDN,1LDB,direct,1.0
+2LDB_1,1LDB,inner protein,ok,11,53,,,True,13,0.125,8,1.0,,,2LDB,1LDB,direct,1.0
+1PZP_1,1M40,inner protein,ok,10,14,,,False,8,0.067,1,0.0,,,1PZP,1M40,direct,1.0
+1RD4_1,1MJN,inner protein,ok,19,5,,,True,2,0.292,2,0.0,,,1RD4,1MJN,direct,1.0
+4IXD_1,1MJN,inner protein,ok,9,5,,,True,2,0.235,2,0.0,,,4IXD,1MJN,direct,1.0
+2O7N_1,1MJN,inner protein,ok,12,5,,,True,2,0.143,2,0.0,,,2O7N,1MJN,direct,1.0
+3F78_1,1MJN,inner protein,ok,8,5,,,True,2,0.333,2,0.0,,,3F78,1MJN,aligned,1.0
+3M6F_1,1MJN,inner protein,ok,14,5,,,True,2,0.13,2,0.0,,,3M6F,1MJN,direct,1.0
+2ICA_1,1MJN,inner protein,ok,11,5,,,False,2,0.095,2,0.0,,,2ICA,1MJN,direct,1.0
+1IWH_1,1NS9,inner protein,ok,6,40,32.0,2.89,True,32,0.1,2,0.0,3.23,True,1IWH,1NS9,direct,1.0
+2D5X_1,1NS9,inner protein,ok,8,40,32.0,2.89,True,32,0.129,2,0.0,3.23,True,2D5X,1NS9,aligned,1.0
+2D5X_2,1NS9,PPI interface,ok,10,40,,,True,34,0.286,5,0.8,,,2D5X,1NS9,direct,1.0
+1EYK_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1EYK,1NUW,aligned,1.0
+1FBP_1,1NUW,inner protein,ok,14,25,,,True,10,0.647,4,0.0,,,1FBP,1NUW,aligned,1.0
+1FJ9_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1FJ9,1NUW,aligned,1.0
+1FPD_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1FPD,1NUW,aligned,1.0
+1EYJ_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1EYJ,1NUW,aligned,1.0
+1FPE_1,1NUW,inner protein,ok,16,25,,,True,10,0.579,4,0.0,,,1FPE,1NUW,aligned,1.0
+1FPF_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1FPF,1NUW,aligned,1.0
+1FPG_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1FPG,1NUW,aligned,1.0
+1FPI_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1FPI,1NUW,aligned,1.0
+1FPJ_1,1NUW,inner protein,ok,14,25,,,True,10,0.556,4,0.0,,,1FPJ,1NUW,aligned,1.0
+1FPL_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1FPL,1NUW,aligned,1.0
+1FRP_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1FRP,1NUW,aligned,1.0
+1FSA_1,1NUW,inner protein,ok,13,25,,,True,10,0.588,4,0.0,,,1FSA,1NUW,aligned,1.0
+1KZ8_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1KZ8,1NUW,aligned,1.0
+1KZ8_2,1NUW,PPI interface,ok,12,25,,,True,14,0.25,4,0.0,,,1KZ8,1NUW,aligned,1.0
+1LEV_1,1NUW,inner protein,ok,14,25,,,True,10,0.4,3,0.0,,,1LEV,1NUW,aligned,1.0
+1NV7_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1NV7,1NUW,direct,1.0
+4GBW_1,1NUW,inner protein,ok,16,25,,,True,10,0.667,4,0.0,,,4GBW,1NUW,aligned,1.0
+4GWS_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,4GWS,1NUW,aligned,1.0
+4GWY_1,1NUW,inner protein,ok,14,25,,,True,10,0.647,4,0.0,,,4GWY,1NUW,aligned,1.0
+4GWZ_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,4GWZ,1NUW,aligned,1.0
+1YZ0_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,1YZ0,1NUW,aligned,1.0
+2F3D_1,1NUW,inner protein,ok,14,25,,,True,10,0.647,4,0.0,,,2F3D,1NUW,aligned,1.0
+4FBP_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,4FBP,1NUW,aligned,1.0
+4GBV_1,1NUW,inner protein,ok,14,25,,,True,10,0.647,4,0.0,,,4GBV,1NUW,aligned,1.0
+4GX4_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,4GX4,1NUW,aligned,1.0
+4GX6_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,4GX6,1NUW,aligned,1.0
+4H46_1,1NUW,inner protein,ok,16,25,,,True,10,0.579,4,0.0,,,4H46,1NUW,aligned,1.0
+4KXP_1,1NUW,inner protein,ok,15,25,,,True,10,0.611,4,0.0,,,4KXP,1NUW,aligned,1.0
+1RDY_1,1NUW,inner protein,ok,14,25,,,True,10,0.647,4,0.0,,,1RDY,1NUW,aligned,1.0
+1RDZ_1,1NUW,inner protein,ok,14,25,,,True,10,0.647,4,0.0,,,1RDZ,1NUW,aligned,1.0
+1YYZ_1,1NUW,inner protein,ok,14,25,,,True,10,0.647,4,0.0,,,1YYZ,1NUW,aligned,1.0
+3LW0_1,1P4O,inner protein,ok,16,21,,,True,10,0.269,4,0.0,,,3LW0,1P4O,aligned,1.0
+1OF6_1,1OF8,PPI interface,ok,11,41,,,True,28,0.733,5,0.909,,,1OF6,1OF8,aligned,1.0
+1OFR_1,1OF8,PPI interface,ok,9,41,,,True,28,0.6,3,0.667,,,1OFR,1OF8,aligned,1.0
+1OG0_1,1OF8,PPI interface,ok,11,41,,,True,39,0.688,3,0.727,,,1OG0,1OF8,aligned,1.0
+1H9G_1,1HW1,inner protein,ok,25,26,,,True,4,0.4,4,0.24,,,1H9G,1HW1,direct,1.0
+1O0S_1,1LLQ,PPI interface,ok,7,180,,,True,129,0.159,4,0.714,,,1O0S,1LLQ,direct,1.0
+5OJ0_1,1PYY,allosteric position (unspecified),ok,26,45,,,True,13,0.294,6,0.0,,,5OJ0,1PYY,direct,1.0
+1PEO_1,1PEM,PPI interface,ok,7,104,,,True,3,0.333,4,0.571,,,1PEO,1PEM,direct,1.0
+1PEQ_1,1PEM,PPI interface,ok,10,104,,,True,3,0.5,4,0.5,,,1PEQ,1PEM,direct,1.0
+1PEU_1,1PEM,PPI interface,ok,6,104,,,True,3,0.278,4,0.5,,,1PEU,1PEM,direct,1.0
+1IG5_1,1QX2,inner protein,ok,4,6,,,True,1,0.2,2,0.0,,,1IG5,1QX2,direct,1.0
+1IGV_1,1QX2,inner protein,ok,4,6,,,True,1,0.2,2,0.0,,,1IGV,1QX2,direct,1.0
+3ICB_1,1QX2,inner protein,ok,5,6,,,True,1,0.3,2,0.0,,,3ICB,1QX2,direct,1.0
+3BEU_1,1OS8,inner protein,ok,9,9,,,False,1,0.0,0,0.0,,,3BEU,1OS8,aligned,1.0
+3I78_1,1OS8,inner protein,ok,11,9,,,False,2,0.048,1,0.0,,,3I78,1OS8,aligned,1.0
+1R1V_1,1R1U,inner protein,ok,2,8,,,False,1,0.0,0,1.0,,,1R1V,1R1U,direct,1.0
+1EFA_1,1JYE,inner protein,ok,15,31,,,True,4,0.469,4,0.0,,,1EFA,1JYE,direct,2.0
+1LBH_1,1JYE,inner protein,ok,10,31,,,True,4,0.312,4,0.0,,,1LBH,1JYE,direct,2.0
+1TLF_1,1JYE,inner protein,ok,16,31,,,True,4,0.455,4,0.0,,,1TLF,1JYE,direct,2.0
+2P9H_1,1JYE,inner protein,ok,14,31,,,True,4,0.438,4,0.0,,,2P9H,1JYE,direct,2.0
+2PAF_1,1JYE,inner protein,ok,15,31,,,True,4,0.424,4,0.0,,,2PAF,1JYE,direct,2.0
+2PE5_1,1JYE,inner protein,ok,16,31,,,True,4,0.5,5,0.0,,,2PE5,1JYE,direct,2.0
+3EDC_1,1JYE,inner protein,ok,8,31,,,True,4,0.212,3,0.125,,,3EDC,1JYE,direct,2.0
+4RZT_1,1JYE,allosteric position (unspecified),ok,27,31,,,True,4,0.513,5,0.037,,,4RZT,1JYE,direct,2.0
+2BE9_1,1PG5,inner protein,ok,11,189,,,True,91,0.643,1,0.182,,,2BE9,1PG5,direct,1.0
+4RT7_1,1RJB,allosteric position (unspecified),ok,31,17,,,True,1,0.364,11,0.0,,,4RT7,1RJB,direct,1.0
+4DFX_1,1RDQ,inner protein,ok,13,24,,,True,12,0.562,6,0.0,,,4DFX,1RDQ,direct,1.0
+4DFZ_1,1RDQ,inner protein,ok,13,24,,,True,12,0.562,6,0.0,,,4DFZ,1RDQ,direct,1.0
+5KDE_1,1SXV,allosteric position (unspecified),ok,14,75,,,True,36,0.571,5,0.357,,,5KDE,1SXV,direct,1.0
+5KDF_1,1SXV,allosteric position (unspecified),ok,6,75,,,True,36,0.273,5,0.5,,,5KDF,1SXV,direct,1.0
+4NHV_1,1TX2,PPI interface,ok,8,34,,,True,22,0.385,3,0.625,,,4NHV,1TX2,direct,1.0
+4NIL_1,1TX2,PPI interface,ok,6,34,,,True,22,0.455,3,0.5,,,4NIL,1TX2,direct,1.0
+4NIR_1,1TX2,PPI interface,ok,9,34,,,True,22,0.357,4,0.556,,,4NIR,1TX2,direct,1.0
+4NL1_1,1TX2,PPI interface,ok,7,34,,,True,22,0.417,3,0.571,,,4NL1,1TX2,direct,1.0
+6B21_1,1U7G,allosteric position (unspecified),ok,22,53,,,True,17,0.318,3,0.0,,,6B21,1U7G,direct,1.0
+4WLW_1,1Q06,allosteric position (unspecified),ok,9,15,,,True,7,0.214,1,0.556,,,4WLW,1Q06,direct,2.0
+1PSD_1,1SC6,inner protein,ok,9,116,,,True,7,0.444,3,0.444,,,1PSD,1SC6,direct,1.0
+2P9C_1,1SC6,inner protein,ok,9,116,,,True,7,0.444,4,0.556,,,2P9C,1SC6,direct,1.0
+2P9G_1,1SC6,inner protein,ok,11,116,,,True,7,0.474,5,0.636,,,2P9G,1SC6,direct,1.0
+2PA3_1,1SC6,inner protein,ok,8,116,,,True,7,0.471,2,0.5,,,2PA3,1SC6,direct,1.0
+1XMS_1,1U94,PPI interface,ok,15,131,,,True,41,0.588,5,0.0,,,1XMS,1U94,direct,1.0
+1XMV_1,1U94,PPI interface,ok,15,131,,,True,41,0.588,5,0.0,,,1XMV,1U94,direct,1.0
+2C2B_1,1E5X,inner protein,ok,16,46,,,True,34,0.19,6,0.812,,,2C2B,1E5X,direct,1.0
+1WMQ_1,1WPT,PPI interface,ok,2,59,,,True,43,0.125,2,1.0,,,1WMQ,1WPT,direct,1.0
+1WPU_1,1WPT,PPI interface,ok,2,59,,,True,43,0.125,2,1.0,,,1WPU,1WPT,direct,1.0
+1WPV_1,1WPT,PPI interface,ok,5,59,,,True,4,0.308,3,0.8,,,1WPV,1WPT,direct,1.0
+1YV3_1,1W9I,inner protein,ok,15,55,,,True,55,0.217,7,0.0,,,1YV3,1W9I,direct,1.0
+2JHR_1,1W9I,inner protein,ok,13,55,,,True,55,0.317,6,0.0,,,2JHR,1W9I,direct,1.0
+2XEL_1,1W9I,inner protein,ok,11,55,,,True,55,0.268,6,0.0,,,2XEL,1W9I,direct,1.0
+2XO8_1,1W9I,inner protein,ok,10,55,,,True,55,0.244,4,0.0,,,2XO8,1W9I,direct,1.0
+3BZ7_1,1W9I,inner protein,ok,15,55,,,True,55,0.217,7,0.0,,,3BZ7,1W9I,direct,1.0
+3BZ8_1,1W9I,inner protein,ok,14,55,,,True,55,0.196,6,0.0,,,3BZ8,1W9I,direct,1.0
+3BZ9_1,1W9I,inner protein,ok,14,55,,,True,55,0.196,6,0.0,,,3BZ9,1W9I,direct,1.0
+3MJX_1,1W9I,inner protein,ok,13,55,,,True,55,0.149,5,0.0,,,3MJX,1W9I,direct,1.0
+1TBF_1,1XOZ,inner protein,ok,11,20,1.0,1.99,True,1,0.379,3,0.0,,,1TBF,1XOZ,direct,1.0
+4GQR_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.042,1,0.0,,,4GQR,1XH0,aligned,1.0
+1KBB_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1KBB,1XH0,aligned,1.0
+1XD1_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1XD1,1XH0,aligned,1.0
+3OLG_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.042,1,0.0,,,3OLG,1XH0,aligned,1.0
+1KBK_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1KBK,1XH0,aligned,1.0
+2CPU_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,2CPU,1XH0,aligned,1.0
+1U2Y_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1U2Y,1XH0,aligned,1.0
+1U30_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.042,1,0.0,,,1U30,1XH0,aligned,1.0
+3IJ8_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,3IJ8,1XH0,aligned,1.0
+1XCW_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1XCW,1XH0,aligned,1.0
+1B2Y_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.042,1,0.0,,,1B2Y,1XH0,aligned,1.0
+3BAW_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.0,0,0.0,,,3BAW,1XH0,aligned,1.0
+3OLI_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,3OLI,1XH0,aligned,1.0
+3IJ7_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.0,0,0.0,,,3IJ7,1XH0,aligned,1.0
+1XCX_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1XCX,1XH0,aligned,1.0
+1XH2_1,1XH0,inner protein,ok,3,24,1.0,2.69,False,1,0.0,0,0.0,,,1XH2,1XH0,direct,1.0
+3BAX_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,3BAX,1XH0,direct,1.0
+3IJ9_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.042,1,0.0,,,3IJ9,1XH0,aligned,1.0
+1HNY_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1HNY,1XH0,aligned,1.0
+1BSI_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1BSI,1XH0,aligned,1.0
+3OLD_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,3OLD,1XH0,aligned,1.0
+3OLE_1,1XH0,inner protein,ok,5,24,1.0,2.69,False,1,0.042,1,0.0,,,3OLE,1XH0,aligned,1.0
+1CPU_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1CPU,1XH0,aligned,1.0
+1U33_1,1XH0,inner protein,ok,6,24,1.0,2.69,False,1,0.04,1,0.0,,,1U33,1XH0,aligned,1.0
+1XD0_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,1XD0,1XH0,aligned,1.0
+1XH1_1,1XH0,inner protein,ok,3,24,1.0,2.69,False,1,0.0,0,0.0,,,1XH1,1XH0,direct,1.0
+3CPU_1,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.0,0,0.0,,,3CPU,1XH0,aligned,1.0
+4GQQ_4,1XH0,inner protein,ok,4,24,1.0,2.69,False,1,0.043,1,0.0,,,4GQQ,1XH0,direct,1.0
+1XXA_1,1XXC,PPI interface,ok,13,32,,,True,27,0.375,8,0.846,,,1XXA,1XXC,direct,1.0
+1XXB_1,1XXC,PPI interface,ok,14,32,,,True,27,0.353,8,0.857,,,1XXB,1XXC,direct,1.0
+5TKB_1,1Y2K,allosteric position (unspecified),ok,25,28,4.0,1.34,True,4,0.581,6,0.0,,,5TKB,1Y2K,aligned,1.0
+6BOJ_1,1Y2K,allosteric position (unspecified),ok,28,28,4.0,1.34,True,4,0.576,7,0.0,,,6BOJ,1Y2K,aligned,1.0
+3PG9_1,1VR6,PPI interface,ok,15,82,,,True,8,0.1,9,0.667,,,3PG9,1VR6,direct,1.0
+4GRS_1,1VR6,PPI interface,ok,13,82,,,True,4,0.1,8,0.615,,,4GRS,1VR6,direct,2.0
+5KQ5_1,1Z0N,allosteric position (unspecified),ok,9,2,,,False,1,0.0,0,0.0,,,5KQ5,1Z0N,aligned,1.0
+5T5T_1,1Z0N,allosteric position (unspecified),ok,1,2,,,False,1,0.0,0,0.0,,,5T5T,1Z0N,direct,1.0
+1VST_1,1XTT,PPI interface,ok,3,43,,,False,1,0.065,2,0.667,,,1VST,1XTT,direct,1.0
+2P5M_1,1F9N,PPI interface,ok,11,81,,,True,4,0.256,4,0.818,,,2P5M,1F9N,direct,2.0
+1EGY_1,1Z8O,inner protein,ok,7,24,12.0,3.05,True,12,0.412,4,0.0,,,1EGY,1Z8O,direct,1.0
+1EUP_1,1Z8O,inner protein,ok,9,24,12.0,3.05,True,12,0.529,4,0.0,,,1EUP,1Z8O,direct,1.0
+5UHV_1,24SR,allosteric position (unspecified),ok,34,13,2.0,0.68,True,2,0.588,6,0.088,5.17,False,5UHV,24SR,direct,1.0
+3DC2_1,1YGY,inner protein,ok,8,130,,,True,9,0.4,3,0.5,,,3DC2,1YGY,direct,1.0
+2Q6H_1,2A65,inner protein,ok,13,34,1.0,1.67,True,4,0.75,4,0.0,,,2Q6H,2A65,direct,1.0
+2Q72_1,2A65,inner protein,ok,13,34,1.0,1.67,True,4,0.75,4,0.0,,,2Q72,2A65,direct,1.0
+2QB4_1,2A65,inner protein,ok,13,34,1.0,1.67,True,4,0.75,4,0.0,,,2QB4,2A65,direct,1.0
+2QEI_1,2A65,inner protein,ok,13,34,1.0,1.67,True,4,0.75,4,0.0,,,2QEI,2A65,direct,1.0
+3LBI_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,3LBI,2CE2,direct,1.0
+4DLV_1,2CE2,inner protein,ok,5,9,,,True,8,0.286,1,0.0,,,4DLV,2CE2,direct,1.0
+3OIU_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,3OIU,2CE2,direct,1.0
+3OIV_1,2CE2,inner protein,ok,9,9,2.0,3.69,True,8,0.375,3,0.0,,,3OIV,2CE2,direct,1.0
+3LBH_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,3LBH,2CE2,direct,1.0
+4DLX_1,2CE2,inner protein,ok,5,9,,,True,8,0.286,1,0.0,,,4DLX,2CE2,direct,1.0
+3OIW_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,3OIW,2CE2,direct,1.0
+3K8Y_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,3K8Y,2CE2,direct,1.0
+4G0N_1,2CE2,inner protein,ok,10,9,,,True,8,0.353,3,0.0,,,4G0N,2CE2,direct,1.0
+4DLW_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,4DLW,2CE2,direct,1.0
+4DLY_1,2CE2,inner protein,ok,5,9,,,True,8,0.286,1,0.0,,,4DLY,2CE2,direct,1.0
+4DLU_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,4DLU,2CE2,direct,1.0
+4DLR_1,2CE2,inner protein,ok,5,9,,,True,8,0.286,1,0.0,,,4DLR,2CE2,direct,1.0
+4DLT_1,2CE2,inner protein,ok,2,9,,,True,9,0.167,2,0.0,,,4DLT,2CE2,direct,1.0
+4G0N_2,2CE2,inner protein,ok,9,9,,,True,4,0.133,3,0.0,,,4G0N,2CE2,direct,1.0
+4DLZ_1,2CE2,inner protein,ok,5,9,,,True,8,0.286,1,0.0,,,4DLZ,2CE2,direct,1.0
+6B95_1,2CM2,allosteric position (unspecified),ok,17,15,,,True,1,0.1,2,0.0,,,6B95,2CM2,direct,1.0
+1T4J_1,2CM2,inner protein,ok,11,15,,,True,12,0.583,4,0.0,,,1T4J,2CM2,direct,1.0
+1T48_1,2CM2,inner protein,ok,8,15,,,True,12,0.6,3,0.0,,,1T48,2CM2,aligned,1.0
+1T49_1,2CM2,inner protein,ok,12,15,,,True,12,0.429,4,0.0,,,1T49,2CM2,direct,1.0
+5T19_1,2CM2,allosteric position (unspecified),ok,22,15,,,True,2,0.583,2,0.0,,,5T19,2CM2,direct,1.0
+2DKG_1,2E10,inner protein,ok,34,29,,,True,6,0.412,4,0.0,,,2DKG,2E10,aligned,1.0
+2DTI_1,2E10,inner protein,ok,33,29,,,True,6,0.424,4,0.0,,,2DTI,2E10,aligned,1.0
+2DVE_1,2E10,inner protein,ok,36,29,,,True,1,0.39,5,0.0,,,2DVE,2E10,aligned,1.0
+2DXU_1,2E10,inner protein,ok,36,29,,,True,1,0.425,4,0.0,,,2DXU,2E10,aligned,1.0
+1WQW_1,2E10,inner protein,ok,35,29,,,True,1,0.4,4,0.0,,,1WQW,2E10,aligned,1.0
+3KJF_1,2DKO,PPI interface,ok,14,22,,,True,21,0.111,1,0.857,,,3KJF,2DKO,direct,1.0
+1NQ9_1,2B5T,inner protein,ok,14,66,,,True,26,0.375,4,0.0,,,1NQ9,2B5T,direct,1.0
+1E03_1,2B5T,inner protein,ok,14,66,,,True,26,0.375,4,0.0,,,1E03,2B5T,direct,1.0
+1AZX_1,2B5T,inner protein,ok,15,66,,,True,26,0.438,4,0.0,,,1AZX,2B5T,direct,1.0
+3KCG_1,2B5T,inner protein,ok,15,66,,,True,26,0.533,5,0.0,,,3KCG,2B5T,direct,1.0
+1TB6_1,2B5T,inner protein,ok,15,66,,,True,26,0.438,4,0.0,,,1TB6,2B5T,direct,1.0
+1SR5_1,2B5T,inner protein,ok,15,66,,,True,26,0.438,4,0.0,,,1SR5,2B5T,direct,1.0
+3EVJ_1,2B5T,inner protein,ok,13,66,,,True,26,0.4,4,0.0,,,3EVJ,2B5T,direct,1.0
+3S87_1,2EUD,PPI interface,ok,10,81,46.0,2.03,True,46,0.417,5,0.6,2.61,True,3S87,2EUD,direct,1.0
+3S8A_1,2EUD,PPI interface,ok,9,81,46.0,2.03,True,46,0.375,5,0.667,2.61,True,3S8A,2EUD,direct,1.0
+3TBA_1,2EUD,PPI interface,ok,8,81,46.0,2.03,True,46,0.333,4,0.625,2.61,True,3TBA,2EUD,direct,1.0
+2HVW_1,2HVV,inner protein,ok,11,38,,,True,35,0.538,2,0.636,,,2HVW,2HVV,direct,1.0
+5C2O_1,2HVV,allosteric position (unspecified),ok,21,38,,,True,35,0.429,4,0.619,,,5C2O,2HVV,direct,1.0
+2FPK_1,2I1Q,inner protein,ok,14,15,1.0,6.69,True,1,0.45,3,0.0,,,2FPK,2I1Q,direct,1.0
+3FYH_1,2I1Q,inner protein,ok,13,15,1.0,6.69,True,1,0.4,3,0.0,,,3FYH,2I1Q,direct,1.0
+1WBN_1,2FST,inner protein,ok,18,27,,,True,21,0.75,6,0.0,,,1WBN,2FST,direct,1.0
+3HV7_1,2FST,inner protein,ok,12,27,,,True,21,0.5,3,0.0,,,3HV7,2FST,direct,1.0
+2BAK_1,2FST,inner protein,ok,19,27,,,True,21,0.654,7,0.0,,,2BAK,2FST,direct,1.0
+4E6C_1,2FST,inner protein,ok,4,27,,,True,27,0.121,1,0.0,,,4E6C,2FST,direct,1.0
+4EH9_1,2FST,inner protein,ok,18,27,,,True,21,0.556,3,0.0,,,4EH9,2FST,direct,1.0
+3GI3_1,2FST,inner protein,ok,21,27,,,True,21,0.667,7,0.0,,,3GI3,2FST,direct,1.0
+4A9Y_1,2FST,inner protein,ok,19,27,,,True,21,0.654,7,0.0,,,4A9Y,2FST,direct,1.0
+3O8U_1,2FST,inner protein,ok,12,27,,,True,21,0.5,3,0.0,,,3O8U,2FST,direct,1.0
+3K3I_1,2FST,inner protein,ok,12,27,,,True,21,0.5,3,0.0,,,3K3I,2FST,direct,1.0
+3NNX_1,2FST,inner protein,ok,16,27,,,True,21,0.6,3,0.0,,,3NNX,2FST,direct,1.0
+1KV1_1,2FST,inner protein,ok,9,27,,,True,21,0.375,3,0.0,,,1KV1,2FST,direct,1.0
+3O8T_1,2FST,inner protein,ok,15,27,,,True,21,0.625,3,0.0,,,3O8T,2FST,direct,1.0
+3E93_1,2FST,inner protein,ok,20,27,,,True,21,0.833,6,0.0,,,3E93,2FST,direct,1.0
+3LFD_1,2FST,inner protein,ok,16,27,,,True,21,0.667,3,0.0,,,3LFD,2FST,direct,1.0
+4EH9_2,2FST,inner protein,ok,17,27,,,True,27,0.515,4,0.0,,,4EH9,2FST,direct,1.0
+3OC1_1,2FST,inner protein,ok,12,27,,,True,21,0.5,3,0.0,,,3OC1,2FST,direct,1.0
+3K3J_1,2FST,inner protein,ok,16,27,,,True,21,0.667,3,0.0,,,3K3J,2FST,direct,1.0
+3GCQ_1,2FST,inner protein,ok,18,27,,,True,21,0.75,6,0.0,,,3GCQ,2FST,direct,1.0
+3GCV_1,2FST,inner protein,ok,17,27,,,True,21,0.708,6,0.0,,,3GCV,2FST,aligned,1.0
+4E6A_1,2FST,inner protein,ok,9,27,,,True,27,0.273,3,0.0,,,4E6A,2FST,direct,1.0
+3OBJ_1,2FST,inner protein,ok,11,27,,,True,21,0.458,3,0.0,,,3OBJ,2FST,direct,1.0
+1WBS_1,2FST,inner protein,ok,19,27,,,True,21,0.792,6,0.0,,,1WBS,2FST,direct,1.0
+3NNV_1,2FST,inner protein,ok,15,27,,,True,21,0.625,3,0.0,,,3NNV,2FST,direct,1.0
+4E8A_1,2FST,inner protein,ok,7,27,,,True,27,0.212,2,0.0,,,4E8A,2FST,direct,1.0
+3NNW_1,2FST,inner protein,ok,15,27,,,True,21,0.56,3,0.0,,,3NNW,2FST,direct,1.0
+3LFE_1,2FST,inner protein,ok,16,27,,,True,21,0.667,6,0.0,,,3LFE,2FST,direct,1.0
+3IW8_1,2FST,inner protein,ok,14,27,,,True,21,0.52,3,0.0,,,3IW8,2FST,direct,1.0
+3HEG_1,2FST,inner protein,ok,19,27,,,True,21,0.792,5,0.0,,,3HEG,2FST,direct,1.0
+3HV3_1,2FST,inner protein,ok,18,27,,,True,21,0.75,6,0.0,,,3HV3,2FST,direct,1.0
+1W82_1,2FST,inner protein,ok,12,27,,,True,21,0.5,3,0.0,,,1W82,2FST,direct,1.0
+3D83_1,2FST,inner protein,ok,20,27,,,True,21,0.833,5,0.0,,,3D83,2FST,direct,1.0
+3LFB_1,2FST,inner protein,ok,13,27,,,True,21,0.542,3,0.0,,,3LFB,2FST,direct,1.0
+3KQ7_1,2FST,inner protein,ok,22,27,,,True,21,0.769,8,0.0,,,3KQ7,2FST,direct,1.0
+3HV5_1,2FST,inner protein,ok,18,27,,,True,21,0.68,6,0.0,,,3HV5,2FST,direct,1.0
+1WBT_1,2FST,inner protein,ok,20,27,,,True,21,0.833,6,0.0,,,1WBT,2FST,direct,1.0
+1W83_1,2FST,inner protein,ok,19,27,,,True,21,0.792,6,0.0,,,1W83,2FST,direct,1.0
+3GCS_1,2FST,inner protein,ok,18,27,,,True,21,0.75,5,0.0,,,3GCS,2FST,direct,1.0
+3HEC_1,2FST,inner protein,ok,17,27,,,True,21,0.64,5,0.0,,,3HEC,2FST,direct,1.0
+2BAJ_1,2FST,inner protein,ok,14,27,,,True,21,0.52,3,0.0,,,2BAJ,2FST,direct,1.0
+1KV2_1,2FST,inner protein,ok,18,27,,,True,21,0.68,6,0.0,,,1KV2,2FST,direct,1.0
+1WBV_1,2FST,inner protein,ok,15,27,,,True,21,0.625,3,0.0,,,1WBV,2FST,direct,1.0
+3PG3_1,2FST,inner protein,ok,18,27,,,True,21,0.75,6,0.0,,,3PG3,2FST,direct,1.0
+4AA0_1,2FST,inner protein,ok,19,27,,,True,21,0.72,4,0.0,,,4AA0,2FST,aligned,1.0
+3NEW_1,2FST,inner protein,ok,12,27,,,True,27,0.364,3,0.0,,,3NEW,2FST,direct,1.0
+3HV4_1,2FST,inner protein,ok,16,27,,,True,21,0.667,6,0.0,,,3HV4,2FST,direct,1.0
+3HV6_1,2FST,inner protein,ok,17,27,,,True,21,0.708,6,0.0,,,3HV6,2FST,direct,1.0
+3NNU_1,2FST,inner protein,ok,16,27,,,True,21,0.6,3,0.0,,,3NNU,2FST,direct,1.0
+3GCU_1,2FST,inner protein,ok,18,27,,,True,21,0.75,6,0.0,,,3GCU,2FST,direct,1.0
+2I80_1,2I87,inner protein,ok,16,59,,,True,35,0.588,5,0.0,,,2I80,2I87,direct,1.0
+4KGV_1,2AIR,inner protein,ok,11,198,,,True,194,0.471,4,0.091,,,4KGV,2AIR,direct,1.0
+4KGX_1,2AIR,inner protein,ok,13,198,,,True,194,0.421,6,0.154,,,4KGX,2AIR,direct,1.0
+4KH0_1,2AIR,inner protein,ok,24,198,,,True,194,0.52,11,0.375,,,4KH0,2AIR,direct,1.0
+1RAD_1,2AIR,inner protein,ok,12,198,,,True,194,0.368,5,0.083,,,1RAD,2AIR,direct,1.0
+1RAE_1,2AIR,inner protein,ok,12,198,,,True,194,0.368,5,0.083,,,1RAE,2AIR,direct,1.0
+1RAF_1,2AIR,inner protein,ok,13,198,,,True,194,0.421,5,0.077,,,1RAF,2AIR,direct,1.0
+1RAG_1,2AIR,inner protein,ok,13,198,,,True,194,0.421,5,0.077,,,1RAG,2AIR,direct,1.0
+4KH1_1,2AIR,inner protein,ok,21,198,,,True,194,0.522,9,0.238,,,4KH1,2AIR,direct,1.0
+1RAA_1,2AIR,inner protein,ok,12,198,,,True,194,0.368,5,0.083,,,1RAA,2AIR,direct,1.0
+1RAB_1,2AIR,inner protein,ok,12,198,,,True,194,0.368,5,0.083,,,1RAB,2AIR,direct,1.0
+1RAC_1,2AIR,inner protein,ok,12,198,,,True,194,0.368,5,0.083,,,1RAC,2AIR,direct,1.0
+1RAH_1,2AIR,inner protein,ok,13,198,,,True,194,0.421,5,0.077,,,1RAH,2AIR,direct,1.0
+1RAI_1,2AIR,inner protein,ok,13,198,,,True,194,0.421,5,0.077,,,1RAI,2AIR,direct,1.0
+1TUG_1,2AIR,inner protein,ok,14,198,,,True,194,0.4,4,0.071,,,1TUG,2AIR,direct,1.0
+1ZA1_1,2AIR,inner protein,ok,12,198,,,True,194,0.444,4,0.167,,,1ZA1,2AIR,direct,1.0
+1ZA2_1,2AIR,inner protein,ok,12,198,,,True,194,0.529,4,0.167,,,1ZA2,2AIR,direct,1.0
+2FZC_1,2AIR,inner protein,ok,14,198,,,True,194,0.4,6,0.143,,,2FZC,2AIR,direct,1.0
+2FZG_1,2AIR,inner protein,ok,14,198,,,True,194,0.474,4,0.143,,,2FZG,2AIR,direct,1.0
+2FZK_1,2AIR,inner protein,ok,12,198,,,True,194,0.368,4,0.083,,,2FZK,2AIR,direct,1.0
+4AT1_1,2AIR,inner protein,ok,12,198,,,True,194,0.368,6,0.25,,,4AT1,2AIR,direct,1.0
+4FYV_1,2AIR,inner protein,ok,7,198,,,True,67,0.385,3,0.143,,,4FYV,2AIR,direct,1.0
+4FYW_1,2AIR,inner protein,ok,12,198,,,True,194,0.529,4,0.167,,,4FYW,2AIR,direct,1.0
+4FYX_1,2AIR,inner protein,ok,23,198,,,True,194,0.48,9,0.217,,,4FYX,2AIR,direct,1.0
+4FYY_1,2AIR,inner protein,ok,22,198,,,True,194,0.5,9,0.227,,,4FYY,2AIR,direct,1.0
+5AT1_1,2AIR,inner protein,ok,14,198,,,True,194,0.474,6,0.214,,,5AT1,2AIR,direct,1.0
+7AT1_1,2AIR,inner protein,ok,14,198,,,True,194,0.474,6,0.214,,,7AT1,2AIR,direct,1.0
+8AT1_1,2AIR,inner protein,ok,10,198,,,True,194,0.333,6,0.2,,,8AT1,2AIR,direct,1.0
+2VVT_1,2JFP,inner protein,ok,12,44,5.0,0.41,True,7,0.167,4,0.0,11.45,False,2VVT,2JFP,direct,1.0
+2NW8_1,2NW9,PPI interface,ok,7,64,,,True,1,0.119,1,0.714,,,2NW8,2NW9,direct,1.0
+4FXY_1,2O3E,inner protein,ok,31,46,,,True,1,0.645,6,0.0,,,4FXY,2O3E,direct,1.0
+5TCI_1,2O2E,inner protein,ok,14,54,,,True,38,0.444,4,0.0,,,5TCI,2O2E,aligned,1.0
+5TCJ_1,2O2E,inner protein,ok,16,54,,,True,9,0.364,5,0.0,,,5TCJ,2O2E,aligned,1.0
+1W96_1,1W93,inner protein,ok,15,45,,,True,30,0.235,5,0.0,,,1W96,1W93,direct,3.0
+3IRH_1,2O6I,PPI interface,ok,8,27,,,True,6,0.538,3,0.0,,,3IRH,2O6I,direct,1.0
+4LRL_1,2O6I,PPI interface,ok,9,27,,,True,6,0.5,3,0.0,,,4LRL,2O6I,direct,1.0
+1YXD_1,2OJP,inner protein,ok,1,32,,,False,32,0.062,2,0.0,,,1YXD,2OJP,direct,1.0
+2ATS_1,2OJP,inner protein,ok,1,32,,,False,32,0.062,2,0.0,,,2ATS,2OJP,direct,1.0
+2GQ1_1,2OX3,PPI interface,ok,4,71,3.0,3.38,True,21,0.375,2,0.5,2.56,True,2GQ1,2OX3,direct,1.0
+2Q8M_1,2OX3,inner protein,ok,14,71,,,True,62,0.412,8,0.143,,,2Q8M,2OX3,direct,1.0
+2Q8M_2,2OX3,PPI interface,ok,5,71,,,True,13,0.5,1,0.8,,,2Q8M,2OX3,direct,1.0
+3C32_1,1YCJ,PPI interface,ok,3,36,,,True,18,0.143,1,0.0,,,3C32,1YCJ,aligned,1.0
+1QW7_1,2OB3,inner protein,ok,2,24,,,False,1,0.0,0,0.0,,,1QW7,2OB3,direct,1.0
+1PFK_1,2PFK,PPI interface,ok,15,32,,,True,32,0.789,6,0.133,,,1PFK,2PFK,direct,1.0
+2Q5O_1,2NXW,inner protein,ok,12,128,,,True,93,0.625,6,0.0,,,2Q5O,2NXW,direct,1.0
+2Q5Q_1,2NXW,inner protein,ok,13,128,,,True,93,0.688,6,0.0,,,2Q5Q,2NXW,direct,1.0
+2HIM_1,2P2D,PPI interface,ok,9,94,,,True,4,0.29,3,0.667,,,2HIM,2P2D,aligned,1.0
+2P2N_1,2P2D,PPI interface,ok,9,94,,,True,4,0.25,4,0.667,,,2P2N,2P2D,direct,1.0
+2DEQ_1,2E1H,inner protein,ok,41,35,,,True,1,0.317,6,0.0,,,2DEQ,2E1H,direct,2.0
+2DJZ_1,2E1H,inner protein,ok,42,35,,,True,1,0.31,7,0.0,,,2DJZ,2E1H,direct,2.0
+2DZ9_1,2E1H,inner protein,ok,41,35,,,True,1,0.317,6,0.0,,,2DZ9,2E1H,direct,2.0
+2POC_1,2PUW,inner protein,ok,13,103,,,True,74,0.529,4,0.077,,,2POC,2PUW,direct,1.0
+2PUT_1,2PUW,inner protein,ok,13,103,,,True,74,0.529,4,0.077,,,2PUT,2PUW,direct,1.0
+2PUV_1,2PUW,inner protein,ok,13,103,,,True,74,0.529,4,0.077,,,2PUV,2PUW,direct,1.0
+3C31_2,2QS4,PPI interface,ok,1,36,,,False,7,0.053,2,1.0,,,3C31,2QS4,direct,1.0
+3C32_2,2QS4,PPI interface,ok,2,36,,,True,7,0.105,2,1.0,,,3C32,2QS4,direct,1.0
+3C33_2,2QS4,PPI interface,ok,2,36,,,True,7,0.105,2,1.0,,,3C33,2QS4,direct,1.0
+3C34_2,2QS4,PPI interface,ok,2,36,,,True,7,0.105,2,1.0,,,3C34,2QS4,direct,1.0
+3C35_2,2QS4,PPI interface,ok,2,36,,,True,7,0.105,2,1.0,,,3C35,2QS4,direct,1.0
+3C36_2,2QS4,PPI interface,ok,2,36,,,True,7,0.105,2,1.0,,,3C36,2QS4,direct,1.0
+3HL8_1,2QXF,inner protein,ok,11,39,,,True,7,0.727,3,0.0,,,3HL8,2QXF,direct,1.0
+4ZHX_1,2UV4,allosteric position (unspecified),ok,21,22,19.0,1.66,True,19,0.545,5,0.238,2.68,True,4ZHX,2UV4,direct,1.0
+4CFE_1,2UV5,inner protein,ok,13,19,9.0,2.51,True,9,0.625,5,0.154,2.54,True,4CFE,2UV5,direct,1.0
+2VD4_1,2V0H,inner protein,ok,11,99,,,True,52,0.5,3,0.0,,,2VD4,2V0H,direct,1.0
+2VJY_1,2VK4,inner protein,ok,16,66,,,True,53,0.391,5,0.125,,,2VJY,2VK4,direct,1.0
+5E29_1,2W72,PPI interface,ok,1,47,,,True,43,0.167,3,1.0,,,5E29,2W72,direct,1.0
+5UFJ_1,2W72,inner protein,ok,5,47,,,True,32,0.143,3,0.4,,,5UFJ,2W72,direct,1.0
+5E29_2,2W72,allosteric position (unspecified),ok,6,47,,,True,5,0.208,4,0.833,,,5E29,2W72,direct,1.0
+5X2S_1,2W72,allosteric position (unspecified),ok,2,47,,,False,5,0.087,2,1.0,,,5X2S,2W72,direct,1.0
+1G9V_1,2W72,PPI interface,ok,10,47,,,True,43,0.455,6,0.8,,,1G9V,2W72,aligned,1.0
+5KSI_1,2W72,allosteric position (unspecified),ok,4,47,,,True,29,0.333,4,0.75,,,5KSI,2W72,direct,1.0
+5X2T_1,2W72,allosteric position (unspecified),ok,2,47,,,False,5,0.087,2,1.0,,,5X2T,2W72,direct,1.0
+6BNR_1,2W72,allosteric position (unspecified),ok,4,47,,,True,32,0.15,3,0.5,,,6BNR,2W72,direct,1.0
+2D5Z_1,2W72,PPI interface,ok,10,47,,,True,5,0.179,9,0.7,,,2D5Z,2W72,direct,1.0
+4NI0_1,2W72,allosteric position (unspecified),ok,5,47,7.0,3.61,True,5,0.167,3,0.8,3.4,True,4NI0,2W72,direct,1.0
+5U3I_1,2W72,inner protein,ok,11,47,25.0,4.44,True,47,0.389,5,0.364,3.37,True,5U3I,2W72,direct,1.0
+2D60_1,2W72,PPI interface,ok,10,47,,,True,43,0.455,6,0.8,,,2D60,2W72,direct,1.0
+5E29_3,2W72,PPI interface,ok,1,47,,,True,43,0.167,3,1.0,,,5E29,2W72,direct,1.0
+4ROM_1,2W72,inner protein,ok,2,47,,,False,5,0.087,2,1.0,,,4ROM,2W72,direct,1.0
+5KDQ_1,2W72,allosteric position (unspecified),ok,2,47,,,False,5,0.087,2,1.0,,,5KDQ,2W72,direct,1.0
+1B86_1,2W72,PPI interface,ok,4,47,,,True,24,0.1,2,0.0,,,1B86,2W72,aligned,1.0
+4ROL_1,2W72,inner protein,ok,2,47,,,False,5,0.087,2,1.0,,,4ROL,2W72,direct,1.0
+1SFQ_1,2UUF,inner protein,ok,2,18,,,True,2,0.167,1,0.0,,,1SFQ,2UUF,aligned,1.0
+3JZ1_1,2UUF,inner protein,ok,2,18,,,True,2,0.167,1,0.0,,,3JZ1,2UUF,direct,1.0
+1JOU_1,2UUF,inner protein,ok,2,18,,,True,2,0.167,1,0.0,,,1JOU,2UUF,direct,1.0
+4RKO_1,2UUF,allosteric position (unspecified),ok,9,18,,,True,2,0.615,3,0.111,,,4RKO,2UUF,aligned,1.0
+3R3G_1,2UUF,inner protein,ok,2,18,,,True,2,0.167,1,0.0,,,3R3G,2UUF,direct,1.0
+1SG8_1,2UUF,inner protein,ok,3,18,,,True,2,0.25,2,0.333,,,1SG8,2UUF,direct,1.0
+1JMO_1,2UUF,inner protein,ok,3,18,,,True,2,0.25,2,0.333,,,1JMO,2UUF,aligned,1.0
+1DX5_1,2UUF,inner protein,ok,2,18,,,True,2,0.167,2,0.0,,,1DX5,2UUF,aligned,1.0
+2VK1_1,2W93,inner protein,ok,15,65,33.0,4.44,True,33,0.286,4,0.067,4.63,False,2VK1,2W93,direct,1.0
+2VK8_1,2W93,inner protein,ok,14,65,33.0,4.44,True,33,0.296,4,0.143,4.63,False,2VK8,2W93,direct,1.0
+2XPU_1,2XPW,allosteric position (unspecified),ok,23,21,7.0,4.99,True,7,0.346,2,0.348,2.95,True,2XPU,2XPW,direct,1.0
+3JVS_1,2YEX,inner protein,ok,12,14,,,True,10,0.75,4,0.0,,,3JVS,2YEX,direct,1.0
+3F9N_1,2YEX,inner protein,ok,12,14,,,True,10,0.5,2,0.0,,,3F9N,2YEX,direct,1.0
+3JVR_1,2YEX,inner protein,ok,11,14,,,True,10,0.818,4,0.0,,,3JVR,2YEX,direct,1.0
+2G88_1,2ZRJ,inner protein,ok,8,21,,,True,2,0.533,2,0.0,,,2G88,2ZRJ,aligned,1.0
+1VEA_1,3BOY,PPI interface,ok,12,65,,,False,32,0.059,4,0.583,,,1VEA,3BOY,direct,1.0
+5O1S_1,2QR7,allosteric position (unspecified),ok,12,26,,,True,2,0.409,4,0.0,,,5O1S,2QR7,direct,2.0
+3ATH_1,3AOV,inner protein,ok,21,55,3.0,1.05,True,25,0.476,4,0.095,1.12,True,3ATH,3AOV,direct,1.0
+2ZFZ_1,3BUE,PPI interface,ok,14,23,,,True,23,0.204,7,0.857,,,2ZFZ,3BUE,direct,1.0
+3CAG_1,3BUE,PPI interface,ok,14,23,,,True,23,0.204,7,0.857,,,3CAG,3BUE,direct,1.0
+3FHZ_1,3BUE,PPI interface,ok,13,23,,,True,23,0.184,7,0.923,,,3FHZ,3BUE,direct,1.0
+3LAJ_1,3BUE,PPI interface,ok,12,23,,,True,23,0.188,6,0.833,,,3LAJ,3BUE,direct,1.0
+3LAP_1,3BUE,PPI interface,ok,14,23,,,True,23,0.204,7,0.857,,,3LAP,3BUE,direct,1.0
+2QLJ_1,2QL9,PPI interface,ok,8,24,,,True,24,0.333,2,1.0,,,2QLJ,2QL9,direct,3.0
+3I54_1,3D0S,PPI interface,ok,16,35,,,True,29,0.432,3,0.375,,,3I54,3D0S,direct,1.0
+3I59_1,3D0S,PPI interface,ok,16,35,,,True,29,0.359,4,0.5,,,3I59,3D0S,direct,1.0
+3MZH_1,3D0S,PPI interface,ok,16,35,,,True,29,0.432,3,0.5,,,3MZH,3D0S,direct,1.0
+4A2U_1,3D0S,PPI interface,ok,17,35,,,True,29,0.459,3,0.412,,,4A2U,3D0S,direct,1.0
+3PRJ_1,2Q3E,inner protein,ok,21,172,141.0,9.83,True,141,0.333,4,0.238,2.64,True,3PRJ,2Q3E,direct,1.0
+3PTZ_1,2Q3E,inner protein,ok,22,172,141.0,9.83,True,141,0.35,4,0.273,2.64,True,3PTZ,2Q3E,direct,1.0
+3E5U_1,3E6D,PPI interface,ok,14,26,,,True,1,0.609,4,0.714,,,3E5U,3E6D,aligned,1.0
+3E5X_1,3E6D,PPI interface,ok,14,26,,,True,1,0.609,4,0.714,,,3E5X,3E6D,aligned,1.0
+3E6B_1,3E6D,PPI interface,ok,15,26,,,True,1,0.583,4,0.733,,,3E6B,3E6D,aligned,1.0
+3E6C_1,3E6D,PPI interface,ok,11,26,,,True,1,0.478,4,0.636,,,3E6C,3E6D,direct,1.0
+3D2E_1,3C7N,inner protein,ok,21,81,1.0,3.74,True,1,0.241,2,0.19,2.66,True,3D2E,3C7N,direct,1.0
+3D2F_1,3C7N,inner protein,ok,20,81,1.0,3.74,True,1,0.244,2,0.2,2.66,True,3D2F,3C7N,direct,1.0
+2QXL_1,3C7N,inner protein,ok,19,81,1.0,3.74,True,1,0.232,2,0.158,2.66,True,2QXL,3C7N,direct,1.0
+3H0W_1,3EP6,inner protein,ok,6,21,,,True,2,0.385,2,0.833,,,3H0W,3EP6,aligned,1.0
+1I7M_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,1I7M,3EP6,aligned,1.0
+1I72_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,1I72,3EP6,aligned,1.0
+3DZ3_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,3DZ3,3EP6,aligned,1.0
+1I7B_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,1I7B,3EP6,aligned,1.0
+3EPB_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,3EPB,3EP6,aligned,1.0
+3EPA_1,3EP6,inner protein,ok,8,21,,,True,2,0.429,3,0.75,,,3EPA,3EP6,aligned,1.0
+1I7C_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,1I7C,3EP6,aligned,1.0
+3EP5_1,3EP6,inner protein,ok,4,21,,,True,2,0.333,2,1.0,,,3EP5,3EP6,direct,1.0
+3H0V_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,3H0V,3EP6,aligned,1.0
+1I79_1,3EP6,inner protein,ok,7,21,,,True,2,0.357,3,0.714,,,1I79,3EP6,aligned,1.0
+5CNS_1,2XAP,allosteric position (unspecified),ok,10,279,,,True,223,0.2,4,0.8,,,5CNS,2XAP,direct,1.0
+5CNT_1,2XAP,allosteric position (unspecified),ok,24,279,,,True,14,0.64,5,0.042,,,5CNT,2XAP,direct,1.0
+3PNA_1,3FHI,inner protein,ok,20,40,,,True,24,0.625,5,0.1,,,3PNA,3FHI,direct,1.0
+3D2P_1,3D2M,inner protein,ok,17,180,,,True,119,0.65,4,0.118,,,3D2P,3D2M,direct,1.0
+3Q0Z_1,3FQL,inner protein,ok,17,37,,,True,18,0.136,3,0.0,,,3Q0Z,3FQL,direct,1.0
+4NLD_1,3FQL,inner protein,ok,16,37,,,True,18,0.143,3,0.0,,,4NLD,3FQL,direct,1.0
+5PZK_1,3FQL,inner protein,ok,28,37,33.0,7.71,True,33,0.317,9,0.0,,,5PZK,3FQL,direct,1.0
+5PZL_1,3FQL,inner protein,ok,33,37,33.0,7.71,True,33,0.448,9,0.0,,,5PZL,3FQL,direct,1.0
+5PZM_1,3FQL,inner protein,ok,27,37,33.0,7.71,True,33,0.368,9,0.0,,,5PZM,3FQL,direct,1.0
+5PZN_1,3FQL,inner protein,ok,34,37,33.0,7.71,True,33,0.308,9,0.0,,,5PZN,3FQL,direct,1.0
+5PZO_1,3FQL,inner protein,ok,38,37,33.0,7.71,True,33,0.29,11,0.0,,,5PZO,3FQL,direct,1.0
+5PZP_1,3FQL,inner protein,ok,38,37,33.0,7.71,True,33,0.309,11,0.0,,,5PZP,3FQL,direct,1.0
+5TRH_1,3FQL,inner protein,ok,23,37,33.0,7.71,True,33,0.321,8,0.0,,,5TRH,3FQL,direct,1.0
+5TRI_1,3FQL,inner protein,ok,24,37,33.0,7.71,True,33,0.316,8,0.0,,,5TRI,3FQL,direct,1.0
+5TRJ_1,3FQL,inner protein,ok,28,37,33.0,7.71,True,33,0.339,8,0.0,,,5TRJ,3FQL,direct,1.0
+5TRK_1,3FQL,inner protein,ok,34,37,33.0,7.71,True,33,0.393,10,0.0,,,5TRK,3FQL,direct,1.0
+1HW5_1,3FWE,PPI interface,ok,16,26,,,True,24,0.242,4,0.312,,,1HW5,3FWE,direct,1.0
+1I5Z_1,3FWE,PPI interface,ok,16,26,,,True,20,0.263,5,0.438,,,1I5Z,3FWE,direct,1.0
+1I6X_1,3FWE,PPI interface,ok,18,26,,,True,24,0.274,5,0.389,,,1I6X,3FWE,direct,1.0
+1J59_1,3FWE,PPI interface,ok,15,26,,,True,24,0.226,5,0.467,,,1J59,3FWE,direct,1.0
+1LB2_1,3FWE,PPI interface,ok,16,26,,,True,24,0.242,5,0.312,,,1LB2,3FWE,direct,1.0
+1O3Q_1,3FWE,PPI interface,ok,14,26,,,True,20,0.222,5,0.357,,,1O3Q,3FWE,direct,1.0
+1O3R_1,3FWE,PPI interface,ok,16,26,,,True,24,0.242,5,0.312,,,1O3R,3FWE,direct,1.0
+1O3S_1,3FWE,PPI interface,ok,14,26,,,True,20,0.222,5,0.357,,,1O3S,3FWE,direct,1.0
+1O3T_1,3FWE,PPI interface,ok,13,26,,,True,20,0.312,5,0.462,,,1O3T,3FWE,direct,1.0
+1RUN_1,3FWE,PPI interface,ok,13,26,,,True,20,0.235,5,0.385,,,1RUN,3FWE,direct,1.0
+1RUO_1,3FWE,PPI interface,ok,16,26,,,True,20,0.263,5,0.438,,,1RUO,3FWE,direct,1.0
+1ZRC_1,3FWE,PPI interface,ok,15,26,,,True,20,0.278,5,0.467,,,1ZRC,3FWE,direct,1.0
+1ZRD_1,3FWE,PPI interface,ok,17,26,,,True,20,0.25,5,0.412,,,1ZRD,3FWE,direct,1.0
+1ZRE_1,3FWE,PPI interface,ok,18,26,,,True,24,0.274,5,0.389,,,1ZRE,3FWE,direct,1.0
+1ZRF_1,3FWE,PPI interface,ok,17,26,,,True,24,0.258,5,0.412,,,1ZRF,3FWE,direct,1.0
+2CGP_1,3FWE,PPI interface,ok,14,26,,,True,20,0.222,5,0.357,,,2CGP,3FWE,direct,1.0
+2GZW_1,3FWE,PPI interface,ok,17,26,,,True,24,0.258,5,0.412,,,2GZW,3FWE,direct,1.0
+3KCC_1,3FWE,PPI interface,ok,17,26,,,True,24,0.258,5,0.412,,,3KCC,3FWE,direct,1.0
+3N4M_1,3FWE,PPI interface,ok,16,26,,,True,24,0.242,5,0.312,,,3N4M,3FWE,direct,1.0
+3QOP_1,3FWE,PPI interface,ok,16,26,,,True,20,0.263,5,0.438,,,3QOP,3FWE,direct,1.0
+3RDI_1,3FWE,PPI interface,ok,15,26,,,True,20,0.278,5,0.467,,,3RDI,3FWE,direct,1.0
+3ROU_1,3FWE,PPI interface,ok,17,26,,,True,24,0.258,5,0.412,,,3ROU,3FWE,direct,1.0
+3RPQ_1,3FWE,PPI interface,ok,15,26,,,True,20,0.278,5,0.467,,,3RPQ,3FWE,direct,1.0
+3RYP_1,3FWE,PPI interface,ok,19,26,,,True,24,0.29,5,0.368,,,3RYP,3FWE,direct,1.0
+3RYR_1,3FWE,PPI interface,ok,16,26,,,True,20,0.263,5,0.438,,,3RYR,3FWE,direct,1.0
+4FT8_1,3FWE,PPI interface,ok,18,26,,,True,24,0.274,5,0.389,,,4FT8,3FWE,direct,1.0
+4HZF_1,3FWE,PPI interface,ok,18,26,,,True,24,0.274,5,0.389,,,4HZF,3FWE,aligned,1.0
+4I01_1,3FWE,PPI interface,ok,16,26,,,True,20,0.263,5,0.438,,,4I01,3FWE,aligned,1.0
+4I02_1,3FWE,PPI interface,ok,18,26,,,True,8,0.571,5,0.389,,,4I02,3FWE,aligned,1.0
+4I09_1,3FWE,PPI interface,ok,19,26,,,True,8,0.545,5,0.368,,,4I09,3FWE,aligned,1.0
+4I0A_1,3FWE,PPI interface,ok,19,26,,,True,24,0.29,5,0.368,,,4I0A,3FWE,aligned,1.0
+4I0B_1,3FWE,PPI interface,ok,18,26,,,True,24,0.274,5,0.389,,,4I0B,3FWE,aligned,1.0
+4R8H_1,3FWE,PPI interface,ok,3,26,,,True,20,0.1,3,1.0,,,4R8H,3FWE,aligned,1.0
+1CGP_1,3FWE,PPI interface,ok,18,26,,,True,24,0.274,5,0.389,,,1CGP,3FWE,direct,1.0
+1G6N_1,3FWE,PPI interface,ok,17,26,,,True,24,0.258,5,0.412,,,1G6N,3FWE,aligned,1.0
+3EK5_1,3EK6,PPI interface,ok,15,91,,,True,66,0.25,9,0.6,,,3EK5,3EK6,direct,1.0
+4ZJJ_1,3FXZ,allosteric position (unspecified),ok,30,18,8.0,5.52,True,8,0.167,5,0.0,,,4ZJJ,3FXZ,direct,1.0
+4ZJI_1,3FXZ,allosteric position (unspecified),ok,26,18,8.0,5.52,True,8,0.188,2,0.0,,,4ZJI,3FXZ,direct,1.0
+4ZLO_1,3FXZ,allosteric position (unspecified),ok,19,18,8.0,5.52,True,8,0.192,2,0.0,,,4ZLO,3FXZ,direct,1.0
+3C1N_1,3C1M,PPI interface,ok,10,132,,,True,4,0.467,3,0.7,,,3C1N,3C1M,direct,1.0
+5KKN_1,3GLK,PPI interface,ok,29,33,,,True,11,0.367,10,0.0,,,5KKN,3GLK,direct,1.0
+4FGT_1,3GH0,inner protein,ok,7,42,,,True,1,0.227,1,0.714,,,4FGT,3GH0,direct,1.0
+5X69_1,3GH0,inner protein,ok,8,42,,,False,4,0.091,2,0.375,,,5X69,3GH0,direct,1.0
+2ONB_1,3GH0,inner protein,ok,9,42,,,True,4,0.389,5,0.556,,,2ONB,3GH0,direct,1.0
+1CQP_1,3F74,inner protein,ok,9,9,,,False,5,0.059,1,0.0,,,1CQP,3F74,aligned,3.0
+3E2M_1,3F74,inner protein,ok,17,9,,,False,5,0.083,3,0.0,,,3E2M,3F74,aligned,3.0
+1XDD_1,3F74,inner protein,ok,15,9,,,True,5,0.333,2,0.0,,,1XDD,3F74,direct,3.0
+1XUO_1,3F74,inner protein,ok,13,9,,,True,5,0.222,3,0.0,,,1XUO,3F74,direct,3.0
+3BQM_1,3F74,inner protein,ok,15,9,,,False,4,0.048,3,0.0,,,3BQM,3F74,aligned,3.0
+3BQN_1,3F74,inner protein,ok,18,9,,,False,5,0.08,3,0.0,,,3BQN,3F74,aligned,3.0
+1XDG_1,3F74,inner protein,ok,10,9,,,False,1,0.0,0,0.0,,,1XDG,3F74,aligned,3.0
+3C31_1,3GBA,PPI interface,ok,3,24,,,True,9,0.333,1,0.0,,,3C31,3GBA,direct,1.0
+3C33_1,3GBA,PPI interface,ok,4,24,,,True,9,0.3,2,0.0,,,3C33,3GBA,direct,1.0
+3C34_1,3GBA,PPI interface,ok,3,24,,,True,9,0.333,1,0.0,,,3C34,3GBA,direct,1.0
+3C35_1,3GBA,PPI interface,ok,3,24,,,True,9,0.333,1,0.0,,,3C35,3GBA,direct,1.0
+3C36_1,3GBA,PPI interface,ok,3,24,,,True,9,0.333,1,0.0,,,3C36,3GBA,direct,1.0
+5MFQ_1,3GBA,PPI interface,ok,16,24,1.0,0.68,True,3,0.529,5,0.0,,,5MFQ,3GBA,aligned,1.0
+5MFV_1,3GBA,PPI interface,ok,16,24,1.0,0.68,True,3,0.529,5,0.0,,,5MFV,3GBA,aligned,1.0
+5MFW_1,3GBA,PPI interface,ok,11,24,1.0,0.68,True,3,0.235,5,0.0,,,5MFW,3GBA,aligned,1.0
+2D3U_1,3HHK,inner protein,ok,12,45,,,True,1,0.4,3,0.0,,,2D3U,3HHK,direct,1.0
+2D3Z_1,3HHK,inner protein,ok,13,45,,,True,1,0.44,3,0.0,,,2D3Z,3HHK,direct,1.0
+2D41_1,3HHK,inner protein,ok,14,45,,,True,1,0.423,3,0.0,,,2D41,3HHK,direct,1.0
+2FVC_1,3HHK,inner protein,ok,15,45,16.0,5.66,True,16,0.533,6,0.0,,,2FVC,3HHK,direct,1.0
+2QE2_1,3HHK,inner protein,ok,13,45,16.0,5.66,True,16,0.5,7,0.0,,,2QE2,3HHK,direct,1.0
+2QE5_1,3HHK,inner protein,ok,12,45,16.0,5.66,True,16,0.538,6,0.0,,,2QE5,3HHK,direct,1.0
+1BO5_1,3EZW,PPI interface,ok,5,128,,,False,127,0.038,1,0.6,,,1BO5,3EZW,direct,1.0
+3HFR_1,3IST,inner protein,ok,5,38,,,True,22,0.556,4,0.0,,,3HFR,3IST,direct,1.0
+5XE9_1,3K8U,inner protein,ok,16,7,,,False,7,0.048,1,0.0,,,5XE9,3K8U,direct,1.0
+3K5V_1,3KFA,inner protein,ok,17,19,,,True,14,0.824,4,0.0,,,3K5V,3KFA,aligned,1.0
+6HD6_1,3KFA,allosteric position (unspecified),ok,31,19,,,True,14,0.452,7,0.0,,,6HD6,3KFA,aligned,1.0
+3LA2_1,3LA7,PPI interface,ok,3,36,,,False,4,0.083,1,1.0,,,3LA2,3LA7,direct,1.0
+3LA3_1,3LA7,PPI interface,ok,3,36,,,False,4,0.083,1,1.0,,,3LA3,3LA7,direct,1.0
+3RSR_1,3K8T,PPI interface,ok,11,87,10.0,1.81,True,10,0.579,6,0.545,2.75,True,3RSR,3K8T,direct,1.0
+3S8B_1,3K8T,PPI interface,ok,8,87,10.0,1.81,True,10,0.421,4,0.5,2.75,True,3S8B,3K8T,direct,1.0
+3S8C_1,3K8T,PPI interface,ok,8,87,10.0,1.81,True,10,0.421,5,0.625,2.75,True,3S8C,3K8T,direct,1.0
+3TB9_1,3K8T,PPI interface,ok,7,87,10.0,1.81,True,10,0.368,4,0.571,2.75,True,3TB9,3K8T,direct,1.0
+4RQZ_2,3LGI,inner protein,ok,1,32,,,False,6,0.083,3,1.0,,,4RQZ,3LGI,direct,1.0
+4RQZ_3,3LGI,allosteric position (unspecified),ok,1,32,,,False,3,0.037,1,1.0,,,4RQZ,3LGI,direct,1.0
+3CQD_1,3N1C,PPI interface,ok,9,81,14.0,1.76,True,74,0.148,10,0.667,2.58,True,3CQD,3N1C,direct,1.0
+3UMO_1,3N1C,PPI interface,ok,9,81,14.0,1.76,True,74,0.148,10,0.667,2.58,True,3UMO,3N1C,direct,1.0
+1VM1_1,3N4I,inner protein,ok,14,20,,,True,17,0.4,2,0.0,,,1VM1,3N4I,direct,1.0
+4OTJ_1,3NT1,allosteric position (unspecified),ok,11,64,,,True,23,0.2,2,0.0,,,4OTJ,3NT1,direct,1.0
+4RUT_1,3NT1,inner protein,ok,33,64,17.0,4.37,True,17,0.488,7,0.0,12.29,False,4RUT,3NT1,direct,1.0
+3QH0_1,3NT1,inner protein,ok,14,64,17.0,4.37,True,17,0.406,5,0.0,12.29,False,3QH0,3NT1,direct,1.0
+4N7M_1,3OD5,PPI interface,ok,3,14,,,False,1,0.0,0,0.0,,,4N7M,3OD5,direct,1.0
+4NBL_1,3OD5,PPI interface,ok,7,14,,,False,2,0.053,1,0.0,,,4NBL,3OD5,aligned,1.0
+4N5D_1,3OD5,PPI interface,ok,4,14,,,True,2,0.133,1,0.0,,,4N5D,3OD5,direct,1.0
+4NBK_1,3OD5,PPI interface,ok,6,14,,,False,2,0.056,1,0.0,,,4NBK,3OD5,aligned,1.0
+4N6G_1,3OD5,PPI interface,ok,2,14,,,False,1,0.0,0,0.0,,,4N6G,3OD5,direct,1.0
+4N7J_1,3OD5,PPI interface,ok,4,14,,,False,1,0.0,0,0.0,,,4N7J,3OD5,direct,1.0
+4NBN_1,3OD5,PPI interface,ok,6,14,,,False,2,0.056,1,0.0,,,4NBN,3OD5,direct,1.0
+4FXO_1,3OD5,PPI interface,ok,3,14,,,True,5,0.286,2,0.0,,,4FXO,3OD5,direct,1.0
+5LVP_1,3NUU,allosteric position (unspecified),ok,1,26,,,True,23,0.125,3,0.0,,,5LVP,3NUU,direct,3.0
+3TUV_1,3P7L,inner protein,ok,9,144,,,True,55,0.583,5,0.0,,,3TUV,3P7L,direct,1.0
+3PJG_1,3PID,inner protein,ok,11,45,,,True,22,0.462,5,0.0,,,3PJG,3PID,direct,1.0
+3O8P_1,3OEF,inner protein,ok,11,19,,,True,2,0.353,4,0.0,,,3O8P,3OEF,direct,2.0
+3THO_1,3QF7,PPI interface,ok,17,32,21.0,3.48,True,21,0.556,6,0.0,25.51,False,3THO,3QF7,direct,1.0
+4KS0_1,3QV9,allosteric position (unspecified),ok,24,112,,,True,78,0.625,6,0.083,,,4KS0,3QV9,direct,1.0
+5V4X_1,3IDH,inner protein,ok,19,33,,,True,3,0.5,2,0.0,,,5V4X,3IDH,aligned,2.0
+4ISG_1,3IDH,inner protein,ok,14,33,,,True,3,0.423,2,0.0,,,4ISG,3IDH,aligned,2.0
+5V4W_1,3IDH,inner protein,ok,23,33,,,True,3,0.484,5,0.0,,,5V4W,3IDH,aligned,2.0
+4DCH_1,3IDH,inner protein,ok,12,33,,,True,3,0.346,2,0.0,,,4DCH,3IDH,aligned,2.0
+3PUO_1,3QZE,inner protein,ok,4,23,,,False,4,0.085,2,0.75,,,3PUO,3QZE,direct,1.0
+3TCE_1,3TAK,inner protein,ok,4,30,,,True,1,0.1,1,0.75,,,3TCE,3TAK,direct,1.0
+4KZT_1,3S6G,inner protein,ok,14,127,,,True,127,0.367,3,0.143,,,4KZT,3S6G,direct,1.0
+3HO8_1,3HBL,PPI interface,ok,23,326,,,True,77,0.241,17,0.522,,,3HO8,3HBL,direct,1.0
+4HNN_1,3TUU,inner protein,ok,6,58,,,False,1,0.093,1,0.833,,,4HNN,3TUU,direct,1.0
+3FUD_1,3U9W,PPI interface,ok,9,34,,,True,20,0.9,2,0.0,,,3FUD,3U9W,aligned,1.0
+3F48_1,3USP,inner protein,ok,10,35,2.0,1.63,True,3,0.6,4,0.0,,,3F48,3USP,direct,1.0
+3GNV_1,3TYQ,inner protein,ok,17,38,7.0,4.82,True,7,0.471,6,0.0,,,3GNV,3TYQ,direct,1.0
+3GNW_1,3TYQ,inner protein,ok,20,38,7.0,4.82,True,7,0.4,7,0.0,,,3GNW,3TYQ,direct,1.0
+3MWW_1,3TYQ,inner protein,ok,11,38,,,True,12,0.125,3,0.0,,,3MWW,3TYQ,direct,1.0
+4JTY_1,3TYQ,inner protein,ok,14,38,,,True,2,0.364,3,0.0,,,4JTY,3TYQ,direct,1.0
+4JTZ_1,3TYQ,inner protein,ok,14,38,,,True,2,0.364,3,0.0,,,4JTZ,3TYQ,direct,1.0
+4JU1_1,3TYQ,inner protein,ok,17,38,,,True,29,0.353,3,0.0,,,4JU1,3TYQ,direct,1.0
+4JU2_1,3TYQ,inner protein,ok,16,38,,,True,2,0.333,3,0.0,,,4JU2,3TYQ,direct,1.0
+4JVQ_1,3TYQ,inner protein,ok,14,38,,,True,2,0.364,3,0.0,,,4JVQ,3TYQ,direct,1.0
+5CZB_1,3TYQ,allosteric position (unspecified),ok,1,38,,,False,2,0.062,1,0.0,,,5CZB,3TYQ,direct,1.0
+4JJS_1,3TYQ,inner protein,ok,13,38,,,True,2,0.381,3,0.0,,,4JJS,3TYQ,direct,1.0
+4JJU_1,3TYQ,inner protein,ok,13,38,,,True,2,0.381,3,0.0,,,4JJU,3TYQ,direct,1.0
+4JTW_1,3TYQ,inner protein,ok,13,38,,,True,2,0.381,3,0.0,,,4JTW,3TYQ,direct,1.0
+1MHO_1,3RM1,inner protein,ok,5,16,,,False,1,0.0,0,0.0,,,1MHO,3RM1,aligned,1.0
+3H30_1,3WAR,inner protein,ok,9,22,,,True,5,0.5,2,0.0,,,3H30,3WAR,direct,1.0
+3MKS_1,3V7D,inner protein,ok,12,34,,,False,1,0.0,0,0.083,,,3MKS,3V7D,direct,1.0
+3X1M_1,3X1J,allosteric position (unspecified),ok,36,36,2.0,1.68,True,2,0.481,11,0.389,2.87,True,3X1M,3X1J,direct,1.0
+4RUK_1,3X1J,allosteric position (unspecified),ok,40,36,2.0,1.68,True,2,0.5,10,0.325,2.87,True,4RUK,3X1J,direct,1.0
+3ZFZ_2,3ZG5,inner protein,ok,17,43,22.0,1.74,True,22,0.526,8,0.353,1.49,True,3ZFZ,3ZG5,direct,1.0
+3ZG0_2,3ZG5,inner protein,ok,20,43,22.0,1.74,True,22,0.524,8,0.15,1.49,True,3ZG0,3ZG5,direct,1.0
+3WGG_1,3WG9,allosteric position (unspecified),ok,8,26,,,True,25,0.192,4,0.75,,,3WGG,3WG9,direct,1.0
+3ZL6_1,3ZOU,allosteric position (unspecified),ok,14,40,38.0,1.65,True,31,0.643,5,0.0,17.71,False,3ZL6,3ZOU,direct,1.0
+3ZZH_1,3ZZF,inner protein,ok,13,89,,,True,77,0.5,3,0.077,,,3ZZH,3ZZF,direct,1.0
+5W3Q_1,45PC,inner protein,ok,43,5,5.0,6.38,True,3,0.585,4,0.0,,,5W3Q,45PC,direct,1.0
+3HV8_1,4AFY,inner protein,ok,18,41,,,True,28,0.35,8,0.278,,,3HV8,4AFY,direct,1.0
+4AVB_1,4AVA,inner protein,ok,16,23,,,True,5,0.471,5,0.0,,,4AVB,4AVA,direct,1.0
+4AVC_1,4AVA,inner protein,ok,14,23,,,True,5,0.438,5,0.0,,,4AVC,4AVA,direct,1.0
+4A7W_1,4A7X,PPI interface,ok,11,26,,,False,18,0.056,1,0.273,,,4A7W,4A7X,direct,1.0
+4BXC_1,3ZGE,inner protein,ok,11,278,,,True,251,0.379,5,0.0,,,4BXC,3ZGE,direct,1.0
+4BXH_1,3ZGE,inner protein,ok,10,278,,,True,251,0.345,3,0.0,,,4BXH,3ZGE,direct,1.0
+3R6S_1,4BYY,PPI interface,ok,16,30,,,True,6,0.667,6,0.5,,,3R6S,4BYY,direct,1.0
+4BNV_1,4BNW,PPI interface,ok,20,66,,,True,2,0.95,6,0.8,,,4BNV,4BNW,direct,1.0
+4BNX_1,4BNW,PPI interface,ok,19,66,,,True,2,1.0,6,0.789,,,4BNX,4BNW,direct,1.0
+4BNY_1,4BNW,PPI interface,ok,19,66,,,True,2,0.9,6,0.789,,,4BNY,4BNW,direct,1.0
+4BNZ_1,4BNW,PPI interface,ok,14,66,,,True,2,0.737,6,0.714,,,4BNZ,4BNW,direct,1.0
+4BNT_1,4BNW,PPI interface,ok,12,66,,,True,2,0.632,5,0.667,,,4BNT,4BNW,direct,1.0
+4BNU_1,4BNW,PPI interface,ok,19,66,,,True,2,1.0,6,0.789,,,4BNU,4BNW,direct,1.0
+4BO0_1,4BNW,PPI interface,ok,18,66,,,True,2,0.85,5,0.778,,,4BO0,4BNW,direct,1.0
+4BO1_1,4BNW,PPI interface,ok,19,66,,,True,2,1.0,6,0.789,,,4BO1,4BNW,direct,1.0
+4BO2_1,4BNW,PPI interface,ok,19,66,,,True,2,1.0,6,0.789,,,4BO2,4BNW,direct,1.0
+4BO3_1,4BNW,PPI interface,ok,16,66,,,True,2,0.842,6,0.812,,,4BO3,4BNW,direct,1.0
+4BO4_1,4BNW,PPI interface,ok,16,66,,,True,2,0.75,5,0.812,,,4BO4,4BNW,direct,1.0
+4BO5_1,4BNW,PPI interface,ok,17,66,,,True,2,0.8,6,0.765,,,4BO5,4BNW,direct,1.0
+4BO6_1,4BNW,PPI interface,ok,16,66,,,True,2,0.842,5,0.75,,,4BO6,4BNW,direct,1.0
+4BO7_1,4BNW,PPI interface,ok,16,66,,,True,2,0.842,6,0.75,,,4BO7,4BNW,direct,1.0
+4BO8_1,4BNW,PPI interface,ok,17,66,,,True,2,0.895,6,0.824,,,4BO8,4BNW,direct,1.0
+4BO9_1,4BNW,PPI interface,ok,18,66,,,True,2,0.85,6,0.778,,,4BO9,4BNW,direct,1.0
+5MRD_1,4CT2,allosteric position (unspecified),ok,16,22,,,True,3,0.611,3,0.0,,,5MRD,4CT2,aligned,1.0
+4XX9_1,4CT2,allosteric position (unspecified),ok,16,22,9.0,4.34,True,3,0.611,3,0.0,,,4XX9,4CT2,aligned,1.0
+4AW0_1,4CT2,inner protein,ok,13,22,,,True,3,0.733,3,0.0,,,4AW0,4CT2,aligned,1.0
+4RQK_1,4CT2,allosteric position (unspecified),ok,19,22,9.0,4.34,True,3,0.6,4,0.0,,,4RQK,4CT2,aligned,1.0
+5LVL_1,4CT2,allosteric position (unspecified),ok,20,22,9.0,4.34,True,9,0.818,5,0.0,,,5LVL,4CT2,direct,1.0
+4RQV_1,4CT2,allosteric position (unspecified),ok,20,22,9.0,4.34,True,3,0.571,4,0.0,,,4RQV,4CT2,aligned,1.0
+3NAX_1,4CT2,inner protein,ok,24,22,9.0,4.34,True,9,0.375,6,0.0,,,3NAX,4CT2,direct,1.0
+5ACK_1,4CT2,allosteric position (unspecified),ok,18,22,9.0,4.34,True,3,0.55,4,0.0,,,5ACK,4CT2,aligned,1.0
+4AW1_1,4CT2,inner protein,ok,13,22,,,True,3,0.733,3,0.0,,,4AW1,4CT2,aligned,1.0
+3ORZ_1,4CT2,inner protein,ok,7,22,,,True,3,0.333,2,0.0,,,3ORZ,4CT2,aligned,1.0
+5LVN_1,4CT2,allosteric position (unspecified),ok,21,22,9.0,4.34,True,9,0.783,5,0.0,,,5LVN,4CT2,direct,1.0
+4CT1_1,4CT2,inner protein,ok,17,22,9.0,4.34,True,3,0.579,5,0.0,,,4CT1,4CT2,direct,1.0
+3ORX_1,4CT2,inner protein,ok,5,22,,,True,3,0.385,2,0.0,,,3ORX,4CT2,aligned,1.0
+3HRF_1,4CT2,inner protein,ok,11,22,,,True,3,0.714,3,0.0,,,3HRF,4CT2,aligned,1.0
+3OTU_1,4CT2,inner protein,ok,8,22,,,True,3,0.5,2,0.0,,,3OTU,4CT2,aligned,1.0
+5LVO_1,4CT2,allosteric position (unspecified),ok,17,22,9.0,4.34,True,3,0.5,3,0.0,,,5LVO,4CT2,aligned,1.0
+4A06_1,4CT2,inner protein,ok,7,22,,,True,3,0.429,2,0.0,,,4A06,4CT2,aligned,1.0
+4A07_1,4CT2,inner protein,ok,14,22,,,True,3,0.688,3,0.0,,,4A07,4CT2,aligned,1.0
+4CLW_1,4CLF,inner protein,ok,11,94,,,True,3,0.368,3,0.0,,,4CLW,4CLF,direct,1.0
+4OYO_1,4CLF,inner protein,ok,17,94,,,True,3,0.524,3,0.0,,,4OYO,4CLF,direct,1.0
+4OYB_1,4CLF,inner protein,ok,24,94,,,True,3,0.5,3,0.0,,,4OYB,4CLF,direct,1.0
+5IV4_1,4CLF,allosteric position (unspecified),ok,21,94,,,True,3,0.636,3,0.0,,,5IV4,4CLF,direct,1.0
+5D0R_1,4CLF,allosteric position (unspecified),ok,21,94,,,True,3,0.636,3,0.0,,,5D0R,4CLF,direct,1.0
+4OYP_1,4CLF,inner protein,ok,13,94,,,True,3,0.556,3,0.0,,,4OYP,4CLF,direct,1.0
+4OYZ_1,4CLF,inner protein,ok,12,94,,,True,3,0.5,3,0.0,,,4OYZ,4CLF,direct,1.0
+5IV3_1,4CLF,allosteric position (unspecified),ok,21,94,,,True,3,0.636,3,0.0,,,5IV3,4CLF,direct,1.0
+4OYA_1,4CLF,inner protein,ok,24,94,,,True,3,0.5,3,0.0,,,4OYA,4CLF,direct,1.0
+4OZ2_1,4CLF,inner protein,ok,19,94,,,True,88,0.571,3,0.0,,,4OZ2,4CLF,direct,1.0
+4OZ3_1,4CLF,inner protein,ok,19,94,,,True,3,0.619,3,0.0,,,4OZ3,4CLF,direct,1.0
+4CM2_1,4CLF,inner protein,ok,13,94,,,True,3,0.4,3,0.0,,,4CM2,4CLF,direct,1.0
+4OYI_1,4CLF,inner protein,ok,18,94,,,True,3,0.571,3,0.0,,,4OYI,4CLF,direct,1.0
+4CLY_1,4CLF,inner protein,ok,11,94,,,True,3,0.368,3,0.0,,,4CLY,4CLF,direct,1.0
+4CLL_1,4CLF,inner protein,ok,12,94,,,True,3,0.5,3,0.0,,,4CLL,4CLF,direct,1.0
+4OYM_1,4CLF,inner protein,ok,19,94,,,True,3,0.619,3,0.0,,,4OYM,4CLF,direct,1.0
+4DPQ_1,4DPP,inner protein,ok,6,60,,,True,1,0.238,3,0.833,,,4DPQ,4DPP,direct,1.0
+3KF0_1,4DQE,inner protein,ok,7,13,,,True,9,0.545,3,0.0,,,3KF0,4DQE,aligned,1.0
+3KFN_1,4DQE,inner protein,ok,7,13,,,True,9,0.545,3,0.0,,,3KFN,4DQE,aligned,1.0
+3KFR_1,4DQE,inner protein,ok,7,13,,,False,7,0.091,2,0.0,,,3KFR,4DQE,direct,1.0
+3KFS_1,4DQE,inner protein,ok,6,13,,,True,7,0.1,2,0.0,,,3KFS,4DQE,direct,1.0
+4EJ8_1,4DQE,inner protein,ok,6,13,,,True,7,0.1,2,0.0,,,4EJ8,4DQE,direct,1.0
+4EJD_1,4DQE,inner protein,ok,7,13,,,False,7,0.091,2,0.0,,,4EJD,4DQE,direct,1.0
+4EJK_1,4DQE,inner protein,ok,7,13,,,False,7,0.091,2,0.0,,,4EJK,4DQE,direct,1.0
+4EJL_1,4DQE,inner protein,ok,6,13,,,True,7,0.1,2,0.0,,,4EJL,4DQE,direct,1.0
+4K4Q_1,4DQE,inner protein,ok,5,13,,,False,3,0.071,1,0.0,,,4K4Q,4DQE,direct,1.0
+4K4R_1,4DQE,inner protein,ok,6,13,,,True,9,0.455,3,0.0,,,4K4R,4DQE,aligned,1.0
+4EAG_1,4EAI,inner protein,ok,18,35,7.0,0.95,True,7,0.7,5,0.0,20.3,False,4EAG,4EAI,direct,1.0
+4EAK_1,4EAI,inner protein,ok,17,35,7.0,0.95,True,7,0.737,5,0.0,20.3,False,4EAK,4EAI,direct,1.0
+4ETZ_1,4ETX,inner protein,ok,10,21,,,True,7,0.727,1,0.0,,,4ETZ,4ETX,direct,1.0
+4EU0_1,4ETX,inner protein,ok,9,21,,,True,7,0.8,1,0.0,,,4EU0,4ETX,direct,1.0
+4EUV_1,4ETX,inner protein,ok,9,21,,,True,7,0.8,1,0.0,,,4EUV,4ETX,direct,1.0
+4R5G_1,4F01,allosteric position (unspecified),ok,17,17,,,True,1,0.458,1,0.0,,,4R5G,4F01,direct,1.0
+3LSW_1,4F29,PPI interface,ok,7,36,,,True,33,0.25,7,0.429,,,3LSW,4F29,direct,1.0
+3LSX_1,4F29,PPI interface,ok,2,36,,,True,19,0.25,4,0.5,,,3LSX,4F29,direct,1.0
+3M3F_1,4F29,PPI interface,ok,11,36,,,True,33,0.267,8,0.545,,,3M3F,4F29,direct,1.0
+4I1R_1,3UOA,inner protein,ok,13,54,,,True,26,0.263,4,0.0,,,4I1R,3UOA,direct,2.0
+1CZA_1,4FOI,inner protein,ok,12,120,3.0,4.42,True,3,0.37,4,0.0,14.07,False,1CZA,4FOI,direct,1.0
+1QHA_1,4FOI,inner protein,ok,11,120,3.0,4.42,True,3,0.333,4,0.0,14.07,False,1QHA,4FOI,direct,1.0
+1HKB_1,4FOI,inner protein,ok,13,120,3.0,4.42,True,3,0.462,5,0.0,14.07,False,1HKB,4FOI,direct,1.0
+4OHF_1,4G63,PPI interface,ok,8,152,,,True,13,0.385,6,0.625,,,4OHF,4G63,direct,1.0
+4YW8_1,4GMU,allosteric position (unspecified),ok,17,47,2.0,4.24,True,2,0.149,5,0.0,,,4YW8,4GMU,direct,1.0
+4TME_1,4FDZ,allosteric position (unspecified),ok,4,41,,,False,1,0.0,0,0.5,,,4TME,4FDZ,direct,2.0
+5ON7_1,4GZC,PPI interface,ok,6,9,,,False,9,0.091,1,0.0,,,5ON7,4GZC,direct,1.0
+5ET8_1,4HE2,allosteric position (unspecified),ok,16,77,,,True,26,0.55,4,0.188,,,5ET8,4HE2,direct,1.0
+5JJR_1,4HHJ,allosteric position (unspecified),ok,27,47,,,True,6,0.6,7,0.0,,,5JJR,4HHJ,direct,1.0
+5JJS_1,4HHJ,allosteric position (unspecified),ok,26,47,,,True,6,0.516,7,0.0,,,5JJS,4HHJ,direct,1.0
+5I3P_1,4HHJ,allosteric position (unspecified),ok,27,47,,,True,6,0.5,8,0.0,,,5I3P,4HHJ,direct,1.0
+5I3Q_1,4HHJ,allosteric position (unspecified),ok,27,47,,,True,6,0.6,7,0.0,,,5I3Q,4HHJ,direct,1.0
+4HO2_1,4HO0,PPI interface,ok,10,21,,,True,12,0.588,3,0.0,,,4HO2,4HO0,direct,1.0
+4HO3_1,4HO0,PPI interface,ok,12,21,,,True,12,0.611,3,0.0,,,4HO3,4HO0,direct,1.0
+4HO6_1,4HO0,PPI interface,ok,12,21,,,True,12,0.611,3,0.0,,,4HO6,4HO0,direct,1.0
+3HQP_1,1PKL,inner protein,ok,15,133,,,True,1,0.393,5,0.133,,,3HQP,1PKL,direct,2.0
+4PFK_1,4I7E,PPI interface,ok,8,81,27.0,1.06,True,27,0.5,4,0.625,2.67,True,4PFK,4I7E,direct,1.0
+4I7W_1,4I7V,inner protein,ok,6,73,,,False,2,0.081,1,0.667,,,4I7W,4I7V,direct,1.0
+5ICN_1,4BKX,PPI interface,ok,13,69,,,True,41,0.471,6,0.385,,,5ICN,4BKX,direct,2.0
+3KJN_1,4JJ7,PPI interface,ok,9,18,,,True,14,0.455,5,0.667,,,3KJN,4JJ7,direct,1.0
+3KJQ_1,4JJ7,PPI interface,ok,9,18,,,True,14,0.231,6,0.889,,,3KJQ,4JJ7,direct,1.0
+3KJN_2,4JJ7,PPI interface,ok,8,18,1.0,1.14,True,1,0.5,4,0.0,13.41,False,3KJN,4JJ7,direct,1.0
+3KJQ_2,4JJ7,PPI interface,ok,7,18,1.0,1.14,True,1,0.545,3,0.0,13.41,False,3KJQ,4JJ7,direct,1.0
+1SHL_1,4JR2,PPI interface,ok,9,22,,,True,15,0.133,3,0.556,,,1SHL,4JR2,direct,1.0
+5V6U_1,4JR2,allosteric position (unspecified),ok,16,22,,,True,1,0.24,1,0.375,,,5V6U,4JR2,direct,1.0
+1SHJ_1,4JR2,PPI interface,ok,9,22,,,True,1,0.122,2,0.444,,,1SHJ,4JR2,direct,1.0
+5I56_1,4JWX,inner protein,ok,18,17,2.0,5.77,True,7,0.474,4,0.0,,,5I56,4JWX,direct,1.0
+5I58_1,4JWX,inner protein,ok,18,17,,,True,7,0.474,4,0.0,,,5I58,4JWX,direct,1.0
+5I59_1,4JWX,inner protein,ok,16,17,,,True,7,0.444,2,0.0,,,5I59,4JWX,direct,1.0
+5JTY_1,4JWX,inner protein,ok,18,17,,,True,7,0.474,4,0.0,,,5JTY,4JWX,direct,1.0
+4KGA_1,4K8Y,allosteric position (unspecified),ok,6,15,,,True,11,0.167,2,0.0,,,4KGA,4K8Y,direct,1.0
+4N9I_1,4N9H,PPI interface,ok,14,27,,,True,27,0.203,2,0.357,,,4N9I,4N9H,direct,1.0
+1PZO_1,4ID4,inner protein,ok,18,15,,,True,11,0.227,6,0.0,,,1PZO,4ID4,direct,1.0
+4NAK_1,4NAI,inner protein,ok,11,39,,,False,17,0.087,4,0.091,,,4NAK,4NAI,direct,1.0
+4NAL_1,4NAI,inner protein,ok,13,39,,,False,17,0.08,5,0.154,,,4NAL,4NAI,direct,1.0
+4NAN_1,4NAI,inner protein,ok,13,39,,,False,8,0.056,4,0.154,,,4NAN,4NAI,direct,1.0
+5MRM_1,4NAI,inner protein,ok,21,39,,,False,8,0.08,5,0.143,,,5MRM,4NAI,direct,1.0
+5MRO_1,4NAI,inner protein,ok,22,39,,,False,17,0.091,6,0.227,,,5MRO,4NAI,direct,1.0
+5MRP_1,4NAI,inner protein,ok,24,39,,,False,17,0.086,6,0.208,,,5MRP,4NAI,direct,1.0
+2YC3_1,4NAI,inner protein,ok,16,39,,,True,17,0.111,4,0.188,,,2YC3,4NAI,direct,1.0
+2YC5_1,4NAI,inner protein,ok,17,39,,,True,17,0.107,4,0.176,,,2YC5,4NAI,direct,1.0
+2YCM_1,4NAI,inner protein,ok,16,39,,,True,17,0.111,4,0.188,,,2YCM,4NAI,direct,1.0
+4OFG_1,4OFF,allosteric position (unspecified),ok,20,7,,,True,1,0.6,4,0.0,,,4OFG,4OFF,aligned,1.0
+4CLZ_1,4OYW,inner protein,ok,11,34,,,True,5,0.4,3,0.0,,,4CLZ,4OYW,direct,1.0
+4CLP_1,4OYW,inner protein,ok,13,34,,,True,5,0.438,4,0.0,,,4CLP,4OYW,direct,1.0
+4USW_1,4OYW,inner protein,ok,12,34,,,True,5,0.467,4,0.0,,,4USW,4OYW,direct,1.0
+4P9D_1,4P9E,PPI interface,ok,1,45,,,False,10,0.053,1,1.0,,,4P9D,4P9E,direct,1.0
+4P9D_2,4P9E,allosteric position (unspecified),ok,1,45,,,False,42,0.067,1,0.0,,,4P9D,4P9E,direct,1.0
+4MI4_1,4NCZ,allosteric position (unspecified),ok,10,104,,,True,94,0.122,6,0.5,,,4MI4,4NCZ,direct,1.0
+4R87_1,4NCZ,allosteric position (unspecified),ok,12,104,43.0,2.45,True,94,0.14,7,0.5,2.81,True,4R87,4NCZ,direct,1.0
+4JAF_1,4JAD,inner protein,ok,16,192,,,True,184,0.5,6,0.188,,,4JAF,4JAD,direct,1.0
+1NXG_1,4JAD,inner protein,ok,14,192,,,True,186,0.412,6,0.214,,,1NXG,4JAD,direct,1.0
+1OWB_1,4JAD,inner protein,ok,14,192,,,True,186,0.333,6,0.214,,,1OWB,4JAD,direct,1.0
+1Z2L_1,4PXD,inner protein,ok,6,48,6.0,0.48,True,6,0.385,2,0.667,2.75,True,1Z2L,4PXD,aligned,1.0
+5KWI_1,4QEK,allosteric position (unspecified),ok,11,14,,,True,9,0.286,1,0.0,,,5KWI,4QEK,direct,1.0
+5KWJ_1,4QEK,allosteric position (unspecified),ok,10,14,,,True,9,0.214,1,0.0,,,5KWJ,4QEK,direct,1.0
+1T4G_1,4QKQ,inner protein,ok,15,97,,,True,3,0.296,3,0.0,,,1T4G,4QKQ,direct,1.0
+2FPL_1,4QKQ,inner protein,ok,14,97,,,True,3,0.259,3,0.0,,,2FPL,4QKQ,direct,1.0
+2FPM_1,4QKQ,inner protein,ok,14,97,,,True,3,0.308,4,0.071,,,2FPM,4QKQ,direct,1.0
+2GDJ_1,4QKQ,inner protein,ok,15,97,,,True,3,0.296,3,0.0,,,2GDJ,4QKQ,direct,1.0
+3NTU_1,4QKQ,inner protein,ok,14,97,,,True,3,0.259,4,0.071,,,3NTU,4QKQ,direct,1.0
+3PHE_1,4TXS,inner protein,ok,17,41,,,True,1,0.233,5,0.0,,,3PHE,4TXS,direct,1.0
+5WDY_1,4PWN,inner protein,ok,27,18,,,True,6,0.296,7,0.0,,,5WDY,4PWN,direct,2.0
+5TF9_1,4PWN,inner protein,ok,27,18,,,True,6,0.296,7,0.0,,,5TF9,4PWN,direct,2.0
+4DN0_1,4DMZ,inner protein,ok,12,109,,,True,94,0.238,5,0.583,,,4DN0,4DMZ,direct,1.0
+4COJ_1,4U3E,allosteric position (unspecified),ok,15,81,,,True,33,0.36,6,0.533,,,4COJ,4U3E,direct,1.0
+3E2W_1,4WAM,inner protein,ok,5,34,,,True,5,0.167,2,0.8,,,3E2W,4WAM,aligned,1.0
+3E3F_1,4WAM,inner protein,ok,6,34,,,True,5,0.25,3,0.333,,,3E3F,4WAM,aligned,1.0
+3E3I_1,4WAM,inner protein,ok,8,34,,,True,10,0.154,2,0.25,,,3E3I,4WAM,aligned,1.0
+3E2A_1,4WAM,inner protein,ok,8,34,,,True,28,0.167,4,0.625,,,3E2A,4WAM,aligned,1.0
+2Y3B_1,4WWF,inner protein,ok,5,13,,,True,1,0.231,4,0.0,,,2Y3B,4WWF,aligned,1.0
+3EPV_1,4WWF,inner protein,ok,4,13,,,True,10,0.222,4,0.0,,,3EPV,4WWF,aligned,1.0
+4XZ2_1,4U1R,allosteric position (unspecified),ok,19,204,,,True,113,0.615,2,0.211,,,4XZ2,4U1R,direct,1.0
+3ZG1_1,4WWD,inner protein,ok,3,17,,,True,5,0.25,3,0.0,,,3ZG1,4WWD,direct,1.0
+2Y39_1,4WWD,inner protein,ok,5,17,,,True,14,0.3,3,0.0,,,2Y39,4WWD,direct,1.0
+5JA7_1,4X6H,allosteric position (unspecified),ok,10,15,,,True,14,0.333,4,0.0,,,5JA7,4X6H,aligned,1.0
+5J94_2,4X6H,inner protein,ok,14,15,,,True,14,0.429,5,0.0,,,5J94,4X6H,aligned,1.0
+4XCZ_1,4XD0,allosteric position (unspecified),ok,18,61,53.0,4.79,True,41,0.444,7,0.0,32.89,False,4XCZ,4XD0,direct,1.0
+4OP0_1,4XTV,inner protein,ok,42,13,1.0,0.88,True,1,0.628,6,0.0,,,4OP0,4XTV,direct,1.0
+1ZDQ_1,4YSE,inner protein,ok,10,51,,,True,3,0.2,4,0.0,,,1ZDQ,4YSE,direct,1.0
+1ZDS_1,4YSE,inner protein,ok,9,51,,,True,3,0.211,4,0.0,,,1ZDS,4YSE,direct,1.0
+2B08_1,4YSE,inner protein,ok,9,51,,,True,3,0.211,4,0.0,,,2B08,4YSE,direct,1.0
+4ZSI_1,4ZSB,allosteric position (unspecified),ok,24,27,,,True,10,0.4,8,0.167,,,4ZSI,4ZSB,direct,1.0
+4ZSI_2,4ZSB,allosteric position (unspecified),ok,26,27,,,True,10,0.423,8,0.154,,,4ZSI,4ZSB,direct,1.0
+4ZSK_1,4ZSB,allosteric position (unspecified),ok,25,27,,,True,10,0.385,8,0.12,,,4ZSK,4ZSB,direct,1.0
+4ZSK_2,4ZSB,allosteric position (unspecified),ok,27,27,,,True,10,0.357,9,0.148,,,4ZSK,4ZSB,direct,1.0
+4YI8_1,4YI9,allosteric position (unspecified),ok,12,15,,,True,13,0.158,2,0.0,,,4YI8,4YI9,direct,1.0
+4YI8_2,4YI9,allosteric position (unspecified),ok,11,15,,,True,7,0.333,2,0.0,,,4YI8,4YI9,direct,1.0
+4W9N_1,4W82,PPI interface,ok,10,34,,,True,5,0.211,3,0.5,,,4W9N,4W82,direct,2.0
+4IO8_1,5BN8,inner protein,ok,14,19,,,True,1,0.394,3,0.0,,,4IO8,5BN8,direct,1.0
+4ZSG_1,5BYZ,allosteric position (unspecified),ok,20,29,1.0,2.89,True,19,0.429,7,0.0,,,4ZSG,5BYZ,direct,1.0
+4ZSJ_1,5BYZ,allosteric position (unspecified),ok,19,29,1.0,2.89,True,19,0.45,7,0.0,,,4ZSJ,5BYZ,direct,1.0
+4ZSL_1,5BYZ,allosteric position (unspecified),ok,19,29,1.0,2.89,True,19,0.45,7,0.0,,,4ZSL,5BYZ,direct,1.0
+3LSF_1,4YU0,PPI interface,ok,5,20,,,True,2,0.273,3,0.0,,,3LSF,4YU0,aligned,2.0
+3LSF_2,4YU0,PPI interface,ok,2,20,,,True,19,0.111,2,0.0,,,3LSF,4YU0,direct,2.0
+3LSL_1,4YU0,PPI interface,ok,7,20,,,True,2,0.231,3,0.0,,,3LSL,4YU0,direct,2.0
+3LSL_2,4YU0,PPI interface,ok,2,20,,,True,19,0.111,2,0.0,,,3LSL,4YU0,direct,2.0
+3M3L_1,4YU0,PPI interface,ok,12,20,,,True,7,0.312,4,0.0,,,3M3L,4YU0,direct,2.0
+3H6V_1,4YU0,PPI interface,ok,9,20,,,True,7,0.8,3,0.0,,,3H6V,4YU0,aligned,2.0
+3IJO_1,4YU0,PPI interface,ok,12,20,,,True,7,0.5,5,0.0,,,3IJO,4YU0,direct,1.0
+3IJX_1,4YU0,PPI interface,ok,5,20,,,True,7,0.273,3,0.0,,,3IJX,4YU0,aligned,2.0
+1LBC_1,4YU0,PPI interface,ok,9,20,,,True,7,0.636,4,0.0,,,1LBC,4YU0,direct,2.0
+2AL4_1,4YU0,PPI interface,ok,8,20,,,True,7,0.417,3,0.0,,,2AL4,4YU0,direct,2.0
+2AL5_1,4YU0,PPI interface,ok,7,20,,,True,7,0.333,3,0.0,,,2AL5,4YU0,direct,2.0
+3TDJ_1,4YU0,PPI interface,ok,7,20,,,True,2,0.231,3,0.0,,,3TDJ,4YU0,aligned,2.0
+3TKD_1,4YU0,PPI interface,ok,10,20,,,True,7,0.583,4,0.0,,,3TKD,4YU0,direct,2.0
+4IY5_1,4YU0,PPI interface,ok,7,20,,,True,7,0.333,3,0.0,,,4IY5,4YU0,direct,2.0
+4LZ7_1,4YU0,PPI interface,ok,9,20,,,True,7,0.385,4,0.0,,,4LZ7,4YU0,aligned,2.0
+4LZ8_1,4YU0,PPI interface,ok,12,20,,,True,7,0.312,4,0.0,,,4LZ8,4YU0,aligned,2.0
+2XXI_1,4YU0,PPI interface,ok,11,20,,,True,7,0.333,4,0.0,,,2XXI,4YU0,direct,2.0
+3BBR_1,4YU0,PPI interface,ok,9,20,,,True,7,0.286,4,0.0,,,3BBR,4YU0,direct,2.0
+3H6T_1,4YU0,PPI interface,ok,9,20,,,True,7,0.636,4,0.0,,,3H6T,4YU0,direct,2.0
+2XX7_1,4YU0,PPI interface,ok,11,20,,,True,7,0.333,4,0.0,,,2XX7,4YU0,direct,2.0
+2XX8_1,4YU0,PPI interface,ok,10,20,,,True,7,0.267,4,0.0,,,2XX8,4YU0,direct,2.0
+2XX9_1,4YU0,PPI interface,ok,11,20,,,True,7,0.333,4,0.0,,,2XX9,4YU0,direct,2.0
+2XXH_1,4YU0,PPI interface,ok,11,20,,,True,7,0.333,4,0.0,,,2XXH,4YU0,direct,2.0
+5H08_1,5AWX,allosteric position (unspecified),ok,30,21,,,True,9,0.267,6,0.0,,,5H08,5AWX,direct,2.0
+3N5J_1,5CG5,inner protein,ok,7,50,,,True,32,0.429,5,0.0,,,3N5J,5CG5,direct,1.0
+4QXS_1,5CG5,allosteric position (unspecified),ok,19,50,20.0,3.9,True,32,0.524,5,0.0,3.53,True,4QXS,5CG5,direct,1.0
+3N45_1,5CG5,inner protein,ok,12,50,,,True,32,0.562,5,0.0,,,3N45,5CG5,direct,1.0
+5KSX_1,5CG5,allosteric position (unspecified),ok,11,50,,,True,19,0.545,3,0.0,,,5KSX,5CG5,direct,1.0
+3N1W_1,5CG5,inner protein,ok,8,50,,,True,32,0.5,5,0.0,,,3N1W,5CG5,direct,1.0
+5DJV_1,5CG5,allosteric position (unspecified),ok,1,50,,,True,30,0.143,2,0.0,,,5DJV,5CG5,direct,1.0
+5DIQ_1,5CG5,allosteric position (unspecified),ok,16,50,20.0,3.9,True,32,0.526,5,0.0,3.53,True,5DIQ,5CG5,direct,1.0
+5JUZ_1,5CG5,allosteric position (unspecified),ok,19,50,20.0,3.9,True,32,0.524,6,0.0,3.53,True,5JUZ,5CG5,direct,1.0
+3N5H_1,5CG5,inner protein,ok,11,50,,,True,32,0.5,6,0.0,,,3N5H,5CG5,direct,1.0
+4LPH_1,5CG5,allosteric position (unspecified),ok,14,50,20.0,3.9,True,32,0.588,5,0.0,3.53,True,4LPH,5CG5,direct,1.0
+5DJP_1,5CG5,allosteric position (unspecified),ok,15,50,20.0,3.9,True,32,0.474,5,0.0,3.53,True,5DJP,5CG5,direct,1.0
+5JV0_1,5CG5,allosteric position (unspecified),ok,19,50,,,True,32,0.391,6,0.0,,,5JV0,5CG5,direct,1.0
+5DJR_1,5CG5,allosteric position (unspecified),ok,16,50,20.0,3.9,True,32,0.526,5,0.0,3.53,True,5DJR,5CG5,direct,1.0
+3N49_1,5CG5,inner protein,ok,11,50,,,True,32,0.6,5,0.0,,,3N49,5CG5,direct,1.0
+5DGM_1,5CG5,allosteric position (unspecified),ok,11,50,,,True,32,0.333,4,0.0,,,5DGM,5CG5,direct,1.0
+5DGN_1,5CG5,allosteric position (unspecified),ok,18,50,20.0,3.9,True,32,0.632,5,0.0,3.53,True,5DGN,5CG5,direct,1.0
+5JV2_1,5CG5,allosteric position (unspecified),ok,15,50,20.0,3.9,True,32,0.556,5,0.0,3.53,True,5JV2,5CG5,direct,1.0
+3N1V_1,5CG5,inner protein,ok,10,50,,,True,32,0.533,5,0.0,,,3N1V,5CG5,direct,1.0
+5JV1_1,5CG5,allosteric position (unspecified),ok,23,50,20.0,3.9,True,32,0.333,6,0.0,3.53,True,5JV1,5CG5,direct,1.0
+3N46_1,5CG5,inner protein,ok,11,50,,,True,32,0.6,5,0.0,,,3N46,5CG5,direct,1.0
+3N3L_1,5CG5,inner protein,ok,9,50,,,True,32,0.571,5,0.0,,,3N3L,5CG5,direct,1.0
+5JA0_1,5CG5,allosteric position (unspecified),ok,26,50,20.0,3.9,True,32,0.345,5,0.0,3.53,True,5JA0,5CG5,direct,1.0
+3N6K_1,5CG5,inner protein,ok,10,50,,,True,32,0.643,5,0.0,,,3N6K,5CG5,direct,1.0
+4LPG_1,5CG5,allosteric position (unspecified),ok,15,50,20.0,3.9,True,32,0.556,5,0.0,3.53,True,4LPG,5CG5,direct,1.0
+4RXA_1,5CG5,allosteric position (unspecified),ok,25,50,20.0,3.9,True,32,0.226,6,0.0,3.53,True,4RXA,5CG5,direct,1.0
+5DED_1,5DEC,allosteric position (unspecified),ok,12,69,,,True,19,0.385,6,0.333,,,5DED,5DEC,direct,1.0
+3FYH_2,4DC9,inner protein,ok,2,98,,,True,29,0.2,2,0.0,,,3FYH,4DC9,direct,1.0
+1I6K_1,5DK4,inner protein,ok,24,47,9.0,3.57,True,1,0.514,6,0.0,6.11,False,1I6K,5DK4,direct,1.0
+1I6L_1,5DK4,inner protein,ok,25,47,9.0,3.57,True,1,0.543,6,0.0,6.11,False,1I6L,5DK4,direct,1.0
+1I6M_1,5DK4,inner protein,ok,25,47,9.0,3.57,True,1,0.543,6,0.0,6.11,False,1I6M,5DK4,direct,1.0
+2OV4_1,5DK4,inner protein,ok,21,47,9.0,3.57,True,9,0.455,7,0.0,6.11,False,2OV4,5DK4,direct,1.0
+3FHJ_1,5DK4,inner protein,ok,11,47,9.0,3.57,True,9,0.692,6,0.0,6.11,False,3FHJ,5DK4,direct,1.0
+3FI0_1,5DK4,inner protein,ok,10,47,9.0,3.57,True,9,0.615,6,0.0,6.11,False,3FI0,5DK4,direct,1.0
+5TKD_1,5C01,allosteric position (unspecified),ok,21,16,,,True,14,0.5,3,0.0,,,5TKD,5C01,direct,3.0
+2HA4_1,5DTI,inner protein,ok,6,50,,,True,41,0.353,2,0.0,,,2HA4,5DTI,direct,1.0
+2HA5_1,5DTI,inner protein,ok,4,50,,,True,41,0.235,2,0.0,,,2HA5,5DTI,direct,1.0
+2HA6_1,5DTI,inner protein,ok,11,50,,,True,41,0.4,2,0.0,,,2HA6,5DTI,direct,1.0
+2HA7_1,5DTI,inner protein,ok,5,50,,,True,41,0.294,2,0.0,,,2HA7,5DTI,direct,1.0
+1N5R_1,5DTI,inner protein,ok,6,50,,,True,41,0.353,3,0.0,,,1N5R,5DTI,direct,1.0
+2HA0_1,5DTI,inner protein,ok,5,50,,,True,41,0.294,2,0.0,,,2HA0,5DTI,direct,1.0
+2HA2_1,5DTI,inner protein,ok,10,50,,,True,41,0.421,2,0.0,,,2HA2,5DTI,direct,1.0
+2HA3_1,5DTI,inner protein,ok,5,50,,,True,41,0.294,2,0.0,,,2HA3,5DTI,direct,1.0
+1J07_1,5DTI,inner protein,ok,7,50,,,True,41,0.263,3,0.0,,,1J07,5DTI,direct,1.0
+1N5M_1,5DTI,inner protein,ok,5,50,,,True,41,0.294,2,0.0,,,1N5M,5DTI,direct,1.0
+5F6Y_1,5F6E,allosteric position (unspecified),ok,1,7,,,True,4,0.1,1,0.0,,,5F6Y,5F6E,direct,1.0
+5F6W_1,5F6E,allosteric position (unspecified),ok,1,7,,,True,4,0.1,1,0.0,,,5F6W,5F6E,direct,1.0
+3AUX_1,5DNY,PPI interface,ok,15,119,104.0,1.68,True,104,0.325,5,0.4,2.56,True,3AUX,5DNY,direct,1.0
+3AUY_1,5DNY,PPI interface,ok,17,119,104.0,1.68,True,104,0.341,5,0.471,2.56,True,3AUY,5DNY,direct,1.0
+5ET6_1,5ET5,allosteric position (unspecified),ok,1,67,,,False,1,0.0,0,0.0,,,5ET6,5ET5,direct,1.0
+3LLA_1,5E4H,inner protein,ok,9,14,,,True,11,0.778,2,0.0,,,3LLA,5E4H,direct,1.0
+3LMH_1,5E4H,inner protein,ok,9,14,,,True,11,0.778,2,0.0,,,3LMH,5E4H,direct,1.0
+3LMI_1,5E4H,inner protein,ok,9,14,,,True,11,0.778,2,0.0,,,3LMI,5E4H,direct,1.0
+3PDT_1,5E4H,inner protein,ok,9,14,,,True,11,0.778,2,0.0,,,3PDT,5E4H,direct,1.0
+3ZM9_1,5FTG,inner protein,ok,20,51,21.0,7.52,True,2,0.323,6,0.0,13.58,False,3ZM9,5FTG,direct,1.0
+5I2K_1,5H8F,allosteric position (unspecified),ok,1,36,,,False,1,0.029,1,1.0,,,5I2K,5H8F,direct,1.0
+4C8B_1,5AR2,allosteric position (unspecified),ok,32,43,,,True,43,0.526,7,0.031,,,4C8B,5AR2,direct,2.0
+3IFC_1,4HE0,inner protein,ok,12,77,,,True,74,0.333,2,0.167,,,3IFC,4HE0,aligned,3.0
+3IFA_1,4HE0,inner protein,ok,12,77,,,True,74,0.333,2,0.167,,,3IFA,4HE0,aligned,3.0
+6D20_1,5JFW,allosteric position (unspecified),ok,7,18,6.0,4.42,True,7,0.143,3,0.0,,,6D20,5JFW,direct,1.0
+6D1Z_1,5JFW,allosteric position (unspecified),ok,26,18,6.0,4.42,True,6,0.42,5,0.0,,,6D1Z,5JFW,aligned,1.0
+5H3Q_1,5JFW,allosteric position (unspecified),ok,27,18,6.0,4.42,True,6,0.5,5,0.0,,,5H3Q,5JFW,aligned,1.0
+2BU7_1,5J71,inner protein,ok,14,46,,,False,36,0.059,2,0.0,,,2BU7,5J71,aligned,1.0
+2BU6_1,5J71,inner protein,ok,11,46,,,True,18,0.786,1,0.0,,,2BU6,5J71,aligned,1.0
+2BU8_1,5J71,inner protein,ok,9,46,,,True,13,1.0,2,0.0,,,2BU8,5J71,aligned,1.0
+2BU5_1,5J71,inner protein,ok,9,46,,,True,18,0.643,1,0.0,,,2BU5,5J71,aligned,1.0
+2BU2_1,5J71,inner protein,ok,9,46,,,True,18,0.643,1,0.0,,,2BU2,5J71,aligned,1.0
+5T3N_1,5K8S,inner protein,ok,27,10,1.0,1.93,True,1,0.759,3,0.0,,,5T3N,5K8S,direct,1.0
+5JWC_1,5JWA,allosteric position (unspecified),ok,1,77,,,True,21,0.1,2,1.0,,,5JWC,5JWA,direct,1.0
+1Q3E_1,5KHH,inner protein,ok,14,68,4.0,1.07,True,4,0.722,5,0.0,4.42,True,1Q3E,5KHH,direct,1.0
+1Q43_1,5KHH,inner protein,ok,14,68,4.0,1.07,True,4,0.824,5,0.0,4.42,True,1Q43,5KHH,direct,1.0
+1Q5O_1,5KHH,inner protein,ok,13,68,4.0,1.07,True,4,0.765,5,0.0,4.42,True,1Q5O,5KHH,direct,1.0
+2Q0A_1,5KHH,inner protein,ok,14,68,4.0,1.07,True,4,0.722,5,0.0,4.42,True,2Q0A,5KHH,direct,1.0
+3BPZ_1,5KHH,inner protein,ok,16,68,4.0,1.07,True,4,0.941,5,0.0,4.42,True,3BPZ,5KHH,direct,1.0
+3ETQ_1,5KHH,inner protein,ok,15,68,4.0,1.07,True,4,0.882,4,0.0,4.42,True,3ETQ,5KHH,direct,1.0
+1HWY_1,5K12,PPI interface,ok,24,124,,,True,120,0.182,7,0.5,,,1HWY,5K12,aligned,1.0
+1NQT_1,5K12,PPI interface,ok,13,124,,,True,120,0.136,7,0.462,,,1NQT,5K12,aligned,1.0
+3ETD_1,5K12,PPI interface,ok,6,124,,,True,114,0.231,7,0.333,,,3ETD,5K12,direct,1.0
+3ETE_1,5K12,PPI interface,ok,9,124,,,True,7,0.333,8,1.0,,,3ETE,5K12,direct,1.0
+3ETG_1,5K12,PPI interface,ok,6,124,,,True,114,0.455,5,0.5,,,3ETG,5K12,direct,1.0
+6DHQ_1,5K12,PPI interface,ok,15,124,,,True,120,0.169,7,0.533,,,6DHQ,5K12,direct,1.0
+6DHM_2,5K12,PPI interface,ok,16,124,,,True,124,0.129,7,0.438,,,6DHM,5K12,aligned,1.0
+5IKP_1,5IKO,allosteric position (unspecified),ok,16,205,,,True,177,0.5,5,0.25,,,5IKP,5IKO,direct,1.0
+5Y66_1,5NAK,allosteric position (unspecified),ok,27,47,32.0,8.9,True,44,0.559,7,0.0,18.39,False,5Y66,5NAK,direct,1.0
+5NQB_1,5KKC,inner protein,ok,1,82,,,False,1,0.0,0,1.0,,,5NQB,5KKC,direct,1.0
+5NQQ_1,5KKC,inner protein,ok,19,82,42.0,6.76,True,5,0.371,5,0.368,3.12,True,5NQQ,5KKC,direct,1.0
+5NZK_1,5NZG,allosteric position (unspecified),ok,14,36,2.0,4.64,True,13,0.6,4,0.0,,,5NZK,5NZG,direct,1.0
+5NZL_1,5NZG,allosteric position (unspecified),ok,12,36,,,True,13,0.571,4,0.0,,,5NZL,5NZG,direct,1.0
+5NZM_1,5NZG,allosteric position (unspecified),ok,13,36,,,True,13,0.643,5,0.0,,,5NZM,5NZG,direct,1.0
+5OPM_1,5L50,allosteric position (unspecified),ok,16,150,,,True,3,0.379,7,0.25,,,5OPM,5L50,direct,1.0
+5OPK_1,5L50,allosteric position (unspecified),ok,10,150,,,True,106,0.25,3,0.0,,,5OPK,5L50,direct,1.0
+2JC9_1,5L50,inner protein,ok,7,150,,,True,64,0.4,5,0.0,,,2JC9,5L50,direct,1.0
+5OPK_2,5L50,allosteric position (unspecified),ok,16,150,,,True,3,0.379,7,0.25,,,5OPK,5L50,direct,1.0
+5OPM_2,5L50,allosteric position (unspecified),ok,5,150,,,False,1,0.0,0,0.0,,,5OPM,5L50,direct,1.0
+2JC9_2,5L50,PPI interface,ok,7,150,,,True,3,0.192,3,0.286,,,2JC9,5L50,direct,1.0
+2XCW_1,5L50,PPI interface,ok,8,150,,,True,3,0.231,5,0.375,,,2XCW,5L50,direct,1.0
+2XCV_1,5L50,PPI interface,ok,4,150,,,True,3,0.167,5,0.75,,,2XCV,5L50,direct,1.0
+2XJC_1,5L50,PPI interface,ok,10,150,,,True,3,0.36,5,0.4,,,2XJC,5L50,direct,1.0
+2XJD_1,5L50,PPI interface,ok,8,150,,,True,3,0.231,5,0.375,,,2XJD,5L50,direct,1.0
+4H4B_1,5L50,PPI interface,ok,8,150,,,True,3,0.143,3,0.125,,,4H4B,5L50,direct,1.0
+2XJE_1,5L50,PPI interface,ok,7,150,,,True,3,0.192,5,0.429,,,2XJE,5L50,direct,1.0
+2XJF_1,5L50,PPI interface,ok,5,150,,,True,3,0.208,5,0.6,,,2XJF,5L50,direct,1.0
+5OFU_1,5OEZ,inner protein,ok,20,77,,,True,14,0.5,7,0.2,,,5OFU,5OEZ,direct,1.0
+5L6V_1,5MNI,allosteric position (unspecified),ok,2,105,,,False,39,0.067,1,0.5,,,5L6V,5MNI,aligned,1.0
+4TQB_1,5T46,inner protein,ok,20,17,,,True,14,0.208,6,0.55,,,4TQB,5T46,direct,1.0
+4TQC_1,5T46,inner protein,ok,16,17,,,True,10,0.158,5,0.5,,,4TQC,5T46,direct,1.0
+4TPW_1,5T46,inner protein,ok,20,17,,,True,10,0.182,6,0.45,,,4TPW,5T46,direct,1.0
+2QV4_1,5U3A,inner protein,ok,6,23,,,False,9,0.087,1,0.0,,,2QV4,5U3A,direct,1.0
+3BAK_1,5U3A,inner protein,ok,7,23,,,True,9,0.13,1,0.0,,,3BAK,5U3A,aligned,1.0
+4GQQ_1,5U3A,inner protein,ok,7,23,,,True,20,0.167,2,0.0,,,4GQQ,5U3A,direct,1.0
+2QMK_1,5U3A,inner protein,ok,7,23,,,False,9,0.083,1,0.0,,,2QMK,5U3A,direct,1.0
+3BAJ_1,5U3A,inner protein,ok,7,23,,,False,9,0.083,1,0.0,,,3BAJ,5U3A,direct,1.0
+4GQQ_2,5U3A,inner protein,ok,9,23,,,True,12,0.727,3,0.0,,,4GQQ,5U3A,direct,1.0
+4GQQ_3,5U3A,inner protein,ok,5,23,,,False,1,0.0,0,0.0,,,4GQQ,5U3A,direct,1.0
+3BAY_1,5U3A,inner protein,ok,6,23,,,False,9,0.087,1,0.0,,,3BAY,5U3A,direct,1.0
+3BAI_1,5U3A,inner protein,ok,7,23,,,False,9,0.083,1,0.0,,,3BAI,5U3A,direct,1.0
+3IK6_1,5FTI,PPI interface,ok,9,24,,,True,7,0.188,10,0.889,,,3IK6,5FTI,aligned,2.0
+3IL1_1,5FTI,PPI interface,ok,9,24,,,True,7,0.188,10,0.778,,,3IL1,5FTI,aligned,2.0
+3ILT_1,5FTI,PPI interface,ok,10,24,,,True,21,0.5,9,0.6,,,3ILT,5FTI,aligned,3.0
+3ILU_1,5FTI,PPI interface,ok,7,24,,,True,21,0.25,8,0.714,,,3ILU,5FTI,aligned,3.0
+5N9T_1,5KYC,allosteric position (unspecified),ok,26,32,,,True,1,0.381,8,0.346,,,5N9T,5KYC,direct,2.0
+5N9R_1,5KYC,allosteric position (unspecified),ok,25,32,,,True,1,0.39,9,0.36,,,5N9R,5KYC,direct,2.0
+1NH8_1,5U99,inner protein,ok,5,88,,,True,8,0.333,2,0.6,,,1NH8,5U99,aligned,1.0
+5LHT_1,5U99,allosteric position (unspecified),ok,9,88,,,True,8,0.412,3,0.556,,,5LHT,5U99,direct,1.0
+5LHU_1,5U99,allosteric position (unspecified),ok,9,88,,,True,8,0.412,3,0.556,,,5LHU,5U99,direct,1.0
+1FTA_1,5PZR,inner protein,ok,15,102,54.0,5.82,True,16,0.778,4,0.267,2.77,True,1FTA,5PZR,direct,1.0
+5UXM_1,5UXN,allosteric position (unspecified),ok,20,91,83.0,9.81,True,1,0.235,5,0.45,2.69,True,5UXM,5UXN,direct,1.0
+1W0F_1,5VCC,inner protein,ok,6,64,,,True,11,0.556,3,0.0,,,1W0F,5VCC,direct,1.0
+1DVA_1,5PA9,PPI interface,ok,1,20,,,False,1,0.0,0,0.0,,,1DVA,5PA9,aligned,1.0
+6D7O_1,5WO7,allosteric position (unspecified),ok,17,52,,,True,30,0.524,8,0.0,,,6D7O,5WO7,direct,1.0
+5X13_1,5X12,allosteric position (unspecified),ok,3,31,,,True,1,0.143,2,0.667,,,5X13,5X12,direct,1.0
+5X14_1,5X12,allosteric position (unspecified),ok,15,31,,,True,1,0.44,6,0.533,,,5X14,5X12,direct,1.0
+5Y8T_1,5X12,allosteric position (unspecified),ok,13,31,,,True,1,0.478,6,0.538,,,5Y8T,5X12,direct,1.0
+5Z45_1,5YK9,allosteric position (unspecified),ok,7,13,,,True,11,0.545,3,0.0,,,5Z45,5YK9,direct,1.0
+5Z46_1,5YK9,allosteric position (unspecified),ok,7,13,,,True,11,0.545,3,0.0,,,5Z46,5YK9,direct,1.0
+5YBF_1,5ZG2,allosteric position (unspecified),ok,17,37,29.0,5.19,True,10,0.471,4,0.0,5.24,False,5YBF,5ZG2,direct,1.0
+3RNN_1,5ZG2,PPI interface,ok,17,37,9.0,4.43,True,9,0.304,8,0.0,17.18,False,3RNN,5ZG2,aligned,1.0
+3RN8_1,5ZG2,PPI interface,ok,21,37,10.0,3.83,True,9,0.36,6,0.0,17.03,False,3RN8,5ZG2,aligned,1.0
+2XHD_1,5ZG2,PPI interface,ok,23,37,9.0,4.43,True,10,0.348,8,0.0,17.18,False,2XHD,5ZG2,aligned,1.0
+5UE4_1,5UE3,allosteric position (unspecified),ok,2,13,,,False,2,0.053,2,0.0,,,5UE4,5UE3,direct,2.0
+5WSB_1,5WS8,allosteric position (unspecified),ok,8,127,20.0,2.3,True,20,0.444,4,0.125,2.88,True,5WSB,5WS8,direct,1.0
+5WSB_2,5WS9,allosteric position (unspecified),ok,31,122,1.0,0.85,True,1,0.71,3,0.097,3.57,True,5WSB,5WS9,direct,1.0
+6GG5_1,6B6U,allosteric position (unspecified),ok,22,60,,,True,27,0.323,7,0.0,,,6GG5,6B6U,direct,1.0
+4B2D_2,6B6U,inner protein,ok,15,60,,,True,48,0.45,6,0.0,,,4B2D,6B6U,direct,1.0
+3BJF_1,6B6U,inner protein,ok,17,60,,,True,48,0.409,6,0.0,,,3BJF,6B6U,direct,1.0
+3GR4_1,6B6U,inner protein,ok,16,60,,,True,48,0.429,6,0.0,,,3GR4,6B6U,direct,1.0
+4B2D_1,6B6U,inner protein,ok,11,60,,,True,35,0.636,4,0.0,,,4B2D,6B6U,direct,1.0
+3H6O_1,6B6U,inner protein,ok,15,60,,,True,48,0.45,6,0.0,,,3H6O,6B6U,direct,1.0
+6GG6_1,6B6U,allosteric position (unspecified),ok,19,60,,,True,35,0.368,7,0.0,,,6GG6,6B6U,direct,1.0
+4FXF_1,6B6U,inner protein,ok,16,60,,,True,48,0.429,6,0.0,,,4FXF,6B6U,direct,1.0
+6GG4_1,6B6U,allosteric position (unspecified),ok,21,60,,,True,27,0.333,7,0.0,,,6GG4,6B6U,direct,1.0
+1T5A_1,6B6U,inner protein,ok,14,60,,,True,48,0.474,6,0.0,,,1T5A,6B6U,direct,1.0
+3GQY_1,6B6U,inner protein,ok,16,60,,,True,48,0.429,6,0.0,,,3GQY,6B6U,direct,1.0
+4G1N_1,6B6U,PPI interface,ok,17,60,,,True,3,0.531,5,0.824,,,4G1N,6B6U,direct,1.0
+6BKY_1,6BKX,allosteric position (unspecified),ok,15,67,23.0,1.14,True,23,0.55,5,0.333,2.6,True,6BKY,6BKX,direct,1.0
+5L57_1,6BKX,allosteric position (unspecified),ok,23,67,,,True,17,0.24,9,0.217,,,5L57,6BKX,direct,1.0
+5LGE_1,6BKX,allosteric position (unspecified),ok,20,67,,,True,14,0.304,8,0.45,,,5LGE,6BKX,direct,1.0
+5SUN_1,6BKX,inner protein,ok,27,67,23.0,1.14,True,56,0.194,11,0.148,2.6,True,5SUN,6BKX,direct,1.0
+4UMX_1,6BKX,allosteric position (unspecified),ok,1,67,,,True,17,0.125,2,0.0,,,4UMX,6BKX,direct,1.0
+5DE1_1,6BKX,allosteric position (unspecified),ok,3,67,,,True,14,0.182,4,0.667,,,5DE1,6BKX,direct,1.0
+5L58_1,6BKX,allosteric position (unspecified),ok,24,67,,,True,56,0.214,10,0.208,,,5L58,6BKX,direct,1.0
+5TQH_1,6BKX,inner protein,ok,2,67,,,True,17,0.111,3,0.5,,,5TQH,6BKX,direct,1.0
+6B0Z_1,6BKX,allosteric position (unspecified),ok,3,67,,,True,14,0.182,4,0.667,,,6B0Z,6BKX,direct,1.0
+5SVF_1,6BKX,inner protein,ok,24,67,23.0,1.14,True,17,0.333,10,0.208,2.6,True,5SVF,6BKX,direct,1.0
+6BKZ_1,6BKX,allosteric position (unspecified),ok,6,67,,,True,14,0.231,4,0.833,,,6BKZ,6BKX,direct,1.0
+6CGL_1,6CGM,allosteric position (unspecified),ok,13,45,,,True,12,0.625,4,0.0,,,6CGL,6CGM,direct,1.0
+6CGN_1,6CGM,allosteric position (unspecified),ok,15,45,,,True,12,0.474,4,0.0,,,6CGN,6CGM,direct,1.0
+6BRK_1,6BRG,allosteric position (unspecified),ok,28,36,,,True,1,0.528,8,0.0,,,6BRK,6BRG,direct,1.0
+6BRH_1,6BRG,allosteric position (unspecified),ok,12,36,,,True,20,0.125,3,0.0,,,6BRH,6BRG,direct,1.0
+5CC9_1,6CW7,allosteric position (unspecified),ok,33,9,5.0,3.42,True,2,0.303,3,0.0,,,5CC9,6CW7,direct,1.0
+2FQQ_1,6BZ9,PPI interface,ok,5,17,,,True,4,0.231,1,1.0,,,2FQQ,6BZ9,direct,2.0
+3BRK_1,5W5T,inner protein,ok,5,109,,,True,99,0.158,2,0.0,,,3BRK,5W5T,aligned,1.0
+5W5R_1,5W5T,allosteric position (unspecified),ok,9,109,81.0,8.71,True,36,0.125,3,0.778,2.53,True,5W5R,5W5T,direct,1.0
+5BQ1_1,6D2M,allosteric position (unspecified),ok,20,13,,,True,12,0.13,1,0.0,,,5BQ1,6D2M,direct,1.0
+3VEY_1,6E0I,inner protein,ok,12,32,5.0,1.81,True,5,0.571,1,0.0,,,3VEY,6E0I,direct,1.0
+3GOI_1,6E0I,inner protein,ok,12,32,5.0,1.81,True,5,0.571,1,0.0,,,3GOI,6E0I,direct,1.0
+3VEV_1,6E0I,inner protein,ok,17,32,5.0,1.81,True,5,0.81,2,0.0,,,3VEV,6E0I,direct,1.0
+4NO7_1,6E0I,inner protein,ok,25,32,5.0,1.81,True,5,0.84,3,0.0,,,4NO7,6E0I,direct,1.0
+1V4S_1,6E0I,inner protein,ok,14,32,5.0,1.81,True,5,0.667,1,0.0,,,1V4S,6E0I,direct,1.0
+3VF6_1,6E0I,inner protein,ok,16,32,5.0,1.81,True,5,0.762,1,0.0,,,3VF6,6E0I,direct,1.0
+4MLE_1,6E0I,inner protein,ok,13,32,5.0,1.81,True,5,0.619,1,0.0,,,4MLE,6E0I,direct,1.0
+4MLH_1,6E0I,inner protein,ok,13,32,5.0,1.81,True,5,0.619,2,0.0,,,4MLH,6E0I,direct,1.0
+4IWV_1,6E0I,inner protein,ok,18,32,5.0,1.81,True,5,0.857,1,0.0,,,4IWV,6E0I,aligned,1.0
+3ID8_1,6E0I,inner protein,ok,16,32,5.0,1.81,True,5,0.762,2,0.0,,,3ID8,6E0I,direct,1.0
+3A0I_1,6E0I,inner protein,ok,18,32,5.0,1.81,True,5,0.773,3,0.0,,,3A0I,6E0I,aligned,1.0
+3FR0_1,6E0I,inner protein,ok,13,32,5.0,1.81,True,5,0.619,1,0.0,,,3FR0,6E0I,direct,1.0
+3IMX_1,6E0I,inner protein,ok,19,32,5.0,1.81,True,5,0.739,1,0.0,,,3IMX,6E0I,direct,1.0
+4DHY_1,6E0I,inner protein,ok,19,32,5.0,1.81,True,5,0.739,2,0.0,,,4DHY,6E0I,direct,1.0
+4IXC_1,6E0I,inner protein,ok,16,32,5.0,1.81,True,5,0.762,1,0.0,,,4IXC,6E0I,aligned,1.0
+4ISF_1,6E0I,inner protein,ok,13,32,5.0,1.81,True,5,0.545,1,0.0,,,4ISF,6E0I,aligned,1.0
+3H1V_1,6E0I,inner protein,ok,17,32,5.0,1.81,True,5,0.727,2,0.0,,,3H1V,6E0I,aligned,1.0
+3F9M_1,6E0I,inner protein,ok,15,32,5.0,1.81,True,5,0.714,1,0.0,,,3F9M,6E0I,direct,1.0
+4L3Q_1,6E0I,inner protein,ok,13,32,5.0,1.81,True,5,0.619,2,0.0,,,4L3Q,6E0I,direct,1.0
+3S41_1,6E0I,inner protein,ok,19,32,5.0,1.81,True,5,0.739,2,0.0,,,3S41,6E0I,direct,1.0
+3HND_1,6AUI,PPI interface,ok,19,365,363.0,3.81,True,363,0.529,9,0.632,2.5,True,3HND,6AUI,direct,1.0
+3HNE_2,6AUI,PPI interface,ok,17,365,364.0,3.97,True,364,0.471,6,0.647,2.53,True,3HNE,6AUI,direct,1.0
+3HNF_1,6AUI,PPI interface,ok,14,365,364.0,3.97,True,364,0.382,5,0.643,2.53,True,3HNF,6AUI,direct,1.0
+3HNC_1,6AUI,PPI interface,ok,18,365,363.0,3.81,True,363,0.457,8,0.611,2.5,True,3HNC,6AUI,direct,1.0
+6CZM_1,6CZL,allosteric position (unspecified),ok,10,171,,,True,3,0.167,2,0.7,,,6CZM,6CZL,direct,1.0
+1ECB_1,6CZF,PPI interface,ok,15,124,,,True,121,0.175,3,0.667,,,1ECB,6CZF,direct,1.0
+5LRS_1,6EXM,allosteric position (unspecified),ok,27,31,17.0,1.59,True,17,0.618,9,0.259,3.49,True,5LRS,6EXM,direct,1.0
+3JPY_1,6E7R,PPI interface,ok,2,39,,,False,8,0.062,1,0.0,,,3JPY,6E7R,direct,1.0
+3QEL_1,6E7R,PPI interface,ok,15,39,39.0,2.59,True,39,0.25,3,0.733,2.85,True,3QEL,6E7R,direct,1.0
+3QEM_1,6E7R,PPI interface,ok,17,39,39.0,2.59,True,39,0.283,3,0.765,2.85,True,3QEM,6E7R,direct,1.0
+4MHD_1,6E1X,allosteric position (unspecified),ok,1,146,,,False,81,0.077,2,1.0,,,4MHD,6E1X,direct,1.0
+5IN4_1,6GPK,allosteric position (unspecified),ok,15,69,1.0,8.0,True,66,0.333,3,0.467,2.71,True,5IN4,6GPK,direct,1.0
+6FBA_1,6HL7,allosteric position (unspecified),ok,9,66,11.0,4.94,True,11,0.161,5,0.778,3.13,True,6FBA,6HL7,direct,1.0
+5Y2F_1,6HOY,allosteric position (unspecified),ok,15,17,1.0,5.63,True,8,0.273,4,0.0,,,5Y2F,6HOY,aligned,1.0
+5YVT_1,6L59,allosteric position (unspecified),ok,1,44,,,True,30,0.125,1,0.0,,,5YVT,6L59,direct,1.0
+2WGH_1,6L3R,PPI interface,ok,8,37,12.0,3.91,True,12,0.471,1,0.0,,,2WGH,6L3R,direct,1.0
+4QFY_1,6DWD,PPI interface,ok,10,120,115.0,4.85,True,115,0.333,6,0.8,2.69,True,4QFY,6DWD,direct,1.0
+4TNX_1,6DWD,allosteric position (unspecified),ok,6,120,115.0,4.85,True,89,0.111,8,1.0,2.69,True,4TNX,6DWD,direct,1.0
+4TNR_1,6DWD,allosteric position (unspecified),ok,2,120,33.0,15.2,False,1,0.012,1,0.5,2.69,True,4TNR,6DWD,direct,1.0
+4QFX_1,6DWD,PPI interface,ok,11,120,115.0,4.85,True,115,0.321,6,0.727,2.69,True,4QFX,6DWD,direct,1.0
+5AO2_1,6DWD,allosteric position (unspecified),ok,11,120,33.0,15.2,False,48,0.062,3,0.636,2.69,True,5AO2,6DWD,direct,1.0
+4QG0_1,6DWD,PPI interface,ok,10,120,115.0,4.85,True,115,0.333,6,0.8,2.69,True,4QG0,6DWD,direct,1.0
+4TNQ_1,6DWD,allosteric position (unspecified),ok,26,120,108.0,3.17,True,108,0.455,5,0.0,6.74,False,4TNQ,6DWD,direct,1.0
+5AO1_1,6DWD,allosteric position (unspecified),ok,10,120,33.0,15.2,False,48,0.065,3,0.6,2.69,True,5AO1,6DWD,direct,1.0
+4QFZ_1,6DWD,PPI interface,ok,11,120,115.0,4.85,True,115,0.321,6,0.727,2.69,True,4QFZ,6DWD,direct,1.0
+4TNP_1,6DWD,allosteric position (unspecified),ok,26,120,108.0,3.17,True,108,0.455,5,0.0,6.74,False,4TNP,6DWD,direct,1.0
+5KLG_1,6MWD,allosteric position (unspecified),ok,7,59,34.0,5.0,True,34,0.139,2,0.571,3.44,True,5KLG,6MWD,aligned,1.0
+5KLS_1,6MWD,allosteric position (unspecified),ok,4,59,34.0,5.0,True,34,0.118,1,0.75,3.44,True,5KLS,6MWD,aligned,1.0
+5KMD_1,6MWD,allosteric position (unspecified),ok,8,59,,,True,4,0.135,3,0.5,,,5KMD,6MWD,aligned,1.0
+5KMF_1,6MWD,allosteric position (unspecified),ok,1,59,42.0,12.47,False,42,0.091,1,0.0,6.83,False,5KMF,6MWD,aligned,1.0
+6BHV_1,6NRH,allosteric position (unspecified),ok,33,15,2.0,3.51,True,2,0.4,5,0.0,,,6BHV,6NRH,direct,1.0
+2YPO_1,6PBJ,PPI interface,ok,11,118,,,True,47,0.209,6,0.636,,,2YPO,6PBJ,direct,1.0
+2YPO_2,6PBJ,PPI interface,ok,1,118,,,True,12,0.111,3,1.0,,,2YPO,6PBJ,direct,1.0
+3KGF_1,6PBJ,inner protein,ok,11,118,,,True,47,0.209,6,0.636,,,3KGF,6PBJ,direct,1.0
+3KGF_2,6PBJ,PPI interface,ok,10,118,,,True,51,0.31,4,0.5,,,3KGF,6PBJ,direct,1.0
+3KGF_3,6PBJ,inner protein,ok,1,118,,,True,75,0.143,3,0.0,,,3KGF,6PBJ,direct,1.0
+3NUD_1,6PBJ,inner protein,ok,6,118,,,True,12,0.154,4,0.5,,,3NUD,6PBJ,direct,1.0
+3NUD_2,6PBJ,PPI interface,ok,1,118,,,True,12,0.111,3,1.0,,,3NUD,6PBJ,direct,1.0
+3NUD_3,6PBJ,inner protein,ok,1,118,,,True,75,0.143,3,0.0,,,3NUD,6PBJ,direct,1.0
+3NUE_1,6PBJ,inner protein,ok,9,118,,,True,51,0.276,4,0.556,,,3NUE,6PBJ,direct,1.0
+3NUE_2,6PBJ,inner protein,ok,1,118,,,True,97,0.1,1,1.0,,,3NUE,6PBJ,direct,1.0
+3RZI_1,6PBJ,inner protein,ok,10,118,,,True,47,0.214,4,0.6,,,3RZI,6PBJ,direct,1.0
+3RZI_2,6PBJ,PPI interface,ok,10,118,,,True,51,0.31,4,0.5,,,3RZI,6PBJ,direct,1.0
+5E7Z_1,6PBJ,allosteric position (unspecified),ok,18,118,,,True,51,0.484,6,0.444,,,5E7Z,6PBJ,direct,1.0
+5EX4_1,6PBJ,allosteric position (unspecified),ok,18,118,,,True,51,0.484,6,0.444,,,5EX4,6PBJ,direct,1.0
+5EX4_2,6PBJ,allosteric position (unspecified),ok,11,118,,,True,47,0.209,4,0.909,,,5EX4,6PBJ,direct,1.0
+5EX4_3,6PBJ,allosteric position (unspecified),ok,17,118,,,True,117,0.611,6,0.118,,,5EX4,6PBJ,direct,1.0
+2VGG_1,6NN5,inner protein,ok,17,117,,,True,97,0.789,4,0.059,,,2VGG,6NN5,aligned,1.0
+2VGI_1,6NN5,inner protein,ok,17,117,,,True,97,0.789,4,0.059,,,2VGI,6NN5,aligned,1.0
+2VGF_1,6NN5,inner protein,ok,16,117,,,True,97,0.833,4,0.062,,,2VGF,6NN5,aligned,1.0
+4IP7_1,6NN5,inner protein,ok,24,117,,,True,96,0.833,5,0.0,,,4IP7,6NN5,direct,1.0
+2VGB_1,6NN5,inner protein,ok,16,117,,,True,97,0.833,4,0.062,,,2VGB,6NN5,aligned,1.0
+1YGC_1,6R2W,inner protein,ok,17,39,3.0,3.99,True,3,0.667,4,0.0,12.46,False,1YGC,6R2W,aligned,1.0
+6IIK_1,6LVS,allosteric position (unspecified),ok,22,23,,,True,10,0.167,2,0.0,,,6IIK,6LVS,direct,2.0
+5L6S_1,6R8U,allosteric position (unspecified),ok,1,98,95.0,3.22,True,92,0.1,2,0.0,4.3,True,5L6S,6R8U,direct,1.0
+4WI1_1,6T7K,allosteric position (unspecified),ok,1,32,,,True,6,0.111,1,0.0,,,4WI1,6T7K,direct,1.0
+5IFU_1,6T7K,allosteric position (unspecified),ok,21,32,1.0,2.3,True,6,0.154,8,0.0,,,5IFU,6T7K,direct,1.0
+2UYM_1,6TLE,inner protein,ok,16,29,14.0,4.51,True,12,0.471,4,0.0,,,2UYM,6TLE,direct,1.0
+2UYI_1,6TLE,inner protein,ok,17,29,14.0,4.51,True,12,0.529,4,0.0,,,2UYI,6TLE,direct,1.0
+2WOG_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.692,4,0.0,,,2WOG,6TLE,direct,1.0
+2GM1_1,6TLE,inner protein,ok,17,29,14.0,4.51,True,12,0.529,5,0.0,,,2GM1,6TLE,direct,1.0
+4AS7_1,6TLE,inner protein,ok,16,29,14.0,4.51,True,12,0.562,5,0.0,,,4AS7,6TLE,direct,1.0
+4A51_1,6TLE,inner protein,ok,14,29,14.0,4.51,True,12,0.643,4,0.0,,,4A51,6TLE,direct,1.0
+4BXN_1,6TLE,inner protein,ok,18,29,14.0,4.51,True,12,0.5,6,0.0,,,4BXN,6TLE,direct,1.0
+2G1Q_1,6TLE,inner protein,ok,17,29,14.0,4.51,True,12,0.529,4,0.0,,,2G1Q,6TLE,direct,1.0
+3CJO_1,6TLE,inner protein,ok,15,29,14.0,4.51,True,12,0.6,3,0.0,,,3CJO,6TLE,direct,1.0
+4BBG_1,6TLE,inner protein,ok,14,29,14.0,4.51,True,12,0.643,5,0.0,,,4BBG,6TLE,direct,1.0
+2X7D_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.571,5,0.0,,,2X7D,6TLE,direct,1.0
+3KEN_1,6TLE,inner protein,ok,12,29,14.0,4.51,True,12,0.75,3,0.0,,,3KEN,6TLE,direct,1.0
+2FL2_1,6TLE,inner protein,ok,15,29,14.0,4.51,True,12,0.6,2,0.0,,,2FL2,6TLE,direct,1.0
+2X7E_1,6TLE,inner protein,ok,16,29,14.0,4.51,True,12,0.562,4,0.0,,,2X7E,6TLE,direct,1.0
+1Q0B_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.571,5,0.0,,,1Q0B,6TLE,direct,1.0
+2XAE_1,6TLE,inner protein,ok,14,29,14.0,4.51,True,12,0.643,4,0.0,,,2XAE,6TLE,direct,1.0
+2X2R_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.692,3,0.0,,,2X2R,6TLE,direct,1.0
+3K3B_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.467,4,0.0,,,3K3B,6TLE,direct,1.0
+2X7C_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.571,5,0.0,,,2X7C,6TLE,direct,1.0
+3L9H_1,6TLE,inner protein,ok,14,29,14.0,4.51,True,12,0.438,3,0.0,,,3L9H,6TLE,direct,1.0
+3K5E_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.571,5,0.0,,,3K5E,6TLE,direct,1.0
+4AP0_1,6TLE,inner protein,ok,17,29,14.0,4.51,True,12,0.529,5,0.0,,,4AP0,6TLE,direct,1.0
+2PG2_1,6TLE,inner protein,ok,15,29,14.0,4.51,True,12,0.5,4,0.0,,,2PG2,6TLE,direct,1.0
+2Q2Y_1,6TLE,inner protein,ok,15,29,14.0,4.51,True,12,0.6,3,0.0,,,2Q2Y,6TLE,direct,1.0
+2Q2Z_1,6TLE,inner protein,ok,15,29,14.0,4.51,True,12,0.6,3,0.0,,,2Q2Z,6TLE,direct,1.0
+1X88_1,6TLE,inner protein,ok,14,29,14.0,4.51,True,12,0.643,5,0.0,,,1X88,6TLE,direct,1.0
+1YRS_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.375,4,0.0,,,1YRS,6TLE,direct,1.0
+2IEH_1,6TLE,inner protein,ok,16,29,14.0,4.51,True,12,0.562,4,0.0,,,2IEH,6TLE,direct,1.0
+2FL6_1,6TLE,inner protein,ok,15,29,14.0,4.51,True,12,0.5,3,0.0,,,2FL6,6TLE,direct,1.0
+3ZCW_1,6TLE,inner protein,ok,19,29,,,True,4,0.276,4,0.0,,,3ZCW,6TLE,direct,1.0
+3ZCW_2,6TLE,inner protein,ok,18,29,,,True,26,0.182,4,0.0,,,3ZCW,6TLE,direct,1.0
+4A50_1,6TLE,inner protein,ok,13,29,14.0,4.51,True,12,0.571,3,0.0,,,4A50,6TLE,direct,1.0
+3WPN_1,6TLE,allosteric position (unspecified),ok,26,29,,,True,4,0.222,6,0.0,,,3WPN,6TLE,direct,1.0
+2FKY_1,6TLE,inner protein,ok,15,29,14.0,4.51,True,12,0.5,3,0.0,,,2FKY,6TLE,direct,1.0
+2XTA_1,6R29,inner protein,ok,12,111,,,True,92,0.3,5,0.0,,,2XTA,6R29,direct,1.0
+2Y0P_1,6R29,inner protein,ok,18,111,,,True,92,0.455,5,0.0,,,2Y0P,6R29,direct,1.0
+5LVX_1,6TN1,allosteric position (unspecified),ok,2,25,,,True,14,0.1,2,0.0,,,5LVX,6TN1,direct,1.0
+4PLE_1,6VC2,blank,ok,6,18,,,True,9,0.273,1,0.0,,,4PLE,6VC2,direct,1.0
+4TSX_1,6VKA,allosteric position (unspecified),ok,13,20,1.0,2.25,True,1,0.213,3,0.385,2.62,True,4TSX,6VKA,direct,1.0
+5DW0_1,6AM7,allosteric position (unspecified),ok,14,35,,,True,35,0.108,2,0.0,,,5DW0,6AM7,direct,1.0
+5OS5_1,6VPM,PPI interface,ok,12,34,,,False,28,0.067,3,0.25,,,5OS5,6VPM,direct,1.0
+5ORO_1,6VPM,PPI interface,ok,9,34,,,False,1,0.0,0,0.0,,,5ORO,6VPM,direct,1.0
+5OS3_1,6VPM,PPI interface,ok,10,34,,,True,21,0.125,3,0.1,,,5OS3,6VPM,direct,1.0
+5DR9_1,6VPM,PPI interface,ok,16,34,,,True,21,0.263,4,0.062,,,5DR9,6VPM,direct,1.0
+5DR6_1,6VPM,PPI interface,ok,15,34,,,True,21,0.211,3,0.067,,,5DR6,6VPM,direct,1.0
+5ORW_1,6VPM,PPI interface,ok,15,34,,,False,21,0.095,3,0.267,,,5ORW,6VPM,direct,1.0
+5ORP_1,6VPM,PPI interface,ok,9,34,28.0,6.31,False,28,0.023,1,0.0,5.57,False,5ORP,6VPM,direct,1.0
+5ORR_1,6VPM,PPI interface,ok,13,34,,,True,21,0.105,3,0.154,,,5ORR,6VPM,direct,1.0
+5OS2_1,6VPM,PPI interface,ok,11,34,,,False,28,0.068,3,0.182,,,5OS2,6VPM,direct,1.0
+5DR2_1,6VPM,PPI interface,ok,15,34,,,True,21,0.278,4,0.067,,,5DR2,6VPM,direct,1.0
+5OS4_1,6VPM,PPI interface,ok,13,34,,,False,28,0.089,3,0.231,,,5OS4,6VPM,direct,1.0
+5ORV_1,6VPM,PPI interface,ok,11,34,,,False,28,0.068,3,0.182,,,5ORV,6VPM,direct,1.0
+5OSD_1,6VPM,PPI interface,ok,10,34,,,False,1,0.0,0,0.0,,,5OSD,6VPM,direct,1.0
+5OBR_1,6VPM,PPI interface,ok,15,34,,,True,21,0.211,4,0.067,,,5OBR,6VPM,direct,1.0
+5OSE_1,6VPM,PPI interface,ok,10,34,,,False,1,0.0,0,0.0,,,5OSE,6VPM,direct,1.0
+5ORN_1,6VPM,PPI interface,ok,10,34,,,False,1,0.0,0,0.0,,,5ORN,6VPM,direct,1.0
+5DOS_1,6VPM,PPI interface,ok,17,34,,,True,21,0.25,4,0.059,,,5DOS,6VPM,direct,1.0
+5OSF_1,6VPM,PPI interface,ok,9,34,,,False,1,0.0,0,0.0,,,5OSF,6VPM,direct,1.0
+5OBJ_1,6VPM,PPI interface,ok,16,34,,,True,21,0.2,4,0.125,,,5OBJ,6VPM,direct,1.0
+5OS0_1,6VPM,PPI interface,ok,15,34,,,True,21,0.211,4,0.067,,,5OS0,6VPM,direct,1.0
+5ORS_1,6VPM,PPI interface,ok,13,34,,,True,21,0.167,3,0.154,,,5ORS,6VPM,direct,1.0
+5DN3_1,6VPM,allosteric position (unspecified),ok,16,34,,,True,21,0.263,4,0.062,,,5DN3,6VPM,direct,1.0
+5ORX_1,6VPM,PPI interface,ok,14,34,,,False,28,0.087,3,0.214,,,5ORX,6VPM,direct,1.0
+5ORL_1,6VPM,PPI interface,ok,4,34,,,True,12,0.1,2,0.25,,,5ORL,6VPM,direct,1.0
+5OS6_1,6VPM,PPI interface,ok,12,34,,,False,28,0.067,3,0.25,,,5OS6,6VPM,direct,1.0
+5DPV_1,6VPM,PPI interface,ok,16,34,,,True,21,0.2,3,0.062,,,5DPV,6VPM,direct,1.0
+5DT4_1,6VPM,PPI interface,ok,14,34,,,True,21,0.222,4,0.071,,,5DT4,6VPM,direct,1.0
+5ORT_1,6VPM,PPI interface,ok,14,34,,,False,28,0.087,3,0.214,,,5ORT,6VPM,direct,1.0
+5ORY_1,6VPM,PPI interface,ok,13,34,,,False,28,0.065,3,0.231,,,5ORY,6VPM,direct,1.0
+6NCJ_1,6WC8,allosteric position (unspecified),ok,14,20,1.0,0.51,True,1,0.435,3,0.357,2.81,True,6NCJ,6WC8,direct,1.0
+3DBA_1,6X88,inner protein,ok,19,55,,,True,2,0.762,7,0.0,,,3DBA,6X88,direct,1.0
+3O28_1,6YK4,PPI interface,ok,9,47,,,True,23,0.429,9,0.556,,,3O28,6YK4,direct,1.0
+3O29_1,6YK4,PPI interface,ok,11,47,,,True,11,0.4,12,0.545,,,3O29,6YK4,direct,1.0
+3H6W_1,6YK4,PPI interface,ok,9,47,,,True,11,0.583,10,0.556,,,3H6W,6YK4,direct,1.0
+3O2A_1,6YK4,PPI interface,ok,11,47,,,True,11,0.4,12,0.545,,,3O2A,6YK4,direct,1.0
+3O6G_1,6YK4,PPI interface,ok,11,47,,,True,11,0.4,12,0.545,,,3O6G,6YK4,direct,1.0
+3O6H_1,6YK4,PPI interface,ok,9,47,,,True,23,0.429,9,0.556,,,3O6H,6YK4,direct,1.0
+3O6I_1,6YK4,PPI interface,ok,9,47,,,True,23,0.429,9,0.556,,,3O6I,6YK4,direct,1.0
+3PMV_1,6YK4,PPI interface,ok,9,47,,,True,23,0.429,9,0.444,,,3PMV,6YK4,direct,1.0
+3PMW_1,6YK4,PPI interface,ok,10,47,,,True,23,0.4,10,0.6,,,3PMW,6YK4,direct,1.0
+3PMX_1,6YK4,PPI interface,ok,7,47,,,True,23,0.385,9,0.714,,,3PMX,6YK4,direct,1.0
+4FAT_1,6YK4,PPI interface,ok,9,47,,,True,23,0.429,9,0.556,,,4FAT,6YK4,direct,1.0
+4IY6_1,6YK4,PPI interface,ok,8,47,,,True,11,0.5,11,0.5,,,4IY6,6YK4,aligned,1.0
+4U4S_1,6YK4,allosteric position (unspecified),ok,8,47,,,True,19,0.118,1,0.0,,,4U4S,6YK4,aligned,1.0
+4U4X_1,6YK4,allosteric position (unspecified),ok,16,47,2.0,0.41,True,11,0.3,13,0.5,5.93,False,4U4X,6YK4,aligned,1.0
+4X48_1,6YK4,inner protein,ok,16,47,2.0,0.41,True,11,0.368,15,0.5,5.93,False,4X48,6YK4,aligned,1.0
+5BUU_1,6YK4,allosteric position (unspecified),ok,10,47,,,True,11,0.429,10,0.6,,,5BUU,6YK4,aligned,1.0
+4LZ5_1,6YK4,PPI interface,ok,10,47,,,True,11,0.429,11,0.5,,,4LZ5,6YK4,aligned,1.0
+4N07_1,6YK4,PPI interface,ok,8,47,,,True,11,0.5,9,0.625,,,4N07,6YK4,aligned,1.0
+5ELV_1,6YK4,allosteric position (unspecified),ok,15,47,2.0,0.41,True,23,0.3,12,0.467,5.93,False,5ELV,6YK4,direct,1.0
+5O9A_1,6YK4,inner protein,ok,11,47,2.0,0.41,True,23,0.375,9,0.455,5.93,False,5O9A,6YK4,direct,1.0
+5OEW_1,6YK4,allosteric position (unspecified),ok,16,47,2.0,0.41,True,11,0.3,13,0.5,5.93,False,5OEW,6YK4,direct,1.0
+3H6U_1,6YK4,PPI interface,ok,9,47,,,True,11,0.583,10,0.667,,,3H6U,6YK4,aligned,1.0
+4EBW_1,6YOJ,inner protein,ok,13,26,17.0,2.51,True,19,0.25,4,0.0,,,4EBW,6YOJ,direct,1.0
+4EBV_1,6YOJ,inner protein,ok,15,26,17.0,2.51,True,19,0.222,6,0.0,,,4EBV,6YOJ,direct,1.0
+4I4F_1,6YOJ,inner protein,ok,17,26,17.0,2.51,True,19,0.2,6,0.0,,,4I4F,6YOJ,direct,1.0
+5VYJ_1,6U2T,inner protein,ok,12,272,,,True,269,0.2,1,0.25,,,5VYJ,6U2T,aligned,1.0
+1FCJ_1,6Z4N,PPI interface,ok,4,30,,,False,2,0.031,1,1.0,,,1FCJ,6Z4N,direct,1.0
+2CLI_1,6XT0,inner protein,ok,17,70,3.0,3.92,True,3,0.429,2,0.235,4.63,False,2CLI,6XT0,direct,1.0
+2CLL_1,6XT0,inner protein,ok,19,70,3.0,3.92,True,3,0.486,2,0.263,4.63,False,2CLL,6XT0,direct,1.0
+4HN4_1,6XT0,inner protein,ok,19,70,3.0,3.92,True,3,0.444,2,0.211,4.63,False,4HN4,6XT0,direct,1.0
+4HPJ_1,6XT0,inner protein,ok,18,70,3.0,3.92,True,3,0.457,2,0.222,4.63,False,4HPJ,6XT0,direct,1.0
+4HPX_1,6XT0,inner protein,ok,18,70,3.0,3.92,True,3,0.457,2,0.222,4.63,False,4HPX,6XT0,direct,1.0
+4HT3_1,6XT0,inner protein,ok,19,70,3.0,3.92,True,3,0.486,2,0.263,4.63,False,4HT3,6XT0,direct,1.0
+6FMU_1,7B02,allosteric position (unspecified),ok,21,53,3.0,1.19,True,33,0.476,6,0.095,2.88,True,6FMU,7B02,direct,1.0
+6FMZ_1,7B02,allosteric position (unspecified),ok,63,53,3.0,1.19,True,3,0.657,10,0.159,2.88,True,6FMZ,7B02,direct,1.0
+2C4H_1,7AIS,inner protein,ok,5,59,1.0,1.59,True,25,0.167,3,0.0,22.47,False,2C4H,7AIS,direct,1.0
+2C58_1,7AIS,inner protein,ok,5,59,1.0,1.59,True,25,0.167,3,0.0,22.47,False,2C58,7AIS,direct,1.0
+2C5F_1,7AIS,inner protein,ok,5,59,1.0,1.59,True,25,0.167,3,0.0,22.47,False,2C5F,7AIS,direct,1.0
+2C5G_1,7AIS,inner protein,ok,3,59,1.0,1.59,True,25,0.2,3,0.0,22.47,False,2C5G,7AIS,direct,1.0
+2J3Q_1,7AIS,inner protein,ok,6,59,1.0,1.59,True,1,0.171,3,0.0,22.47,False,2J3Q,7AIS,direct,1.0
+3OS3_1,7B7R,inner protein,ok,19,15,15.0,6.56,True,15,0.358,2,0.0,,,3OS3,7B7R,direct,1.0
+3V01_1,7B7R,inner protein,ok,17,15,15.0,6.56,True,15,0.321,2,0.0,,,3V01,7B7R,direct,1.0
+3ORN_1,7B7R,inner protein,ok,20,15,15.0,6.56,True,15,0.377,1,0.0,,,3ORN,7B7R,direct,1.0
+3EQH_1,7B7R,inner protein,ok,18,15,15.0,6.56,True,15,0.34,1,0.0,,,3EQH,7B7R,direct,1.0
+2P55_1,7B7R,inner protein,ok,17,15,15.0,6.56,True,15,0.296,3,0.0,,,2P55,7B7R,direct,1.0
+3SLS_1,7B7R,inner protein,ok,14,15,15.0,6.56,True,15,0.264,2,0.0,,,3SLS,7B7R,direct,1.0
+3E8N_1,7B7R,inner protein,ok,16,15,15.0,6.56,True,15,0.302,1,0.0,,,3E8N,7B7R,direct,1.0
+4LMN_1,7B7R,inner protein,ok,15,15,15.0,6.56,True,15,0.283,1,0.0,,,4LMN,7B7R,direct,1.0
+4ANB_1,7B7R,inner protein,ok,16,15,15.0,6.56,True,15,0.302,2,0.0,,,4ANB,7B7R,direct,1.0
+3VVH_1,7B7R,inner protein,ok,18,15,15.0,6.56,True,15,0.34,2,0.0,,,3VVH,7B7R,direct,1.0
+4ARK_1,7B7R,inner protein,ok,14,15,15.0,6.56,True,15,0.264,1,0.0,,,4ARK,7B7R,direct,1.0
+4AN2_1,7B7R,inner protein,ok,18,15,15.0,6.56,True,15,0.315,2,0.0,,,4AN2,7B7R,direct,1.0
+3EQB_1,7B7R,inner protein,ok,15,15,15.0,6.56,True,15,0.283,2,0.0,,,3EQB,7B7R,direct,1.0
+4AN9_1,7B7R,inner protein,ok,14,15,15.0,6.56,True,15,0.264,1,0.0,,,4AN9,7B7R,direct,1.0
+3WIG_1,7B7R,inner protein,ok,19,15,15.0,6.56,True,15,0.333,2,0.0,,,3WIG,7B7R,aligned,1.0
+3DY7_1,7B7R,inner protein,ok,13,15,15.0,6.56,True,15,0.245,1,0.0,,,3DY7,7B7R,direct,1.0
+3V04_1,7B7R,inner protein,ok,17,15,15.0,6.56,True,15,0.321,2,0.0,,,3V04,7B7R,direct,1.0
+3EQG_1,7B7R,inner protein,ok,14,15,15.0,6.56,True,15,0.264,2,0.0,,,3EQG,7B7R,direct,1.0
+3PP1_1,7B7R,inner protein,ok,16,15,15.0,6.56,True,15,0.302,2,0.0,,,3PP1,7B7R,direct,1.0
+1S9J_1,7B7R,inner protein,ok,17,15,15.0,6.56,True,15,0.321,2,0.0,,,1S9J,7B7R,direct,1.0
+3EQC_1,7B7R,inner protein,ok,18,15,15.0,6.56,True,15,0.34,2,0.0,,,3EQC,7B7R,direct,1.0
+4AN3_1,7B7R,inner protein,ok,15,15,15.0,6.56,True,15,0.283,2,0.0,,,4AN3,7B7R,direct,1.0
+3DV3_1,7B7R,inner protein,ok,16,15,15.0,6.56,True,15,0.302,1,0.0,,,3DV3,7B7R,direct,1.0
+3NWY_1,7BES,PPI interface,ok,14,77,76.0,1.61,True,77,0.265,7,0.643,2.38,True,3NWY,7BES,direct,1.0
+1DP4_1,7BRI,inner protein,ok,10,62,,,True,7,0.111,1,0.0,,,1DP4,7BRI,direct,1.0
+1T34_1,7BRI,inner protein,ok,11,62,,,True,7,0.108,1,0.0,,,1T34,7BRI,direct,1.0
+3A3K_1,7BRI,inner protein,ok,10,62,,,True,7,0.111,1,0.0,,,3A3K,7BRI,direct,1.0
+1M83_1,7CMS,inner protein,ok,22,46,21.0,0.96,True,35,0.581,6,0.0,5.24,False,1M83,7CMS,direct,1.0
+1MAU_1,7CMS,inner protein,ok,22,46,21.0,0.96,True,35,0.581,6,0.0,5.24,False,1MAU,7CMS,direct,1.0
+1MAW_1,7CMS,inner protein,ok,12,46,,,True,35,0.393,2,0.0,,,1MAW,7CMS,direct,1.0
+5FM3_1,7DUA,allosteric position (unspecified),ok,23,46,36.0,1.52,True,36,0.741,5,0.0,4.74,False,5FM3,7DUA,direct,1.0
+5FM2_1,7DUA,allosteric position (unspecified),ok,23,46,36.0,1.52,True,36,0.808,5,0.043,4.74,False,5FM2,7DUA,direct,1.0
+5LU9_1,7FQI,allosteric position (unspecified),ok,1,10,,,True,2,0.1,1,0.0,,,5LU9,7FQI,direct,1.0
+5LUB_1,7FQI,allosteric position (unspecified),ok,15,10,2.0,19.05,False,1,0.0,0,0.0,,,5LUB,7FQI,direct,1.0
+5LUA_1,7FQI,allosteric position (unspecified),ok,15,10,2.0,19.05,False,1,0.0,0,0.0,,,5LUA,7FQI,direct,1.0
+5LU8_1,7FQI,allosteric position (unspecified),ok,1,10,,,False,1,0.0,0,0.0,,,5LU8,7FQI,direct,1.0
+5M0E_1,7G2W,allosteric position (unspecified),ok,32,58,9.0,4.44,True,9,0.568,6,0.0,,,5M0E,7G2W,direct,1.0
+5M0M_1,7G2W,allosteric position (unspecified),ok,34,58,51.0,3.62,True,9,0.578,6,0.0,,,5M0M,7G2W,direct,1.0
+5M0S_1,7G2W,allosteric position (unspecified),ok,30,58,51.0,3.62,True,9,0.558,6,0.0,,,5M0S,7G2W,direct,1.0
+5F1U_1,7KKG,allosteric position (unspecified),ok,17,70,1.0,3.8,True,1,0.387,6,0.588,2.56,True,5F1U,7KKG,aligned,1.0
+5F1V_1,7KKG,allosteric position (unspecified),ok,15,70,1.0,3.8,True,1,0.367,6,0.6,2.56,True,5F1V,7KKG,direct,1.0
+4M19_1,7KKD,inner protein,ok,6,91,91.0,1.95,True,91,0.333,5,0.667,2.42,True,4M19,7KKD,aligned,1.0
+4MLR_1,7KKD,inner protein,ok,6,91,91.0,1.95,True,91,0.333,5,0.667,2.42,True,4MLR,7KKD,aligned,1.0
+1BEU_1,7LKL,inner protein,ok,12,67,2.0,1.21,True,2,0.367,1,0.167,3.31,True,1BEU,7LKL,direct,1.0
+1FUY_1,7LKL,inner protein,ok,16,67,2.0,1.21,True,2,0.5,2,0.188,3.31,True,1FUY,7LKL,direct,1.0
+1K3U_1,7LKL,inner protein,ok,16,67,2.0,1.21,True,2,0.452,2,0.062,3.31,True,1K3U,7LKL,direct,1.0
+1K7E_1,7LKL,inner protein,ok,13,67,2.0,1.21,True,2,0.448,2,0.077,3.31,True,1K7E,7LKL,direct,1.0
+1K7F_1,7LKL,inner protein,ok,14,67,2.0,1.21,True,2,0.433,2,0.214,3.31,True,1K7F,7LKL,direct,1.0
+1K8Y_1,7LKL,inner protein,ok,10,67,2.0,1.21,True,2,0.3,1,0.0,3.31,True,1K8Y,7LKL,direct,1.0
+1K8Z_1,7LKL,inner protein,ok,12,67,2.0,1.21,True,2,0.414,2,0.167,3.31,True,1K8Z,7LKL,direct,1.0
+1KFB_1,7LKL,inner protein,ok,14,67,2.0,1.21,True,2,0.433,2,0.214,3.31,True,1KFB,7LKL,direct,1.0
+1KFC_1,7LKL,inner protein,ok,13,67,2.0,1.21,True,2,0.4,2,0.231,3.31,True,1KFC,7LKL,direct,1.0
+1TJP_1,7LKL,inner protein,ok,15,67,2.0,1.21,True,2,0.467,1,0.067,3.31,True,1TJP,7LKL,direct,1.0
+2CLE_1,7LKL,inner protein,ok,13,67,2.0,1.21,True,2,0.448,2,0.308,3.31,True,2CLE,7LKL,direct,1.0
+2CLF_1,7LKL,inner protein,ok,14,67,2.0,1.21,True,2,0.483,2,0.286,3.31,True,2CLF,7LKL,direct,1.0
+2CLH_1,7LKL,inner protein,ok,17,67,2.0,1.21,True,2,0.533,2,0.176,3.31,True,2CLH,7LKL,direct,1.0
+2CLK_1,7LKL,inner protein,ok,12,67,2.0,1.21,True,2,0.367,1,0.0,3.31,True,2CLK,7LKL,direct,1.0
+2CLM_1,7LKL,inner protein,ok,13,67,2.0,1.21,True,2,0.448,2,0.308,3.31,True,2CLM,7LKL,direct,1.0
+2CLO_1,7LKL,inner protein,ok,16,67,2.0,1.21,True,2,0.552,2,0.188,3.31,True,2CLO,7LKL,direct,1.0
+2J9X_1,7LKL,inner protein,ok,11,67,2.0,1.21,True,2,0.379,1,0.0,3.31,True,2J9X,7LKL,direct,1.0
+2RH9_1,7LKL,inner protein,ok,15,67,2.0,1.21,True,2,0.467,2,0.2,3.31,True,2RH9,7LKL,direct,1.0
+3CEP_1,7LKL,inner protein,ok,10,67,2.0,1.21,True,2,0.345,1,0.0,3.31,True,3CEP,7LKL,direct,1.0
+4KKX_1,7LKL,inner protein,ok,16,67,2.0,1.21,True,2,0.552,2,0.25,3.31,True,4KKX,7LKL,direct,1.0
+4WX2_1,7LKL,PPI interface,ok,36,67,4.0,3.27,True,4,0.347,9,0.278,9.93,False,4WX2,7LKL,direct,1.0
+2YN6_1,7L6Q,PPI interface,ok,2,105,,,True,39,0.143,4,0.5,,,2YN6,7L6Q,direct,1.0
+4RXR_1,7LTT,allosteric position (unspecified),ok,14,111,74.0,6.83,True,4,0.194,4,0.5,2.7,True,4RXR,7LTT,direct,1.0
+4QG2_1,7LTT,PPI interface,ok,11,111,46.0,3.61,True,46,0.5,5,0.727,2.78,True,4QG2,7LTT,direct,1.0
+4RXQ_1,7LTT,allosteric position (unspecified),ok,14,111,74.0,6.83,True,4,0.194,4,0.5,2.7,True,4RXQ,7LTT,direct,1.0
+4RXO_1,7LTT,allosteric position (unspecified),ok,21,111,74.0,6.83,True,46,0.321,7,0.667,2.7,True,4RXO,7LTT,direct,1.0
+4QG4_1,7LTT,PPI interface,ok,11,111,46.0,3.61,True,46,0.5,5,0.727,2.78,True,4QG4,7LTT,direct,1.0
+4RXP_1,7LTT,allosteric position (unspecified),ok,14,111,74.0,6.83,True,4,0.194,4,0.5,2.7,True,4RXP,7LTT,direct,1.0
+4RXS_1,7LTT,allosteric position (unspecified),ok,11,111,46.0,3.61,True,46,0.5,5,0.727,2.78,True,4RXS,7LTT,direct,1.0
+1B4D_1,7P7D,inner protein,ok,4,97,,,True,28,0.125,4,0.25,,,1B4D,7P7D,direct,1.0
+1C50_1,7P7D,inner protein,ok,9,97,,,True,5,0.107,4,0.444,,,1C50,7P7D,direct,1.0
+1C8K_1,7P7D,inner protein,ok,11,97,,,True,95,0.379,5,0.0,,,1C8K,7P7D,direct,1.0
+1C8L_1,7P7D,inner protein,ok,12,97,,,True,28,0.368,6,0.5,,,1C8L,7P7D,direct,1.0
+1GFZ_2,7P7D,inner protein,ok,6,97,,,True,95,0.207,2,0.0,,,1GFZ,7P7D,direct,1.0
+1GG8_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,1GG8,7P7D,direct,1.0
+1GPY_1,7P7D,inner protein,ok,10,97,,,True,47,0.368,4,0.4,,,1GPY,7P7D,direct,1.0
+1H5U_1,7P7D,inner protein,ok,10,97,,,True,5,0.103,4,0.4,,,1H5U,7P7D,direct,1.0
+1C8L_2,7P7D,inner protein,ok,8,97,,,True,95,0.276,2,0.0,,,1C8L,7P7D,direct,1.0
+1E1Y_1,7P7D,inner protein,ok,9,97,,,True,95,0.31,4,0.0,,,1E1Y,7P7D,direct,1.0
+1FTQ_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,1FTQ,7P7D,direct,1.0
+1GFZ_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,1GFZ,7P7D,direct,1.0
+1UZU_1,7P7D,inner protein,ok,8,97,,,True,95,0.276,2,0.0,,,1UZU,7P7D,direct,1.0
+1WUT_1,7P7D,inner protein,ok,7,97,,,True,28,0.4,4,0.714,,,1WUT,7P7D,direct,1.0
+1WUY_1,7P7D,inner protein,ok,7,97,,,True,28,0.4,4,0.714,,,1WUY,7P7D,direct,1.0
+1WV0_1,7P7D,inner protein,ok,7,97,,,True,28,0.4,4,0.714,,,1WV0,7P7D,direct,1.0
+1WV1_1,7P7D,inner protein,ok,7,97,,,True,28,0.4,4,0.714,,,1WV1,7P7D,direct,1.0
+1XKX_1,7P7D,inner protein,ok,7,97,,,True,5,0.115,3,0.571,,,1XKX,7P7D,direct,1.0
+1Z62_1,7P7D,inner protein,ok,11,97,,,True,28,0.316,5,0.455,,,1Z62,7P7D,direct,1.0
+1Z62_2,7P7D,inner protein,ok,8,97,,,True,95,0.276,4,0.0,,,1Z62,7P7D,direct,1.0
+1Z6P_1,7P7D,inner protein,ok,11,97,,,True,28,0.316,5,0.455,,,1Z6P,7P7D,direct,1.0
+1Z6Q_1,7P7D,inner protein,ok,12,97,,,True,28,0.368,5,0.417,,,1Z6Q,7P7D,direct,1.0
+2AMV_1,7P7D,inner protein,ok,12,97,,,True,28,0.368,6,0.5,,,2AMV,7P7D,direct,1.0
+2GJ4_1,7P7D,inner protein,ok,5,97,,,False,5,0.08,3,0.6,,,2GJ4,7P7D,direct,1.0
+2PRI_1,7P7D,inner protein,ok,9,97,,,True,28,0.353,4,0.333,,,2PRI,7P7D,direct,1.0
+2PRJ_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,2PRJ,7P7D,direct,1.0
+2QN1_1,7P7D,inner protein,ok,7,97,,,True,28,0.235,4,0.429,,,2QN1,7P7D,direct,1.0
+2QN2_1,7P7D,inner protein,ok,7,97,,,True,47,0.211,4,0.429,,,2QN2,7P7D,direct,1.0
+2QN7_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,2QN7,7P7D,direct,1.0
+2QN8_1,7P7D,inner protein,ok,9,97,,,True,5,0.107,4,0.444,,,2QN8,7P7D,direct,1.0
+2QN9_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,2QN9,7P7D,direct,1.0
+2QNB_1,7P7D,inner protein,ok,8,97,,,True,5,0.111,4,0.5,,,2QNB,7P7D,direct,1.0
+1K06_1,7P7D,inner protein,ok,8,97,,,True,5,0.111,4,0.5,,,1K06,7P7D,direct,1.0
+1K08_1,7P7D,inner protein,ok,8,97,,,True,5,0.111,4,0.5,,,1K08,7P7D,direct,1.0
+1LWO_1,7P7D,inner protein,ok,10,97,,,True,5,0.103,4,0.4,,,1LWO,7P7D,direct,1.0
+3BCR_1,7P7D,inner protein,ok,5,97,,,True,95,0.172,2,0.0,,,3BCR,7P7D,direct,1.0
+3BCU_1,7P7D,inner protein,ok,5,97,,,True,95,0.172,2,0.0,,,3BCU,7P7D,direct,1.0
+3BD6_1,7P7D,inner protein,ok,4,97,,,True,47,0.176,3,0.0,,,3BD6,7P7D,direct,1.0
+3BD7_1,7P7D,inner protein,ok,6,97,,,True,95,0.207,2,0.0,,,3BD7,7P7D,direct,1.0
+2SKC_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,2SKC,7P7D,direct,1.0
+2SKD_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,2SKD,7P7D,direct,1.0
+2SKE_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,2SKE,7P7D,direct,1.0
+3AMV_1,7P7D,inner protein,ok,13,97,,,True,47,0.381,6,0.462,,,3AMV,7P7D,direct,1.0
+3MRT_1,7P7D,inner protein,ok,11,97,,,True,5,0.179,5,0.364,,,3MRT,7P7D,direct,1.0
+3MRV_1,7P7D,inner protein,ok,11,97,,,True,5,0.179,5,0.364,,,3MRV,7P7D,direct,1.0
+3MRX_1,7P7D,inner protein,ok,11,97,,,True,5,0.138,5,0.364,,,3MRX,7P7D,direct,1.0
+3MS2_1,7P7D,inner protein,ok,12,97,,,True,5,0.172,5,0.333,,,3MS2,7P7D,direct,1.0
+3EBO_1,7P7D,inner protein,ok,9,97,,,True,95,0.31,4,0.0,,,3EBO,7P7D,direct,1.0
+3EBP_1,7P7D,inner protein,ok,9,97,,,True,95,0.31,4,0.0,,,3EBP,7P7D,direct,1.0
+3G2H_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,3G2H,7P7D,direct,1.0
+3MQF_1,7P7D,inner protein,ok,12,97,,,True,5,0.172,5,0.333,,,3MQF,7P7D,direct,1.0
+3MS4_1,7P7D,inner protein,ok,13,97,,,True,5,0.207,5,0.308,,,3MS4,7P7D,direct,1.0
+3MS7_1,7P7D,inner protein,ok,11,97,,,True,5,0.179,5,0.364,,,3MS7,7P7D,direct,1.0
+3MSC_1,7P7D,inner protein,ok,10,97,,,True,5,0.103,5,0.4,,,3MSC,7P7D,direct,1.0
+3MT7_1,7P7D,inner protein,ok,12,97,,,True,5,0.172,5,0.333,,,3MT7,7P7D,direct,1.0
+3MT8_1,7P7D,inner protein,ok,11,97,,,True,5,0.138,5,0.364,,,3MT8,7P7D,direct,1.0
+3MT9_1,7P7D,inner protein,ok,10,97,,,True,5,0.143,4,0.3,,,3MT9,7P7D,direct,1.0
+3MTA_1,7P7D,inner protein,ok,13,97,,,True,5,0.207,5,0.308,,,3MTA,7P7D,direct,1.0
+3MTB_1,7P7D,inner protein,ok,11,97,,,True,5,0.179,5,0.364,,,3MTB,7P7D,direct,1.0
+3MTD_1,7P7D,inner protein,ok,12,97,,,True,5,0.172,4,0.25,,,3MTD,7P7D,direct,1.0
+3NC4_1,7P7D,inner protein,ok,11,97,,,True,5,0.179,5,0.364,,,3NC4,7P7D,direct,1.0
+4MRA_1,7P7D,inner protein,ok,9,97,,,True,59,0.36,5,0.0,,,4MRA,7P7D,direct,1.0
+8GPB_1,7P7D,inner protein,ok,5,97,,,True,28,0.188,4,0.2,,,8GPB,7P7D,direct,1.0
+3BDA_1,7P7D,inner protein,ok,5,97,,,True,95,0.172,2,0.0,,,3BDA,7P7D,direct,1.0
+3CUW_1,7P7D,inner protein,ok,8,97,,,True,5,0.111,4,0.5,,,3CUW,7P7D,direct,1.0
+8GPB_2,7P7D,inner protein,ok,7,97,,,True,95,0.241,2,0.143,,,8GPB,7P7D,direct,1.0
+2GM9_1,7P7D,inner protein,ok,7,97,,,False,5,0.074,4,0.571,,,2GM9,7P7D,direct,1.0
+2OFF_1,7P7D,inner protein,ok,10,97,,,True,47,0.444,5,0.3,,,2OFF,7P7D,direct,1.0
+4TPT_1,7QHG,inner protein,ok,26,16,5.0,2.93,True,5,0.5,6,0.0,,,4TPT,7QHG,direct,1.0
+5UGH_1,7RWG,inner protein,ok,21,39,4.0,6.11,True,4,0.37,4,0.667,2.83,True,5UGH,7RWG,direct,1.0
+5KQD_1,7UE7,allosteric position (unspecified),ok,31,53,1.0,11.02,True,1,0.269,5,0.419,2.84,True,5KQD,7UE7,direct,1.0
+5IXE_1,7UZ1,allosteric position (unspecified),ok,18,24,2.0,3.93,True,2,0.2,2,0.0,,,5IXE,7UZ1,direct,1.0
+1E7C_2,7VR0,inner protein,ok,9,50,,,True,49,0.36,4,0.0,,,1E7C,7VR0,direct,1.0
+1E7B_1,7VR0,inner protein,ok,10,50,,,True,49,0.4,4,0.0,,,1E7B,7VR0,direct,1.0
+4BZC_1,6U6Z,PPI interface,ok,13,61,,,True,59,0.375,5,0.538,,,4BZC,6U6Z,direct,1.0
+4BZB_1,6U6Z,PPI interface,ok,10,61,,,True,3,0.238,6,0.5,,,4BZB,6U6Z,direct,1.0
+4MZ7_1,6U6Z,PPI interface,ok,16,61,,,True,59,0.286,7,0.562,,,4MZ7,6U6Z,direct,1.0
+5D41_1,8A27,allosteric position (unspecified),ok,27,15,15.0,8.24,True,15,0.364,3,0.0,,,5D41,8A27,direct,1.0
+3KC1_1,7WJV,inner protein,ok,15,95,46.0,4.57,True,46,0.444,5,0.267,2.73,True,3KC1,7WJV,direct,1.0
+2Y5L_1,7WJV,inner protein,ok,14,95,84.0,10.71,True,46,0.316,5,0.571,2.73,True,2Y5L,7WJV,direct,1.0
+2VT5_1,7WJV,inner protein,ok,13,95,46.0,4.57,True,46,0.333,5,0.538,2.73,True,2VT5,7WJV,direct,1.0
+2FIX_1,7WJV,inner protein,ok,17,95,84.0,10.71,True,46,0.4,5,0.412,2.73,True,2FIX,7WJV,direct,1.0
+2WBD_1,7WJV,inner protein,ok,15,95,84.0,10.71,True,46,0.368,5,0.533,2.73,True,2WBD,7WJV,direct,1.0
+2Y5K_1,7WJV,inner protein,ok,17,95,84.0,10.71,True,46,0.4,5,0.529,2.73,True,2Y5K,7WJV,direct,1.0
+2WBB_1,7WJV,inner protein,ok,14,95,84.0,10.71,True,46,0.316,5,0.571,2.73,True,2WBB,7WJV,direct,1.0
+3KBZ_1,7WJV,inner protein,ok,15,95,46.0,4.57,True,46,0.444,5,0.267,2.73,True,3KBZ,7WJV,direct,1.0
+2JJK_1,7WJV,inner protein,ok,27,95,84.0,10.71,True,46,0.267,6,0.444,2.73,True,2JJK,7WJV,direct,1.0
+3A29_1,7WJV,inner protein,ok,14,95,46.0,4.57,True,46,0.389,5,0.286,2.73,True,3A29,7WJV,direct,1.0
+2FHY_1,7WJV,inner protein,ok,16,95,84.0,10.71,True,46,0.421,5,0.5,2.73,True,2FHY,7WJV,direct,1.0
+2FIE_1,7WJV,inner protein,ok,19,95,84.0,10.71,True,46,0.364,5,0.474,2.73,True,2FIE,7WJV,direct,1.0
+3KC0_1,7WJV,inner protein,ok,13,95,46.0,4.57,True,46,0.412,4,0.308,2.73,True,3KC0,7WJV,direct,1.0
+4MJO_1,7WJV,inner protein,ok,15,95,84.0,10.71,True,46,0.368,5,0.467,2.73,True,4MJO,7WJV,direct,1.0
+3K8S_1,8BF1,inner protein,ok,12,20,,,True,11,0.333,5,0.0,,,3K8S,8BF1,direct,1.0
+3BEO_1,8AHE,inner protein,ok,24,49,,,True,32,0.259,6,0.083,,,3BEO,8AHE,direct,1.0
+4C7B_1,8CCW,inner protein,ok,11,18,,,True,18,0.222,3,0.091,,,4C7B,8CCW,direct,2.0
+2H08_1,8DBI,PPI interface,ok,7,168,123.0,4.95,True,61,0.417,6,0.857,2.48,True,2H08,8DBI,direct,1.0
+2H06_1,8DBI,PPI interface,ok,8,168,123.0,4.95,True,61,0.5,6,0.875,2.48,True,2H06,8DBI,direct,1.0
+2H07_1,8DBI,PPI interface,ok,8,168,123.0,4.95,True,61,0.5,6,0.875,2.48,True,2H07,8DBI,aligned,1.0
+3S5J_1,8DBI,PPI interface,ok,4,168,,,True,61,0.273,3,0.75,,,3S5J,8DBI,direct,1.0
+2HCR_1,8DBI,PPI interface,ok,8,168,123.0,4.95,True,61,0.5,6,0.875,2.48,True,2HCR,8DBI,direct,1.0
+1KFL_1,8E0S,PPI interface,ok,13,89,,,True,26,0.619,5,0.769,,,1KFL,8E0S,direct,1.0
+2YLO_1,8E1A,inner protein,ok,10,15,,,True,15,0.5,3,0.0,,,2YLO,8E1A,direct,1.0
+2PIW_1,8E1A,inner protein,ok,11,15,,,True,15,0.583,3,0.0,,,2PIW,8E1A,direct,1.0
+2YLP_1,8E1A,inner protein,ok,9,15,,,True,15,0.7,3,0.0,,,2YLP,8E1A,direct,1.0
+2PIQ_1,8E1A,PPI interface,ok,7,15,,,True,9,0.667,1,0.0,,,2PIQ,8E1A,direct,1.0
+2PIX_1,8E1A,inner protein,ok,8,15,,,True,15,0.778,3,0.0,,,2PIX,8E1A,direct,1.0
+2PIU_1,8E1A,inner protein,ok,8,15,,,True,15,0.6,3,0.0,,,2PIU,8E1A,direct,1.0
+2PIO_1,8E1A,PPI interface,ok,8,15,,,True,9,0.6,1,0.0,,,2PIO,8E1A,direct,1.0
+2YLQ_1,8E1A,inner protein,ok,10,15,,,True,15,0.636,4,0.0,,,2YLQ,8E1A,direct,1.0
+2PIU_2,8E1A,PPI interface,ok,9,15,,,True,9,0.7,2,0.0,,,2PIU,8E1A,direct,1.0
+2PIP_1,8E1A,PPI interface,ok,8,15,,,True,9,0.455,1,0.0,,,2PIP,8E1A,direct,1.0
+4HLW_1,8E1A,inner protein,ok,8,15,,,True,15,0.778,3,0.0,,,4HLW,8E1A,direct,1.0
+3ZQT_1,8E1A,inner protein,ok,8,15,,,True,15,1.0,3,0.0,,,3ZQT,8E1A,direct,1.0
+2PIO_2,8E1A,inner protein,ok,4,15,,,True,15,0.5,3,0.0,,,2PIO,8E1A,direct,1.0
+2YLP_2,8E1A,PPI interface,ok,9,15,,,True,9,0.417,1,0.0,,,2YLP,8E1A,direct,1.0
+2PIP_2,8E1A,inner protein,ok,6,15,,,True,15,0.75,3,0.0,,,2PIP,8E1A,direct,1.0
+2PKL_1,8E1A,inner protein,ok,9,15,,,True,15,0.545,3,0.0,,,2PKL,8E1A,direct,1.0
+4K7A_1,8E1A,inner protein,ok,3,15,,,True,11,0.125,3,0.0,,,4K7A,8E1A,direct,1.0
+2PIW_2,8E1A,PPI interface,ok,6,15,,,True,9,0.556,2,0.0,,,2PIW,8E1A,direct,1.0
+2PIV_1,8E1A,inner protein,ok,10,15,,,True,15,0.5,4,0.0,,,2PIV,8E1A,direct,1.0
+2PIT_1,8E1A,inner protein,ok,8,15,,,True,15,0.6,3,0.0,,,2PIT,8E1A,direct,1.0
+2YHD_1,8E1A,PPI interface,ok,8,15,,,True,9,0.455,1,0.0,,,2YHD,8E1A,direct,1.0
+5TKV_1,8FV9,allosteric position (unspecified),ok,21,111,,,True,54,0.2,1,0.0,,,5TKV,8FV9,direct,1.0
+5DL1_1,8E71,allosteric position (unspecified),ok,1,219,,,False,8,0.026,1,1.0,,,5DL1,8E71,direct,1.0
+5NGZ_1,8JUC,inner protein,ok,14,9,,,True,6,0.571,4,0.0,,,5NGZ,8JUC,direct,1.0
+5GRI_1,8GRG,allosteric position (unspecified),ok,16,42,,,True,40,0.389,10,0.062,,,5GRI,8GRG,aligned,1.0
+5GRE_1,8GRG,allosteric position (unspecified),ok,1,42,,,False,2,0.067,2,0.0,,,5GRE,8GRG,aligned,1.0
+5GRF_1,8GRG,allosteric position (unspecified),ok,16,42,,,True,40,0.389,10,0.062,,,5GRF,8GRG,aligned,1.0
+5N69_1,8QYR,inner protein,ok,23,49,49.0,3.37,True,49,0.5,6,0.0,,,5N69,8QYR,direct,1.0
+6FP4_1,8PDD,allosteric position (unspecified),ok,13,93,3.0,1.49,True,49,0.438,7,0.154,2.83,True,6FP4,8PDD,direct,1.0
+6FTC_1,8PDD,allosteric position (unspecified),ok,19,93,3.0,1.49,True,24,0.526,8,0.105,2.83,True,6FTC,8PDD,direct,1.0
+2O8C_1,8RZ9,inner protein,ok,14,60,2.0,0.55,True,2,0.325,2,0.429,2.45,True,2O8C,8RZ9,direct,1.0
+2O8F_1,8RZ9,inner protein,ok,12,60,2.0,0.55,True,2,0.275,2,0.333,2.45,True,2O8F,8RZ9,direct,1.0
+2O8B_1,8RZ9,inner protein,ok,13,60,2.0,0.55,True,2,0.333,2,0.308,2.45,True,2O8B,8RZ9,direct,1.0
+2O8E_1,8RZ9,inner protein,ok,14,60,2.0,0.55,True,2,0.325,2,0.357,2.45,True,2O8E,8RZ9,direct,1.0
+2O8D_1,8RZ9,inner protein,ok,13,60,2.0,0.55,True,2,0.3,2,0.308,2.45,True,2O8D,8RZ9,direct,1.0
+4QQN_1,8SHR,allosteric position (unspecified),ok,15,35,,,True,17,0.667,2,0.067,,,4QQN,8SHR,aligned,1.0
+4RYL_1,8SHR,allosteric position (unspecified),ok,17,35,,,True,17,0.588,3,0.176,,,4RYL,8SHR,aligned,1.0
+3SMQ_1,8SHR,inner protein,ok,11,35,,,True,17,0.75,1,0.091,,,3SMQ,8SHR,aligned,1.0
+4HSG_1,8SHR,inner protein,ok,11,35,,,True,17,0.75,1,0.091,,,4HSG,8SHR,aligned,1.0
+2JFZ_1,8TBA,inner protein,ok,13,35,1.0,8.05,True,3,0.125,6,0.0,3.38,True,2JFZ,8TBA,direct,1.0
+2W4I_1,8TBA,PPI interface,ok,15,35,4.0,0.51,True,1,0.467,5,0.8,3.31,True,2W4I,8TBA,direct,1.0
+4B1F_1,8TBA,inner protein,ok,14,35,1.0,8.05,True,33,0.16,6,0.0,3.38,True,4B1F,8TBA,direct,1.0
+2BBH_1,8SLB,inner protein,ok,6,39,,,True,11,0.154,3,0.5,,,2BBH,8SLB,direct,1.0
+2IUB_1,8SLB,inner protein,ok,6,39,,,True,11,0.25,3,0.5,,,2IUB,8SLB,direct,1.0
+4I0U_1,8SLB,inner protein,ok,5,39,,,True,25,0.182,1,0.0,,,4I0U,8SLB,direct,1.0
+3GLZ_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.75,2.77,True,3GLZ,8W45,direct,1.0
+4FI6_1,8W45,PPI interface,ok,10,36,1.0,3.19,True,31,0.3,4,0.6,2.77,True,4FI6,8W45,direct,1.0
+3CFT_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,1,0.231,2,0.5,2.77,True,3CFT,8W45,direct,1.0
+1Z7J_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.571,2.77,True,1Z7J,8W45,direct,1.0
+2B15_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.462,4,0.857,2.77,True,2B15,8W45,direct,1.0
+1F86_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.667,2.77,True,1F86,8W45,direct,1.0
+2G9K_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.462,4,0.714,2.77,True,2G9K,8W45,direct,1.0
+1DVS_1,8W45,PPI interface,ok,10,36,1.0,3.19,True,1,0.222,6,0.8,2.77,True,1DVS,8W45,direct,1.0
+4MAS_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,4MAS,8W45,direct,1.0
+3IMT_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.75,2.77,True,3IMT,8W45,direct,1.0
+1DVU_1,8W45,PPI interface,ok,10,36,10.0,3.22,True,31,0.238,4,0.5,2.76,True,1DVU,8W45,direct,1.0
+2ROX_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.667,2.77,True,2ROX,8W45,direct,1.0
+4L1T_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.267,4,0.714,2.77,True,4L1T,8W45,direct,1.0
+2QGC_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,2QGC,8W45,direct,1.0
+3TCT_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,3TCT,8W45,direct,1.0
+3P3T_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.4,4,0.667,2.77,True,3P3T,8W45,direct,1.0
+3CN2_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,1,0.308,4,0.8,2.77,True,3CN2,8W45,direct,1.0
+2F8I_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.667,2.77,True,2F8I,8W45,direct,1.0
+2ROY_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.312,4,0.778,2.77,True,2ROY,8W45,direct,1.0
+3P3S_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.75,2.77,True,3P3S,8W45,direct,1.0
+4I87_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,4,0.75,2.77,True,4I87,8W45,direct,1.0
+3GS4_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,1,0.231,3,1.0,2.77,True,3GS4,8W45,direct,1.0
+1THA_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.312,4,0.778,2.77,True,1THA,8W45,direct,1.0
+4IKK_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.4,6,0.778,2.77,True,4IKK,8W45,direct,1.0
+3OZK_1,8W45,PPI interface,ok,10,36,1.0,3.19,True,31,0.3,4,0.7,2.77,True,3OZK,8W45,direct,1.0
+4HJT_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.267,4,0.714,2.77,True,4HJT,8W45,direct,1.0
+4DEW_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.714,2.77,True,4DEW,8W45,direct,1.0
+4HJS_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.25,4,0.625,2.77,True,4HJS,8W45,direct,1.0
+4HIS_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,4HIS,8W45,direct,1.0
+2FBR_1,8W45,PPI interface,ok,12,36,1.0,3.19,True,1,0.263,6,0.667,2.77,True,2FBR,8W45,direct,1.0
+1BM7_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.312,4,0.667,2.77,True,1BM7,8W45,direct,1.0
+2B9A_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,1,0.333,4,1.0,2.77,True,2B9A,8W45,direct,1.0
+4L1S_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.833,2.77,True,4L1S,8W45,direct,1.0
+4FI7_1,8W45,PPI interface,ok,10,36,1.0,3.19,True,31,0.3,4,0.6,2.77,True,4FI7,8W45,direct,1.0
+1TYR_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,4,0.75,2.77,True,1TYR,8W45,direct,1.0
+2F7I_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.667,2.77,True,2F7I,8W45,direct,1.0
+3M1O_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,3M1O,8W45,direct,1.0
+3NG5_1,8W45,inner protein,ok,9,36,,,True,30,0.25,2,0.0,,,3NG5,8W45,direct,1.0
+2G5U_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.667,2.77,True,2G5U,8W45,direct,1.0
+3NEX_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.4,4,0.556,2.77,True,3NEX,8W45,direct,1.0
+1ETB_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,31,0.278,3,0.429,2.77,True,1ETB,8W45,aligned,1.0
+4ABQ_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,1.0,2.77,True,4ABQ,8W45,direct,1.0
+4ABU_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.833,2.77,True,4ABU,8W45,direct,1.0
+2FLM_1,8W45,PPI interface,ok,12,36,1.0,3.19,True,1,0.263,6,0.75,2.77,True,2FLM,8W45,direct,1.0
+4DET_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,1,0.308,4,0.8,2.77,True,4DET,8W45,direct,1.0
+4N87_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,1,0.308,4,0.8,2.77,True,4N87,8W45,direct,1.0
+4AC4_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,1,0.231,3,0.75,2.77,True,4AC4,8W45,direct,1.0
+4ABW_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.312,4,0.778,2.77,True,4ABW,8W45,direct,1.0
+3IMV_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,3IMV,8W45,direct,1.0
+3CFQ_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,4,0.75,2.77,True,3CFQ,8W45,direct,1.0
+4KY2_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.667,2.77,True,4KY2,8W45,direct,1.0
+1TLM_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.462,4,0.857,2.77,True,1TLM,8W45,direct,1.0
+1ETA_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,3,0.5,2.77,True,1ETA,8W45,direct,1.0
+3OZL_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,31,0.278,3,0.714,2.77,True,3OZL,8W45,direct,1.0
+2QGD_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.833,2.77,True,2QGD,8W45,direct,1.0
+3GS0_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.833,2.77,True,3GS0,8W45,direct,1.0
+4FI8_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.75,2.77,True,4FI8,8W45,direct,1.0
+3IMS_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.571,2.77,True,3IMS,8W45,direct,1.0
+4DER_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,1,0.308,4,0.8,2.77,True,4DER,8W45,direct,1.0
+3ESN_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,4,0.625,2.77,True,3ESN,8W45,direct,1.0
+1DVZ_1,8W45,PPI interface,ok,10,36,1.0,3.19,True,1,0.222,6,0.7,2.77,True,1DVZ,8W45,direct,1.0
+1U21_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.4,4,0.667,2.77,True,1U21,8W45,direct,1.0
+3IPB_1,8W45,PPI interface,ok,12,36,1.0,3.19,True,1,0.263,6,0.833,2.77,True,3IPB,8W45,direct,1.0
+4HJU_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,1,0.214,4,0.8,2.77,True,4HJU,8W45,direct,1.0
+2QGE_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,1,0.333,4,1.0,2.77,True,2QGE,8W45,direct,1.0
+3KGT_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.833,2.77,True,3KGT,8W45,direct,1.0
+1DVY_1,8W45,PPI interface,ok,15,36,10.0,3.22,True,31,0.24,6,0.4,2.76,True,1DVY,8W45,direct,1.0
+1Y1D_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,1,0.231,4,0.75,2.77,True,1Y1D,8W45,direct,1.0
+4HIQ_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.625,2.77,True,4HIQ,8W45,direct,1.0
+4DEU_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.267,5,0.857,2.77,True,4DEU,8W45,direct,1.0
+3CN0_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.833,2.77,True,3CN0,8W45,direct,1.0
+1THC_1,8W45,PPI interface,ok,3,36,1.0,3.19,True,31,0.188,2,0.667,2.77,True,1THC,8W45,direct,1.0
+4ACT_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,4,0.75,2.77,True,4ACT,8W45,direct,1.0
+3GS7_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.462,4,0.714,2.77,True,3GS7,8W45,direct,1.0
+3IMU_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,3IMU,8W45,direct,1.0
+3P3U_1,8W45,PPI interface,ok,10,36,1.0,3.19,True,1,0.375,4,0.7,2.77,True,3P3U,8W45,direct,1.0
+1DVT_1,8W45,PPI interface,ok,8,36,10.0,3.22,True,10,0.25,6,0.875,2.76,True,1DVT,8W45,direct,1.0
+3IMR_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.833,2.77,True,3IMR,8W45,direct,1.0
+4N86_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.667,2.77,True,4N86,8W45,direct,1.0
+3ESP_1,8W45,PPI interface,ok,10,36,1.0,3.19,True,31,0.3,4,0.6,2.77,True,3ESP,8W45,direct,1.0
+1DVX_1,8W45,PPI interface,ok,16,36,1.0,3.19,True,1,0.217,7,0.812,2.77,True,1DVX,8W45,direct,1.0
+2GAB_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.833,2.77,True,2GAB,8W45,direct,1.0
+2B16_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.462,4,0.857,2.77,True,2B16,8W45,direct,1.0
+3B56_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.833,2.77,True,3B56,8W45,direct,1.0
+3IMW_1,8W45,PPI interface,ok,9,36,1.0,3.19,True,1,0.4,4,0.667,2.77,True,3IMW,8W45,direct,1.0
+3CN4_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.714,2.77,True,3CN4,8W45,direct,1.0
+1TT6_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,1,0.308,4,0.6,2.77,True,1TT6,8W45,direct,1.0
+3FCB_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.833,2.77,True,3FCB,8W45,direct,1.0
+3D2T_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,3D2T,8W45,direct,1.0
+4IKL_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,5,0.75,2.77,True,4IKL,8W45,direct,1.0
+3ESO_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.75,2.77,True,3ESO,8W45,direct,1.0
+3CFN_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,31,0.222,3,0.667,2.77,True,3CFN,8W45,direct,1.0
+4DES_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.267,4,0.714,2.77,True,4DES,8W45,direct,1.0
+3FC8_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.75,2.77,True,3FC8,8W45,direct,1.0
+4ABV_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,4,0.75,2.77,True,4ABV,8W45,direct,1.0
+4I89_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,4I89,8W45,direct,1.0
+3CN1_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.667,2.77,True,3CN1,8W45,direct,1.0
+4IIZ_1,8W45,PPI interface,ok,3,36,1.0,3.19,True,31,0.188,2,0.667,2.77,True,4IIZ,8W45,direct,1.0
+3P3R_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.429,4,0.75,2.77,True,3P3R,8W45,direct,1.0
+2B77_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,1,0.308,4,0.8,2.77,True,2B77,8W45,direct,1.0
+3NES_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.571,2.77,True,3NES,8W45,direct,1.0
+3NEO_1,8W45,PPI interface,ok,8,36,1.0,3.19,True,1,0.333,4,0.5,2.77,True,3NEO,8W45,direct,1.0
+2B14_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.462,4,0.857,2.77,True,2B14,8W45,direct,1.0
+3KGU_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.385,4,0.833,2.77,True,3KGU,8W45,direct,1.0
+4IKI_1,8W45,PPI interface,ok,3,36,1.0,3.19,True,31,0.188,2,0.667,2.77,True,4IKI,8W45,direct,1.0
+4IKJ_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,5,0.857,2.77,True,4IKJ,8W45,direct,1.0
+3NG5_2,8W45,PPI interface,ok,7,36,,,True,15,0.2,3,0.286,,,3NG5,8W45,direct,1.0
+4IK6_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,31,0.25,2,0.75,2.77,True,4IK6,8W45,direct,1.0
+1E4H_1,8W45,PPI interface,ok,5,36,1.0,3.19,True,31,0.235,2,0.8,2.77,True,1E4H,8W45,direct,1.0
+4AC2_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.462,4,0.857,2.77,True,4AC2,8W45,direct,1.0
+4I85_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,1,0.357,4,0.857,2.77,True,4I85,8W45,direct,1.0
+3CN3_1,8W45,PPI interface,ok,4,36,1.0,3.19,True,1,0.231,3,0.75,2.77,True,3CN3,8W45,direct,1.0
+3HJ0_1,8W45,PPI interface,ok,6,36,1.0,3.19,True,1,0.286,4,0.833,2.77,True,3HJ0,8W45,direct,1.0
+4IK7_1,8W45,PPI interface,ok,7,36,1.0,3.19,True,31,0.353,2,0.571,2.77,True,4IK7,8W45,direct,1.0
+2R1R_1,8VHU,PPI interface,ok,9,92,91.0,6.05,True,91,0.22,4,0.444,2.75,True,2R1R,8VHU,direct,1.0
+3R1R_1,8VHU,inner protein,ok,11,92,9.0,2.43,True,9,0.5,2,0.0,21.5,False,3R1R,8VHU,direct,1.0
+4R1R_1,8VHU,PPI interface,ok,12,92,91.0,6.05,True,91,0.293,4,0.5,2.75,True,4R1R,8VHU,aligned,1.0
+5CNU_1,8VHU,allosteric position (unspecified),ok,9,92,90.0,4.97,True,55,0.222,6,0.778,2.8,True,5CNU,8VHU,direct,1.0
+5CNV_1,8VHU,allosteric position (unspecified),ok,10,92,9.0,2.43,True,9,0.391,2,0.0,21.5,False,5CNV,8VHU,direct,1.0
+5U1V_1,8Z0Z,allosteric position (unspecified),ok,5,73,67.0,10.11,False,4,0.077,3,1.0,2.85,True,5U1V,8Z0Z,direct,1.0
+5U1X_1,8Z0Z,allosteric position (unspecified),ok,9,73,67.0,10.11,True,16,0.15,7,1.0,2.85,True,5U1X,8Z0Z,direct,1.0
+5U1Y_1,8Z0Z,allosteric position (unspecified),ok,6,73,,,True,33,0.2,2,0.0,,,5U1Y,8Z0Z,direct,1.0
+5VDI_1,9BWC,inner protein,ok,11,146,97.0,6.66,True,32,0.25,5,0.636,3.86,True,5VDI,9BWC,direct,1.0
+5VDH_1,9BWC,inner protein,ok,11,146,97.0,6.66,True,32,0.25,5,0.636,3.86,True,5VDH,9BWC,direct,1.0
+1GZ4_1,9AYI,PPI interface,ok,8,170,,,True,16,0.364,3,0.875,,,1GZ4,9AYI,direct,1.0
+1PJ3_1,9AYI,PPI interface,ok,7,170,,,True,16,0.273,4,0.857,,,1PJ3,9AYI,aligned,1.0
+1GZ3_1,9AYI,PPI interface,ok,7,170,,,True,16,0.4,3,0.857,,,1GZ3,9AYI,direct,1.0
+1PJ4_1,9AYI,PPI interface,ok,7,170,,,True,16,0.273,4,0.857,,,1PJ4,9AYI,aligned,1.0
+1PJ2_1,9AYI,PPI interface,ok,6,170,,,True,16,0.182,4,0.833,,,1PJ2,9AYI,aligned,1.0
+5IRZ_1,3J5P,allosteric position (unspecified),ok,28,213,,,True,73,0.353,4,0.179,,,5IRZ,3J5P,direct,2.0
+4Q0A_1,9EZ2,inner protein,ok,7,32,,,True,25,0.35,4,0.571,,,4Q0A,9EZ2,direct,1.0
+6H8R_1,9EEX,allosteric position (unspecified),ok,17,15,,,True,15,0.647,4,0.0,,,6H8R,9EEX,aligned,1.0
+5WMV_1,9FOH,allosteric position (unspecified),ok,14,24,2.0,2.28,True,19,0.294,3,0.0,,,5WMV,9FOH,direct,1.0
+5WMX_1,9FOH,allosteric position (unspecified),ok,14,24,2.0,2.28,True,19,0.294,3,0.0,,,5WMX,9FOH,aligned,1.0
+5VAR_1,9GP4,allosteric position (unspecified),ok,10,8,,,True,1,0.727,2,0.0,,,5VAR,9GP4,aligned,1.0
+5NN4_1,9GTW,allosteric position (unspecified),ok,10,48,,,True,29,0.636,4,0.0,,,5NN4,9GTW,direct,1.0
+5KDT_1,9GJ1,allosteric position (unspecified),ok,13,35,1.0,9.99,True,10,0.217,3,0.538,3.17,True,5KDT,9GJ1,aligned,1.0
+5H8Q_1,9GJ1,inner protein,ok,13,35,1.0,9.99,True,10,0.217,3,0.538,3.17,True,5H8Q,9GJ1,aligned,1.0
+5H8H_1,9GJ1,inner protein,ok,13,35,1.0,9.99,True,10,0.217,3,0.538,3.17,True,5H8H,9GJ1,aligned,1.0
+5TP9_1,9GJ1,inner protein,ok,12,35,1.0,9.99,True,10,0.227,3,0.583,3.17,True,5TP9,9GJ1,aligned,1.0
+5KCJ_1,9GJ1,inner protein,ok,14,35,1.0,9.99,True,10,0.208,3,0.5,3.17,True,5KCJ,9GJ1,aligned,1.0
+5TPA_1,9GJ1,inner protein,ok,14,35,1.0,9.99,True,10,0.208,3,0.5,3.17,True,5TPA,9GJ1,aligned,1.0
+5I2N_1,9GJ1,allosteric position (unspecified),ok,12,35,1.0,9.99,True,10,0.227,3,0.583,3.17,True,5I2N,9GJ1,aligned,1.0
+3VP3_1,7SBN,PPI interface,ok,4,105,,,True,49,0.444,3,0.75,,,3VP3,7SBN,direct,3.0
+3VOZ_1,7SBN,PPI interface,ok,6,105,,,True,60,0.25,3,0.667,,,3VOZ,7SBN,aligned,3.0
+5JYP_1,7SBN,allosteric position (unspecified),ok,10,105,,,True,77,0.167,4,0.5,,,5JYP,7SBN,direct,3.0
+5JYO_1,7SBN,allosteric position (unspecified),ok,9,105,,,True,60,0.182,4,0.556,,,5JYO,7SBN,direct,3.0
+3UO9_1,7SBN,PPI interface,ok,16,105,,,True,49,0.25,8,0.625,,,3UO9,7SBN,aligned,3.0
+5WJ6_1,7SBN,blank,ok,1,105,,,True,60,0.25,3,1.0,,,5WJ6,7SBN,direct,3.0
+3VP4_1,7SBN,PPI interface,ok,4,105,,,True,49,0.444,3,0.75,,,3VP4,7SBN,direct,3.0
+3VP2_1,7SBN,PPI interface,ok,4,105,,,True,49,0.444,3,0.75,,,3VP2,7SBN,direct,3.0
+3U18_1,9JIT,PPI interface,ok,13,22,,,True,5,0.227,2,0.615,,,3U18,9JIT,aligned,1.0
+3IJJ_1,9JIT,PPI interface,ok,5,22,,,True,19,0.3,4,1.0,,,3IJJ,9JIT,aligned,1.0
+3IJG_1,9JIT,PPI interface,ok,5,22,,,True,19,0.3,4,1.0,,,3IJG,9JIT,aligned,1.0
+5I73_1,9HCO,allosteric position (unspecified),ok,33,41,1.0,0.87,True,1,0.444,7,0.0,22.18,False,5I73,9HCO,direct,1.0
+5I75_1,9HCO,allosteric position (unspecified),ok,19,41,1.0,0.87,True,1,0.244,6,0.0,22.18,False,5I75,9HCO,direct,1.0
+2BXD_1,9IK6,inner protein,ok,10,48,,,True,1,0.145,3,0.0,,,2BXD,9IK6,direct,1.0
+1E7C_1,9IK6,inner protein,ok,6,48,,,False,1,0.087,3,0.0,,,1E7C,9IK6,direct,1.0
+3LU6_1,9IK6,inner protein,ok,12,48,,,True,43,0.667,4,0.0,,,3LU6,9IK6,direct,1.0
+2BXA_1,9IK6,inner protein,ok,14,48,,,True,1,0.203,3,0.0,,,2BXA,9IK6,direct,1.0
+2BXG_1,9IK6,inner protein,ok,8,48,,,True,43,0.238,4,0.0,,,2BXG,9IK6,direct,1.0
+2BXC_1,9IK6,inner protein,ok,16,48,,,True,1,0.232,2,0.0,,,2BXC,9IK6,direct,1.0
+2BX8_1,9IK6,inner protein,ok,11,48,,,True,1,0.159,2,0.0,,,2BX8,9IK6,direct,1.0
+3LU6_2,9IK6,inner protein,ok,14,48,,,True,1,0.203,1,0.0,,,3LU6,9IK6,direct,1.0
+2BXE_2,9IK6,inner protein,ok,10,48,,,True,1,0.145,3,0.0,,,2BXE,9IK6,direct,1.0
+2BXH_1,9IK6,inner protein,ok,10,48,,,True,1,0.145,2,0.0,,,2BXH,9IK6,direct,1.0
+3LU7_1,9IK6,inner protein,ok,14,48,,,True,1,0.203,2,0.0,,,3LU7,9IK6,direct,1.0
+2BXE_1,9IK6,inner protein,ok,10,48,,,True,43,0.273,4,0.0,,,2BXE,9IK6,direct,1.0
+2BXB_1,9IK6,inner protein,ok,13,48,,,True,1,0.188,2,0.0,,,2BXB,9IK6,direct,1.0
+4M0Y_1,9NWX,inner protein,ok,14,14,2.0,7.57,True,2,0.273,3,0.0,,,4M0Y,9NWX,direct,1.0
+4M13_1,9NWX,inner protein,ok,21,14,2.0,7.57,True,2,0.256,4,0.0,,,4M13,9NWX,direct,1.0
+4M12_1,9NWX,inner protein,ok,20,14,2.0,7.57,True,2,0.231,4,0.0,,,4M12,9NWX,direct,1.0
+4M15_1,9NWX,inner protein,ok,17,14,2.0,7.57,True,2,0.25,3,0.0,,,4M15,9NWX,direct,1.0
+4M14_1,9NWX,inner protein,ok,16,14,2.0,7.57,True,2,0.257,3,0.0,,,4M14,9NWX,direct,1.0
+4M0Z_1,9NWX,inner protein,ok,17,14,2.0,7.57,True,2,0.25,3,0.0,,,4M0Z,9NWX,direct,1.0
+5LYQ_1,9QX6,allosteric position (unspecified),ok,33,18,1.0,5.77,True,1,0.543,3,0.0,8.06,False,5LYQ,9QX6,direct,1.0
+3UVV_1,9QX6,inner protein,ok,30,18,1.0,5.77,True,1,0.619,4,0.0,8.06,False,3UVV,9QX6,direct,1.0
+4UUU_1,9SHM,inner protein,ok,4,59,,,True,35,0.2,2,0.0,,,4UUU,9SHM,direct,1.0
+3P4W_1,9LBD,inner protein,ok,9,140,92.0,8.82,True,92,0.267,4,0.0,5.68,False,3P4W,9LBD,direct,1.0
+3P50_1,9LBD,inner protein,ok,7,140,92.0,8.82,True,92,0.417,2,0.0,5.68,False,3P50,9LBD,direct,1.0
+4F8H_1,9LBD,PPI interface,ok,8,140,,,True,101,0.533,3,0.5,,,4F8H,9LBD,direct,1.0
+5HCJ_1,9LBD,allosteric position (unspecified),ok,2,140,,,False,1,0.0,0,1.0,,,5HCJ,9LBD,direct,1.0
+5HCM_1,9LBD,allosteric position (unspecified),ok,2,140,,,False,1,0.0,0,1.0,,,5HCM,9LBD,direct,1.0
+5MUO_1,9LBD,allosteric position (unspecified),ok,4,140,,,False,36,0.091,1,1.0,,,5MUO,9LBD,direct,1.0
+5MUR_1,9LBD,allosteric position (unspecified),ok,18,140,92.0,8.82,True,92,0.556,6,0.056,5.68,False,5MUR,9LBD,direct,1.0
+5MVN_1,9LBD,allosteric position (unspecified),ok,14,140,92.0,8.82,True,92,0.412,7,0.0,5.68,False,5MVN,9LBD,direct,1.0
+5MZQ_1,9LBD,allosteric position (unspecified),ok,12,140,92.0,8.82,True,92,0.375,6,0.0,5.68,False,5MZQ,9LBD,direct,1.0
+6EMX_1,9LBD,allosteric position (unspecified),ok,13,140,92.0,8.82,True,92,0.438,6,0.0,5.68,False,6EMX,9LBD,direct,1.0
+5YVE_1,9UX4,allosteric position (unspecified),ok,12,97,,,True,45,0.227,5,0.667,,,5YVE,9UX4,direct,1.0
+5E84_1,9H0C,allosteric position (unspecified),ok,37,28,,,True,15,0.463,9,0.0,,,5E84,9H0C,direct,3.0
+2A68_1,9UKS,PPI interface,ok,13,227,,,True,123,0.235,4,0.154,,,2A68,9UKS,direct,1.0
+2A69_1,9UKS,PPI interface,ok,15,227,,,True,123,0.278,5,0.133,,,2A69,9UKS,direct,1.0
+4OIR_1,9UKS,PPI interface,ok,17,227,,,True,36,0.148,6,0.176,,,4OIR,9UKS,direct,1.0
+3VGA_1,9XQB,PPI interface,ok,1,38,,,False,1,0.0,0,0.0,,,3VGA,9XQB,aligned,1.0
+3VG9_1,9XQB,PPI interface,ok,1,38,,,False,1,0.0,0,0.0,,,3VG9,9XQB,aligned,1.0
+5URJ_1,6S8Q,inner protein,ok,29,138,,,True,137,0.432,7,0.0,,,5URJ,6S8Q,direct,2.0
+5URK_1,6S8Q,inner protein,ok,28,138,,,True,137,0.476,7,0.0,,,5URK,6S8Q,direct,2.0
+4DQW_1,6GJV,inner protein,ok,3,221,,,True,163,0.125,4,1.0,,,4DQW,6GJV,direct,2.0
+3ETE_2,7VDA,inner protein,ok,11,197,,,True,169,0.353,4,0.0,,,3ETE,7VDA,direct,2.0
+3ETG_2,7VDA,inner protein,ok,12,197,,,True,169,0.333,5,0.0,,,3ETG,7VDA,direct,2.0
+6DHD_1,7VDA,inner protein,ok,11,197,,,True,169,0.353,5,0.0,,,6DHD,7VDA,direct,2.0
+6DHM_1,7VDA,inner protein,ok,12,197,,,True,169,0.412,5,0.0,,,6DHM,7VDA,direct,2.0
+4QBY_1,1RYP,PPI interface,ok,5,482,,,True,259,0.3,5,0.8,,,4QBY,1RYP,aligned,1.0
