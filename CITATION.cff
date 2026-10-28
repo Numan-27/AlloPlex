@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use AlloPlex, please cite it as below."
+title: "AlloPlex: allosteric site prediction across protein-protein interaction complexes"
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+authors:
+  - family-names: "Yousaf"
+    given-names: "Numan"
+repository-code: "https://github.com/Numan-27/AlloPlex"

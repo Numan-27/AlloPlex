@@ -1,0 +1,17 @@
+name: alloplex
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - fpocket=4.0
+  - pip
+  - pip:
+      - torch==2.6.0
+      - fair-esm
+      - gemmi
